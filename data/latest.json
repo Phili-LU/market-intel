@@ -1,0 +1,321 @@
+{
+  "updated_at": "2026-04-20T11:32:57.646531+08:00",
+  "market_sentiment": {
+    "score": 58,
+    "label": "偏多",
+    "summary": "AI與半導體供應鏈持續擴張，科技股氛圍偏樂觀，但資安風險值得關注"
+  },
+  "key_prices": {
+    "BTC": {
+      "price": 74526,
+      "change": -1.36
+    },
+    "ETH": {
+      "price": 2281.16,
+      "change": -2.62
+    },
+    "SOL": {
+      "price": 84.39,
+      "change": -1.53
+    }
+  },
+  "articles": [
+    {
+      "title": "Mythos 能力強大但暗藏網攻風險  資安需求升級",
+      "url": "https://infosecu.technews.tw/2026/04/20/mythos-powerful-capabilities-drive-cybersecurity-upgrade-demand/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T11:30:53+08:00",
+      "description": "Anthropic 尚未正式發布的新模型「Claude Mythos」功能強大，但也存在被利用來發動網攻的隱患 [&#8230;]",
+      "claude_summary": "Anthropic未發布新模型Mythos功能強大，但具備發動網路攻擊的潛在風險，資安防護需求隨之提升。此議題引發業界對AI安全性的高度關注。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "AI安全風險升溫，資安概念股值得留意"
+    },
+    {
+      "title": "打破 App 高牆！軟銀獨賣 Natural AI Phone，一鍵啟動全能 AI 代理",
+      "url": "https://technews.tw/2026/04/20/softbank-brain-technologies-natural-ai-phone/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T11:10:47+08:00",
+      "description": "美國新創公司 Brain Technologies 開發的「Natural AI Phone」將於 4 月 2 [&#8230;]",
+      "claude_summary": "美國新創Brain Technologies與軟銀合作推出Natural AI Phone，主打全能AI代理功能，挑戰傳統App生態。此舉對手機AI應用市場帶來新競爭格局。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [
+        "AAPL"
+      ],
+      "claude_takeaway": "AI手機競爭加劇，蘋果生態系面臨新挑戰"
+    },
+    {
+      "title": "英國創新科技大臣肯德爾：我在工作中不依賴人工智慧",
+      "url": "https://technews.tw/2026/04/20/ai-minister-kendall-says-she-doesnt-use-ai-at-work/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T11:00:43+08:00",
+      "description": "英國創新科技大臣利茲·肯德爾（Liz Kendall）近日在接受 BBC 廣播 5 台與《新聞之夜》（News [&#8230;]",
+      "claude_summary": "英國科技大臣公開表示工作中不依賴AI，引發外界對政府AI採用立場的討論。此言論反映部分政策制定者對AI仍保持審慎態度。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "政府對AI應用態度分歧，監管政策方向仍不明朗"
+    },
+    {
+      "title": "用水就能煮飯？氫能爐標榜省電六倍，但餓死都還沒煮好",
+      "url": "https://technews.tw/2026/04/20/cooking-with-water/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:56:40+08:00",
+      "description": "印度綠能新創 GreenVize Energy Solutions 近期推出一款氫能烹飪設備，宣稱僅需約 1k [&#8230;]",
+      "claude_summary": "印度新創推出氫能烹飪設備，宣稱省電六倍，但實際烹飪速度過慢，實用性存疑。綠能新創技術落地仍面臨重大挑戰。",
+      "claude_sentiment": "negative",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "氫能應用商業化進程緩慢，投資需謹慎評估"
+    },
+    {
+      "title": "其實蘋果早就預告了 iOS 27 新 Siri 介面？",
+      "url": "https://technews.tw/2026/04/20/ios-27-siri/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:55:35+08:00",
+      "description": "蘋果今年 WWDC 的主視覺，可能不只是活動宣傳圖而已。據《彭博社》記者 Mark Gurman 最新說法，蘋 [&#8230;]",
+      "claude_summary": "彭博記者Gurman透露，蘋果今年WWDC主視覺可能預示iOS 27全新Siri介面設計。蘋果AI功能升級預期持續發酵，有助提振市場信心。",
+      "claude_sentiment": "positive",
+      "claude_impact": "low",
+      "claude_affected_assets": [
+        "AAPL"
+      ],
+      "claude_takeaway": "蘋果Siri介面大改版預期升溫，WWDC值得關注"
+    },
+    {
+      "title": "楊立昆、李飛飛兩大先驅領軍募資，世界模型狂掃 10 億美元",
+      "url": "https://technews.tw/2026/04/20/world-labs-ami-labs-world-models/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:50:32+08:00",
+      "description": "人工智慧（AI）領域近月掀起一波「世界模型」（World Models）熱潮。由 AI 先驅楊立昆（Yann  [&#8230;]",
+      "claude_summary": "AI先驅楊立昆與李飛飛領軍的「世界模型」新創合計募資逾10億美元，顯示資本市場對下一代AI架構高度看好。此熱潮可望帶動相關AI基礎設施需求。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "NVDA",
+        "META"
+      ],
+      "claude_takeaway": "世界模型募資熱潮，AI基礎設施需求持續擴大"
+    },
+    {
+      "title": "線材隨風飄搖，烏軍影片曝俄羅斯 Shahed 無人機品管全面崩壞",
+      "url": "https://technews.tw/2026/04/20/russian-shaheds-are-having-qc-problems/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:43:44+08:00",
+      "description": "烏克蘭無人機作戰團隊「野黃蜂」（Wild Hornets）近日釋出一段由「刺針」（Sting）攔截無人機拍下的 [&#8230;]",
+      "claude_summary": "烏軍影片顯示俄羅斯Shahed無人機出現品管問題，內部線材脫落，反映戰時生產品質壓力。地緣政治衝突持續，對能源及國防相關市場仍有影響。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "地緣衝突持續，能源與防衛類資產波動風險仍存"
+    },
+    {
+      "title": "三星德州泰勒廠本週將進行裝機典禮，準備以 2 奈米製程生產特斯拉下訂晶片",
+      "url": "https://technews.tw/2026/04/20/samsungs-taylor-plant-in-texas-will-hold-an-assembly-ceremony-this-week/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:40:18+08:00",
+      "description": "根據韓國媒體報導，三星位於美國德州泰勒市（Taylor）的晶圓代工廠即將正式啟用，並將使用先進的 2 奈米製程 [&#8230;]",
+      "claude_summary": "三星德州泰勒廠本週啟動裝機典禮，將以2奈米製程生產特斯拉訂製晶片，標誌三星先進製程量產進入新階段。此消息對台積電競爭格局有一定影響。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "台積電",
+        "TSLA"
+      ],
+      "claude_takeaway": "三星2奈米廠啟動，台積電先進製程競爭壓力微增"
+    },
+    {
+      "title": "iPhone 18 Pro 揭曉新顏色：宇宙橙將被深櫻桃取代",
+      "url": "https://technews.tw/2026/04/20/new-colors-for-iphone-18-pro-revealed/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:40:11+08:00",
+      "description": "蘋果（Apple）即將推出的 iPhone 18 Pro 顏色陣容引發關注，尤其是對於備受喜愛的宇宙橙（Cos [&#8230;]",
+      "claude_summary": "iPhone 18 Pro預計以深櫻桃色取代宇宙橙，顏色更迭為例行產品換新訊號。對蘋果整體銷售影響有限，屬產品週期常規消息。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [
+        "AAPL"
+      ],
+      "claude_takeaway": "iPhone 18 Pro新色曝光，對蘋果股價實質影響有限"
+    },
+    {
+      "title": "本地端 AI 需求高漲，蘋果新商業模式成型？",
+      "url": "https://technews.tw/2026/04/20/local-ai-could-apple/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:33:48+08:00",
+      "description": "隨著本地端 AI 應用需求快速升高，市場開始出現一種有趣的新現象，蘋果的 Apple Silicon 的優勢將 [&#8230;]",
+      "claude_summary": "本地端AI需求快速升溫，蘋果Apple Silicon在效能與隱私上的優勢有望形成新商業模式，吸引企業端採用。此趨勢有助蘋果開拓AI硬體新營收來源。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "AAPL"
+      ],
+      "claude_takeaway": "本地AI浪潮助攻蘋果Silicon商業化，長線利多"
+    },
+    {
+      "title": "馬斯克倡全民高收入應對 AI 失業，專家建議優先技能再培訓",
+      "url": "https://technews.tw/2026/04/20/elon-musk-says-government-checks-are-the-best-way-to-deal-with-ai-job-losses/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:30:20+08:00",
+      "description": "特斯拉（Tesla）與 SpaceX 執行長馬斯克（Elon Musk）於 4 月 17 日在 X 發文表示， [&#8230;]",
+      "claude_summary": "馬斯克呼籲以全民高收入應對AI造成的失業問題，但專家建議應優先推動技能再培訓。AI對就業市場的衝擊議題持續引發社會討論。",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [
+        "TSLA"
+      ],
+      "claude_takeaway": "AI失業議題升溫，政策走向可能影響科技業監管環境"
+    },
+    {
+      "title": "黃仁勳：DeepSeek 若先搭載華為晶片，美將處於劣勢",
+      "url": "https://technews.tw/2026/04/20/nvidias-jensen-huang-warns-huawei-chips-for-deepseek-ai-models-would-be-horrible-for-us/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:20:44+08:00",
+      "description": "綜合港媒及中媒報導，輝達（Nvidia）執行長黃仁勳近日接受外媒訪問時表示，如果中國大模型 DeepSeek（ [&#8230;]",
+      "claude_summary": "黃仁勳警告，若DeepSeek優先搭載華為晶片，美國AI產業將處於競爭劣勢，呼籲重視出口管制政策。此言論凸顯AI晶片地緣政治角力持續升溫。",
+      "claude_sentiment": "negative",
+      "claude_impact": "high",
+      "claude_affected_assets": [
+        "NVDA"
+      ],
+      "claude_takeaway": "黃仁勳示警中美AI晶片競賽，出口管制政策風險需追蹤"
+    },
+    {
+      "title": "森崴能源離岸風電案迎轉機，台電同意支付約 55 億元",
+      "url": "https://technews.tw/2026/04/20/offshore-wind-make-profit/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:17:10+08:00",
+      "description": "森崴能源 17 日代子公司富崴能源發布重大訊息指出，針對承攬台電「離岸風力發電第二期計畫－風場財物採購及安裝案 [&#8230;]",
+      "claude_summary": "台電同意支付森崴能源子公司富崴能源約55億元，解決離岸風電採購安裝案爭議，為森崴帶來重大財務轉機。此事件對台灣離岸風電產業鏈具正面示範意義。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [],
+      "claude_takeaway": "離岸風電糾紛獲解，台灣綠能產業鏈資金回流利多"
+    },
+    {
+      "title": "Cadence 與 NVIDIA 擴大合作，藉代理 AI 與數位孿生重塑半導體與 AI 工廠設計",
+      "url": "https://technews.tw/2026/04/20/cadence-and-nvidia-expand-strategic-partnership/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:15:36+08:00",
+      "description": "在近日舉行的 CadenceLIVE Silicon Valley 2026 大會上，EDA 大廠 Caden [&#8230;]",
+      "claude_summary": "Cadence與NVIDIA擴大戰略合作，整合代理AI與數位孿生技術，共同重塑半導體及AI工廠設計流程。此合作有望加速AI驅動的EDA工具普及。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "NVDA"
+      ],
+      "claude_takeaway": "NVIDIA擴展EDA合作版圖，AI設計工具生態持續壯大"
+    },
+    {
+      "title": "SK 海力士量產 192GB SOCAMM2  專供輝達 Vera Rubin",
+      "url": "https://technews.tw/2026/04/20/sk-hynix-begins-mass-production-of-192gb-socamm2/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:10:40+08:00",
+      "description": "韓系記憶體大廠 SK 海力士（SK hynix）19 日宣布，已開始量產新一代 AI 伺服器記憶體模組，專供  [&#8230;]",
+      "claude_summary": "SK海力士宣布量產192GB SOCAMM2記憶體模組，專供NVIDIA下一代Vera Rubin平台使用。此舉確認NVIDIA新架構供應鏈成形，AI記憶體需求持續旺盛。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "NVDA"
+      ],
+      "claude_takeaway": "SK海力士SOCAMM2量產，NVIDIA Vera Rubin平台供應鏈確立"
+    },
+    {
+      "title": "AI PCB 設計升級！台光電、台燿、金像電、臻鼎、聯茂外資目標價一次看",
+      "url": "https://finance.technews.tw/2026/04/20/ai-pcb-design/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:03:29+08:00",
+      "description": "隨著 AI 伺服器與數據中心對高階材料的規格要求，外資最新報告指出，受惠於雲端服務供應商（CSP）急於搶占產能 [&#8230;]",
+      "claude_summary": "外資報告指出，AI伺服器與數據中心帶動高階PCB材料需求急增，台光電、台燿、金像電等廠商獲外資上調目標價。AI基礎設施建置熱潮持續惠及台灣PCB材料供應鏈。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "廣達",
+        "鴻海"
+      ],
+      "claude_takeaway": "AI伺服器帶動PCB材料升級需求，外資看好相關供應鏈"
+    },
+    {
+      "title": "美 ITC 裁定 Apple Watch 血氧功能未侵權，進口禁令解除",
+      "url": "https://technews.tw/2026/04/20/apple-avoids-a-second-import-ban-for-its-redesigned-smartwatches-in-latest-court-ruling/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T10:00:58+08:00",
+      "description": "根據美國國際貿易委員會（ITC）的最新裁決，蘋果為其重新設計的智慧手錶贏得了重大勝利，ITC 決定不再恢復對  [&#8230;]",
+      "claude_summary": "美國ITC裁定蘋果重新設計的Apple Watch血氧功能未構成侵權，進口禁令正式解除。此裁決消除蘋果Watch系列的重大法律不確定性，屬正面消息。",
+      "claude_sentiment": "positive",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "AAPL"
+      ],
+      "claude_takeaway": "Apple Watch侵權疑慮解除，蘋果穿戴裝置銷售障礙掃清"
+    },
+    {
+      "title": "戰爭影響難消  美汽油價 3 美元以上恐持續至 2027 年",
+      "url": "https://finance.technews.tw/2026/04/20/gas-prices-may-not-drop-below-3-a-gallon-until-next-year/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T09:50:49+08:00",
+      "description": "4 月 7 日，川普宣布與伊朗達成為期兩週的停火協議，但後續局勢變化莫測，支撐油價維持高檔。美國能源部長萊特（ [&#8230;]",
+      "claude_summary": "美國能源部長預期汽油價格將因地緣政治因素維持在3美元以上至2027年，通膨壓力難以消退。持續高油價可能影響Fed降息時程預期。",
+      "claude_sentiment": "negative",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "SPY",
+        "QQQ"
+      ],
+      "claude_takeaway": "油價高位持續至2027年，通膨壓力恐延後Fed降息時程"
+    },
+    {
+      "title": "自己吸收扛不住了！信越化學預計 5 月起全系列 Silicone 產品調漲 10%",
+      "url": "https://finance.technews.tw/2026/04/20/shin-etsu-chemical-expects-to-raise-prices-by-10-across-its-entire-silicone-product-line-starting-in-may/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-20T09:50:44+08:00",
+      "description": "近期半導體漲價的風潮，終於也延伸到材料上面！根據最新消息，日本化學材料大廠信越化學工業株式會社在日前正式地發布 [&#8230;]",
+      "claude_summary": "日本信越化學宣布5月起全系列矽膠產品調漲10%，成本壓力蔓延至半導體材料層面。漲價效應可能逐步傳導至下游半導體及電子製造商。",
+      "claude_sentiment": "negative",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "台積電",
+        "聯電"
+      ],
+      "claude_takeaway": "矽膠材料漲價10%，半導體製造成本壓力持續上升"
+    },
+    {
+      "title": "Hack at Vercel sends crypto developers scrambling to lock down API keys",
+      "url": "https://www.coindesk.com/tech/2026/04/20/hack-at-vercel-sends-crypto-developers-scrambling-to-lock-down-api-keys",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-20T09:47:28+08:00",
+      "description": "Breach tied to compromised AI tool may have exposed credentials used by app frontends, the user-facing layer that connects web3 wallets and trading interfaces to backend services.",
+      "claude_summary": "Vercel平台遭駭，與受攻擊的AI工具相關，可能導致Web3開發者的API金鑰及前端憑證外洩，威脅加密貨幣錢包與交易介面安全。此事件對加密生態系資安信心造成衝擊。",
+      "claude_sentiment": "negative",
+      "claude_impact": "medium",
+      "claude_affected_assets": [
+        "BTC",
+        "ETH",
+        "SOL"
+      ],
+      "claude_takeaway": "Vercel資安事件波及Web3開發者，加密資產持有者應立即檢查API金鑰"
+    }
+  ]
+}

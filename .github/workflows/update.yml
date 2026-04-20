@@ -1,0 +1,40 @@
+name: Update Market Intelligence
+
+on:
+  schedule:
+    # 每 6 小時跑一次（UTC 時間）
+    # 00:30 / 06:30 / 12:30 / 18:30 UTC = 08:30 / 14:30 / 20:30 / 02:30 TST
+    - cron: '30 0,6,12,18 * * *'
+  workflow_dispatch:   # 允許手動觸發
+
+permissions:
+  contents: write      # 讓 Actions 可以 commit 回 repo
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run fetch & analyze
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_analyze.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json
+          git diff --staged --quiet || git commit -m "chore: update market data $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phili Market Intelligence</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- ── Nav ── -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="#" class="nav-brand">
+      <span class="nav-dot"></span>
+      Market Intel
+    </a>
+    <div class="nav-right">
+      <span class="nav-tag">by Phili Lu</span>
+      <a href="../phili-site/index.html" class="nav-back">← 個人網站</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ── Hero ── -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-pulse" id="hero-pulse">
+      <div class="pulse-ring"></div>
+      <div class="pulse-score" id="pulse-score">—</div>
+    </div>
+    <div class="hero-text">
+      <h1 class="hero-title">Market Pulse</h1>
+      <p class="hero-sentiment" id="hero-sentiment-label">載入中…</p>
+      <p class="hero-summary"  id="hero-summary">—</p>
+    </div>
+    <div class="hero-prices" id="hero-prices">
+      <!-- 幣價卡片動態載入 -->
+    </div>
+  </div>
+  <div class="hero-updated">
+    最後更新：<span id="updated-at">—</span>
+    <button class="refresh-btn" onclick="loadData()">↻ 刷新</button>
+  </div>
+</section>
+
+<!-- ── Filter ── -->
+<div class="filter-bar">
+  <div class="filter-inner">
+    <button class="filter-btn active" data-cat="all"       onclick="setFilter('all')">全部</button>
+    <button class="filter-btn"        data-cat="tw_stocks" onclick="setFilter('tw_stocks')">🇹🇼 台股</button>
+    <button class="filter-btn"        data-cat="us_stocks" onclick="setFilter('us_stocks')">🇺🇸 美股</button>
+    <button class="filter-btn"        data-cat="crypto"    onclick="setFilter('crypto')">🪙 幣圈</button>
+    <button class="filter-btn"        data-cat="startup"   onclick="setFilter('startup')">🚀 新創</button>
+  </div>
+</div>
+
+<!-- ── News Grid ── -->
+<main class="main">
+  <div class="news-grid" id="news-grid">
+    <!-- 骨架屏 -->
+    <div class="skeleton"></div>
+    <div class="skeleton"></div>
+    <div class="skeleton"></div>
+    <div class="skeleton skeleton-tall"></div>
+    <div class="skeleton"></div>
+    <div class="skeleton skeleton-tall"></div>
+  </div>
+  <div class="empty-state" id="empty-state" style="display:none">
+    <p>這個分類目前沒有文章</p>
+  </div>
+</main>
+
+<!-- ── Footer ── -->
+<footer class="footer">
+  <div class="footer-inner">
+    <p>
+      <strong>Phili Market Intelligence</strong> ·
+      由 Claude AI 自動分析 ·
+      每 6 小時更新
+    </p>
+    <p class="footer-disclaimer">
+      以上內容為 AI 自動生成，僅供參考，不構成投資建議。
+    </p>
+    <p>
+      <a href="https://github.com/Phili-LU" target="_blank" rel="noopener">GitHub</a> ·
+      <a href="../phili-site/index.html">呂少文 Phili</a>
+    </p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
