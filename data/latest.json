@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T11:37:20.704462+08:00",
+  "updated_at": "2026-04-25T15:50:33.702726+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77601,
-      "change": -0.13
+      "price": 77530,
+      "change": -0.25
     },
     "ETH": {
-      "price": 2317.34,
-      "change": 0.49
+      "price": 2316.37,
+      "change": 0.07
     },
     "SOL": {
-      "price": 86.35,
-      "change": 1.05
+      "price": 86.37,
+      "change": 1.04
     }
   },
   "articles": [
+    {
+      "title": "搭載戰斧飛彈與垂發系統，洛馬和 Saildrone 合作推出 52 公尺「幽靈」無人艦",
+      "url": "https://technews.tw/2026/04/25/saildrone-and-lockheed-martin-colleb-on-new-spectre-musv-with-vls/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-25T15:01:22+08:00",
+      "description": "美國海軍正加速推進無人艦隊建軍，無人載具製造商 Saildrone 近期攜手國防巨頭洛克希德馬丁與義大利造船廠 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "裁員潮與 AI 衝擊雙管齊下，全球逾四成遊戲開發者萌生退意",
+      "url": "https://technews.tw/2026/04/25/ai-in-game-development-what-it-means-for-developers-in-2026/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-25T15:00:50+08:00",
+      "description": "全球遊戲開發者陷入前所未有職業危機，招聘機構 Skillsearch 最新調查顯示 44% 受訪遊戲從業者因持 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "卡西歐推出搭載心率監測與潮汐圖功能的 G-SHOCK 腕表",
+      "url": "https://technews.tw/2026/04/25/casio-g-shock-gbx-h5600/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-25T14:00:01+08:00",
+      "description": "卡西歐計算機株式會社（Casio Computer Co., Ltd.）宣佈，旗下防震腕表品牌 G-SHOCK [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ripple-linked XRP stalls near $1.44 as 'triangle squeeze' nears breakout",
+      "url": "https://www.coindesk.com/markets/2026/04/25/ripple-linked-xrp-stalls-near-usd1-44-as-triangle-squeeze-nears-breakout",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T13:33:20+08:00",
+      "description": "Price holds in tight range after high-volume move, with compression signaling a decisive move as institutional demand quietly builds.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "蘋果地圖全新升級！F1 邁阿密站上線沉浸式體驗，讓你觀賽更便利",
+      "url": "https://technews.tw/2026/04/25/apple-maps-adds-in-depth-f1-experience-for-miami-grand-prix/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-25T13:00:01+08:00",
+      "description": "今年 F1 賽季開始，蘋果地圖推出全新沉浸式體驗，提供詳細賽道資訊和 3D 地標。蘋果從 F1 今年第一站澳洲 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "為何長壽基因輸給繁殖力？鵪鶉實驗解答演化的殘酷優先順序",
+      "url": "https://technews.tw/2026/04/25/birds-that-invest-more-energy-into-parenthood-age-faster-and-die-younger/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-25T12:00:10+08:00",
+      "description": "生物演化中存在一項殘酷的權衡：生物該將有限的資源投入繁殖，還是用於維持自身機體？一項由艾希特大學（Univer [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
       "url": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
@@ -196,84 +274,6 @@
       "category": "crypto",
       "published_at": "2026-04-25T06:09:13+08:00",
       "description": "The federal regulator has been suing states that seek to curtail prediction markets activity and claim it should be deemed state-regulated gaming.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
-      "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-04-25T05:55:00+08:00",
-      "description": "The hard fork will introduce a new, competing layer-1 blockchain and seven layer-2 scaling networks, according to Sztorc's announcement.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Cohere acquires, merges with Germany-based startup to create a ‘transatlantic AI powerhouse’",
-      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-04-25T05:35:30+08:00",
-      "description": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for businesses and governments.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Top memecoin holders expected to attend Trump luncheon",
-      "url": "https://cointelegraph.com/news/tron-justin-sun-donald-trump-memecoin-lunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-04-25T05:17:45+08:00",
-      "description": "The US President has confirmed his attendance for the Florida event, but it's unclear whether Tron founder Justin Sun, suing the Trump family's crypto business, will appear.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-04-25T05:05:59+08:00",
-      "description": "Series, a social networking app that's grown popular on college campuses, announced a $5.1 million pre-seed round from some big names in tech.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
-      "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-04-25T05:04:46+08:00",
-      "description": "Strong earnings season trumps geopolitical risks for now, one trader said, as equities and crypto markets \"stopped caring\" about Iran war headlines.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Meta’s loss is Thinking Machines’ gain",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-04-25T04:52:07+08:00",
-      "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
