@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T15:50:33.702726+08:00",
+  "updated_at": "2026-04-25T21:42:28.107937+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77530,
-      "change": -0.25
+      "price": 77633,
+      "change": -0.7
     },
     "ETH": {
-      "price": 2316.37,
-      "change": 0.07
+      "price": 2316.92,
+      "change": -0.21
     },
     "SOL": {
-      "price": 86.37,
-      "change": 1.04
+      "price": 86.61,
+      "change": 0.48
     }
   },
   "articles": [
+    {
+      "title": "Europe’s banks are going all in on crypto",
+      "url": "https://www.coindesk.com/opinion/2026/04/25/europe-s-banks-are-going-all-in-on-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T21:30:00+08:00",
+      "description": "Brahimi explores the impact of European banks' integration of digital assets into their existing brokerage and payments infrastructure in the wake of MiCA.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Coinbase’s Jesse Pollak says AI agents are the next big wave for crypto payments",
+      "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T21:00:00+08:00",
+      "description": "Pollak, who will be speaking at Consensus Miami 2026 next month, also sees the open-source protocol x402 as a key part of that wave.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin traders eye $73K next as weekly trend line holds price hostage",
+      "url": "https://cointelegraph.com/markets/bitcoin-traders-eye-73k-next-weekly-trend-line-holds-price-hostage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T20:22:17+08:00",
+      "description": "Bitcoin market participants favored a short-term return to $73,000 as resistance stayed in place, with some analysis seeing even lower levels.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kalshi, Polymarket among 27 prediction platforms banned in Brazil",
+      "url": "https://cointelegraph.com/news/kalshi-polymarket-among-27-prediction-platforms-banned-in-brazil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T18:51:27+08:00",
+      "description": "Brazil has blocked 27 prediction market platforms, including Kalshi and Polymarket, as new rules classify many contracts as gambling.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi’s",
+      "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T18:00:00+08:00",
+      "description": "Can a network without formal governance coordinate the biggest cryptographic migration in its history?",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day",
+      "url": "https://cointelegraph.com/markets/xrp-price-may-rise-30-as-exchange-outflows-hit-nearly-35m-tokens-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T16:55:43+08:00",
+      "description": "Recent XRP outflow spikes have often come before short-term price rallies, signaling a potential move higher in May if the pattern repeats.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Spot Bitcoin ETFs see 9-day inflow streak as investors show resilience",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-9-day-inflow-streak-as-investors-show-resilience?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-25T16:35:46+08:00",
+      "description": "US spot Bitcoin ETFs recorded $2.12 billion in inflows over nine days, signaling growing conviction among investors.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "搭載戰斧飛彈與垂發系統，洛馬和 Saildrone 合作推出 52 公尺「幽靈」無人艦",
       "url": "https://technews.tw/2026/04/25/saildrone-and-lockheed-martin-colleb-on-new-spectre-musv-with-vls/",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-04-25T10:00:55+08:00",
       "description": "台積電 2026 年第一季稅後純益達 5,724.8 億元，年增 58.3%，毛利率、營益率雙雙創歷史新高── [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "一般版 iPhone 18 至少會有一項 Pro 升級",
-      "url": "https://technews.tw/2026/04/25/basic-iphone-18/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-25T09:50:19+08:00",
-      "description": "早先就有傳聞指稱，一般版的 iPhone 18 系列雖傳出不會如往年一樣在秋季發表，而是延後到 2027 年初 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "隱私與速度雙提升，人工智慧移師桌電？",
-      "url": "https://technews.tw/2026/04/25/the-ai-apps-are-coming-for-your-pc/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-25T09:30:29+08:00",
-      "description": "人工智慧（AI）技術的迅速發展，AI 應用軟體正逐漸從雲端與行動裝置轉向桌上型電腦，這項趨勢正在改變使用者的工 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "日本安保政策歷史性轉捩點，解禁殺傷性軍備出口的背後盤算",
-      "url": "https://technews.tw/2026/04/25/japan-opens-arms-exports-to-overseas-markets/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-25T09:00:25+08:00",
-      "description": "根據《財訊》雙週刊報導，日本政府 21 日決定撤銷具殺傷能力軍事裝備出口的限制，未來能和其他國家互通裝備，提升 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 衛星追蹤全球浮游藻華，海洋環境利大型藻類生長",
-      "url": "https://technews.tw/2026/04/25/algal-blooms/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-25T08:30:21+08:00",
-      "description": "研究團隊利用人工智慧（AI）與衛星影像，首次完成全球浮游藻類分布分析，發現世界各大洋的浮游藻華（Algal b [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電最高機密？以方代圓產能倍增，面板封裝定義未來",
-      "url": "https://technews.tw/2026/04/25/tsmcs-top-secret/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-25T08:00:00+08:00",
-      "description": "摩爾定律逼近盡頭，封裝接管霸權。當英特爾、三星以傾國之力抄近路突圍，台積電回防祭出次世代面板級封裝 CoPoS [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "US authorities freeze $344M in crypto linked to Iran",
-      "url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-04-25T07:16:10+08:00",
-      "description": "The announced crypto freeze came just one day after Tether said it had frozen $344 million of its USDt stablecoin in response to a request from US law enforcement.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
-      "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-04-25T06:09:13+08:00",
-      "description": "The federal regulator has been suing states that seek to curtail prediction markets activity and claim it should be deemed state-regulated gaming.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
