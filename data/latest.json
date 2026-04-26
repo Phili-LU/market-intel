@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T12:00:05.193727+08:00",
+  "updated_at": "2026-04-26T15:58:05.713684+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77411,
-      "change": -0.32
+      "price": 78104,
+      "change": 0.71
     },
     "ETH": {
-      "price": 2310.12,
-      "change": -0.38
+      "price": 2331.79,
+      "change": 0.6
     },
     "SOL": {
-      "price": 85.96,
-      "change": -0.58
+      "price": 86.59,
+      "change": 0.21
     }
   },
   "articles": [
+    {
+      "title": "助 Anthropic 擴充算力，Google 承諾挹注資金上看 400 億美元",
+      "url": "https://finance.technews.tw/2026/04/26/google-plans-to-invest-up-to-40-billion-in-anthropic/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-26T15:19:34+08:00",
+      "description": "Google 母公司 Alphabet 對 Anthropic 加碼投資多達 400 億美元，雙方在全球 AI [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "獨垃垃不如眾垃垃！「上街撿垃圾」成紐約最熱門運動，志工：為什麼這東西會出現在街上",
+      "url": "https://technews.tw/2026/04/26/picking-up-trash-becomes-new-york-hottest-fitness-trend/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-26T15:00:09+08:00",
+      "description": "紐約的夜幕逐漸降臨，城市裡的酒吧、夜店逐漸喧鬧，不過，有一群年輕人反而放下啤酒，走出戶外，開啟一場紐約時下最紅 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Skymizer Taiwan 發表突破性架構，單卡實現超大型 LLM 推論",
+      "url": "https://technews.tw/2026/04/26/skymizer-htx301/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-26T14:00:11+08:00",
+      "description": "於 COMPUTEX 2026 展前，AI 推論解決方案先驅 Skymizer Taiwan（臺灣發展軟體科技 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "養殖海產病毒入侵人體，中國頻傳新眼疾",
+      "url": "https://technews.tw/2026/04/26/a-virus-from-farmed-seafood-is-causing-a-new-eye-disease-in-people/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-26T13:00:16+08:00",
+      "description": "一種原本僅危害蝦類的病毒，如今證實會感染人類並引發嚴重眼疾。3 月發表於《自然微生物學》期刊研究指出，「隱蔽性 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美國務院示警 AI 模型遭竊取智財，點名 DeepSeek 等中國公司",
+      "url": "https://technews.tw/2026/04/26/us-warns-of-alleged-ai-theft-by-deepseek-and-other-chinese-firms/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-26T12:19:02+08:00",
+      "description": "根據《路透社》所看到的一份外交電報顯示，包括 DeepSeek 在內的中國公司，大規模從美國先進 AI 實驗室 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "超級電腦精算地球「氧氣到期日」，複雜生物將因窒息死亡",
+      "url": "https://technews.tw/2026/04/26/earth-oxygen-to-disappear-in-one-billion-years/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-04-26T12:00:40+08:00",
+      "description": "東邦大學研究人員尾﨑和海（Kazumi Ozaki）與喬治亞理工學院教授 Christopher T. Rei [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "AI 虛擬人物將操控選舉輿論，民主面臨新挑戰",
       "url": "https://technews.tw/2026/04/26/ai-swarm-technology-will-manipulate-election-propaganda/",
@@ -196,84 +274,6 @@
       "category": "crypto",
       "published_at": "2026-04-26T03:00:00+08:00",
       "description": "Alchemy CEO Nikil Viswanathan argues the global financial system was designed for humans, but the next wave of commerce will be driven by AI agents that operate natively in crypto.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
-      "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-04-26T02:53:48+08:00",
-      "description": "President Donald Trump, at a Mar-a-Lago gathering of investors in his self-branded memecoin, said crypto is mainstream and banks should back off the industry's bill.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "BlackRock’s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
-      "url": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-04-26T02:29:20+08:00",
-      "description": "IBIT options open interest topped Deribit on Friday, signaling rapid institutional adoption of regulated crypto derivatives in the U.S.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-04-26T01:17:56+08:00",
-      "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "How Anthropic’s Mythos model is forcing the crypto industry to rethink everything about security",
-      "url": "https://www.coindesk.com/tech/2026/04/25/how-anthropic-s-mythos-model-is-forcing-the-crypto-industry-to-rethink-everything-about-security",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-04-26T01:00:00+08:00",
-      "description": "DeFi leaders say that AI will arm both attackers and defenders, and widen the gap between projects that prioritize security and those that do not.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The climate tech IPO window could finally be cracking open",
-      "url": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-04-26T00:33:00+08:00",
-      "description": "Nuclear startup X-energy went public, geothermal startup Fervo is about to. Could this be the moment that climate tech investors have been waiting for?",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
-      "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-04-26T00:20:02+08:00",
-      "description": "Trump is expected to speak at his crypto conference in Palm Beach shortly.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
