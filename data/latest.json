@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T21:44:49.364832+08:00",
+  "updated_at": "2026-04-27T03:25:40.178438+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77958,
-      "change": 0.38
+      "price": 78349,
+      "change": 1.3
     },
     "ETH": {
-      "price": 2334.31,
-      "change": 0.73
+      "price": 2371.74,
+      "change": 2.57
     },
     "SOL": {
-      "price": 86.11,
-      "change": -0.57
+      "price": 87.02,
+      "change": 1.56
     }
   },
   "articles": [
+    {
+      "title": "Running out of time on Clarity: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/04/26/running-out-of-time-on-clarity-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-27T02:30:00+08:00",
+      "description": "April is almost over. May is the month to watch.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Litecoin gives post-attack update, but other devs doubt zero-day theory",
+      "url": "https://cointelegraph.com/news/litecoin-post-mortem-chain-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-27T02:15:30+08:00",
+      "description": "Valid transactions that occurred during the affected blocks were not impacted and remain on the main chain, the Litecoin development team said.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
+      "url": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-27T00:21:01+08:00",
+      "description": "Blockchain analytics platform Arkham said that the largest contributors are Mantle and Aave DAO, having raised a combined $127 million.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Why DeFi isn't dead despite massive exploits and $13 billion investor exodus",
+      "url": "https://www.coindesk.com/business/2026/04/26/why-defi-isn-t-dead-despite-massive-exploits-and-usd13-billion-investor-exodus",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-27T00:00:00+08:00",
+      "description": "A $292 million exploit and $13 billion TVL drop looks catastrophic on the surface, but the data tells a different story.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin whales build long positions as funding stays deeply negative",
+      "url": "https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-26T22:13:42+08:00",
+      "description": "Long bias from the largest perpetual traders on Hyperliquid has built steadily through February, March and April, with the position now leaning aggressively long as bitcoin tags $80,000 and US-Iran talks resume.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
+      "url": "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-26T22:00:00+08:00",
+      "description": "Maximalists warn freezing 5.6M BTC risks instant sell-offs, while others say quantum threats leave no alternative.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-26T21:55:39+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Market conditions force 1 in 3 crypto traders to cut everyday spending: Survey",
+      "url": "https://cointelegraph.com/news/market-conditions-force-1-in-3-crypto-traders-to-cut-everyday-spending-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-04-26T21:48:35+08:00",
+      "description": "More than a third of US crypto traders report cutting daily expenses and delaying major purchases as unrealized losses weigh on household finances.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Only 3% of traders drive prediction markets' accuracy, not the crowd, study finds",
+      "url": "https://www.coindesk.com/markets/2026/04/26/only-3-of-traders-drive-prediction-markets-accuracy-not-the-crowd-study-finds",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-04-26T21:47:50+08:00",
+      "description": "Researchers show market accuracy comes from a tiny group of informed traders, not broad participation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
       "url": "https://www.coindesk.com/policy/2026/04/26/mica-s-not-enough-bybit-ceo-says-firms-need-other-licenses-to-turn-a-profit-in-europe",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-04-26T13:00:16+08:00",
       "description": "一種原本僅危害蝦類的病毒，如今證實會感染人類並引發嚴重眼疾。3 月發表於《自然微生物學》期刊研究指出，「隱蔽性 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "美國務院示警 AI 模型遭竊取智財，點名 DeepSeek 等中國公司",
-      "url": "https://technews.tw/2026/04/26/us-warns-of-alleged-ai-theft-by-deepseek-and-other-chinese-firms/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T12:19:02+08:00",
-      "description": "根據《路透社》所看到的一份外交電報顯示，包括 DeepSeek 在內的中國公司，大規模從美國先進 AI 實驗室 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "超級電腦精算地球「氧氣到期日」，複雜生物將因窒息死亡",
-      "url": "https://technews.tw/2026/04/26/earth-oxygen-to-disappear-in-one-billion-years/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T12:00:40+08:00",
-      "description": "東邦大學研究人員尾﨑和海（Kazumi Ozaki）與喬治亞理工學院教授 Christopher T. Rei [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 虛擬人物將操控選舉輿論，民主面臨新挑戰",
-      "url": "https://technews.tw/2026/04/26/ai-swarm-technology-will-manipulate-election-propaganda/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T11:30:28+08:00",
-      "description": "AI 生成虛擬人物會影響選舉輿論？研究人員警告，若這項技術被大規模濫用，可能在選舉期間悄悄改變公眾輿論，甚至動 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "賈伯斯回歸前的黑歷史，蘋果與萬代合作的 Pippin 為何一年就停產",
-      "url": "https://technews.tw/2026/04/26/apples-pippin-console-launched-30-years-ago-today/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T11:30:07+08:00",
-      "description": "1996 年 4 月 21 日，蘋果公司推出其首款遊戲主機──Pippin，這款多媒體控制台是與日本萬代公司（ [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "你的 Slack 閒聊對話值多少？AI 瘋搶倒閉新創「營運廢氣」，隱私隱憂浮現",
-      "url": "https://technews.tw/2026/04/26/failed-companies-are-selling-old-slack-chats-and-email-archives-to-train-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T11:00:54+08:00",
-      "description": "一家新創公司宣告倒閉時，創辦人通常面對的是還不清的帳單和沮喪的員工，但語音轉錄與字幕服務新創 Cielo24  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "不到 2% 農地就能為 AI 供電？新研究揭農電共生的資料中心解方",
-      "url": "https://technews.tw/2026/04/26/agrivoltaics-can-cover-energy-for-data-centers/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T10:30:23+08:00",
-      "description": "根據最新研究，若善用農電共生（agrivoltaics），美國部分擁有大型 AI 資料中心的州，可能只需動用不 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "會計師看好台積電毛利率第二季再上攻！漲價紅利還沒反映",
-      "url": "https://finance.technews.tw/2026/04/26/tsmc-gross-margin-hits-record-high/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T10:00:47+08:00",
-      "description": "台積電第一季法說會公布，市場最先注意到的，是它又一次交出漂亮成績單：單季營收達新台幣 1 兆 1,341 億元 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "避免 AI「亂想像」細節，UBSIM 結合光學物理提高細胞影像可信度",
-      "url": "https://technews.tw/2026/04/26/ai-enhanced-microscopy-produces-crisp-real-time-video-inside-live-cells/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T09:30:19+08:00",
-      "description": "美國加州大學聖地牙哥分校（UCSD）研究團隊 20 日宣布，運用人工智慧開發出一套新的顯微成像方法，能即時觀察 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「一顆都不能壞」的 AI 晶片防線，先進封裝引爆半導體「百百檢」大商機",
-      "url": "https://technews.tw/2026/04/26/taiwan-optical-inspection-enters-new-upgrade-phase/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-04-26T09:00:56+08:00",
-      "description": "日益昂貴的 AI 晶片，任何微小瑕疵，都可能造成上千萬成本的損失；在「一顆都不能壞」的壓力下，半導體產業正引爆 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
