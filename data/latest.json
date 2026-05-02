@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T16:03:53.256835+08:00",
+  "updated_at": "2026-05-02T21:52:32.731663+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78177,
-      "change": 1.49
+      "price": 78330,
+      "change": -0.36
     },
     "ETH": {
-      "price": 2299.68,
-      "change": 0.99
+      "price": 2307.88,
+      "change": -0.32
     },
     "SOL": {
-      "price": 83.66,
-      "change": -0.28
+      "price": 83.91,
+      "change": -0.52
     }
   },
   "articles": [
+    {
+      "title": "The $292M crypto hack exposed DeFi's weak spots. Here’s what must change, insiders say",
+      "url": "https://www.coindesk.com/business/2026/05/02/the-usd292m-crypto-hack-exposed-defi-s-weak-spots-here-s-what-must-change-insiders-say",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T21:00:00+08:00",
+      "description": "As Wall Street moves onchain, the year's biggest crypto hack and DeFi crisis is forcing a rethink of risk, security and market structure, industry insiders told CoinDesk.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Prediction markets are ditching the 'casino' label to become a regular part of how people track the news",
+      "url": "https://www.coindesk.com/markets/2026/05/02/prediction-markets-are-ditching-the-casino-label-to-become-a-regular-part-of-how-people-track-the-news",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T21:00:00+08:00",
+      "description": "A new report from Bitget and Polymarket reveals that prediction markets are evolving into a $240 billion industry driven by retail users who are trading more frequently on everything from crypto to politics.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "深入人形機器人領域，Meta 收購新創公司 ARI",
+      "url": "https://finance.technews.tw/2026/05/02/assured-robot-intelligence-has-joined-meta-to-help-build-the-future-of-humanoid-intelligence/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T20:59:02+08:00",
+      "description": "Meta 已收購人形機器人新創公司 Assured Robot Intelligence（ARI），交易金額未 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Riot posts $167M in Q1 revenue as data center arm pulls in $33M in first quarter",
+      "url": "https://cointelegraph.com/news/riot-posts-167m-in-q1-revenue-as-data-center-arm-pulls-in-33m-in-first-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T18:18:31+08:00",
+      "description": "Riot Platforms reported $167.2 million in Q1 2026 revenue, with its new data center business contributing $33.2 million as Bitcoin mining income fell.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "獨家 OLED 面板供應、記憶體短缺推升成本，iPhone 20 價格看漲",
+      "url": "https://technews.tw/2026/05/02/samsung-display-tipped-to-win-exclusive-iphone-20-oled-deal/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T17:24:35+08:00",
+      "description": "蘋果傳在 2027 年 iPhone 20 改採前所未有的全新設計，搭載四曲面螢幕，結合蘋果的 Liquid  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T16:03:06+08:00",
+      "description": "The Ethereum Foundation has now sold roughly $47 million worth of ETH to BitMine in a week, drawing fresh criticism over the pace and scale of its sales.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "記憶體短缺衝擊！蘋果下架 Mac mini 256GB 版本，售價改為 799 美元起跳",
       "url": "https://technews.tw/2026/05/02/apple-stops-selling-mac-mini-with-256gb-of-storage/",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-02T10:00:43+08:00",
       "description": "全球半導體產業迎來震撼彈！前台積電研發副總經理暨卓越科技院士、素有 「台積電研發六騎士」 之稱的先進封裝研發大 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "EPS 超出預期、資本支出卻暴增至 250 億美元──特斯拉財報亮眼，但燒錢才剛開始",
-      "url": "https://technews.tw/2026/05/02/tesla-earnings-operating-profits-soar-capital-spending-will-rise/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-02T10:00:43+08:00",
-      "description": "特斯拉 4 月 22 日公布第 1 季財報，每股盈餘（EPS）0.41 美元連續第 2 季超過華爾街預期，盤後 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「AI 原生世代」又成功創業！10 歲兄弟用 AI 客製企業周邊，首年營收突破 10 萬美元",
-      "url": "https://finance.technews.tw/2026/05/02/for-this-family-ai-is-the-new-lemonade-stand/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-02T09:30:21+08:00",
-      "description": "AI 熱潮中，矽谷家庭創業公司 Stuffers 展現新樣貌。8 歲的 Quincy Fuller 與 10  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "CLARITY Act stablecoin yield rules finalized: ‘Go time’ for crypto bill",
-      "url": "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T09:29:09+08:00",
-      "description": "Galaxy Digital head of research Alex Thorn expects the banking industry to “increase their opposition efforts” following the release of the final stablecoin yield provisions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "盛讚台積電與聯發科！Google 研發總經理：台灣 AI 供應鏈極度完整，IC 設計重要性持續上升",
-      "url": "https://technews.tw/2026/05/02/greg-moore-praises-taiwan-ai-supply-chain/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-02T09:00:32+08:00",
-      "description": "根據《財訊》雙週刊報導，一年一度「2026 台灣熱管理協會年會暨技術成果發表會」4 月 28 日登場，Goog [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "每日服用低劑量阿斯匹靈，竟能讓特定大腸癌患者復發風險減半",
-      "url": "https://technews.tw/2026/05/02/this-common-drug-may-reduce-cancer-risk/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-02T08:30:25+08:00",
-      "description": "在一項由瑞典卡羅林斯卡學院（Karolinska Institutet）及卡羅林斯卡大學醫院的研究人員主導的臨 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "2025 限用令跳票！台灣減塑 20 年陷入泥淖，專家批 2030 減量新標：毫無意義",
-      "url": "https://technews.tw/2026/05/02/taiwan-plastic-reduction-efforts-stall/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-02T08:00:29+08:00",
-      "description": "環境部曾宣示 2025 年全面限用塑膠袋，卻以失敗告終，如今再拋出 2030 年減量 5% 的新願景，但無法掌 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
