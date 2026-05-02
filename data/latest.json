@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T11:56:51.819331+08:00",
+  "updated_at": "2026-05-02T16:03:53.256835+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,149 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78391,
-      "change": 1.69
+      "price": 78177,
+      "change": 1.49
     },
     "ETH": {
-      "price": 2304.09,
-      "change": 0.97
+      "price": 2299.68,
+      "change": 0.99
     },
     "SOL": {
-      "price": 83.8,
-      "change": -0.1
+      "price": 83.66,
+      "change": -0.28
     }
   },
   "articles": [
+    {
+      "title": "記憶體短缺衝擊！蘋果下架 Mac mini 256GB 版本，售價改為 799 美元起跳",
+      "url": "https://technews.tw/2026/05/02/apple-stops-selling-mac-mini-with-256gb-of-storage/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T15:04:04+08:00",
+      "description": "外媒 MacRumors 在美注意到，Mac mini 建議售價現在變為 799 美元起跳，蘋果已自線上 Ap [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美國發現大型鋰礦夠用 328 年，可生產 1.3 億台車與 5 千億支手機",
+      "url": "https://finance.technews.tw/2026/05/02/lithium-in-eastern-states-could-replace-imports-for-a-century-or-more/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T15:00:48+08:00",
+      "description": "美國地質調查局（USGS）4 月 28 日公布最新研究，確認阿帕拉契山脈（Appalachian Mounta [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+      "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T14:49:39+08:00",
+      "description": "Bitcoin recovered from a midweek dip to $75,500 to climb back above $78,000 by Saturday morning in Asia, with the Senate's stablecoin yield compromise removing a key roadblock to crypto market structure legislation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies",
+      "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-02T14:36:28+08:00",
+      "description": "Praveen Neppalli Naga, Uber's chief technology officer, revealed the plan in an interview at TechCrunch's StrictlyVC event in San Francisco on Thursday night, describing it as a natural extension of a nascent program the company announced in late January called AV Labs.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+      "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T14:24:06+08:00",
+      "description": "A new design proposed by venture fund Paradigm would let holders privately timestamp proof that they control vulnerable keys before quantum computers arrive, creating a possible rescue path if Bitcoin ever sunsets old addresses.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin doesn’t need a fresh narrative to reclaim $100K: Analyst",
+      "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T14:11:22+08:00",
+      "description": "With attention spilling into multiple other technology sectors, crypto may struggle to capture a strong, price-driving narrative, a crypto analyst says.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "聯發科：余振華擔任非全職顧問，未來將持續投資台積電先進封裝",
+      "url": "https://finance.technews.tw/2026/05/02/mediatek-yu-zhenhua-serves-as-a-part-time-advisor-and-will-continue-to-invest-in-tsmcs-advanced-packaging/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T14:00:59+08:00",
+      "description": "針對近期市場傳出前台積電研發副總經理、素有 「台積電研發六騎士」 之稱的先進封裝研發大將余振華，在結束長達 3 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "「SBTI」爆紅背後的真相，中國年輕人為何寧可當「廢物」也不願再聽成功學",
+      "url": "https://technews.tw/2026/05/02/sbti-2/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T14:00:40+08:00",
+      "description": "「你的 SBTI 是什麼？」就在今年春天的某個深夜，這句話悄悄變成了熱門社交暗號。消息發酵不到 24 小時，相 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "IBM Bob報到！專為企業設計與培養的軟體開發人員",
+      "url": "https://technews.tw/2026/05/02/ibm-bob/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-02T14:00:07+08:00",
+      "description": "IBM 宣布在全球推出 IBM Bob — 專為企業「培養」的軟體開發數位員工。Bob 不僅能協助軟體開發團隊 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May",
+      "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-02T12:42:07+08:00",
+      "description": "Institutional investors and corporate-level Bitcoin accumulation remain the primary drivers of BTC’s price gains, despite the lack of bullish leverage.\n",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "戰爭部攜頂尖 AI 公司推進 AI 戰力，Anthropic 仍屬供應鏈風險未納入",
       "url": "https://technews.tw/2026/05/02/the-war-department-announces-agreements-with-leading-ai-companies-to-deploy-capabilities-on-classified-networks/",
@@ -60,7 +190,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "前台積電先進封裝研發大將余振華加入聯發科，將降低使用英特爾 EMIB-T 風險",
+      "title": "前台積電先進封裝研發大將余振華加入聯發科",
       "url": "https://finance.technews.tw/2026/05/02/yu-zhenhua-a-former-senior-executive-in-advanced-packaging-rd-at-tsmc-joins-mediatek/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -99,7 +229,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "CLARITY Act stablecoin yield rules finalised: ‘Go time’ for crypto bill",
+      "title": "CLARITY Act stablecoin yield rules finalized: ‘Go time’ for crypto bill",
       "url": "https://cointelegraph.com/news/go-time-after-clarity-act-stablecoin-yield-compromise-finalized?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
@@ -144,136 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-02T08:00:29+08:00",
       "description": "環境部曾宣示 2025 年全面限用塑膠袋，卻以失敗告終，如今再拋出 2030 年減量 5% 的新願景，但無法掌 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-02T07:06:50+08:00",
-      "description": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-02T06:39:05+08:00",
-      "description": "The DTC skin, hair, and menopause care brand will use the non-dilutive capital to super-charge customer acquisition.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-02T06:13:27+08:00",
-      "description": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Clarity Act text lets crypto firms offer stablecoin rewards while shielding bank yield",
-      "url": "https://www.coindesk.com/policy/2026/05/01/clarity-act-text-lets-crypto-firms-offer-stablecoin-rewards-while-shielding-bank-yield",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T05:33:27+08:00",
-      "description": "The text released Friday blocks crypto firms from offering stablecoin yield offerings that look like bank deposits, but \"bona fide\" transactions are allowed.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Three Bitcoin data points suggest a rally to $80K is imminent",
-      "url": "https://cointelegraph.com/markets/3-bitcoin-data-points-suggest-rally-to-80k-is-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T05:14:23+08:00",
-      "description": "Bitcoin chases $80,000 as rising spot volumes and futures open interest suggest the market has shifted back in the bulls’ favor.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
-      "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T04:59:09+08:00",
-      "description": "AMD’s expansion and improved financing terms highlight Riot’s shift beyond bitcoin mining and strengthen confidence in its growing data center business.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "XRP sentiment hits 2-year high, but why is price stuck?",
-      "url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T03:22:16+08:00",
-      "description": "XRP social media sentiment has turned bullish following integration with Rakuten Wallet, but resistance at $1.40 could cap the upside.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
-      "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T03:07:51+08:00",
-      "description": "Technical charts suggest that Bitcoin’s rally continuation is fully dependent on bulls securing a weekly close above $75,000.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Gency AI raises $20 million to build a sovereign advertising network powered by AI and blockchain consensus",
-      "url": "https://cointelegraph.com/press-releases/gency-ai-raises-20-million-to-build-a-sovereign-advertising-network-powered-by-ai-and-blockchain-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-02T02:55:11+08:00",
-      "description": "AI and blockchain infrastructure company Gency AI today announced it has raised $20 million in a new funding round.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-02T02:23:04+08:00",
-      "description": "Coatue, one of the biggest names in venture capital, has a new venture that is reportedly buying land near large power sources.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
