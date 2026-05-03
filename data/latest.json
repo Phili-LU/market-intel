@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T12:26:14.492116+08:00",
+  "updated_at": "2026-05-03T16:18:10.958268+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78186,
-      "change": -0.09
+      "price": 78458,
+      "change": 0.29
     },
     "ETH": {
-      "price": 2302.31,
-      "change": 0.01
+      "price": 2310.93,
+      "change": 0.45
     },
     "SOL": {
-      "price": 83.62,
-      "change": -0.03
+      "price": 83.97,
+      "change": 0.38
     }
   },
   "articles": [
+    {
+      "title": "全台 13 家金控股利出爐！中信金、富邦金、凱基金 9 家現金殖利率衝破 4%",
+      "url": "https://finance.technews.tw/2026/05/03/financial-holdings-profits-released/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-03T16:06:11+08:00",
+      "description": "全台 13 家金控股利政策全數出爐，受惠 2025 年獲利動能強勁，今年金控業預計發放的現金股息總額高達 3, [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "聯準會主席鮑爾卸任前決策罕見分裂！法人：油價與 AI 成為降息關鍵變數",
+      "url": "https://finance.technews.tw/2026/05/03/rare-split/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-03T14:12:24+08:00",
+      "description": "美國聯準會（Fed）今年 4 月會議決議維持利率不變，但市場對今年利率走勢的判讀卻更加霧裡看花，因為通膨風險讓 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "鮑爾任期最後一舞：Fed 連三凍利率，美伊戰爭與通膨壓力留給繼任者華許",
+      "url": "https://finance.technews.tw/2026/05/03/fomc-key-takeaways-explained/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-03T14:00:36+08:00",
+      "description": "美國聯準會（Fed）於 4 月 28、29 日召開利率決策會議，一如市場預期，29 日宣布將基準利率維持在 3 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "三連冠背後，洲明科技的「反周期」擴張",
+      "url": "https://technews.tw/2026/05/03/unilumin/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-03T14:00:07+08:00",
+      "description": "洲明科技已連續 3 年穩居 LED 顯示上市企業營收榜首，2025 年營收突破 80 億元，而同期全球市場僅增 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto industry will be ‘just fine’ if CLARITY Act doesn’t pass: Chris Perkins",
+      "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T13:51:03+08:00",
+      "description": "The efforts of the SEC and CFTC chairmen indicate that the crypto industry will not suffer without the CLARITY Act, according to crypto executive Chris Perkins.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "搶救 Windows 11！微軟祭出 K2 計畫",
+      "url": "https://technews.tw/2026/05/03/microsoft-k2-plan-rescue-windows-11/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-03T13:21:56+08:00",
+      "description": "Windows 11 自推出以來就一直爭議不斷，除了回顧（Recall）功能引發隱私爭議外，最受人詬病的莫過於 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "南電4月營收月增3.7%",
       "url": "https://finance.technews.tw/2026/05/03/n-p-c-8046-202604-financial-report/",
@@ -196,84 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-03T07:07:05+08:00",
       "description": "Malicious actors with code execution capability may gain root access on Linux systems using as few as 10 lines of Python, according to a researcher.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-03T05:54:58+08:00",
-      "description": "Bad news for Tilly Norwood.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Netflix delays Greta Gerwig’s ‘Narnia’ movie for big theatrical push in 2027",
-      "url": "https://techcrunch.com/2026/05/02/netflix-delays-greta-gerwigs-narnia-movie-for-big-theatrical-push-in-2027/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-03T01:05:41+08:00",
-      "description": "\"The Magician's Nephew\" looks like a big next step in Netflix's thawing relationship with movie theaters.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
-      "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-03T00:56:08+08:00",
-      "description": "The ban applies to fintechs and payment firms, closing the back-end payment rail for cross-border flows, but individual crypto investors can still buy and hold assets.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Crypto industry backs CLARITY Act yield compromise, pushes Senate Banking for markup",
-      "url": "https://www.coindesk.com/policy/2026/05/02/crypto-industry-backs-clarity-act-yield-compromise-pushes-senate-banking-for-markup",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-03T00:01:01+08:00",
-      "description": "The agreement necessitates firms restructure reward programs from a \"buy and hold\" to a \"buy and use\" model; however, CCI raised concerns over its broad prohibition.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "ALMA 望遠鏡新發現， 3I/ATLAS 半重水含量比太陽系彗星高 30 倍",
-      "url": "https://technews.tw/2026/05/03/3i-atlas-formed-in-much-colder-environment-than-solar-system/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T00:00:46+08:00",
-      "description": "透過阿塔卡瑪大型毫米／次毫米波陣列（ALMA）的最新觀測，天文學家首次在星際彗星 3I/ATLAS 中測得「半 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "反義寡核苷酸 ASO 技術，為嚴重癲癇症帶來新契機",
-      "url": "https://technews.tw/2026/05/03/antisense-oligonucleotide-mediated-knockdown-therapy-in-two-infants-with-severe-kcnt1-epileptic-encephalopathy/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T00:00:21+08:00",
-      "description": "近年基因治療逐漸從理論走向實際臨床應用，尤其傳統藥物很難處理的罕見疾病，開始出現突破性進展。哈佛醫學院與波士頓 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
