@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T21:52:31.592227+08:00",
+  "updated_at": "2026-05-04T03:31:57.668666+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78624,
-      "change": 0.38
+      "price": 78668,
+      "change": 0.28
     },
     "ETH": {
-      "price": 2322.01,
-      "change": 0.63
+      "price": 2328.39,
+      "change": 0.78
     },
     "SOL": {
-      "price": 84.03,
-      "change": 0.17
+      "price": 84.27,
+      "change": 0.09
     }
   },
   "articles": [
+    {
+      "title": "Policy Summit and other things at Consensus 2026: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/03/policy-summit-and-other-things-at-consensus-2026-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-04T02:30:00+08:00",
+      "description": "We are kicking off the show in Miami this week. Here's what you should attend.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-04T02:00:09+08:00",
+      "description": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin preps highest weekly close since January as BTC price nears $79K",
+      "url": "https://cointelegraph.com/markets/bitcoin-preps-highest-weekly-close-since-january-as-btc-price-nears-79k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-04T00:26:22+08:00",
+      "description": "Bitcoin canceled out the week's earlier losses to tease the highest BTC price weekly candle close since the end of January near $79,000.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto is at bottom of U.S. voters' priorities heading into elections, CoinDesk survey shows",
+      "url": "https://www.coindesk.com/policy/2026/05/03/crypto-is-at-the-bottom-of-u-s-voters-priorities-heading-into-the-midterm-coindesk-survey-shows",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T22:00:00+08:00",
+      "description": "Americans had a generally unfavorable view of cryptocurrencies, the survey of 1,000 randomly selected registered voters found.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Americans still prefer banks over crypto for financial access, CoinDesk's survey shows",
+      "url": "https://www.coindesk.com/policy/2026/05/03/americans-still-prefer-banks-over-crypto-for-financial-access-coindesk-s-survey-shows",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T22:00:00+08:00",
+      "description": "New polling of voters suggests they aren't yet warming much to crypto, tending to see it as a negative force in the economy, and they have similar distrust of AI.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "U.S. voters don't trust Trump administration to oversee crypto sector, CoinDesk poll finds",
+      "url": "https://www.coindesk.com/policy/2026/05/03/u-s-voters-don-t-trust-trump-administration-to-oversee-crypto-sector-coindesk-poll-finds",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T22:00:00+08:00",
+      "description": "The new poll suggests the vast majority of people think that government officials should keep their own financial interests separate from the industry.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
       "url": "https://www.coindesk.com/business/2026/05/03/mike-cagney-s-second-act-turning-blockchain-into-wall-street-s-new-plumbing",
@@ -66,6 +144,19 @@
       "category": "crypto",
       "published_at": "2026-05-03T19:12:56+08:00",
       "description": "Nobitex, Iran’s largest crypto exchange, was founded by brothers linked to the powerful Kharrazi family, which has ties to the country’s supreme leaders. ",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
+      "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T19:07:00+08:00",
+      "description": "Malicious actors with code execution capability may gain root access on Linux systems using as few as 10 lines of Python, according to a researcher.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -183,97 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-03T11:29:34+08:00",
       "description": "Despite being the best-performing month in the past 12 months, it still came in slightly below its historical average, according to CoinGlass data.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台美 AI 大聯盟成形！貿協黃志芳率史上最大團企業赴鳳凰城深化半導體",
-      "url": "https://finance.technews.tw/2026/05/03/taiwan-us-ai-alliance/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T11:09:45+08:00",
-      "description": "外貿協會（TAITRA）董事長黃志芳近日率領半導體、人工智慧解決方案、電子資通訊及關鍵零組件等 81 家企業， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Whoscall 強項不只辨識來電！母公司 Gogolook 靠某技術轉出 10 億元商機",
-      "url": "https://infosecu.technews.tw/2026/05/03/gogolook-whoscall/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T11:00:49+08:00",
-      "description": "你大概有過這種經驗：看到陌生號碼，不確定該不該接電話。台灣這一秒鐘的猶豫，催生一款 App「Whoscall」 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "精測4月營收5.23 億元",
-      "url": "https://finance.technews.tw/2026/05/03/chpt-6510-202604-financial-report/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T10:50:04+08:00",
-      "description": "精測（6510）今（3）日公布 4 月營收，達 5.23 億元，較 3 月成長 7.3%，較去年同期成長 30 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "當 AI 聊天機器人變得更友善，事實誤判與附和陰謀論機率竟飆升 30%",
-      "url": "https://technews.tw/2026/05/03/friendly-ai-chatbots-may-be-less-accurate/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T10:30:38+08:00",
-      "description": "牛津大學網路研究所（Oxford Internet Institute）最新研究指出，若將 AI 聊天機器人訓 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台泥 80 週年秀兩大轉型成果！AI 自動礦山車、3D 列印全太陽能住宅",
-      "url": "https://finance.technews.tw/2026/05/03/all-solar-powered-houses/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T10:12:47+08:00",
-      "description": "台泥 80 週年「築夢文明 Shaping the Future Civilization」慶典登場，董事長張 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "少一個紙箱蝦皮省的不只是錢，無包裝配送如何成為店到店的新護城河",
-      "url": "https://technews.tw/2026/05/03/shopee-vs-momo-coupang/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T10:00:18+08:00",
-      "description": "蝦皮店到店威力有多強？從 7-11 和全家兩大超商竟願意與 momo 聯手調降全站超取運費門檻可見一斑。但蝦皮 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "自然界的「重金屬」殺手，最新研究證實蠍子尾刺與鉗子富含鋅與錳",
-      "url": "https://technews.tw/2026/05/03/scorpions-are-literally-metal/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T09:30:48+08:00",
-      "description": "根據最新研究，蠍子這種令人著迷且可怕的生物，其武器竟然真的含有金屬成分。來自美國國立自然史博物館（Nation [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
