@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T16:18:10.958268+08:00",
+  "updated_at": "2026-05-03T21:52:31.592227+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78458,
-      "change": 0.29
+      "price": 78624,
+      "change": 0.38
     },
     "ETH": {
-      "price": 2310.93,
-      "change": 0.45
+      "price": 2322.01,
+      "change": 0.63
     },
     "SOL": {
-      "price": 83.97,
-      "change": 0.38
+      "price": 84.03,
+      "change": 0.17
     }
   },
   "articles": [
+    {
+      "title": "Mike Cagney’s second act: Turning blockchain into Wall Street’s new plumbing",
+      "url": "https://www.coindesk.com/business/2026/05/03/mike-cagney-s-second-act-turning-blockchain-into-wall-street-s-new-plumbing",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T21:00:00+08:00",
+      "description": "Figure’s $1 billion month capped a years-long push to strip out middlemen from credit markets, bringing real-world assets, lending and even equities onchain.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Americans distrust crypto, AI as industry super PACs flood midterms, poll finds",
+      "url": "https://cointelegraph.com/news/americans-distrust-crypto-ai-as-industry-super-pacs-flood-midterms-poll-finds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T21:00:00+08:00",
+      "description": "A new Politico poll finds most Americans distrust crypto and AI, raising questions about whether candidates backed by industry super PACs could face voter backlash.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T21:00:00+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Iran’s largest crypto exchange founded by sons of family tied to supreme leaders: Reuters",
+      "url": "https://cointelegraph.com/news/irans-largest-crypto-exchange-founded-by-sons-of-family-tied-to-supreme-leaders-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T19:12:56+08:00",
+      "description": "Nobitex, Iran’s largest crypto exchange, was founded by brothers linked to the powerful Kharrazi family, which has ties to the country’s supreme leaders. ",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+      "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-03T16:56:10+08:00",
+      "description": "New York AG Letitia James secured a $5 million settlement from Uphold for promoting CredEarn, a crypto savings product that misled users about its risks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "全台 13 家金控股利出爐！中信金、富邦金、凱基金 9 家現金殖利率衝破 4%",
       "url": "https://finance.technews.tw/2026/05/03/financial-holdings-profits-released/",
@@ -60,7 +125,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "三連冠背後，洲明科技的「反周期」擴張",
+      "title": "三連冠背後，洲明科技的「反週期」擴張",
       "url": "https://technews.tw/2026/05/03/unilumin/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -177,7 +242,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "台泥 80 週年秀兩大轉型成果！AI 無人礦山車、3D 列印全太陽能住宅",
+      "title": "台泥 80 週年秀兩大轉型成果！AI 自動礦山車、3D 列印全太陽能住宅",
       "url": "https://finance.technews.tw/2026/05/03/all-solar-powered-houses/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-03T09:30:48+08:00",
       "description": "根據最新研究，蠍子這種令人著迷且可怕的生物，其武器竟然真的含有金屬成分。來自美國國立自然史博物館（Nation [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "波克夏股東會六大重點！阿貝爾首秀、巴菲特示警 AI 曝「現金近 4,000 億美元」",
-      "url": "https://finance.technews.tw/2026/05/03/berkshire-hathaway-shareholders-meeting/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T09:03:27+08:00",
-      "description": "年度金融盛事，波克夏海瑟威（Berkshire Hathaway）股東大會 5 月 2 日在美國內布拉斯加州奧 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電條款鬆綁釋利多！權值股迎資金活水，投信將進場布局？",
-      "url": "https://finance.technews.tw/2026/05/03/etf-fund-tsmc/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T09:00:08+08:00",
-      "description": "根據《財訊》雙週刊報導，金管會於 4 月 23 日公告，共同基金與主動式 ETF 持有單一個股的上限，從 10 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 竟是隱藏犯罪天才？代理式 AI 風險升級，人類恐淪為共犯而不自知",
-      "url": "https://infosecu.technews.tw/2026/05/03/ai-as-criminal-mastermind-that-uses-humans-as-unsuspecting-accomplices/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T08:30:09+08:00",
-      "description": "代理式 AI 快速擴張，更隱蔽也更棘手的風險浮上檯面：AI 不只可能自行策劃違法行為，還可能用看似正常的外包與 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "8 兆帝國的轉型底牌：告別代工舊思維，李光曜如何用「機器人」為鴻海再造第二引擎？",
-      "url": "https://finance.technews.tw/2026/05/03/lee-guang-yao-to-lead-foxconn-robotics-business/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-03T08:00:36+08:00",
-      "description": "在鴻海 8 兆帝國的「三加三加三」藍圖中，機器人被視為最難、也最關鍵的引擎。當重任交到李光曜手中，他不只翻轉代 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "US CISA adds ‘insane’ Linux Copy Fail flaw to watch list",
-      "url": "https://cointelegraph.com/news/linux-copy-fail-a-trivially-exploitable-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-03T07:07:05+08:00",
-      "description": "Malicious actors with code execution capability may gain root access on Linux systems using as few as 10 lines of Python, according to a researcher.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
