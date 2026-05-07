@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T12:10:29.522068+08:00",
+  "updated_at": "2026-05-07T17:08:58.849202+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 80770,
-      "change": -0.94
+      "price": 81119,
+      "change": -0.88
     },
     "ETH": {
-      "price": 2319.42,
-      "change": -2.4
+      "price": 2332.55,
+      "change": -2.5
     },
     "SOL": {
-      "price": 87.73,
-      "change": 0.5
+      "price": 89.39,
+      "change": 0.66
     }
   },
   "articles": [
     {
-      "title": "美元回落、貴金屬迎反彈行情  白銀大漲逾 6%",
-      "url": "https://finance.technews.tw/2026/05/07/silver-futures-surge-more-than-6-percent/",
+      "title": "AI 高階 PCB 超缺貨，定穎泰國廠助攻 GPU、ASIC 客戶需求",
+      "url": "https://technews.tw/2026/05/07/3715-pcb-msap/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:50:17+08:00",
-      "description": "美國和伊朗可望達成停戰協議，國際油價大幅下跌，隨著通膨疑慮減輕，先前低迷的貴金屬出現強勢反彈行情，白銀期貨勁漲 [&#8230;]",
+      "published_at": "2026-05-07T16:58:09+08:00",
+      "description": "定穎投控 AI 伺服器 PCB 業務開始進入放量階段。總經理劉國瑾今（7）日表示，GPU 相關產品預計第三季量 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI 圈掀起「刻意畫爛」瘋潮，最強人工智慧變 1990 年代小畫家",
-      "url": "https://technews.tw/2026/05/07/chatgpt-trend-has-users-requesting-clumsy-scribbly-and-pathetic-ai-images/",
+      "title": "巴西重登中國全球投資金額榜首",
+      "url": "https://technews.tw/2026/05/07/brazil-returns-as-top-destination-for-china-global-investment/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:40:59+08:00",
-      "description": "一段在社群間迅速擴散的「刻意畫醜」AI 影像風潮，近日在 OpenAI、ChatGPT 與 xAI 之間掀起新 [&#8230;]",
+      "published_at": "2026-05-07T16:50:20+08:00",
+      "description": "巴西中國貿易全國委員會今天公布的數據顯示，巴西去年重登中國全球投資金額的榜首，從中國吸引總計 10.9% 的對 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "海平面上升臨界點已過，研究：紐奧良終將成漂浮島嶼",
-      "url": "https://technews.tw/2026/05/07/new-orleans-will-under-the-sea/",
+      "title": "緯穎4月營收827.31 億元",
+      "url": "https://finance.technews.tw/2026/05/07/wiwynn-6669-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:37:42+08:00",
-      "description": "二十年前，卡崔娜颱風重創美國南部古老的多元文化城市紐奧良。這場危機只是剛開始，科學家警告，由於氣候危機，紐奧良 [&#8230;]",
+      "published_at": "2026-05-07T16:50:03+08:00",
+      "description": "緯穎（6669）今（7）日公布 4 月營收，達 827.31 億元，較 3 月成長 -16.1%，較去年同期成 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "聯發科列處置股不合理？金管會：研議例外排除條件",
-      "url": "https://finance.technews.tw/2026/05/07/mediatek-disposition-stock-unreasonable-fsc-study-exception-exclusion-conditions/",
+      "title": "宇瞻4月營收月增21.8%",
+      "url": "https://finance.technews.tw/2026/05/07/apacer-8271-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:30:38+08:00",
-      "description": "IC 設計廠聯發科近日遭列處置交易，成為台股史上市值最大的處置股，引發市場關注，立委認為現行注意股、處置股規範 [&#8230;]",
+      "published_at": "2026-05-07T16:40:04+08:00",
+      "description": "宇瞻（8271）公布 4 月合併營收 37.40 億元，較上（3）月成長 21.8%，與去年同期相比為年增 3 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "電容特定規格訂單暴量！信昌電緊急通知客戶延長交期至 16~18 週",
-      "url": "https://finance.technews.tw/2026/05/07/capacitor-series-products/",
+      "title": "日本 EV 車補助新制，特斯拉維持高檔、比亞迪遭大砍",
+      "url": "https://technews.tw/2026/05/07/japan-new-ev-subsidy-tesla-high-byd-drastically-cut/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:11:48+08:00",
-      "description": "被動元件大廠信昌電近日向客戶發出緊急通知，由於自 2026 年第一季以來，受惠於市場需求強勁復甦，以及特定規格 [&#8230;]",
+      "published_at": "2026-05-07T16:40:04+08:00",
+      "description": "日本 4 月 1 日起正式實施 2026 年度 CEV（潔淨能源車）補助制度新制，電動車（EV）補助評分標準大 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "荷莫茲海峽緊張  美航空業 3 月燃油支出暴增逾 56%",
-      "url": "https://finance.technews.tw/2026/05/07/airlines-spent-56-4-percent-more-on-jet-fuel-in-month-after-iran-war-started/",
+      "title": "Edge 密碼全裸放記憶體，微軟：這是設計，不是漏洞",
+      "url": "https://infosecu.technews.tw/2026/05/07/microsoft-edge-stores-all-saved-passwords-in-cleartext-process-memory-at-launch/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:10:26+08:00",
-      "description": "美國政府最新調查顯示，美國航空業 3 月燃油支出大幅攀升至 50.6 億美元，較 2 月的 32.3 億美元暴 [&#8230;]",
+      "published_at": "2026-05-07T16:30:47+08:00",
+      "description": "Palo Alto Networks Norway 資安研究員 @L1v1ng0ffTh3L4N 在早前舉行的 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "頻寬最高飆至 1TB/s！PCIe 8.0 規範 0.5 版本草案發布，2028 年最終定案",
-      "url": "https://technews.tw/2026/05/07/pci-sig-talk-about-pcie-8-0/",
+      "title": "致新4月營收7.46 億元",
+      "url": "https://finance.technews.tw/2026/05/07/gmt-8081-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:08:15+08:00",
-      "description": "負責制定 PCIe 與相關標準的組織 PCI-SIG 於 6 日正式發布 PCIe 8.0 規格的 0.5 草 [&#8230;]",
+      "published_at": "2026-05-07T16:30:19+08:00",
+      "description": "致新（8081）今（7）日公布 4 月營收，達 7.46 億元，較 3 月成長 2.8%，較去年同期成長 -4 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "科技實力獲烏克蘭認可，台灣無人機出口歐洲增逾 40 倍",
-      "url": "https://technews.tw/2026/05/07/taiwan-drone-exports-to-europe-surge-over-40-fold/",
+      "title": "榮群4月營收月增448.5%",
+      "url": "https://finance.technews.tw/2026/05/07/opnet-8034-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T11:00:15+08:00",
-      "description": "台灣憑藉卓越技術實力，成為烏克蘭無人機廠商青睞的替代供應來源。台灣智庫指出，台灣對歐洲無人機出口在 2025  [&#8230;]",
+      "published_at": "2026-05-07T16:30:15+08:00",
+      "description": "榮群（8034）公布 4 月合併營收 4,755.00 萬元，較上（3）月成長 448.5%，與去年同期相比為 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美伊談判 1 頁備忘錄，擬暫停鈾濃縮、解除海峽封鎖",
-      "url": "https://technews.tw/2026/05/07/iran-expected-to-respond-thursday-to-us-proposal-for-ending-the-war/",
+      "title": "禾伸堂4月營收14.27 億元",
+      "url": "https://finance.technews.tw/2026/05/07/holy-stone-3026-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:50:19+08:00",
-      "description": "美國與伊朗據傳正試圖敲定一份 1 頁篇幅的備忘錄細節，目的在結束敵對行動。這是雙方歷經數月僵局後的最新一輪協商 [&#8230;]",
+      "published_at": "2026-05-07T16:30:03+08:00",
+      "description": "禾伸堂（3026）今（7）日公布 4 月營收，達 14.27 億元，較 3 月成長 10.7%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美啟動 301 調查，龔明鑫：對台美談判結果影響有限",
-      "url": "https://technews.tw/2026/05/07/us-initiates-301-investigation-kung-ming-hsin-taiwan-us-negotiation-results-limited-impact/",
+      "title": "信昌電4月營收4.19 億元",
+      "url": "https://finance.technews.tw/2026/05/07/p-d-c-6173-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:45:05+08:00",
-      "description": "台美今年初簽署投資合作備忘錄及對等貿易協定，美方 3 月啟動新一波 301 調查，對象包括台灣。經濟部長龔明鑫 [&#8230;]",
+      "published_at": "2026-05-07T16:20:06+08:00",
+      "description": "信昌電（6173）今（7）日公布 4 月營收，達 4.19 億元，較 3 月成長 13.0%，較去年同期成長  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "躲關稅與反中制裁，Rivian 打算在美國自製光達",
-      "url": "https://technews.tw/2026/05/07/rivian-us-lidar-production-dodge-tariffs-anti-china-sanctions/",
+      "title": "茂林-KY4月營收3.28 億元",
+      "url": "https://finance.technews.tw/2026/05/07/glt-4935-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:34:16+08:00",
-      "description": "美國電動車新創 Rivian 這兩年都在跟成本和產能奮鬥，為了進一步掌控供應鏈並壓低成本，執行長斯卡林傑表示， [&#8230;]",
+      "published_at": "2026-05-07T16:20:03+08:00",
+      "description": "茂林-KY（4935）今（7）日公布 4 月營收，達 3.28 億元，較 3 月成長 -15.5%，較去年同期 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "搭 96MB SLC 快取！傳三星測試 1.4 奈米 Exynos 晶片，規格細節曝光",
-      "url": "https://technews.tw/2026/05/07/samsung-testing-1-4nm-process/",
+      "title": "日電貿4月營收18.43 億元",
+      "url": "https://finance.technews.tw/2026/05/07/ndb-3090-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:26:54+08:00",
-      "description": "市場消息傳出，三星正在測試其 1.4nm 製程的下一代 Exynos 處理器。根據最新曝光的早期規格，三星似乎 [&#8230;]",
+      "published_at": "2026-05-07T16:20:02+08:00",
+      "description": "日電貿（3090）今（7）日公布 4 月營收，達 18.43 億元，較 3 月成長 18.1%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "傳韓廠包辦 iPhone 18 Pro OLED 供應  京東方落空",
-      "url": "https://technews.tw/2026/05/07/samsung-display-lg-display-to-supply-oled-panels-for-apple-iphone-18-pro-models/",
+      "title": "抵抗量子運算威脅，美軍將為 F-35 升級「抗量子加密」系統",
+      "url": "https://technews.tw/2026/05/07/usaf-is-updating-f-35s-computers-for-quantum-resistant/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:20:33+08:00",
-      "description": "蘋果新一代 iPhone 18 Pro 與 Pro Max 即將於今年下半年登場，OLED 面板供應鏈布局逐漸 [&#8230;]",
+      "published_at": "2026-05-07T16:11:00+08:00",
+      "description": "美國海軍航空系統司令部（NAVAIR）近期發布招標通知，F-35 聯合專案辦公室（JPO）正準備修改戰機的「內 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI 可以減輕美國債負擔，耶魯：前提是放棄失業勞工",
-      "url": "https://finance.technews.tw/2026/05/07/ai-boom-has-it-own-cost/",
+      "title": "聯詠4月營收月增8.9%",
+      "url": "https://finance.technews.tw/2026/05/07/novatek-3034-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:17:27+08:00",
-      "description": "美國債務占 GDP 比重自二戰以來首次超過 100%，經濟學家警告，雖然上次安然度過，但這次美國已經沒有當年條 [&#8230;]",
+      "published_at": "2026-05-07T16:10:08+08:00",
+      "description": "聯詠（3034）公布 4 月合併營收 92.25 億元，較上（3）月成長 8.9%，與去年同期相比為年增 1. [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "其實駭客比你更討厭 AI 垃圾──地下論壇也充斥低品質 AI 內容",
-      "url": "https://infosecu.technews.tw/2026/05/07/hackers-hate-ai-slop-even-more-than-you-do/",
+      "title": "京元電子4月營收37.43 億元",
+      "url": "https://finance.technews.tw/2026/05/07/kyec-2449-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:10:02+08:00",
-      "description": "最新研究指出，網路犯罪社群出現一股罕見的「反 AI」情緒，不少地下論壇與駭客群組抱怨，生成式 AI 內容充斥討 [&#8230;]",
+      "published_at": "2026-05-07T16:10:05+08:00",
+      "description": "京元電子（2449）今（7）日公布 4 月營收，達 37.43 億元，較 3 月成長 4.0%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "JPMorgan, Mastercard make first cross-border US Treasury transfer via XRP Ledger",
-      "url": "https://cointelegraph.com/news/jpmorgan-mastercard-first-cross-border-us-treasury-settlement-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-07T10:05:55+08:00",
-      "description": "The cross-border tokenized US Treasury transaction using blockchain and banking rails builds on an earlier pilot in which the same fund moved between a public and permissioned blockchain.",
+      "title": "國巨*4月營收140.39 億元",
+      "url": "https://finance.technews.tw/2026/05/07/yageo-2327-202604-financial-report/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-07T16:10:02+08:00",
+      "description": "國巨*（2327）今（7）日公布 4 月營收，達 140.39 億元，較 3 月成長 3.0%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "技嘉 AI 伺服器動能強，花旗升目標價至 385 元",
-      "url": "https://finance.technews.tw/2026/05/07/gigabyte-ai-server/",
+      "title": "Arm 執行長：資料中心業務很快將成公司最大營收來源",
+      "url": "https://technews.tw/2026/05/07/haas-said-datacenter-will-become-arm-biggest-business-soon/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:04:37+08:00",
-      "description": "AI 伺服器需求持續升溫，帶動技嘉營運展望轉強。據花旗最新報告指出，隨著多家 neo-cloud 業者釋出三位 [&#8230;]",
+      "published_at": "2026-05-07T15:58:42+08:00",
+      "description": "Arm 今年 3 月發表一款名為「AGI」的新 CPU 設計，主要鎖定代理式 AI（Agentic AI）應用 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Uber 財測優、估消費仍穩健  擴大布局自駕計程車",
-      "url": "https://finance.technews.tw/2026/05/07/uber-announces-results-for-first-quarter-2026/",
+      "title": "射程 6,000 公里涵蓋全歐洲，土耳其「伊爾迪林汗」洲際彈道飛彈首度公開",
+      "url": "https://technews.tw/2026/05/07/turkey-unveiled-new-yildirimhan-icbm/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T10:00:07+08:00",
-      "description": "叫車巨頭 Uber 首季財報不俗，預估總預訂量將延續強勁成長，中東局勢動盪未影響消費力，同時也計劃擴大自駕計程 [&#8230;]",
+      "published_at": "2026-05-07T15:44:31+08:00",
+      "description": "土耳其國防部近日在伊斯坦堡舉辦的 SAHA 國防展（SAHA Expo）上投下震撼彈，首度公開展示了一款名為「 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Threads 首推電腦版訊息，群聊功能近期上線",
-      "url": "https://technews.tw/2026/05/07/threads-web-message/",
+      "title": "導入選擇權權利金！聯博首發台灣動能收益 50 主動式 ETF 預計 5/18 開募",
+      "url": "https://finance.technews.tw/2026/05/07/00404a/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T09:50:59+08:00",
-      "description": "Meta 今天宣布，社群平台 Threads 推出電腦版訊息功能，支援文字與多媒體訊息傳送、表情回應、訊息編輯 [&#8230;]",
+      "published_at": "2026-05-07T15:42:19+08:00",
+      "description": "聯博投信今日發表首檔主動式 ETF「聯博台灣動能收益 50 主動式 ETF（00404A）」，結合聯博海外兩大 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "量子 AI 新創 Qutwo，天使輪融資逾 9 億元創芬蘭紀錄",
-      "url": "https://technews.tw/2026/05/07/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "title": "輝達 CPO 夥伴 Coherent 毛利率未大增、憂 InP 瓶頸",
+      "url": "https://finance.technews.tw/2026/05/07/coherent-margins-yet-to-improve-significantly/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-07T09:40:08+08:00",
-      "description": "Silo AI 前執行長彼得·薩林（Peter Sarlin）賣掉公司不到兩年，又一手創立量子 AI 新創 Q [&#8230;]",
+      "published_at": "2026-05-07T15:40:02+08:00",
+      "description": "輝達（Nvidia）矽光子共同封裝光學（CPO）供應夥伴 Coherent 最新公布的上季營收、本季營收預估均 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
