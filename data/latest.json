@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-08T11:57:25.326850+08:00",
+  "updated_at": "2026-05-08T16:04:28.042386+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79574,
-      "change": -1.6
+      "price": 79661,
+      "change": -2.3
     },
     "ETH": {
-      "price": 2279.7,
-      "change": -1.85
+      "price": 2279.98,
+      "change": -2.79
     },
     "SOL": {
-      "price": 88.25,
-      "change": 0.51
+      "price": 88.21,
+      "change": -2.15
     }
   },
   "articles": [
     {
-      "title": "德國航太代表團訪台，攜手在地廠商與機構打造信賴供應鏈",
-      "url": "https://finance.technews.tw/2026/05/08/german-aerospace-delegation-visits-taiwan/",
+      "title": "富采財報 Q1 每股虧損 0.2 元，樂觀展望第二季營收雙位數成長",
+      "url": "https://finance.technews.tw/2026/05/08/ennostar-q1-financial-reports/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:50:59+08:00",
-      "description": "德國航太衛星暨無人機產業代表團造訪台灣，共有 11 家專注於衛星零組件、無人機系統、航太材料與精密感測技術的德 [&#8230;]",
+      "published_at": "2026-05-08T15:40:50+08:00",
+      "description": "富采 8 日舉行法人說明會公佈 2026 年 Q1 財報，總計合併營業額新台幣 52.5 億元，較 2025  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "加密市場冷清 Coinbase Q1 轉虧  盤後重挫近 4%",
-      "url": "https://finance.technews.tw/2026/05/08/coinbase-first-quarter-2026-earnings/",
+      "title": "南茂4月營收月減1.6%",
+      "url": "https://finance.technews.tw/2026/05/08/chipmos-8150-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:50:27+08:00",
-      "description": "美國最大加密貨幣交易所 Coinbase 於 5 月 7 日美股盤後揭曉財報，受加密貨幣行情低迷拖累，導致交易 [&#8230;]",
+      "published_at": "2026-05-08T15:40:09+08:00",
+      "description": "南茂（8150）公布 4 月合併營收 24.60 億元，較上（3）月成長 -1.6%，與去年同期相比為年增 3 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "應用材料收購 ASMPT 旗下 NEXX，擴展先進封裝產品組合",
-      "url": "https://technews.tw/2026/05/08/applied-materials-buy-asmpt-nexx/",
+      "title": "至上4月營收月減34.2%",
+      "url": "https://finance.technews.tw/2026/05/08/supreme-8112-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:42:59+08:00",
-      "description": "應用材料（下稱應材）宣布與 ASMPT Limited 達成最終協議，將收購其 NEXX 業務。NEXX 是半 [&#8230;]",
+      "published_at": "2026-05-08T15:40:07+08:00",
+      "description": "至上（8112）公布 4 月合併營收 350.61 億元，較上（3）月成長 -34.2%，與去年同期相比為年增 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "特斯拉 Roadster 2 全新商標曝光，能否兌現「懸浮超跑」的瘋狂諾言",
-      "url": "https://technews.tw/2026/05/08/tesla-filed-a-trademark-for-a-new-roadster-logo-ahead-of-the-evs-long-awaited-reveal/",
+      "title": "晶心科4月營收1.07 億元",
+      "url": "https://finance.technews.tw/2026/05/08/es-6533-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:40:44+08:00",
-      "description": "特斯拉（Tesla）的第二代 Roadster 長期以來備受期待，最近又有了新進展。根據最新商標申請，特斯拉於 [&#8230;]",
+      "published_at": "2026-05-08T15:40:06+08:00",
+      "description": "晶心科（6533）今（8）日公布 4 月營收，達 1.07 億元，較 3 月成長 -20.0%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Google 大力推動 AI 健康，無螢幕智慧手環 Fitbit Air 新推出",
-      "url": "https://ccc.technews.tw/2026/05/08/google-health-coach-is-becoming-globally-available/",
+      "title": "創見束崇萬：記憶體缺貨還要延續至少兩年，手握一百多億庫存因應需求",
+      "url": "https://finance.technews.tw/2026/05/08/transcends-shu-chongwan-memory-shortage-will-continue-for-at-least-two-more-years/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:39:15+08:00",
-      "description": "頂尖的運動員身後通常有一支專家團隊，包括醫療專家、健身教練、營養師及睡眠顧問，共同幫助運動員發揮最大潛能。Go [&#8230;]",
+      "published_at": "2026-05-08T15:30:21+08:00",
+      "description": "受惠於人工智慧（AI）的強勢帶動，記憶體產業正迎來史無前例的巨大變革。創見資訊董事長束崇萬指出，AI 浪潮是人 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "效能監控成 AI 時代新寵  Datadog 調高財測、飆 31%",
-      "url": "https://finance.technews.tw/2026/05/08/datadog-raises-outlook-shares-surge-over-30-percent/",
+      "title": "神盾4月營收月減52.2%",
+      "url": "https://finance.technews.tw/2026/05/08/egis-6462-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:30:09+08:00",
-      "description": "美國雲端基礎建設效能監測軟體商 Datadog 上季盈餘擊敗華爾街預估，還調高營收與盈餘的全年展望，股價跳空暴 [&#8230;]",
+      "published_at": "2026-05-08T15:30:14+08:00",
+      "description": "神盾（6462）公布 4 月合併營收 3.73 億元，較上（3）月成長 -52.2%，與去年同期相比為年增 1 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Cloudflare 財測軟、擬大幅裁員聚焦 AI  盤後崩",
-      "url": "https://finance.technews.tw/2026/05/08/cloudflare-plans-major-layoffs-shares-plunge-after-hours/",
+      "title": "矽力*-KY4月營收月增13.3%",
+      "url": "https://finance.technews.tw/2026/05/08/silergy-6415-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:20:22+08:00",
-      "description": "雲端資安商 Cloudflare 本季財測遜於市場預期，並宣布將大幅裁員 20%，以全面聚焦「優先發展 AI  [&#8230;]",
+      "published_at": "2026-05-08T15:30:13+08:00",
+      "description": "矽力*-KY（6415）公布 4 月合併營收 20.14 億元，較上（3）月成長 13.3%，與去年同期相比為 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Google 試行面試新制，開放工程師職缺在技術關卡使用 AI 工具",
-      "url": "https://technews.tw/2026/05/08/google-plans-to-let-software-engineers-use-ai-assistants-in-job-interviews/",
+      "title": "同欣電4月營收月增4.0%",
+      "url": "https://finance.technews.tw/2026/05/08/theil-6271-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:10:03+08:00",
-      "description": "Google 正在試行軟體工程師面試新流程，允許求職者面試時使用 AI 助理，以更貼近工程團隊實際工作方式。此 [&#8230;]",
+      "published_at": "2026-05-08T15:30:02+08:00",
+      "description": "同欣電（6271）公布 4 月合併營收 10.35 億元，較上（3）月成長 4.0%，與去年同期相比為年增 0 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "結合匿蹤與油電混合動力，DARPA 攜手諾格成功試飛 XRQ-73 無人機原型",
-      "url": "https://technews.tw/2026/05/08/darpa-and-northrop-grummna-successfully-test-flight-xrq-73/",
+      "title": "力成4月營收75.75 億元",
+      "url": "https://finance.technews.tw/2026/05/08/pti-6239-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:07:03+08:00",
-      "description": "美國國防部高等研究計畫局（DARPA）近日宣布，由諾斯洛普格魯曼打造的 XRQ-73 混合動力實驗無人機，已於 [&#8230;]",
+      "published_at": "2026-05-08T15:20:09+08:00",
+      "description": "力成（6239）今（8）日公布 4 月營收，達 75.75 億元，較 3 月成長 2.8%，較去年同期成長 3 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Meta 也要推 AI 代理＋購物工具！目標搶攻 Instagram 電商業務",
-      "url": "https://technews.tw/2026/05/08/metas-ai-agent-plans-reportedly-include-an-openclaw-competitor-that-can-shop-on-instagram/",
+      "title": "頎邦4月營收21.85 億元",
+      "url": "https://finance.technews.tw/2026/05/08/chipbond-6147-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T11:00:59+08:00",
-      "description": "外媒 The Information 報導，Meta 正在打造代號為「Hatch」的消費級 AI 代理，瞄準  [&#8230;]",
+      "published_at": "2026-05-08T15:20:06+08:00",
+      "description": "頎邦（6147）今（8）日公布 4 月營收，達 21.85 億元，較 3 月成長 7.4%，較去年同期成長 2 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "軍工投資熱潮助攻  鷹眼 360 掛牌首日暴漲 30%",
-      "url": "https://finance.technews.tw/2026/05/08/space-analytics-firm-hawkeye-valued-at-3-15-billion-after-nyse-debut/",
+      "title": "中東衝突傷及旅遊業  Expedia、Airbnb 財報後挫",
+      "url": "https://finance.technews.tw/2026/05/08/airbnb-announces-first-quarter-2026-results/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:50:47+08:00",
-      "description": "美國鷹眼 360 公司（Hawkeye 360）專注於訊號情報（SIGNIT）衛星服務，主要利用衛星觀測與分析 [&#8230;]",
+      "published_at": "2026-05-08T15:20:03+08:00",
+      "description": "美伊僵局未解，影響旅遊產業，旅宿預訂平台易遊網（Expedia）下修全年財測，盤後股價重挫，Airbnb 財報 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Chromatic 3D 列印火箭推進劑點火成功，效能媲美傳統燃料",
-      "url": "https://technews.tw/2026/05/08/3d-printed-rocket-fuel-successfully-tested/",
+      "title": "松翰4月營收月增14.2%",
+      "url": "https://finance.technews.tw/2026/05/08/sonix-5471-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:40:42+08:00",
-      "description": "Chromatic 3D Materials 公司在阿拉巴馬州的歐佩萊卡（Opelika）成功進行靜態點火測試 [&#8230;]",
+      "published_at": "2026-05-08T15:20:02+08:00",
+      "description": "松翰（5471）公布 4 月合併營收 3.28 億元，較上（3）月成長 14.2%，與去年同期相比為年增 25 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "獎金一次給還是年年發？三星與工會僵持不下，罷工陰影壟罩晶圓廠",
-      "url": "https://technews.tw/2026/05/08/samsung-chiefs-urge-dialogue-as-union-plans-18-day-strike-in-south-korea/",
+      "title": "入選台灣璞玉指數！榮惠-KY 公告 4 月營收 2.05 億元歷史新高",
+      "url": "https://finance.technews.tw/2026/05/08/uncut-jade/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:30:39+08:00",
-      "description": "三星電子晶片部門勞資談判陷入僵局，焦點集中在績效獎金是否應從一次性給付、改為每年固定發放。根據《金融時報》報導 [&#8230;]",
+      "published_at": "2026-05-08T15:18:57+08:00",
+      "description": "榮惠-KY 今日公告 4 月營收 2.05 億元，月增 45.43%，年增 54.38%，創歷史新高紀錄，主要 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "先進製程測試需求爆發！景美科技 4 月營收年增 56% 再創新高",
-      "url": "https://finance.technews.tw/2026/05/08/testing-requirements/",
+      "title": "油價何時降回戰前？分析：荷莫茲就算重開最快也得 2027 年",
+      "url": "https://technews.tw/2026/05/08/gas-prices-will-not-return-to-pre-war-levels-any-time-soon/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:21:58+08:00",
-      "description": "景美科技今日公告 4 月合併營收 7,106 萬元，年增 56.47%，刷新成立以來單月營收最高紀錄，並連續  [&#8230;]",
+      "published_at": "2026-05-08T15:10:28+08:00",
+      "description": "美國與伊朗的停火即將屆滿一個月。市場分析，縱使美伊能在近日達成協議並讓荷莫茲海峽恢復通暢，油價恐仍要到 202 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "蘋果「相機版 AirPods」進入測試末期，預計 9 月亮相",
-      "url": "https://technews.tw/2026/05/08/apples-airpods-with-cameras-for-ai-are-apparently-close-to-production/",
+      "title": "凡甲4月營收月增3.8%",
+      "url": "https://finance.technews.tw/2026/05/08/alltop-3526-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:20:07+08:00",
-      "description": "蘋果傳出已將內建相機的新款 AirPods 推進到更接近量產的階段，顯示這款主打 AI 應用的耳機距離正式亮相 [&#8230;]",
+      "published_at": "2026-05-08T15:10:08+08:00",
+      "description": "凡甲（3526）公布 4 月合併營收 4.37 億元，較上（3）月成長 3.8%，與去年同期相比為年增 40. [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "川普下週訪中？邀一票 CEO 強化與北京關係",
-      "url": "https://technews.tw/2026/05/08/trump-us-ceos/",
+      "title": "華擎4月營收月減44.4%",
+      "url": "https://finance.technews.tw/2026/05/08/asrock-3515-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:13:16+08:00",
-      "description": "美國總統川普傳出下週將訪問中國，並計劃邀請多家美國大型企業執行長同行。據《Semafor》報導，川普政府目前正 [&#8230;]",
+      "published_at": "2026-05-08T15:10:05+08:00",
+      "description": "華擎（3515）公布 4 月合併營收 27.42 億元，較上（3）月成長 -44.4%，與去年同期相比為年增  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達加碼數十億美元預付款，資助康寧在美建新廠",
-      "url": "https://technews.tw/2026/05/08/nvidia-funds-construction-of-corning-plants-in-addition-to-equity-investment/",
+      "title": "尼克森4月營收2.65 億元",
+      "url": "https://finance.technews.tw/2026/05/08/niko-sem-3317-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:10:39+08:00",
-      "description": "輝達執行長黃仁勳今天表示，公司除了先前揭露將對玻璃大廠康寧進行最高 32 億美元（約新台幣 1,011 億元） [&#8230;]",
+      "published_at": "2026-05-08T15:10:02+08:00",
+      "description": "尼克森（3317）今（8）日公布 4 月營收，達 2.65 億元，較 3 月成長 6.0%，較去年同期成長 1 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "股市大好經濟繁榮，為何消費信心仍低落",
-      "url": "https://finance.technews.tw/2026/05/08/stock-market-not-related-consumer-confident/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-08T10:05:16+08:00",
-      "description": "新冠疫情後，衡量消費者信心與情緒的指標，已經和他們的實際消費情況脫節，為什麼會這樣。經濟學家分析，這是因為通貨 [&#8230;]",
+      "title": "Aptos Foundation, Aptos Labs commit $50M to development as it eyes AI agent future",
+      "url": "https://cointelegraph.com/news/aptos-foundation-labs-commit-50m-sees-opportunity-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-08T15:08:53+08:00",
+      "description": "The Aptos Foundation said building infrastructure that enables sub-second finality without the need for human intervention is a key to supporting the next wave of AI agent adoption.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "日經：軟銀洽輝達與鴻海，擬打造「日本製」AI 伺服器",
-      "url": "https://technews.tw/2026/05/08/japans-softbank-explores-homegrown-ai-servers-with-nvidia-foxconn-nikkei-reports/",
+      "title": "緯創4月營收2,834.37 億元",
+      "url": "https://finance.technews.tw/2026/05/08/wistron-3231-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T10:00:09+08:00",
-      "description": "日本經濟新聞今天報導，軟銀集團（SoftBank Corp）已與輝達（Nvidia）及鴻海（Foxconn）展 [&#8230;]",
+      "published_at": "2026-05-08T15:00:15+08:00",
+      "description": "緯創（3231）今（8）日公布 4 月營收，達 2,834.37 億元，較 3 月成長 -14.9%，較去年同 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "台積電產能吃緊、AI 需求轉至 CPU，傳 AMD 正評估三星 2 奈米製程",
-      "url": "https://technews.tw/2026/05/08/amd-samsung-2nm-tech/",
+      "title": "健鼎4月營收月增12.1%",
+      "url": "https://finance.technews.tw/2026/05/08/tripod-3044-202604-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-05-08T09:57:31+08:00",
-      "description": "AMD 正與三星進行談判，計劃利用三星的 2 奈米製程技術來生產下一代 AI CPU 與加速器晶片。 近期 A [&#8230;]",
+      "published_at": "2026-05-08T15:00:12+08:00",
+      "description": "健鼎（3044）公布 4 月合併營收 82.01 億元，較上（3）月成長 12.1%，與去年同期相比為年增 2 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
