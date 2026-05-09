@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-09T12:02:06.709157+08:00",
+  "updated_at": "2026-05-09T16:14:43.787290+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 80383,
-      "change": 0.97
+      "price": 80363,
+      "change": 0.82
     },
     "ETH": {
-      "price": 2315.35,
-      "change": 1.54
+      "price": 2318.12,
+      "change": 1.61
     },
     "SOL": {
-      "price": 93.65,
+      "price": 93.68,
       "change": 6.15
     }
   },
   "articles": [
+    {
+      "title": "AI 狂潮下記憶體產能爭奪戰！慧榮苟嘉章：擴產要三年市場糾結成死胡同",
+      "url": "https://finance.technews.tw/2026/05/09/the-battle-for-memory-production-capacity-amid-the-ai-%e2%80%8b%e2%80%8bcraze/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-09T15:45:27+08:00",
+      "description": "在AI浪潮的推動下，全球半導體產能正面臨前所未有的爭奪戰。慧榮科技總經理苟嘉章指出，擴充產能並非一蹴可幾，記憶 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "無視物理法則，美軍公開新一批 UFO 接觸相關資料和數據",
+      "url": "https://technews.tw/2026/05/09/the-pentagon-released-new-uf0uap-encounter-reports-and-data/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-09T14:56:58+08:00",
+      "description": "美國國防部全域異常解決辦公室（AARO）與中央司令部（CENTCOM）昨日釋出了大量 UFO/UAP 解密檔案 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ctrl+Z 文明史：「上一步」熱鍵如何帶領人類進入勇於犯錯的黃金時代",
+      "url": "https://technews.tw/2026/05/09/the-civilization-of-ctrlz-how-the-undo-key-led-humanity-into-a-golden-age-of-trial-and-error/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-09T14:00:51+08:00",
+      "description": "2009 年《紐約時報》有篇語言專欄，把這個年代稱為「the age of undoing」。今天我們於文件、 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Supermicro 新建最大矽谷廠區，透過全新 DCBBS 製造設施加速次世代 AI 資料中心建置",
+      "url": "https://technews.tw/2026/05/09/supermicro-builds-largest-new-silicon-valley-facility/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-09T14:00:26+08:00",
+      "description": "Super Micro Computer, Inc. 作為 AI、企業、儲存和5G / 邊緣領域的全方位解決方 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Judge clears path for Aave to move $71 million in ETH linked to North Korea hack",
+      "url": "https://www.coindesk.com/policy/2026/05/09/judge-clears-path-for-aave-to-move-usd71-million-in-eth-linked-to-north-korea-hack",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-09T12:16:36+08:00",
+      "description": "Judge Margaret Garnett allowed frozen exploit funds on Arbitrum to move to Aave, but the legal freeze follows the assets as terrorism plaintiffs continue their claim.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "助開發者因應代理 AI！Arm 推出 Performix，獲微軟、SAP 等夥伴支持",
       "url": "https://technews.tw/2026/05/09/arm-performix-for-agentic-ai/",
@@ -112,7 +177,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "CLARITY Act sees ‘big step forward’ as markup set for May 14",
+      "title": "US CLARITY Act sees ‘big step forward’ as markup set for May 14",
       "url": "https://cointelegraph.com/news/us-clarity-act-markup-date-set-tim-scott-crypto-industry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
@@ -209,71 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-09T07:57:31+08:00",
       "description": "Rising Bitcoin ETF outflows and liquidations signal short-term caution, but a weak DXY and the eventual appointment of a new Fed chair could resume the rally. \n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Senate Banking Committee plans to hold key market structure hearing on Thursday",
-      "url": "https://www.coindesk.com/policy/2026/05/08/senate-banking-committee-plans-to-hold-key-market-structure-hearing-on-thursday",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-09T07:20:00+08:00",
-      "description": "The Senate Banking Committee announced it would hold its markup hearing for the Clarity Act on March 14.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-09T06:59:05+08:00",
-      "description": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Crypto exchanges pushed US lawmakers to bar provision on risky tokens: Report",
-      "url": "https://cointelegraph.com/news/crypto-companies-law-risky-tokens-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-09T06:43:32+08:00",
-      "description": "Three companies reportedly pressed US senators for changes to a crypto bill, removing language that would require them to offer trading on tokens “not readily susceptible to manipulation.”",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Estonia's FSA issues investor warning about Zondacrypto",
-      "url": "https://cointelegraph.com/news/estonia-fsa-investor-warning-zondacrypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-09T05:34:29+08:00",
-      "description": "The news follows an investigation into the crypto exchange by Polish law enforcement officials and reports of customer withdrawal issues.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Swiss Bitcoin reserve campaign set to lapse after failing to gather signatures",
-      "url": "https://cointelegraph.com/news/swiss-bitcoin-reserve-campaign-to-lapse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-09T05:21:42+08:00",
-      "description": "Organizers failed to collect enough signatures to trigger a referendum that would have required the Swiss National Bank to hold Bitcoin in its reserves.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
