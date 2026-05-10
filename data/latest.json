@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T12:29:45.159734+08:00",
+  "updated_at": "2026-05-10T16:24:44.415388+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 80774,
-      "change": 0.39
+      "price": 80801,
+      "change": 0.53
     },
     "ETH": {
-      "price": 2327.94,
-      "change": 0.51
+      "price": 2329.24,
+      "change": 0.49
     },
     "SOL": {
-      "price": 93.28,
-      "change": -0.43
+      "price": 93.87,
+      "change": 0.11
     }
   },
   "articles": [
+    {
+      "title": "NASA 下一代火星直升機轉子技術突破，旋翼葉片突破音速未解體",
+      "url": "https://technews.tw/2026/05/10/nasa-aerovironment-skyfall-mars-helicopter/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-10T16:24:21+08:00",
+      "description": "為了讓直升機在大氣稀薄的火星飛得更高、載得更重，NASA 噴射推進實驗室剛完成一項新技術挑戰：將火星直升機旋翼 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "金星 6,000 公里巨型雲牆之謎解開，由最大規模水躍現象引起",
+      "url": "https://technews.tw/2026/05/10/hydraulic-jumpatmospheric-wave-venus-cloud/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-10T15:31:52+08:00",
+      "description": "金星每天都是陰天，可能還會落下硫酸陣雨，過去探測器曾發現金星赤道有巨型大氣波反覆掃過，但原因不明。現在日本科學 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Netflix 雖不靠遊戲賺錢，但做遊戲要幹麼腦袋還很清楚",
+      "url": "https://finance.technews.tw/2026/05/10/netflix-isnt-making-money-from-games-but-it-knows-exactly-why-its-making-them/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-10T14:00:55+08:00",
+      "description": "Netflix 2026 年第一季財報帳面相當漂亮：營收為 122.5 億美元，年成長 16.2%；營業利益  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Santiment flags risk as crypto bullish talk spikes while BTC holds $80K",
+      "url": "https://cointelegraph.com/news/santiment-flags-risk-as-crypto-bullish-talk-spikes-while-btc-holds-near-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-10T13:33:59+08:00",
+      "description": "The increase in bullish versus bearish crypto commentary on social media has Santiment warning that the recent crypto market rally may be short-lived.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美國戰爭部釋出首批 UAP 機密報告，四大事件人類現有科技辦不到",
+      "url": "https://technews.tw/2026/05/10/uap-pursue-unidentified-aerial-phenomena/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-10T12:34:54+08:00",
+      "description": "美國戰爭部 9 日首次公開不明空中現象（UAP）檔案，其中最引人注目案件之一為 2023 年西部數起不明異常現 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "AI 會消滅白領？黃仁勳批：那只是老闆的「上帝情結」又犯了！",
       "url": "https://technews.tw/2026/05/10/jensen-huang-dismisses-ai-white-collar-threat-as-boss-god-complex/",
@@ -151,7 +216,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "7 major Bitcoin mining pools join Stratum V2, working group",
+      "title": "Seven major Bitcoin mining pools join Stratum V2, working group",
       "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
@@ -203,77 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "The CLARITY Act will help reshore the crypto industry in the US — Attorney",
+      "title": "CLARITY Act will help reshore US crypto industry, attorney says",
       "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
       "published_at": "2026-05-10T03:00:05+08:00",
       "description": "The \"biggest market\" in crypto is conducting the vast majority of its trading volume outside of US-based exchanges, according to Attorney Bill Hughes.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The Nobitex dilemma: How Iran's biggest crypto exchange stays off the OFAC blacklist",
-      "url": "https://cointelegraph.com/features/the-nobitex-dilemma-how-irans-biggest-crypto-exchange-stays-off-the-ofac-blacklist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-10T01:42:09+08:00",
-      "description": "Iran entered the final night of February 2026 under a near-total internet shutdown. In the wake of a joint strike by the United States and Israel, Tehran almost completely severed the country's connection to the global internet — likely leaving only users on a government whitelist with access to the",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Trump Media’s Q1 loss widens to $406 million on bitcoin, CRO markdowns",
-      "url": "https://www.coindesk.com/business/2026/05/09/trump-media-s-q1-loss-widens-to-usd406-million-on-bitcoin-cro-markdowns",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-10T01:28:08+08:00",
-      "description": "The loss was primarily driven by $244 million in unrealized losses on cryptocurrency holdings and an additional $108.2 million investment loss.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Sports betting should be regulated as a financial product, not gambling, aspiring prediction market provider says",
-      "url": "https://www.coindesk.com/policy/2026/05/09/sports-betting-should-be-regulated-as-a-financial-product-not-gambling-aspiring-prediction-market-provider-says",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-10T01:00:00+08:00",
-      "description": "Novig CEO Jacob Fortinsky said his company will transition to a federal Designated Contract Market framework this summer to launch in all 50 states, while 57 Maiden's Adam Mastrelli said he was banned from two major sportsbooks within two months for being “sharp.\"",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "凌日法外的救星，研究團隊利用「拱線進動」揪出 27 個隱藏在雙星系統中的系外行星",
-      "url": "https://technews.tw/2026/05/10/new-method-identifies-potential-planets-in-binary-star-systems/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-10T00:00:40+08:00",
-      "description": "由美國太空總署主導的系外行星搜尋任務 TESS 至今已確認了 885 顆系外行星，並辨識出超過 7,900 顆 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "走過 400 年的世紀懸案──尋回莎士比亞的倫敦之家，與一段跌宕起伏的家族史",
-      "url": "https://finance.technews.tw/2026/05/10/exact-location-of-shakespeares-missing-home-finally-discovered/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-10T00:00:08+08:00",
-      "description": "走在倫敦市中心聖安德魯丘（St. Andrew’s Hill）的街道上，你或許會在一棟平凡的大樓牆上，看見一塊 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
