@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T16:24:44.415388+08:00",
+  "updated_at": "2026-05-10T21:58:56.315669+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 80801,
-      "change": 0.53
+      "price": 80935,
+      "change": 0.7
     },
     "ETH": {
-      "price": 2329.24,
-      "change": 0.49
+      "price": 2328.58,
+      "change": 0.63
     },
     "SOL": {
-      "price": 93.87,
-      "change": 0.11
+      "price": 93.79,
+      "change": 0.41
     }
   },
   "articles": [
+    {
+      "title": "Bored Ape NFTs are finally making a comeback as crypto traders rediscover their appetite for risk",
+      "url": "https://www.coindesk.com/business/2026/05/10/bored-ape-nfts-are-finally-making-a-comeback-as-crypto-traders-rediscover-their-appetite-for-risk",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-10T21:00:00+08:00",
+      "description": "BAYC floor prices have doubled in a month as traders rotate back into speculative crypto bets, reviving hopes of a broader NFT recovery.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-10T21:00:00+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
+      "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-10T18:52:38+08:00",
+      "description": "South Korean crypto holdings fell from $83 billion to $41 billion in just over a year as investors shifted to stocks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-10T18:47:20+08:00",
+      "description": "BTC’s rising wedge points to a possible drop toward $70,000 as Strategy pauses buying and inflation cools Fed rate-cut hopes.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "NASA 下一代火星直升機轉子技術突破，旋翼葉片突破音速未解體",
       "url": "https://technews.tw/2026/05/10/nasa-aerovironment-skyfall-mars-helicopter/",
@@ -27,6 +79,19 @@
       "category": "tw_stocks",
       "published_at": "2026-05-10T16:24:21+08:00",
       "description": "為了讓直升機在大氣稀薄的火星飛得更高、載得更重，NASA 噴射推進實驗室剛完成一項新技術挑戰：將火星直升機旋翼 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Trump Media posts $406M quarterly loss as crypto bets turn sour",
+      "url": "https://cointelegraph.com/news/trump-media-posts-406m-quarterly-loss-as-crypto-bets-turn-sour?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-10T16:23:43+08:00",
+      "description": "\nTrump Media’s $405.9 million net loss was driven mostly by unrealized losses on Bitcoin bought at last summer’s peak and Cronos tokens acquired through a Crypto.com deal.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -53,6 +118,19 @@
       "category": "tw_stocks",
       "published_at": "2026-05-10T14:00:55+08:00",
       "description": "Netflix 2026 年第一季財報帳面相當漂亮：營收為 122.5 億美元，年成長 16.2%；營業利益  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "KISTERS 推出 HyQuant Edge：首個用於定量水文學的雷達感測器監測站",
+      "url": "https://technews.tw/2026/05/10/kisters-launches-hyquant-edge-hydrological-monitoring-station/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-10T14:00:19+08:00",
+      "description": "KISTERS 正式推出 HyQuant Edge，這款集多功能於一身的水文監測站，採用 KIPTEC（KIS [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-10T08:00:49+08:00",
       "description": "全球衛星業者正從傳統衛星寬頻服務，跨足手機直連衛星市場，重要業者之一 AST SpaceMobile 在台合作 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "冷戰時期 UAP 文件解密，美國戰爭部公開塵封紀錄",
-      "url": "https://technews.tw/2026/05/10/presidential-unsealing-and-reporting-system-for-uap-encounters/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-10T07:44:26+08:00",
-      "description": "第二次世界大戰後，以美國為首的西方陣營與以蘇聯為首的共產主義國家及其盟國之間陷入近半世紀的政治和軍事對峙，即為 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Seven major Bitcoin mining pools join Stratum V2, working group",
-      "url": "https://cointelegraph.com/news/seven-major-bitcoin-mining-pools-stratum-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-10T07:00:19+08:00",
-      "description": "Individual miners in Bitcoin mining pools must rely on block templates provided by the mining pool operator.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-10T05:45:00+08:00",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Strategy CEO Phong Le says company will sell BTC only in specific cases",
-      "url": "https://cointelegraph.com/news/strategy-ceo-phong-le-strategy-selling-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-10T05:21:00+08:00",
-      "description": "Strategy's Bitcoin sales will not move the markets, despite it owning more than 4% of the digital currency's maximum supply, Le said.\n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Fintech startup Parker files for bankruptcy",
-      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-10T04:32:17+08:00",
-      "description": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "CLARITY Act will help reshore US crypto industry, attorney says",
-      "url": "https://cointelegraph.com/news/clarity-act-reshore-crypto-industry-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-10T03:00:05+08:00",
-      "description": "The \"biggest market\" in crypto is conducting the vast majority of its trading volume outside of US-based exchanges, according to Attorney Bill Hughes.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
