@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T16:21:49.638494+08:00",
+  "updated_at": "2026-05-16T22:03:37.360905+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78387,
-      "change": -2.77
+      "price": 77933,
+      "change": -1.17
     },
     "ETH": {
-      "price": 2193.15,
-      "change": -2.87
+      "price": 2175.51,
+      "change": -1.62
     },
     "SOL": {
-      "price": 87.43,
-      "change": -4.16
+      "price": 86.22,
+      "change": -2.87
     }
   },
   "articles": [
+    {
+      "title": "Crypto users are choosing juicy yields over protection, putting billions at risk of hacks",
+      "url": "https://www.coindesk.com/business/2026/05/16/crypto-users-are-choosing-juicy-yields-over-protection-putting-billions-at-risk-of-hacks",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T22:00:00+08:00",
+      "description": "DeFi insurance protocols debuted with huge ambitions during the 2020 crypto boom. But as hacks evolved and users chased yields over protection, most of the sector collapsed under the same risks it was built to cover.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-16T22:00:00+08:00",
+      "description": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The $293 million KelpDAO hack shows why DeFi is finally being forced to grow up",
+      "url": "https://www.coindesk.com/tech/2026/05/16/the-usd293-million-kelpdao-hack-shows-why-defi-is-finally-being-forced-to-grow-up",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T21:00:00+08:00",
+      "description": "For protocol founders and security researchers, the incident reinforced a broader shift underway across crypto: DeFi is no longer primarily battling coding bugs. It’s battling complexity.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+      "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T19:30:00+08:00",
+      "description": "The token jumped 5% after a Senate committee moved the market-structure bill forward, reviving hopes that legal clarity can pull deeper institutional money into XRP products.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+      "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T17:47:44+08:00",
+      "description": "THORChain has launched a recovery portal following a $10 million exploit, allowing affected users across four chains to revoke malicious approvals and claim refunds.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+      "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T17:00:52+08:00",
+      "description": "The rest of the world is “really closely” watching the US CLARITY Act as the nation moves further away from the previous “hostile stance,” according to Sharplink’s chief.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Spot Bitcoin ETFs bleed $1B in a week, snapping six-week inflow run",
+      "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-bleed-1b-in-a-week-snapping-six-week-inflow-run?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T16:19:20+08:00",
+      "description": "Spot Bitcoin ETFs shed $1 billion in a single week as capital rotated toward AI stocks and macro uncertainty weighed on sentiment, ending a six-week run that had pulled in $3.4 billion.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "微軟聽進使用者心聲，將開放工作列自由移動和開始功能表大改版",
       "url": "https://technews.tw/2026/05/16/windows-11-will-have-more-freedom-to-customize-taskbar-and-start-menu/",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-16T09:55:04+08:00",
       "description": "馬斯克（Elon Musk）旗下的太空巨擘即將引爆資本市場，《路透社》獨家報導指出，知情人士透露 SpaceX [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "癌症年輕化成不可逆趨勢？但調整生活習慣仍可降低風險",
-      "url": "https://technews.tw/2026/05/16/simple-changes-can-help-prevent-early-onset-cancer/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-16T09:30:26+08:00",
-      "description": "癌症篩檢常為中年後的例行健康檢查項目：30 多歲做皮膚癌檢查、40 歲做乳房攝影、45 歲安排大腸鏡。但年輕族 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「這不是循環，是時代的革命！」創見董座看 AI：記憶體 30 年規則已遭徹底粉碎",
-      "url": "https://technews.tw/2026/05/16/memory-module-makers-post-explosive-q1-profit-growth/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-16T09:00:56+08:00",
-      "description": "攤開台灣記憶體模組廠今年第一季財報，獲利表現幾乎可以用「驚人」來形容。老牌記憶體模組廠創見資訊董事長束崇萬一改 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "南極底部的「加熱隧道」：科學家驚見局部融化率暴增 10 倍，海平面上升恐再提速",
-      "url": "https://technews.tw/2026/05/16/hidden-warm-water-beneath-antarctica-could-rapidly-raise-global-sea-levels/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-16T08:30:17+08:00",
-      "description": "最新研究指出，南極冰架正從底部悄悄加速融化，可能讓全球海平面上升的速度比原先預估更快。挪威研究團隊以東部南極的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "怕錯過二、三十年大行情！長抱族也拿股票借錢，揭開台股「搶額度」的槓桿狂熱",
-      "url": "https://finance.technews.tw/2026/05/16/taiwan-stocks-rally-strong-even-veteran-investors-turn-to-margin-loans/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-16T08:00:46+08:00",
-      "description": "台股行情大好，投資人紛紛加大槓桿投入市場，卻也造成券商融通壓力大增，緊縮措施頻發，市場固有抱怨聲音，但券商提醒 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
-      "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-16T07:10:35+08:00",
-      "description": "The US Commodity Futures Trading Commission is currently headed by Chair Michael Selig, with no public statement from Donald Trump about fully staffing the five-member panel of commissioners.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin Depot filing casts doubt on company’s future amid lawsuits",
-      "url": "https://cointelegraph.com/news/bitcoin-depot-future-legal-judgments-litigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-16T06:17:38+08:00",
-      "description": "The crypto ATM company reported financial difficulties amid a changing regulatory environment and ongoing litigation, which have cost it millions of dollars.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report",
-      "url": "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-16T05:42:18+08:00",
-      "description": "The Hyperliquid decentralized exchange allows anyone who stakes 500,000 HYPE tokens, valued at roughly $22.2 million, to deploy new markets.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
