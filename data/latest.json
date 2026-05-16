@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-16T12:07:24.253296+08:00",
+  "updated_at": "2026-05-16T16:21:49.638494+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79065,
-      "change": -2.46
+      "price": 78387,
+      "change": -2.77
     },
     "ETH": {
-      "price": 2227.21,
-      "change": -1.96
+      "price": 2193.15,
+      "change": -2.87
     },
     "SOL": {
-      "price": 88.96,
-      "change": -3.17
+      "price": 87.43,
+      "change": -4.16
     }
   },
   "articles": [
+    {
+      "title": "微軟聽進使用者心聲，將開放工作列自由移動和開始功能表大改版",
+      "url": "https://technews.tw/2026/05/16/windows-11-will-have-more-freedom-to-customize-taskbar-and-start-menu/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-16T15:41:31+08:00",
+      "description": "微軟為了挽回使用者信任，近期終於在 Windows 11 放寬了備受討論的介面限制。 從近日測試人員釋出的版本 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+      "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-16T15:36:02+08:00",
+      "description": "A long-skewed liquidation cascade flushed leverage across the major tokens overnight, with the move tracking a global bond selloff and the worst session for U.S. stocks since March.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "黃仁勳出席也沒用，川普證實中國拒買輝達 H200",
+      "url": "https://finance.technews.tw/2026/05/16/trump-said-china-refuses-to-buy-nvidia-h200/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-16T15:28:29+08:00",
+      "description": "美國總統川普結束與中國國家主席習近平的雙邊峰會後證實，北京正拒絕讓中企購買輝達的 H200 AI 晶片，川普向 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "中國用 AI 自習室盯孩子坐姿、回傳學習進度，真能把孩子教育交給 AI 嗎？",
+      "url": "https://technews.tw/2026/05/16/china-to-rely-on-artificial-intelligence-in-education-reform-bid/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-16T15:00:56+08:00",
+      "description": "2023 年 ChatGPT 開啟 AI 元年後，人工智慧逐漸改變多數人的生活，這股「AI 瘋」也逐漸吹向中國 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "IBM 諮詢擴展人工智慧能力，加速企業轉型",
+      "url": "https://technews.tw/2026/05/16/ibm-consulting-expands-ai-capabilities/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-16T14:00:23+08:00",
+      "description": "在 Think 2026 大會上，IBM 宣布，透過 IBM Enterprise Advantage 推出多 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "MBTI 到底準不準？為何常常變來變去？專家解答五大問題",
+      "url": "https://technews.tw/2026/05/16/mbti-top5-qa/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-16T13:00:55+08:00",
+      "description": "MBTI 測驗為何每次結果不同？它真的準嗎？會影響職涯發展嗎？近年「MBTI 人格測驗」在職場與社群持續爆紅， [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "銷歐暴增 40 倍卻遭自家預算扯後腿，台灣無人機的「護國群山」之路為何失速？",
       "url": "https://technews.tw/2026/05/16/taiwan-stocks-slide-after-defense-drone-budget-cuts/",
@@ -34,7 +112,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "英國陸軍「NYX 計畫」決選四雄，打造阿帕契專屬無人忠誠僚機",
+      "title": "英國陸軍「NYX 計畫」四家廠商競爭，打造阿帕契專屬無人忠誠僚機",
       "url": "https://technews.tw/2026/05/16/uk-army-chose-4-candidates-for-apaches-loyal-wingman-project/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -196,84 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-16T05:42:18+08:00",
       "description": "The Hyperliquid decentralized exchange allows anyone who stakes 500,000 HYPE tokens, valued at roughly $22.2 million, to deploy new markets.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
-      "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-16T05:35:57+08:00",
-      "description": "As the Commodity Futures Trading Commission takes on a growing task to police U.S. crypto trading, senior lawmakers are saying it needs bipartisan leadership.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Solayer launches Visa-compatible card for USDC payments",
-      "url": "https://cointelegraph.com/news/solayer-launches-visa-compatible-card-for-usdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-16T05:11:19+08:00",
-      "description": "The new card lets users spend USDC balances through online, in-store and contactless transactions while accessing ATM withdrawals in supported regions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-      "url": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-16T04:30:20+08:00",
-      "description": "Investors can't seem to get enough of RJ Scaringe or his ideas. Storytelling and communication are one of his superpowers, according to Jiten Behl, who joined Rivian when the company had just a handful of employees.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "General Catalyst posted VC rage bait and it worked, especially on a16z",
-      "url": "https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-16T04:25:35+08:00",
-      "description": "Compulsive X user Marc Andreessen himself couldn't resist responding, many, many times.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
-      "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-16T03:50:00+08:00",
-      "description": "Elon Musk’s rocket and satellite company has accelerated plans for its blockbuster public offering, with trading expected to begin as early as June 12 after a faster-than-expected SEC review.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "A hotel check-in system left a million passports and driver’s licenses open for anyone to see",
-      "url": "https://techcrunch.com/2026/05/15/a-hotel-check-in-system-left-a-million-passports-and-drivers-licenses-open-for-anyone-to-see/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-16T02:51:33+08:00",
-      "description": "The tech company that maintains the hotel check-in system set its cloud storage to public, allowing anyone to access customers' data without a password.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
