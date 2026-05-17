@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T16:35:59.148721+08:00",
+  "updated_at": "2026-05-17T22:01:41.151539+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78035,
-      "change": -0.52
+      "price": 78171,
+      "change": 0.31
     },
     "ETH": {
-      "price": 2183.79,
-      "change": -0.43
+      "price": 2191.03,
+      "change": 0.74
     },
     "SOL": {
-      "price": 86.63,
-      "change": -0.99
+      "price": 86.35,
+      "change": 0.14
     }
   },
   "articles": [
+    {
+      "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
+      "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T20:00:00+08:00",
+      "description": "VerifiedX says its Bitcoin sidechain enables programmable, privacy-preserving transactions without synthetic wrappers, targeting growing institutional demand for native DeFi on the original blockchain system.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trusts",
+      "url": "https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T19:41:31+08:00",
+      "description": "Another 11 companies responded to a survey saying they would consider offering crypto funds once the regulatory environment becomes clear.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
+      "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T18:51:22+08:00",
+      "description": "Japan’s biggest brokerages are racing to bring crypto investment trusts to retail investors, as regulators move to formally allow crypto-holding funds by 2028.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin slides below $79K on macro fears: Can fixed-income outflows save it?",
+      "url": "https://cointelegraph.com/markets/bitcoin-slides-below-79k-macro-fears-can-fixed-income-outflows-save-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T16:50:02+08:00",
+      "description": "While macro pain and Iran war uncertainty drag Bitcoin below $79K, fixed-income market outflows could trigger a medium-term Bitcoin rebound.\n",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Italy’s largest bank more than doubles crypto holdings to $235M in Q1: Report",
+      "url": "https://cointelegraph.com/news/italys-largest-bank-more-than-doubles-crypto-holdings-to-235m-in-q1-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T16:31:02+08:00",
+      "description": "Intesa Sanpaolo grew its crypto holdings from $100 million to $235 million in Q1 2026, making first-time moves into Ethereum and XRP while nearly exiting Solana entirely.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
       "url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-17T08:00:36+08:00",
       "description": "現在筆電市場中最亮眼的一款，絕對就是蘋果最新推出的 MacBook Neo，此一產品線打破了過往消費者對 Ma [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "兩岸三地千大企業大洗牌：台灣強勢超車，靠 AI 算力躍升全球第六大資本帝國",
-      "url": "https://finance.technews.tw/2026/05/17/greater-china-top-1000-companies-reshuffle-taiwan-ai-computing-power-becomes-sixth-capital-empire/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T08:00:22+08:00",
-      "description": "這是一個連庶民都能深刻感受資本熱絡的時代，聯發科、台達電的市值狂飆。以往千金股在台股僅是鳳毛麟角，如今卻已多達 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "STRC preferred stock investors are mispricing major 'dislocation' risk: Analyst",
-      "url": "https://cointelegraph.com/news/strc-preferred-investors-misprice-dislocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-17T06:50:56+08:00",
-      "description": "Potential liquidity contractions in secondary markets and surging government bond yields could spell trouble for preferred perpetual stockholders.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The haves and have nots of the AI gold rush",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-17T04:17:16+08:00",
-      "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-17T03:26:14+08:00",
-      "description": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Strategy to repurchase $1.5B of 2029 convertible notes",
-      "url": "https://cointelegraph.com/news/strategy-repurchase-15b-2029-convertible-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-17T03:03:08+08:00",
-      "description": "The notes carry a 0% coupon, but can be converted into equity in the company if holders choose to redeem their notes for shares.\n",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
