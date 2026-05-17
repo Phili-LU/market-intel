@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T22:01:41.151539+08:00",
+  "updated_at": "2026-05-18T03:43:15.194152+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78171,
-      "change": 0.31
+      "price": 78310,
+      "change": 0.1
     },
     "ETH": {
-      "price": 2191.03,
-      "change": 0.74
+      "price": 2190.56,
+      "change": 0.51
     },
     "SOL": {
-      "price": 86.35,
-      "change": 0.14
+      "price": 86.54,
+      "change": -0.27
     }
   },
   "articles": [
+    {
+      "title": "The Clarity Act took a step forward: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-18T02:30:00+08:00",
+      "description": "Unpacking Thursday's at-times contentious markup hearing.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
+      "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-18T02:01:00+08:00",
+      "description": "Michael Saylor signaled another Bitcoin buy on Sunday while urging retail investors to vote on a proxy measure enabling semi-monthly STRC dividend payouts.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-18T00:32:04+08:00",
+      "description": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-18T00:05:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T22:00:00+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
       "url": "https://www.coindesk.com/tech/2026/05/17/defi-s-new-front-verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-17T09:53:32+08:00",
       "description": "全球半導體供應鏈正在出現新變數，繼 AI 熱潮推升晶片需求後，印度如今也正式加速搶進半導體製造市場。 據《彭博 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "以火星為加速跳板！NASA 靈神星軌道器拍下獨特弧光，為探索金屬小行星揭開序幕",
-      "url": "https://technews.tw/2026/05/17/nasa-spacecraft-captures-rare-crescent-mars-ahead-of-fridays-flyby/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T09:30:31+08:00",
-      "description": "NASA 的靈神星（Psyche）軌道器在接近火星前夕，傳回一張罕見的火星薄新月影像，為 5 月 15 日的重 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "US CLARITY Act will be a ‘boon for domestic innovation’: A16z",
-      "url": "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-17T09:09:05+08:00",
-      "description": "A16z crypto said that when US legal frameworks strike a balance between innovation and consumer protection, the impact tends to ripple through into global markets.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "致力移除入侵種小花蔓澤蘭找回原生種生存空間，南亞科是「植物殺手的殺手」",
-      "url": "https://technews.tw/2026/05/17/nanya-promotes-ecological-conservation-by-remov-mikania-micrantha/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T09:00:05+08:00",
-      "description": "2017 年，南亞科將總部搬遷到新北市泰山後，即開始推動環境保護行動，一年一度的移除外來種植物小花蔓澤蘭，不僅 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "打破演化鐵則，巨蜥「失而復得」的裝甲揭開 3.2 億年皮內骨之謎",
-      "url": "https://technews.tw/2026/05/17/scientists-solve-320-million-year-mystery-of-reptile-skin-armor/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T08:30:33+08:00",
-      "description": "骨骼的演化最初並非源於體內，而是起源於皮膚。化石紀錄顯示，最古老的皮內骨（skin bones）可追溯至 4. [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "MacBook Neo 上手體驗：絕對是值得順手買回家的一款",
-      "url": "https://technews.tw/2026/05/17/macbook-neo-px/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T08:00:36+08:00",
-      "description": "現在筆電市場中最亮眼的一款，絕對就是蘋果最新推出的 MacBook Neo，此一產品線打破了過往消費者對 Ma [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
