@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-17T12:36:50.288426+08:00",
+  "updated_at": "2026-05-17T16:35:59.148721+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78047,
-      "change": -1.11
+      "price": 78035,
+      "change": -0.52
     },
     "ETH": {
-      "price": 2183.43,
-      "change": -1.65
+      "price": 2183.79,
+      "change": -0.43
     },
     "SOL": {
-      "price": 86.71,
-      "change": -1.88
+      "price": 86.63,
+      "change": -0.99
     }
   },
   "articles": [
+    {
+      "title": "A Russian stablecoin built to dodge sanctions says it can survive even if they're lifted",
+      "url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T16:00:00+08:00",
+      "description": "A7A5, the Russia-linked stablecoin built to move money around banking restrictions, says faster trade settlement, yield and regional crypto infrastructure could keep it relevant even if geopolitical tensions ease.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "眼不見為淨，就能救地球？阿姆斯特丹禁止所有肉類和化石燃料廣告",
+      "url": "https://technews.tw/2026/05/17/why-is-amsterdam-banning-ads-for-meat/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-17T15:00:06+08:00",
+      "description": "阿姆斯特丹長年被視為全球最具代表性的自由城市之一。這裡以開放、多元與包容聞名，大麻合法化、紅燈區文化，以及遍布 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "皇家鑄幣廠在英國發行首枚向 Pink Floyd 致敬的紀念幣",
+      "url": "https://ccc.technews.tw/2026/05/17/the-royal-mint-issues-pink-floyd-commemorative-coin/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-17T14:00:14+08:00",
+      "description": "自從 Pink Floyd 從倫敦地下樂壇嶄露頭角、改寫現代音樂面貌，至今已超過半個世紀。皇家鑄幣廠正式推出英 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+      "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-17T13:27:23+08:00",
+      "description": "Strategy executive chairman Michael Saylor said that continuing to use the “never sell” Bitcoin mantra could ultimately undermine the very asset his company is built around.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "「復古電話」在美爆紅，竟成解決螢幕成癮與網路霸凌的折衷方案",
+      "url": "https://technews.tw/2026/05/17/tin-can-string-phones-become-hit-among-us-kids/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-17T13:00:37+08:00",
+      "description": "美國幼童間近期爆紅的話題新品，竟然是一台「有線電話」。這款名為 Tin Can 的產品，沒有螢幕、不能傳訊息， [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "重電、線纜族群業績強強滾，兩大關鍵推進器使「老產業」變 AI 時代新寵",
       "url": "https://finance.technews.tw/2026/05/17/heavy-electrical-equipment-cable-sectors-booming-performance/",
@@ -209,71 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-17T03:03:08+08:00",
       "description": "The notes carry a 0% coupon, but can be converted into equity in the company if holders choose to redeem their notes for shares.\n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-17T02:54:28+08:00",
-      "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin analysis sees 'bear trap' as BTC price passes two-week lows under $78K",
-      "url": "https://cointelegraph.com/markets/bitcoin-analysis-bear-trap-btc-price-passes-two-week-lows-under-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-17T01:07:39+08:00",
-      "description": "Bitcoin fell below $78,000 for the first time since the start of May, but traders refused to give up hope of a BTC price rebound coming next.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "大型恆星級黑洞究竟如何產生？或為緻密星團黑洞碰撞產物",
-      "url": "https://technews.tw/2026/05/17/biggest-black-holes-built-up-in-busy-star-clusters-after-series-of-violent-merging-events/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T00:00:59+08:00",
-      "description": "天文學家普遍認為一定質量以上的大質量恆星歷經超新星爆炸，最終會塌縮成恆星級黑洞，但某些恆星級黑洞質量卻有點太大 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 分析游離 DNA，提早揪出無症狀肝病",
-      "url": "https://technews.tw/2026/05/17/new-ai-blood-test-detects-silent-liver-disease-before-symptoms-appear/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-17T00:00:42+08:00",
-      "description": "約翰霍普金斯大學 Kimmel Cancer Center 的研究團隊開發出一種結合人工智慧的血液檢測，可透過 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The offline desk gadget that actually got me to sit up straight",
-      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-17T00:00:00+08:00",
-      "description": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
