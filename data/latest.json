@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23T16:33:58.927996+08:00",
+  "updated_at": "2026-05-23T22:07:19.549392+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 74460,
-      "change": -3.77
+      "price": 75053,
+      "change": -2.51
     },
     "ETH": {
-      "price": 2023.77,
-      "change": -4.89
+      "price": 2039.88,
+      "change": -3.83
     },
     "SOL": {
-      "price": 82.03,
-      "change": -5.95
+      "price": 83.09,
+      "change": -4.55
     }
   },
   "articles": [
+    {
+      "title": "Clarity Act could spark a boom in crypto ‘yield-as-a-service’",
+      "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-23T21:00:00+08:00",
+      "description": "The bill’s restrictions on yield-bearing crypto products may push the industry away from passive \"hold-to-earn\" models and toward AI-driven, compliant yield infrastructure, according to STBL Chief Commercial Officer Joe Vollono.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-23T21:00:00+08:00",
+      "description": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
+      "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-23T18:56:00+08:00",
+      "description": "The ECB warned EU finance ministers that expanding euro stablecoin issuance could weaken bank lending and complicate monetary policy.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-23T18:19:40+08:00",
+      "description": "U.S.-listed spot bitcoin exchange-traded funds have seen more than $2.26 billion in outflows over the past two weeks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "比業界預期提早近 4 天，黃仁勳今閃電抵台",
+      "url": "https://finance.technews.tw/2026/05/23/jensen-huang-ai/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-23T17:30:50+08:00",
+      "description": "輝達（NVIDIA）執行長黃仁勳原預計 5 月 27 日抵台參與輝達 GTC TAIPEI、台北國際電腦展（C [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+      "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-23T17:05:53+08:00",
+      "description": "The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "打破近 70 年太空非軍事化禁忌，美智庫呼籲太空軍應派兵登月防堵中國",
+      "url": "https://technews.tw/2026/05/23/mitchell-institute-calls-for-us-space-force-to-deploy-on-the-moon-asap/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-23T16:38:29+08:00",
+      "description": "為了防止中國主導外太空，美國現在就應該準備將軍隊送上月球，美國知名軍事智庫「米契爾航太研究所」（Mitchel [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "正確時機再出手，美國貿易代表：不急著現在課半導體關稅",
       "url": "https://finance.technews.tw/2026/05/23/tariff-semiconductor-chip-jamieson-greer/",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-23T09:00:51+08:00",
       "description": "上任逾一年的英特爾執行長陳立武，似乎正帶領這家一度搖搖欲墜的企業，逐漸走出泥淖。美東時間 18 日，陳立武接受 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "塔羅牌等神祕學也開始用 AI 解牌，但小心有情感依賴風險",
-      "url": "https://technews.tw/2026/05/23/we-talked-to-12-tarot-card-readers-who-are-using-ai-they-split-in-2-camps-with-big-implications-for-the-technology/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-23T08:30:51+08:00",
-      "description": "人們遇到棘手難題時，越來越多人轉向人工智慧（AI）尋求建議，儼然 AI 成為現代「神諭」，提供指引與情感支援， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Ethereum is still a good long-term buy, according data: Analyst",
-      "url": "https://cointelegraph.com/markets/ether-analyst-claims-eth-is-still-a-good-long-term-buy-heres-why?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-23T08:29:18+08:00",
-      "description": "Ethereum’s dominance in DeFi, stablecoins and staking is strengthening the long-term ETH accumulation thesis, despite it’s 28% price decline in 2026.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "搶食博通大單！聯發科化身「IC 設計界台積電」，憑兩大優勢決戰雲端晶片",
-      "url": "https://finance.technews.tw/2026/05/23/mediatek-market-cap-surges-2-trillion-in-a-month/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-23T08:00:10+08:00",
-      "description": "聯發科之所以 2026 年股價能屢創新高，靠的並不是它一年能賣出多少顆手機或物聯網晶片的老題材，而是成功打上  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin 'Pizza Day' was 16 years ago, here's how much that BTC is worth today",
-      "url": "https://cointelegraph.com/news/bitcoin-pizza-day-those-10k-btc-worth-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-23T07:16:38+08:00",
-      "description": "Laszlo Hanyecz's 2010 post, offering 10,000 BTC in exchange for two pizzas delivered to his home, marked the first recorded commercial BTC payment. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-23T07:03:33+08:00",
-      "description": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
-      "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-23T06:12:01+08:00",
-      "description": "US President Donald Trump has repeatedly said he wants the Federal Reserve to lower interest rates, but investors forecast no chance of a rate cut in 2026.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-23T05:37:17+08:00",
-      "description": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
