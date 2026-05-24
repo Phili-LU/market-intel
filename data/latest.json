@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T17:04:06.385022+08:00",
+  "updated_at": "2026-05-24T22:06:14.356027+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76734,
-      "change": 2.87
+      "price": 76651,
+      "change": 2.01
     },
     "ETH": {
-      "price": 2117.37,
-      "change": 4.42
+      "price": 2106.29,
+      "change": 3.15
     },
     "SOL": {
-      "price": 86.37,
-      "change": 5.36
+      "price": 85.76,
+      "change": 3.23
     }
   },
   "articles": [
+    {
+      "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+      "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T22:00:00+08:00",
+      "description": "Researchers and builders believe that artificial intelligence may be accelerating the quantum timeline and forcing a broader rethink of how digital security works.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto rails are becoming the default payment layer for AI agents, report says",
+      "url": "https://www.coindesk.com/business/2026/05/21/crypto-rails-are-becoming-the-default-payment-layer-for-ai-agents-report-says",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T21:00:00+08:00",
+      "description": "A new report from Keyrock says stablecoins on blockchain rails are becoming the go-to payment layer for AI agents as traditional card rails struggle to handle micropayments.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "CFTC officials who questioned prediction markets were suspended: NYT",
+      "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T19:43:38+08:00",
+      "description": "A New York Times investigation found that senior CFTC officials who raised concerns about Polymarket, Crypto.com and Gemini were suspended and pushed out.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
+      "url": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T17:22:16+08:00",
+      "description": "William Mougayar says critics are measuring the Ethereum Foundation by the wrong standard, claiming it was never meant to pump ETH or court institutions.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Why is Bitcoin falling despite pro-crypto Kevin Warsh becoming Fed chair?",
+      "url": "https://cointelegraph.com/markets/why-is-bitcoin-falling-despite-pro-crypto-kevin-warsh-becoming-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T17:02:25+08:00",
+      "description": "Rising short-term bond yields and Warsh's hawkish comments in the past are reviving fears of a December rate hike, which could slam the brakes on Bitcoin's recovery.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "台積電驚傳大砍 15% 分紅！員工不滿揚言「效法三星」發起大罷工",
       "url": "https://finance.technews.tw/2026/05/24/general-strike/",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-24T08:30:02+08:00",
       "description": "今年美國大學畢業季，人工智慧成了台上台下最尷尬的話題。前 Google 執行長施密特（Eric Schmidt [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "供應商搶單遭重罰 1.5 億元！台積電 2 奈米案立下新準則：不只要防盜，更要防「偷別人」",
-      "url": "https://finance.technews.tw/2026/05/24/tsmc-2nm-trade-secret-theft-verdict-establishes-3-key-new-legal-red-lines-expedited-trials-harsher-sentences-corporate-liability/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T08:00:32+08:00",
-      "description": "台積電先進製程機密被懷疑竊取到海外的「2 奈米竊密案」，判決在 4 月底出爐；負責此案的檢察官接受《今周刊》專 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "70% of all crypto wrench attacks happen in France: Report",
-      "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-24T07:07:19+08:00",
-      "description": "Centralized data collection is a honeypot for hackers and organized criminals looking to target crypto holders and their families, according to Bitcoiners. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-24T04:52:21+08:00",
-      "description": "\"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries,\" wrote President Trump late Saturday afternoon.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
-      "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-24T04:49:12+08:00",
-      "description": "The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% decrease from the all-time high of about $126,000 reached in October 2025.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-24T04:03:13+08:00",
-      "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
