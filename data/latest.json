@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T22:06:14.356027+08:00",
+  "updated_at": "2026-05-25T03:45:21.490040+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76651,
-      "change": 2.01
+      "price": 76615,
+      "change": 1.05
     },
     "ETH": {
-      "price": 2106.29,
-      "change": 3.15
+      "price": 2095.46,
+      "change": 1.04
     },
     "SOL": {
-      "price": 85.76,
-      "change": 3.23
+      "price": 85.25,
+      "change": 0.52
     }
   },
   "articles": [
+    {
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-25T03:00:00+08:00",
+      "description": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto and the Fed: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-25T02:30:00+08:00",
+      "description": "This past week saw incremental, but potentially important steps.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "FTX law firm Fenwick & West to pay $54M to victims in settlement",
+      "url": "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-25T02:05:52+08:00",
+      "description": "The law firm agreed to a settlement in February 2026 and is facing a separate $525 million lawsuit over its role in the collapse of the FTX crypto exchange.\n",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Tom Lee’s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+      "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T23:08:08+08:00",
+      "description": "ETH’s bearish chart setup points to a 25% drop toward $1,600, risking over $10 billion in paper losses for BitMine in the coming weeks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+      "url": "https://www.coindesk.com/business/2026/05/22/ledn",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T23:00:00+08:00",
+      "description": "Ledn forecasts the bitcoin-backed lending market could grow to $1 trillion within a decade as new research highlights strong borrower demand.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-24T23:00:00+08:00",
+      "description": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T22:02:22+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "AI is speeding up the quantum threat to crypto, security experts warn",
       "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
@@ -51,7 +142,7 @@
       "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-05-24T19:43:38+08:00",
+      "published_at": "2026-05-24T19:45:00+08:00",
       "description": "A New York Times investigation found that senior CFTC officials who raised concerns about Polymarket, Crypto.com and Gemini were suspended and pushed out.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
@@ -60,11 +151,11 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
+      "title": "Blockchain researcher defends Ethereum Foundation, says it’s doing ‘exactly’ its job",
       "url": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-05-24T17:22:16+08:00",
+      "published_at": "2026-05-24T17:35:00+08:00",
       "description": "William Mougayar says critics are measuring the Ethereum Foundation by the wrong standard, claiming it was never meant to pump ETH or court institutions.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
@@ -125,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+      "title": "StablR Euro and USD stablecoins depeg amid ongoing $2.8M exploit",
       "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-05-24T13:39:02+08:00",
-      "description": "The suspected cause is a private key compromise of one owner in the minting multisig account, said Blockaid. ",
+      "published_at": "2026-05-24T13:45:00+08:00",
+      "description": "Blockaid said the suspected cause is a private key compromise of one owner in the minting multisig account.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,116 +255,25 @@
       "claude_takeaway": "—"
     },
     {
+      "title": "Bitcoin bounces as Trump prepares to announce ‘negotiated’ Iran deal",
+      "url": "https://cointelegraph.com/news/bitcoin-bounces-as-trump-prepares-to-announce-negotiated-iran-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T11:20:00+08:00",
+      "description": "President Donald Trump promised “Final aspects and details of the deal are currently being discussed\" in a post on Truth Social.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
       "title": "「煎魚神器」不再需要代購！3COINS 首店落腳台北西門町，同步推台灣限定商品",
       "url": "https://finance.technews.tw/2026/05/24/3coins-coming-soon/",
       "source": "technews.tw",
       "category": "tw_stocks",
       "published_at": "2026-05-24T11:00:15+08:00",
       "description": "日本質感生活雜貨品牌「3COINS」正式宣布進軍台灣市場，台灣首間門市將於 8 月進駐台北西門商圈「誠品生活武 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "南韓三星、SK 海力士 2 倍槓桿 ETF 將上市！引發監管與波動隱憂",
-      "url": "https://finance.technews.tw/2026/05/24/2x-leveraged-etfs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T10:46:59+08:00",
-      "description": "南韓股市即將迎來首批「個股槓桿交易所交易基金（ETF）」，專門追蹤南韓兩大半導體巨頭三星電子（Samsung  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "別再笑暴龍手短！最新研究揭密：為換取「致命巨顎」，前肢才走向退化",
-      "url": "https://technews.tw/2026/05/24/why-were-t-rexs-arms-so-tiny/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T10:30:50+08:00",
-      "description": "一項最新研究指出，暴龍等大型肉食性恐龍之所以演化出極短的前肢，關鍵可能不在於「手臂退化」，而是「頭部武器化」。 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "玩 3 分鐘手遊就能辨識憂鬱症，準確度媲美傳統測驗",
-      "url": "https://technews.tw/2026/05/24/this-3-minute-video-game-is-surprisingly-good-at-spotting-depression/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T10:30:44+08:00",
-      "description": "紐約大學朗格尼醫療中心（NYU Langone Health）開發 3 分鐘智慧手機遊戲，能根據「快感缺乏」（ [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "標普 500 新創高還能追？巴菲特：每月投 200 美元，退休時變成 100 萬美元",
-      "url": "https://finance.technews.tw/2026/05/24/s-p-500-new-highs-invest-buffett-200-monthly-1-million-retirement/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T10:00:56+08:00",
-      "description": "在台股、美股屢創新高的 2026 年，投資市場瀰漫著一種既期待又怕受傷害的氣氛。「現在還能買嗎？」成為所有投資 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "黑得深邃還是亮到刺眼？外媒最新評測 OLED vs. QLED 電視",
-      "url": "https://technews.tw/2026/05/24/qled-vs-oled-which-tv-display-type-is-better/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T09:30:34+08:00",
-      "description": "外媒 Business Insider 19 日報導，測試發現 QLED 與 OLED 電視仍沒有絕對勝負，真 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "美伊終戰協議大致談妥？川普稱「重開荷姆茲海峽」遭伊朗駁斥",
-      "url": "https://finance.technews.tw/2026/05/24/reopening-the-strait-of-hormuz/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T09:20:30+08:00",
-      "description": "美國與伊朗之間延宕已久的衝突與封鎖有望迎來轉機，美國總統川普（Donald Trump）美東時間今日宣布，美國 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "散戶追價搶買，真正賺到的可能不是你，主動 ETF 狂潮，折溢價成獵人提款機",
-      "url": "https://finance.technews.tw/2026/05/24/actively-managed-etfs-see-excessive-intraday-premium-discount-swings/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T09:00:17+08:00",
-      "description": "全民搶購主動式 ETF，但盤中折溢價幅度過大，讓外資、高頻交易者與大戶透過資金優勢，大啖價差利益。 5月中旬以 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "畢業典禮嗆科技領袖提 AI，生活卻離不開：Z 世代在科技焦慮壓力下掙扎求生",
-      "url": "https://technews.tw/2026/05/24/generation-z-struggles-to-survive-under-the-pressure-of-technological-anxiety/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T08:30:02+08:00",
-      "description": "今年美國大學畢業季，人工智慧成了台上台下最尷尬的話題。前 Google 執行長施密特（Eric Schmidt [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
