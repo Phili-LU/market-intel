@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-24T12:45:55.960471+08:00",
+  "updated_at": "2026-05-24T17:04:06.385022+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76673,
-      "change": 1.65
+      "price": 76734,
+      "change": 2.87
     },
     "ETH": {
-      "price": 2118.88,
-      "change": 2.65
+      "price": 2117.37,
+      "change": 4.42
     },
     "SOL": {
-      "price": 85.86,
-      "change": 1.84
+      "price": 86.37,
+      "change": 5.36
     }
   },
   "articles": [
+    {
+      "title": "台積電驚傳大砍 15% 分紅！員工不滿揚言「效法三星」發起大罷工",
+      "url": "https://finance.technews.tw/2026/05/24/general-strike/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-24T16:48:22+08:00",
+      "description": "南韓三星電子（Samsung Electronics）員工因不滿獎金分配制度，揚言發動大規模罷工行動，所幸最終 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "當中國校園變成「楚門的教室」，學生表情與視線都是數據",
+      "url": "https://technews.tw/2026/05/24/china-students-stressed-by-dozens-of-surveillance-cameras-in-university-class-told-devices-are-digital-media-teaching-aids/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-24T15:00:40+08:00",
+      "description": "當學校引進 AI 臉部辨識監控與扣分系統，學生一舉一動都將受即時監控。一旦系統偵測到儀容不整、比中指，或與異性 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "旭化成開發出面向先進半導體封裝的「感光性聚醯亞胺薄膜」",
+      "url": "https://technews.tw/2026/05/24/asahi-kasei_novel-photosensitive-polyimide-film/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-24T14:00:37+08:00",
+      "description": "旭化成株式會社宣布，為滿足面向 AI 半導體的先進半導體封裝不斷升級的需求，公司新開發出「感光性聚醯亞胺薄膜」 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+      "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-24T13:39:02+08:00",
+      "description": "The suspected cause is a private key compromise of one owner in the minting multisig account, said Blockaid. ",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "WeMo 找上 Gogoro 買車，添 3 千輛白牌車布局「十萬台」大計",
+      "url": "https://technews.tw/2026/05/24/wemo-seeks-vehicle-supply-partnership-with-gogoro/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-24T13:30:57+08:00",
+      "description": "共享機車品牌威摩科技（WeMo Scooter）宣布與 Gogoro 合作，導入白牌新車 WeMo GO，正式 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美超微 AI 伺服器涉走私疑雲！輝達黃仁勳籲「應強化法規遵循管理」",
+      "url": "https://finance.technews.tw/2026/05/24/regulations-should-be-strengthened/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-24T13:29:12+08:00",
+      "description": "針對台灣檢方偵辦 AI 伺服器疑似不實申報出口案，輝達（NVIDIA）執行長黃仁勳罕見點名其重要合作夥伴「美超 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "「煎魚神器」不再需要代購！3COINS 首店落腳台北西門町，同步推台灣限定商品",
       "url": "https://finance.technews.tw/2026/05/24/3coins-coming-soon/",
@@ -196,84 +274,6 @@
       "category": "startup",
       "published_at": "2026-05-24T04:03:13+08:00",
       "description": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
-      "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-24T03:00:00+08:00",
-      "description": "Former Credit Suisse global head of portfolio and Risk Dimensions CIO Mark Connors says bitcoin has broken out of its longest stretch of underperformance in history and is ready to beat stocks, bonds, and gold as inflation stubbornly sticks around.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
-      "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-24T02:20:14+08:00",
-      "description": "The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "NASA 費米伽瑪射線太空望遠鏡首度偵測高能伽瑪射線，揭開「超亮超新星」能量之謎",
-      "url": "https://technews.tw/2026/05/24/fermi-telescope-captures-energy-source-of-slsn/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T00:00:53+08:00",
-      "description": "美國 NASA「費米伽瑪射線太空望遠鏡」（Fermi Gamma-ray Space Telescope）近期 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "人型機器人搭機引爭議，西南航空隨即封殺同類登機",
-      "url": "https://technews.tw/2026/05/24/southwest-airlines-bans-taking-human-animal-robots-on-board/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-24T00:00:15+08:00",
-      "description": "美國西南航空公司（Southwest Airlines）最近更新政策，禁止人型或動物外型機器人進入客艙，也不准 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "These special phone and app features can help protect you from spyware",
-      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-24T00:00:00+08:00",
-      "description": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Ferrari is using IBM’s AI to create F1 superfans",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-23T23:08:00+08:00",
-      "description": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
