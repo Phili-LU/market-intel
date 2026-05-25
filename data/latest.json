@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T23:33:45.366148+08:00",
+  "updated_at": "2026-05-26T04:07:17.834370+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77531,
-      "change": 1.52
+      "price": 77375,
+      "change": 0.97
     },
     "ETH": {
-      "price": 2121.97,
-      "change": 1.3
+      "price": 2120.1,
+      "change": 1.23
     },
     "SOL": {
-      "price": 86.05,
-      "change": 0.96
+      "price": 85.65,
+      "change": 0.63
     }
   },
   "articles": [
+    {
+      "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
+      "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-26T02:29:58+08:00",
+      "description": "The integration gives ADI token holders access to Ledger’s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers",
+      "url": "https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-26T01:57:00+08:00",
+      "description": "The crypto-aligned Protect Progress PAC reported spending another $750,000 on media for a Democratic candidate over Representative Al Green, whom it described as “actively hostile” to digital assets.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "NEAR price rally gains momentum as cross-chain product activity fuels further 15% jump",
+      "url": "https://www.coindesk.com/markets/2026/05/25/near-price-rally-gains-momentum-as-cross-chain-product-activity-fuels-further-15-jump",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-26T01:38:39+08:00",
+      "description": "The rally is fueled by NEAR Intents, the cross-chain system that has processed over $19 billion in volume and generated $32 million in fees.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+      "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-26T01:04:49+08:00",
+      "description": "Authorities stated that using crypto or blockchain doesn't change platforms that let users wager on uncertain outcomes from being gambling products.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+      "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-26T00:46:45+08:00",
+      "description": "Iranian negotiators arrived in Doha for talks, focusing on the Strait of Hormuz and highly enriched uranium, as Pakistan and Qatar are mediating.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-05-26T00:00:00+08:00",
+      "description": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+      "url": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-25T23:51:37+08:00",
+      "description": "Buterin's influence in the EF will decrease as the board expands. He framed the EF as \"one node, with a defined purpose,\" not the center of Ethereum.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "CoinQuant introduces trading infrastructure for the agent economy",
+      "url": "https://cointelegraph.com/press-releases/coinquant-introduces-trading-infrastructure-for-the-agent-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-25T23:39:11+08:00",
+      "description": "CoinQuant, the AI-powered no-code trading platform that has attracted over 15,000 users since launch, today announces its expansion into a unified trading intelligence architecture built for both human traders and autonomous AI agents.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Squid and Safe Labs say third-party module behind $3.2M exploit",
+      "url": "https://cointelegraph.com/news/squid-safe-labs-third-party-module-3-2-million-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-25T23:26:20+08:00",
+      "description": "A third-party module drained about $3 million from Safe wallets, with Squid attributing the incident to an external Safe module, saying its core systems were unaffected.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "The pope’s AI encyclical isn’t really about AI",
       "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
@@ -157,123 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-25T20:53:49+08:00",
       "description": "Your look at what's coming in the week starting May 25.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin risks drop to $72K as demand metric hits 2026 lows",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-drop-to-72k-as-demand-metric-hits-2026-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T20:45:26+08:00",
-      "description": "Bitcoin’s weakening demand failed to absorb increased selling pressure, raising risks of a further BTC price drop toward $72,000. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Indonesia blocks Polymarket after bets on president’s exit",
-      "url": "https://cointelegraph.com/news/indonesia-blocks-polymarket-bets-presidents-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T20:26:40+08:00",
-      "description": "Indonesia blocked Polymarket after users bet on President Prabowo Subianto leaving office early, citing gambling concerns and expanding global scrutiny of prediction markets.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Crypto lobby spending on Republicans far outpaces Democratic support",
-      "url": "https://cointelegraph.com/features/crypto-lobby-spending-on-republicans-far-outpaces-democratic-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T20:18:01+08:00",
-      "description": "The crypto lobby has spent tens of millions of dollars more on Republican candidates and elections than on Democratic lawmakers. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "BTC price to attack $80K shorts on Iran peace deal: Five things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/btc-price-tipped-to-attack-80k-shorts-on-iran-peace-deal-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T20:00:02+08:00",
-      "description": "Bitcoin traders predicted a short squeeze to $80,000, but a lack of overall demand and the return of leverage sparked warnings of more liquidation events to come.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Prometheum bets Wall Street distribution is the missing link for tokenized securities",
-      "url": "https://www.coindesk.com/business/2026/05/25/prometheum-bets-wall-street-distribution-is-the-missing-link-for-tokenized-securities",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T20:00:00+08:00",
-      "description": "Crypto has solved tokenization, but not distribution and Prometheum says broker-dealers and RIAs are the key to bringing digital assets into mainstream finance.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Influence360 launches as the first AI & data-driven Web3 KOL platform with global KOL coverage and real attribution",
-      "url": "https://cointelegraph.com/press-releases/influence360-launches-as-the-first-ai-data-driven-web3-kol-platform-with-global-kol-coverage-and-real-attribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T20:00:00+08:00",
-      "description": "Influence360 today announced the launch of its platform, introducing a new infrastructure layer for Web3 influencer marketing built around trust, data, and global execution.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "New York lawsuit tests lost property claim over dormant Bitcoin",
-      "url": "https://cointelegraph.com/news/new-york-lawsuit-lost-property-dormant-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T19:45:59+08:00",
-      "description": "A New York lawsuit seeks ownership of 39,069 dormant Bitcoin wallets, raising questions over lost crypto, private keys and property law.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Tether, Georgia plan lari-backed stablecoin GELT under new rules",
-      "url": "https://cointelegraph.com/news/tether-georgia-government-plan-lari-backed-stablecoin-gelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-25T19:30:37+08:00",
-      "description": "Georgia’s central bank released stablecoin rules in March covering reserve backing, issuer documents and external auditor verification.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電帶動熊本半導體聚落，三井不動產將在台招商",
-      "url": "https://finance.technews.tw/2026/05/25/mitsui-fudosan-kumamoto-science-park/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-25T18:40:34+08:00",
-      "description": "日本三井不動產表示，台積電投資日本熊本縣後，熊本逐步形成半導體研究、測試與製造重鎮；三井不動產已與熊本縣、合志 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
