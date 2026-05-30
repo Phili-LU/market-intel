@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-30T12:31:38.736513+08:00",
+  "updated_at": "2026-05-30T16:42:33.081404+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 73259,
-      "change": -0.04
+      "price": 73434,
+      "change": -0.32
     },
     "ETH": {
-      "price": 2007.47,
-      "change": 0.22
+      "price": 2012.19,
+      "change": 0.29
     },
     "SOL": {
-      "price": 82.23,
-      "change": 0.88
+      "price": 82.21,
+      "change": -0.04
     }
   },
   "articles": [
+    {
+      "title": "NVIDIA 神祕數字宣傳 GTC Taipei，Arm、微軟助陣可望揭曉新款 PC",
+      "url": "https://technews.tw/2026/05/30/nvidia-teases-major-announcement-experts-predict-is-the-fabled-n1x-chip/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-30T15:34:28+08:00",
+      "description": "NVIDIA 一系列官方帳號以及 Arm、微軟 Windows 和 Surface、華碩、微星等貼文都在宣傳一 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "本土醫護大出走，靠引進外籍人力能救？西班牙醫療崩潰現場：制度性折磨趕走優秀菁英",
+      "url": "https://technews.tw/2026/05/30/fed-up-low-pay-overwork-spain-doctors-strike-nurses-quit-foreign-doctors-solution/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-30T15:00:47+08:00",
+      "description": "近期，台灣確定將「三班護病比」正式入法，明定每位護理師在白班、小夜班和大夜班所要照護的病患數，希望藉此減緩護理 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "仁寶電腦與 GMI Cloud 宣布攜手合作，推動 AI 基礎架構發展",
+      "url": "https://technews.tw/2026/05/30/compal-electronics-gmi-cloud-announce-partnership-advance-ai-infrastructure-development/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-30T14:00:30+08:00",
+      "description": "仁寶電腦 28 日宣布，與美國矽谷 AI 基礎架構服務商 GMI Cloud 展開合作，共同加速新世代 AI  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "英國重回歐盟代價高昂！除了每年恐多付 2,000 億元，還須加入歐元區／申根區",
+      "url": "https://finance.technews.tw/2026/05/30/uk-wanna-return-to-eu/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-30T14:00:28+08:00",
+      "description": "英國脫歐後經濟成長疲弱、投資與就業下滑，促使逾半民眾支持重新加入歐盟。工黨黨魁之爭，更讓「重返歐盟」議題升溫。 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin, ether, XRP, dogecoin lag a nine-week stocks rally as ETF demand cools",
+      "url": "https://www.coindesk.com/markets/2026/05/30/bitcoin-ether-xrp-dogecoin-lag-a-nine-week-stocks-rally-as-etf-demand-cools",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-30T13:41:30+08:00",
+      "description": "The S&P 500 posted its longest weekly winning streak since 2023 and Brent oil stabilized near $92 on US-Iran ceasefire hopes. The biggest cryptocurrencies still drifted lower, with Hyperliquid's HYPE the only major name to rally.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+      "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-30T13:27:39+08:00",
+      "description": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "聯合國：2030 年前全球氣溫維持紀錄水準，高機率出現史上最熱年份",
+      "url": "https://technews.tw/2026/05/30/un-2030-global-temperatures-record-hottest-year/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-05-30T13:00:29+08:00",
+      "description": "聯合國 28 日警告，今年以及未來 4 年的全球平均氣溫可能持續處於或接近創紀錄水準。 有史以來最熱的11個年 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+      "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-30T12:57:37+08:00",
+      "description": "Swan Bitcoin CEO Cory Klippsten said it is important to pay attention to retail sentiment around Bitcoin, as ownership is still far from concentrated and “it’s not like Blackrock owns the Bitcoin.”",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "美太空司令部戰略大轉向，進軍月地空間並開始研發進攻性管制能力",
       "url": "https://technews.tw/2026/05/30/usspacecom-is-starting-to-develop-offensive-space-control-over-the-cislunar-space/",
@@ -170,110 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-05-30T08:00:44+08:00",
       "description": "「把你們最重要的產品交給我，分給我 5％、10％ 的訂單，讓我去爭取、去贏得你們的信任。」這般近乎懇求的低姿態 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "施崇棠：蘋果將成本逼到極致，華碩不輕易讓出市場",
-      "url": "https://finance.technews.tw/2026/05/30/asus-unwilling-to-easily-give-up-the-budget-laptop-market/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-30T07:00:00+08:00",
-      "description": "品牌大廠華碩 5 月 29 日舉行股東會，面對蘋果 MacBook Neo 銷售火爆，威脅 PC 品牌廠平價筆 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin dip buyers place $500M in bids as $70K retest looms",
-      "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-30T06:45:33+08:00",
-      "description": "Over $500 million in Bitcoin bids now sit near $70,000, while options traders and futures positions converge around the same level.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "‘Extraordinarily unusual’ for CFTC to reverse Gemini settlement deal: Ex-chair",
-      "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-30T06:28:10+08:00",
-      "description": "As the CFTC and Gemini work together to seek a court's reversal of a 2025 settlement, one of the agency’s former chairs said the public “deserves a better explanation.”",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SpaceX awarded $6.45B in Space Force contracts ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/29/spacex-awarded-6-45b-in-space-force-contracts-ahead-of-ipo/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-30T06:21:38+08:00",
-      "description": "SpaceX already generated one-fifth of its 2025 revenue from government contracts, the company revealed in its IPO filing.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-30T06:14:22+08:00",
-      "description": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading",
-      "url": "https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-30T04:52:01+08:00",
-      "description": "The CFTC issued notices affecting platforms seeking to offer cryptocurrency perpetual futures contracts, including a no-action position for Coinbase and approval for Kalshi.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
-      "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-05-30T04:03:52+08:00",
-      "description": "JPMorgan CEO Jamie Dimon criticized Coinbase CEO Brian Armstrong and warned the current CLARITY Act framework could ultimately fail, as banks and crypto firms clash over whether stablecoin issuers should be allowed to offer yield-bearing rewards that resemble bank deposits.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-30T02:49:19+08:00",
-      "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
