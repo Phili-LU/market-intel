@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T17:27:21.586890+08:00",
+  "updated_at": "2026-05-31T22:15:40.271243+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 73837,
-      "change": 0.5
+      "price": 73687,
+      "change": -0.24
     },
     "ETH": {
-      "price": 2023.77,
-      "change": 0.5
+      "price": 2016.56,
+      "change": -0.22
     },
     "SOL": {
-      "price": 82.67,
-      "change": 0.62
+      "price": 82.53,
+      "change": 0.15
     }
   },
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-31T21:10:00+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin's wild days are over — and Trace Mayer says that's a good thing",
+      "url": "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-05-31T21:00:00+08:00",
+      "description": "The creator of the Mayer Multiple argues bitcoin’s growing economic substance is compressing volatility and attracting deeper capital.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-rebound-targets-78k-as-short-term-holders-defend-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-31T20:39:47+08:00",
+      "description": "Bitcoin’s bounce from a key holder cost-basis level has improved the case for further upside, with historical data pointing to $101,000 as a potential best-case target.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Vietnam proposes allowing SMEs to use digital assets as loan collateral",
+      "url": "https://cointelegraph.com/news/vietnam-proposes-allowing-smes-to-use-digital-assets-as-loan-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-05-31T18:03:56+08:00",
+      "description": "Vietnam’s Ministry of Finance has proposed letting SMEs use digital assets, virtual assets and intellectual property as loan collateral.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Cosmos-based Gravity Bridge halts bridge after reported $5.4M exploit",
       "url": "https://cointelegraph.com/news/cosmos-based-gravity-bridge-halts-bridge-after-reported-54m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -222,58 +274,6 @@
       "category": "crypto",
       "published_at": "2026-05-31T08:58:32+08:00",
       "description": "While Bitcoin is hovering around $73,000, a crypto trader says the current setup is “different from the previous breakdown in February.”",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "海平面上升兇手揭曉：海水升溫為主因，且會持續數百年",
-      "url": "https://technews.tw/2026/05/31/scientists-just-confirmed-whats-driving-sea-level-rise-and-its-alarming/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-31T08:30:36+08:00",
-      "description": "最新研究顯示，全球海平面上升主要推手已更清楚揭露，且狀況比認知更令人憂心。20 日發表於《Science Ad [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電先進製程不能沒有它！山林水如何掌握全台四成五再生水，成為半導體不可替代的後盾",
-      "url": "https://technews.tw/2026/05/31/outsider-shan-lin-shui-loss-to-5-billion-revenue-4-years-3-reforms-tsmc-critical-water-supply-no-error/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-05-31T08:00:53+08:00",
-      "description": "國內水資源處理大廠山林水，4 年前面臨虧損，卻在去年開創 50 億元營收新頁。董座郭又綺如何讓員工重拾信心，帶 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-05-31T05:45:00+08:00",
-      "description": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Senator Lummis says China will 'write the rules' of the new financial era if CLARITY fails",
-      "url": "https://cointelegraph.com/news/senator-lummis-says-china-will-beat-the-us-to-the-punch-if-clarity-is-not-passed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-05-31T04:45:45+08:00",
-      "description": "The Senate Banking Committee voted to advance the CLARITY Act in May, but it must still pass both chambers of Congress before heading to the president's desk.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
