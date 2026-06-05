@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T12:53:21.146100+08:00",
+  "updated_at": "2026-06-05T18:29:25.795966+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63032,
-      "change": -2.03
+      "price": 62508,
+      "change": 0.04
     },
     "ETH": {
-      "price": 1729.29,
-      "change": -4.11
+      "price": 1674.07,
+      "change": -4.56
     },
     "SOL": {
-      "price": 67.06,
-      "change": -5.33
+      "price": 66.37,
+      "change": -3.16
     }
   },
   "articles": [
     {
-      "title": "半導體大型面板級封裝革命！上銀導入高通 Q6 晶片讓設備「長眼又生腦」",
-      "url": "https://finance.technews.tw/2026/06/05/qualcomm-dragonwing-q6/",
+      "title": "M315月營收月減24.2%",
+      "url": "https://finance.technews.tw/2026/06/05/m31-6643-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T12:50:24+08:00",
-      "description": "上銀科技今日宣布首度與高通合作，雙方共同在 2026 台北國際電腦展（COMPUTEX 2026） 展示半導體 [&#8230;]",
+      "published_at": "2026-06-05T18:20:15+08:00",
+      "description": "M31（6643）公布 5 月合併營收 1.28 億元，較上（4）月成長 -24.2%，與去年同期相比為年增  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "聯發科蠶食 Google TPU 市占？博通親釋毛利率趨勢",
-      "url": "https://technews.tw/2026/06/05/why-broadcoms-stock-is-falling-so-hard-after-earnings/",
+      "title": "環球晶5月營收48.42 億元",
+      "url": "https://finance.technews.tw/2026/06/05/gwc-6488-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T12:20:40+08:00",
-      "description": "網通晶片大廠博通（Broadcom Inc.）對本季（5-7 月）的營收展望及 AI 晶片銷售額預估略顯保守， [&#8230;]",
+      "published_at": "2026-06-05T18:20:12+08:00",
+      "description": "環球晶（6488）今（5）日公布 5 月營收，達 48.42 億元，較 4 月成長 2.0%，較去年同期成長  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "私募信貸市場再現雜音？黑石啟動限制贖回",
-      "url": "https://finance.technews.tw/2026/06/05/blackstone-triggers-redemption-limits/",
+      "title": "宜鼎5月營收75.65 億元",
+      "url": "https://finance.technews.tw/2026/06/05/innodisk-5289-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T12:10:41+08:00",
-      "description": "因應客戶撤資請求上升，資管巨頭黑石集團（Blackstone）對旗下旗艦基金啟動贖回限制；近來已有多家同業採取 [&#8230;]",
+      "published_at": "2026-06-05T18:20:06+08:00",
+      "description": "宜鼎（5289）今（5）日公布 5 月營收，達 75.65 億元，較 4 月成長 13.4%，較去年同期成長  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "量子運算離商業化更近一步？Quantinuum 上市受市場關注",
-      "url": "https://technews.tw/2026/06/05/quantinuum-nasdaq-ipo/",
+      "title": "創惟5月營收月增0.2%",
+      "url": "https://finance.technews.tw/2026/06/05/gli-6104-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T12:00:31+08:00",
-      "description": "Honeywell 旗下量子運算公司 Quantinuum 於美國時間 6 月 4 日正式在那斯達克上市，成為 [&#8230;]",
+      "published_at": "2026-06-05T18:10:08+08:00",
+      "description": "創惟（6104）公布 5 月合併營收 3.63 億元，較上（4）月成長 0.2%，與去年同期相比為年增 1.7 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "光通訊飆股 Ciena 財測平平  股價摔 13%",
-      "url": "https://finance.technews.tw/2026/06/05/ciena-high-flying-optical-communications-stock-flat-guidance-plunges-13/",
+      "title": "中美晶5月營收67.13 億元",
+      "url": "https://finance.technews.tw/2026/06/05/sas-5483-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T12:00:13+08:00",
-      "description": "光通訊設備商 Ciena 業績成長強勁，但考量股價過去一年來已飆漲數倍，最新財測未能滿足投資人的高標期待，財報 [&#8230;]",
+      "published_at": "2026-06-05T18:10:06+08:00",
+      "description": "中美晶（5483）今（5）日公布 5 月營收，達 67.13 億元，較 4 月成長 0.2%，較去年同期成長  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "關注輝達中國業務與晶片出口，美參議員邀黃仁勳作證",
-      "url": "https://technews.tw/2026/06/05/elizabeth-warren-invites-jensen-huang-to-testify-on-chip-exports-at-hearing/",
+      "title": "景碩5月營收月增3.1%",
+      "url": "https://finance.technews.tw/2026/06/05/kinsus-3189-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:50:59+08:00",
-      "description": "美國民主黨籍聯邦參議員華倫（Elizabeth Warren）關注輝達（Nvidia）中國業務、出口管制，以及 [&#8230;]",
+      "published_at": "2026-06-05T18:10:05+08:00",
+      "description": "景碩（3189）公布 5 月合併營收 42.00 億元，較上（4）月成長 3.1%，與去年同期相比為年增 33 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "人人都能投資 Anthropic、SpaceX、Open AI，標普與那指將加快納入",
-      "url": "https://finance.technews.tw/2026/06/05/anthropic-spacex-open-ai-ipo/",
+      "title": "大雨後水母為何無法浮上水面？鹽水分層形成隱形阻力",
+      "url": "https://technews.tw/2026/06/05/jellyfish-tripedalia-cystophora/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:41:55+08:00",
-      "description": "今年底前將有三家 AI 時代高話題性公司進行大規模首次公開發行，它們可能是史上規模最大的 IPO。這三家公司都 [&#8230;]",
+      "published_at": "2026-06-05T18:07:36+08:00",
+      "description": "有些水生動物似乎多努力往上游也穿不過某個邊界抵達水面，最近一群科學家實地考察後發現原因不是牠們游不動，而是鹽水 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "離台赴韓要產能，黃仁勳：為下半年到明年成長做準備",
-      "url": "https://technews.tw/2026/06/05/jensen-huang-leaving-taiwan-korea-production-capacity-preparing-h2-next-year-growth/",
+      "title": "鴻海 5 月營收 8,594 億元創同期高，第二季營運估優於預期",
+      "url": "https://finance.technews.tw/2026/06/05/foxconn-may-revenue-record-nt8594-billion-q2-operations-exceed-forecasts/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:40:33+08:00",
-      "description": "人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳今天結束 14 天台灣行程，搭乘私人專機前往韓國。他在 [&#8230;]",
+      "published_at": "2026-06-05T17:50:45+08:00",
+      "description": "鴻海今天下午公布 5 月自結合併營收新台幣 8,594.09 億元，月增 3.28%，較 2025 年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "黃金交叉提早出現：機器人瀏覽量首次超越人類，AI 代理為大宗",
-      "url": "https://technews.tw/2026/06/05/cloudflare-ceo-says-bot-internet-traffic-has-overtaken-humans/",
+      "title": "輝達 GTC 台北重返 PC 戰場，黃仁勳四大科技密碼一次看",
+      "url": "https://technews.tw/2026/06/05/nvidia-gtc-taipei-return-pc-battlefield-jensen-huang-four-tech-codes/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:30:46+08:00",
-      "description": "Cloudflare 執行長 Matthew Prince 表示，Cloudflare 公布數據，顯示網路機器 [&#8230;]",
+      "published_at": "2026-06-05T17:40:15+08:00",
+      "description": "輝達（NVIDIA）執行長黃仁勳今天結束為期 1 4天訪台行程，轉往韓國訪問。這場掀起全台人工智慧（AI）旋風 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "不迷信大模型！國泰金運用開源小型語言模型 SLM 精準判斷客戶意圖",
-      "url": "https://finance.technews.tw/2026/06/05/slm/",
+      "title": "雍智科技5月營收月減6.8%",
+      "url": "https://finance.technews.tw/2026/06/05/ksmt-6683-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:25:37+08:00",
-      "description": "國泰金以「生成式AI技術發展框架 GAIA」為核心，以及 AI 即服務（AI as a service, AI [&#8230;]",
+      "published_at": "2026-06-05T17:40:02+08:00",
+      "description": "雍智科技（6683）公布 5 月合併營收 2.03 億元，較上（4）月成長 -6.8%，與去年同期相比為年增  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Meta 智慧眼鏡曝內建臉部辨識核心，NameTag 計畫再掀隱私疑慮",
-      "url": "https://infosecu.technews.tw/2026/06/05/meta-silently-added-face-recognition-code-for-its-smart-glasses-to-millions-of-phones/",
+      "title": "GIS-KY5月營收月減17.9%",
+      "url": "https://finance.technews.tw/2026/06/05/gis-6456-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:20:59+08:00",
-      "description": "外媒 WIRED 揭露 Meta 把尚未啟用的臉部辨識悄悄嵌入「Meta AI」輔助應用程式（Meta AI  [&#8230;]",
+      "published_at": "2026-06-05T17:30:22+08:00",
+      "description": "GIS-KY（6456）公布 5 月合併營收 31.98 億元，較上（4）月成長 -17.9%，與去年同期相比 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "住飛機航道下方也甘願，外國自造者將自家天花板變成即時航班軌跡圖",
-      "url": "https://technews.tw/2026/06/05/reddit-maker-turned-hes-own-ceiling-into-flight-tracking-monitor/",
+      "title": "樺漢5月營收155.79 億元",
+      "url": "https://finance.technews.tw/2026/06/05/ennoconn-6414-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:11:30+08:00",
-      "description": "一般人如果住在機場起降航道下方，通常意味著必須忍受頻繁的飛機噪音，但對一位硬派航空迷兼自造者（Maker）來說 [&#8230;]",
+      "published_at": "2026-06-05T17:30:20+08:00",
+      "description": "樺漢（6414）今（5）日公布 5 月營收，達 155.79 億元，較 4 月成長 7.0%，較去年同期成長  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI 生物安全威脅引發業界共識：AI 科技巨頭罕見要求國會強制審查合成 DNA 供應鏈",
-      "url": "https://technews.tw/2026/06/05/ai-leaders-call-for-tougher-protections-against-ai-aided-bioweapons/",
+      "title": "台表科5月營收43.48 億元",
+      "url": "https://finance.technews.tw/2026/06/05/tsmt-6278-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:10:35+08:00",
-      "description": "OpenAI、Anthropic、Google DeepMind、微軟等多家 AI 陣營重量級公司 4 日罕見 [&#8230;]",
+      "published_at": "2026-06-05T17:30:02+08:00",
+      "description": "台表科（6278）今（5）日公布 5 月營收，達 43.48 億元，較 4 月成長 -3.5%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "資安主管吹哨爆料：IBM、AT&T 隱瞞駭客入侵，美國政府資料早已外洩",
-      "url": "https://infosecu.technews.tw/2026/06/05/ibm-att-hacker-dangers-us-government/",
+      "title": "台郡5月營收16.82 億元",
+      "url": "https://finance.technews.tw/2026/06/05/flexium-6269-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:04:21+08:00",
-      "description": "IBM 前任資安副總以「吹哨者」身分爆料，承包美國政府標案的 IBM 及 AT&#38;T 刻意隱瞞外國駭客入 [&#8230;]",
+      "published_at": "2026-06-05T17:20:22+08:00",
+      "description": "台郡（6269）今（5）日公布 5 月營收，達 16.82 億元，較 4 月成長 -15.2%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "魏哲家喊要很久才能滿足客戶，台積電建廠夥伴股價揚",
-      "url": "https://finance.technews.tw/2026/06/05/cc-wei-warns-long-time-satisfy-customer-demand-tsmc-factory-construction-partners-stock-surge/",
+      "title": "力成5月營收79.18 億元",
+      "url": "https://finance.technews.tw/2026/06/05/pti-6239-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T11:00:05+08:00",
-      "description": "晶圓代工廠台積電 4 日召開股東常會，董事長暨總裁魏哲家表示，台積電在美國和台灣兩地積極擴產，「要很久時間」才 [&#8230;]",
+      "published_at": "2026-06-05T17:20:16+08:00",
+      "description": "力成（6239）今（5）日公布 5 月營收，達 79.18 億元，較 4 月成長 4.5%，較去年同期成長 3 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "太空基礎設施商 Redwire 準備上太空種草莓  股價飆",
-      "url": "https://technews.tw/2026/06/05/redwire-awarded-a-contract-from-astrobiome-space-to-launch-inaugural-space-agriculture-mission-in-worlds-first-commercial-space-greenhouse/",
+      "title": "尼得科超眾5月營收8.71 億元",
+      "url": "https://finance.technews.tw/2026/06/05/cci-6230-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T10:50:38+08:00",
-      "description": "太空基礎設施公司 Redwire 喜簽新約、準備到太空種野草莓，股價應聲飆高。 Redwire 4日發布新聞稿 [&#8230;]",
+      "published_at": "2026-06-05T17:20:05+08:00",
+      "description": "尼得科超眾（6230）今（5）日公布 5 月營收，達 8.71 億元，較 4 月成長 5.1%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美國 5 月裁員數逼近 10 萬大關，近四成全因人工智慧",
-      "url": "https://technews.tw/2026/06/05/layoffs-in-the-us-sign-the-worst-may-since-2020-with-a-record-linked-to-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-05T10:40:06+08:00",
-      "description": "根據人力動向調查公司 Challenger, Gray &#38; Christmas 於 6 月 4 日公布 [&#8230;]",
+      "title": "JPMorgan, Bank of America, Citi to start blockchain offensive with shared tokenized network",
+      "url": "https://www.coindesk.com/markets/2026/06/05/jpmorgan-bank-of-america-and-citi-are-going-on-the-blockchain-offensive-with-a-shared-tokenized-network",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-05T17:16:29+08:00",
+      "description": "American's biggest banks plan to introduce a shared tokenized network next year to tackle the potential threat of stablecoins eating into their deposits.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "記憶體大漲扛不住，PC 巨頭筆電退回 8GB",
-      "url": "https://technews.tw/2026/06/05/8gb-of-ram-is-back-on-laptops/",
+      "title": "電商 618 促銷和世足賽事備貨告終，6 月電視面板需求放緩",
+      "url": "https://technews.tw/2026/06/05/panel-prices-in-2026-june-h1/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T10:30:43+08:00",
-      "description": "在記憶體價格與 AI 裝置需求推升成本的背景下，筆電市場正在出現一波「回到 8GB」的組態調整。戴爾（Dell [&#8230;]",
+      "published_at": "2026-06-05T17:14:26+08:00",
+      "description": "隨著 618 電商檔期與世足賽備貨需求逐步告一段落，面板市場動能開始降溫。面板廠因應需求放緩調整產能與出貨策略 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "任天堂妥協歐盟新規，Switch 2 將推「可自換電池」專屬版本",
-      "url": "https://ccc.technews.tw/2026/06/05/nintendo-switch-2-with-user-replaceable-batteries-coming-to-the-eu/",
+      "title": "迎 AI 斬傳產！0050、0056 成分股大換血「2 兆熱錢」鎖定 AI 大贏家",
+      "url": "https://finance.technews.tw/2026/06/05/major-reshuffle-of-constituent-stocks/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T10:20:02+08:00",
-      "description": "任天堂在 6 月 4 日確認，將為 Switch 2 推出專為歐盟市場設計的版本，以符合歐盟即將上路的電池可更 [&#8230;]",
+      "published_at": "2026-06-05T17:10:19+08:00",
+      "description": "富時今日公布元大台灣 50（0050）、元大高股息（0056）成分股定期審核結果，這次調整強烈展現「AI 含金 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Claude 正在瓦解人類價值，工程師：職場文化也在被摧毀",
-      "url": "https://technews.tw/2026/06/05/ai-impact-working-mode/",
+      "title": "帆宣5月營收月增5.2%",
+      "url": "https://finance.technews.tw/2026/06/05/mic-6196-202605-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-06-05T10:12:12+08:00",
-      "description": "AI 寫程式的速度已經超越人類，品質也不相上下，且很快，這些 AI 模型將有自主能力，不需人類下指導棋，就能生 [&#8230;]",
+      "published_at": "2026-06-05T17:10:07+08:00",
+      "description": "帆宣（6196）公布 5 月合併營收 69.74 億元，較上（4）月成長 5.2%，與去年同期相比為年增 64 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
