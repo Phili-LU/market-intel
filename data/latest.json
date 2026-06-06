@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T22:14:27.828286+08:00",
+  "updated_at": "2026-06-07T03:51:29.521561+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 60928,
-      "change": 0.19
+      "price": 60599,
+      "change": 0.68
     },
     "ETH": {
-      "price": 1561.54,
-      "change": -3.05
+      "price": 1554.68,
+      "change": -1.04
     },
     "SOL": {
-      "price": 62.73,
-      "change": -3.23
+      "price": 61.73,
+      "change": -2.62
     }
   },
   "articles": [
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-07T02:13:36+08:00",
+      "description": "Apple's WWDC nears: Here's what you can look forward to.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-07T01:42:15+08:00",
+      "description": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
+      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-07T00:30:00+08:00",
+      "description": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-07T00:17:21+08:00",
+      "description": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
+      "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-07T00:06:54+08:00",
+      "description": "Bitcoin’s latest oversold RSI mirrors 2020 and February 2026 setups that preceded 50% and 30% rebounds, putting $70K back in focus.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "羅曼太空望遠鏡可能揭示 10 萬個隱藏世界，改變我們對銀河系行星的認知",
+      "url": "https://technews.tw/2026/06/07/nasas-roman-telescope-could-reveal-100000-hidden-worlds/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T00:00:23+08:00",
+      "description": "NASA 羅曼太空望遠鏡（Nancy Grace Roman Space Telescope）預定把搜尋系外行 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "從吞噬到創造，超大質量黑洞或許也是宇宙規模的行星搖籃",
+      "url": "https://technews.tw/2026/06/07/smbhs-may-be-the-universe-largest-planet-nurseries/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T00:00:01+08:00",
+      "description": "超大質量黑洞（Supermassive Black Holes，SMBHs）通常被視為宇宙中最劇烈的能量來源之 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
+      "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T23:59:00+08:00",
+      "description": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
+      "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T23:00:00+08:00",
+      "description": "Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
       "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-06T14:00:38+08:00",
       "description": "博帝科技（Patriot Memory）6 月 1 日公布 COMPUTEX 2026 展出陣容，以「Buil [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "被演算法邊緣化的古老國度，當「喬治亞」遇上 AI 連川普也分不清",
-      "url": "https://technews.tw/2026/06/06/which-georgia-are-you-looking-for/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T14:00:36+08:00",
-      "description": "當你聽到「喬治亞」這個名字，腦海中浮現的是什麼？是亞特蘭大繁華的摩天大樓，還是可口可樂的發源地？又或者，是一座 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "護國神山還在長高、造就千萬年薪族，台灣消費信心為何停滯不前？",
-      "url": "https://finance.technews.tw/2026/06/06/japan-south-korea-and-taiwan-are-suffering-industrial-rot/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T13:30:01+08:00",
-      "description": "英國《經濟學人》指出，AI 浪潮與台積電帶動台灣出口與 GDP 飆升，但傳統產業衰退、薪資差距擴大、青年低薪、 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "中美科技競爭白熱化，專家聚焦台美合作與供應鏈韌性",
-      "url": "https://technews.tw/2026/06/06/china-usa-semiconductor-in-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T13:15:53+08:00",
-      "description": "隨著 AI 成為各國競逐的新國力象徵，全球科技競爭正進入新階段。在科技、民主與社會研究中心（DSET）舉辦的論 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
-      "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T11:30:00+08:00",
-      "description": "Santiment data show active addresses at a four-month high and social dominance near a 2026 peak after Charles Hoskinson warned of a \"wave of failures\" in the ecosystem.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「AI 降本」淪票房毒藥？逾半企業裁員後股價反挫 25%，投資人早就不買單",
-      "url": "https://finance.technews.tw/2026/06/06/investors-call-bluff-ai-driven-layoffs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T11:00:31+08:00",
-      "description": "據《CNBC》報導，在 23 家標普 500 企業中，56% 的公司在宣布因 AI 裁員後，股價反而下跌，平均 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "鱈魚成本狂飆吃不消，英國經典「炸魚薯條」引進平價替代魚種求生",
-      "url": "https://technews.tw/2026/06/06/chippies-turn-to-new-species-amid-massive-cod-price-rise/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T10:30:19+08:00",
-      "description": "英國經典外帶炸魚薯條正面臨鱈魚價格飆升的壓力，業者被迫調整菜單與營運策略以因應成本上揚。隨著大西洋配額限制與全 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "地緣政治擋不住 AI 浪潮！大摩亞洲峰會首度移師台北，600 外資「用錢投票」挺台股底氣",
-      "url": "https://finance.technews.tw/2026/06/06/beyond-tsmc-ai-supply-chain-in-demand-cross-strait-risks-morgan-stanley-optimistic-taiwan-stocks/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T10:00:26+08:00",
-      "description": "兩岸關係持續緊張，但全球資本已經開始排隊飛來台灣。 摩根士丹利舉辦的「亞洲投資高峰會」，過去都是在上海、新加坡 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "NHK：日本擬 2040 年前重建 2 至 5 座老舊核電機組",
-      "url": "https://technews.tw/2026/06/06/nhk-japan-plans-rebuild-2-5-aging-nuclear-reactors-2040/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T09:30:46+08:00",
-      "description": "日本放送協會（NHK）引述一份將在 5 日提出的政策草案，日本政府計劃在 2040 年代前重建 2 到 5 座 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "直擊 AI 電力痛點！台達電鄭平領軍，強打「從電網到晶片」一站式解方",
-      "url": "https://technews.tw/2026/06/06/computex-ping-cheng-power-shortage-ai-biggest-challenge-delta-electronics-one-stop-vertical-integration-grid-chip/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T09:00:04+08:00",
-      "description": "COMPUTEX 2026 盛大開幕，台達電子由董事長鄭平（首圖左二）親自坐鎮，帶領一級主管對外展現其在 AI [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
