@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T12:33:12.926652+08:00",
+  "updated_at": "2026-06-06T17:05:59.071051+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 59793,
-      "change": -5.1
+      "price": 61182,
+      "change": -2.26
     },
     "ETH": {
-      "price": 1526.18,
-      "change": -11.69
+      "price": 1581.73,
+      "change": -5.22
     },
     "SOL": {
-      "price": 61.09,
-      "change": -9.43
+      "price": 63.2,
+      "change": -3.56
     }
   },
   "articles": [
+    {
+      "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it",
+      "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T16:25:36+08:00",
+      "description": "The BitMEX co-founder and Maelstrom CIO cited a falling chart of SpaceX stock, which does not begin trading until June 12, as Worldcoin slid about 10%.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "55 歲以上玩家急增 64%，遊戲業界仍未準備好迎接「退休一代」",
+      "url": "https://technews.tw/2026/06/06/gaming-industry-still-unprepared-for-retiree-gamers/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T15:00:38+08:00",
+      "description": "遊戲早已不再是年輕人的專利，但針對高齡玩家的遊戲開發卻幾乎是零。市場分析公司 Newzoo 的代表 Emman [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin back above $61,000 after rout leads to $1.6 billion liquidations",
+      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-back-above-usd61-000-after-rout-leads-to-usd1-6-billion-liquidations",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T14:40:17+08:00",
+      "description": "Bitcoin fell as low as $59,227 overnight before recovering, steadying after Friday's strong jobs report set off a selloff that sank the Nasdaq 100 about 5% and rattled stocks, bonds and crypto together.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AMD 不急推 AM6，AM5 平台將一路支援至 2029 年",
+      "url": "https://technews.tw/2026/06/06/amd-am6-am5-is-going-till-2029/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T14:28:45+08:00",
+      "description": "根據 Wccftech 報導，AMD 表示將持續延長 AM5 平台生命周期至 2029 年，未來除了 Zen  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "博帝科技 COMPUTEX 2026 發表全新 AI 記憶體與儲存基礎架構",
+      "url": "https://technews.tw/2026/06/06/patriot-memory-computex-2026/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T14:00:38+08:00",
+      "description": "博帝科技（Patriot Memory）6 月 1 日公布 COMPUTEX 2026 展出陣容，以「Buil [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "被演算法邊緣化的古老國度，當「喬治亞」遇上 AI 連川普也分不清",
+      "url": "https://technews.tw/2026/06/06/which-georgia-are-you-looking-for/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T14:00:36+08:00",
+      "description": "當你聽到「喬治亞」這個名字，腦海中浮現的是什麼？是亞特蘭大繁華的摩天大樓，還是可口可樂的發源地？又或者，是一座 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "護國神山還在長高、造就千萬年薪族，台灣消費信心為何停滯不前？",
+      "url": "https://finance.technews.tw/2026/06/06/japan-south-korea-and-taiwan-are-suffering-industrial-rot/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T13:30:01+08:00",
+      "description": "英國《經濟學人》指出，AI 浪潮與台積電帶動台灣出口與 GDP 飆升，但傳統產業衰退、薪資差距擴大、青年低薪、 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "中美科技競爭白熱化，專家聚焦台美合作與供應鏈韌性",
+      "url": "https://technews.tw/2026/06/06/china-usa-semiconductor-in-ai/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T13:15:53+08:00",
+      "description": "隨著 AI 成為各國競逐的新國力象徵，全球科技競爭正進入新階段。在科技、民主與社會研究中心（DSET）舉辦的論 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Cardano social activity surges as ADA falls under 20 cents to four-year lows",
       "url": "https://www.coindesk.com/markets/2026/06/06/cardano-social-activity-surges-as-ada-falls-under-20-cents-to-four-year-lows",
@@ -170,110 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-06T06:00:13+08:00",
       "description": "晶圓代工廠力積電公布最新營收數據，受惠於記憶體與邏輯代工報價調漲效益，5月合併營收達57.7億元，使得營收金額 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Founders share VC horror stories, and some are naming names",
-      "url": "https://techcrunch.com/2026/06/05/founders-share-vc-horror-stories-and-some-are-naming-names/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-06T05:47:56+08:00",
-      "description": "A massive viral conversation sharing VC horror stories has taken place this week on X. Some are weird. Some are infuriating.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Travala lets AI agents book hotels with USDC on Base",
-      "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T04:55:27+08:00",
-      "description": "Travala’s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
-      "url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T04:41:38+08:00",
-      "description": "Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are “de minimis” reporting exceptions for crypto transactions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
-      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-06T04:00:00+08:00",
-      "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin bears face $2.6B trap as BTC funding rate drops: Is a short squeeze brewing?",
-      "url": "https://cointelegraph.com/markets/bitcoin-bears-face-26b-trap-as-btc-funding-rate-drops-is-a-short-squeeze-brewing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T03:28:53+08:00",
-      "description": "Bitcoin bears piled into short positions as BTC price slid to $60,000. Will the $2.6 billion in short leverage lead to an upside squeeze? \n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Why diehard bitcoin purists aren’t sweating the massive price crash that wiped out $200 billion",
-      "url": "https://www.coindesk.com/markets/2026/06/05/why-diehard-bitcoin-purists-aren-t-sweating-the-massive-price-crash-that-wiped-out-usd200-billion",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T03:27:20+08:00",
-      "description": "Mati Greenspan, Michael Saylor and Jameson Lopp blamed the AI boom for draining capital from bitcoin. Meanwhile, Jack Mallers refrained from sharing an outlook but recommended buying the dip.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-06T02:57:20+08:00",
-      "description": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Kraken offers SpaceX IPO access through xStocks",
-      "url": "https://cointelegraph.com/news/kraken-offers-spacex-ipo-access-through-xstocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T02:17:50+08:00",
-      "description": "Eligible users in more than 110 markets can register for tokenized SpaceX equity ahead of the company's highly anticipated public listing.\n",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
