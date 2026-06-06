@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-06T17:05:59.071051+08:00",
+  "updated_at": "2026-06-06T22:14:27.828286+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 61182,
-      "change": -2.26
+      "price": 60928,
+      "change": 0.19
     },
     "ETH": {
-      "price": 1581.73,
-      "change": -5.22
+      "price": 1561.54,
+      "change": -3.05
     },
     "SOL": {
-      "price": 63.2,
-      "change": -3.56
+      "price": 62.73,
+      "change": -3.23
     }
   },
   "articles": [
+    {
+      "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
+      "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T21:30:00+08:00",
+      "description": "The 1LwWt address received a legal notice from Salomon Brothers via Bitcoin's OP_RETURN field in July 2025 demanding the owner prove ownership by November 5, 2025.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
+      "url": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T21:00:00+08:00",
+      "description": "While rising volume on Polymarket and Kalshi is attracting quantitative firms to prediction markets, they aren't focusing on event outcomes; rather, they're exploiting market inefficiencies for profit.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Michael Saylor’s rallying cry: Bitcoin needs four forces to win",
+      "url": "https://www.coindesk.com/markets/2026/06/06/michael-saylor-s-rallying-cry-bitcoin-needs-four-forces-to-win",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T21:00:00+08:00",
+      "description": "The Strategy executive chairman argued that four distinct camps each play a vital role in bitcoin’s long-term success.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Are retail traders selling their bitcoin to buy the SpaceX IPO?",
+      "url": "https://www.coindesk.com/markets/2026/06/06/are-retail-traders-selling-their-bitcoin-to-buy-the-spacex-ipo",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T17:45:15+08:00",
+      "description": "Exchange flows and stablecoin movements through this week's sell-off show no wall of money leaving crypto for cash. Exchanges such as Robinhood and Coinbase will not publicly reporting their figures until July.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Researcher who found Zcash's bug with AI adds Monero to his audit queue",
+      "url": "https://www.coindesk.com/tech/2026/06/06/researcher-who-found-zcash-s-bug-with-ai-adds-monero-to-his-audit-queue",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-06T17:38:00+08:00",
+      "description": "Taylor Hornby, who uncovered the Orchard flaw that sent Zcash down 38%, says other privacy coins are on his list too.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "持續強化能源設施資安，台電：每天平均 3 萬次駭客攻擊",
+      "url": "https://infosecu.technews.tw/2026/06/06/taipower-electiricity-is-getting-attacked-by-hacker/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-06T17:16:22+08:00",
+      "description": "隨著地緣政治風險升溫，能源基礎設施已成為網路攻擊的重要目標。在科技、民主與社會研究中心（DSET）舉辦的論壇中 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it",
       "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-06T09:00:04+08:00",
       "description": "COMPUTEX 2026 盛大開幕，台達電子由董事長鄭平（首圖左二）親自坐鎮，帶領一級主管對外展現其在 AI [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "對手變客戶！Google 向 SpaceX 採購 300 億美元 AI 算力",
-      "url": "https://technews.tw/2026/06/06/google-buy-spacex-300-ai-contract/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T08:35:47+08:00",
-      "description": "AI 算力需求持續攀升，Google 再度加碼運算資源布局。根據彭博社引述 SpaceX 提交文件顯示，Goo [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "內容太多選不完？Netflix 用 AI 幫你找到想看的那一部",
-      "url": "https://technews.tw/2026/06/06/netflix-aims-to-use-ai-to-help-viewers-manage-content-overload/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T08:30:35+08:00",
-      "description": "Netflix 產品與技術長 Elizabeth Stone 表示，串流平台正運用人工智慧協助用戶在龐大的影音 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "輝達、聯發科、高通搶攻筆電晶片！PC 市場飽和論紛飛，巨頭仍參戰",
-      "url": "https://technews.tw/2026/06/06/nvidia-mediatek-qualcomm-vie-laptop-chips-pc-market-saturation-giants-compete/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T08:00:35+08:00",
-      "description": "PC 市場低迷已久，換機潮沒來，出貨量還在跌；但 COMPUTEX 期間，輝達、聯發科、高通等巨頭接連宣布殺入 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Reid Hoffman is leaving Microsoft’s board to go ‘founder mode’ with  startup Manus",
-      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-06T06:35:01+08:00",
-      "description": "After a very profitable decade on Microsoft's board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
-      "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T06:18:29+08:00",
-      "description": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "力積電 5月營收達 57.7 億元，連續兩個月站上 50 億元大關",
-      "url": "https://finance.technews.tw/2026/06/06/powerchip-technologys-revenue-reached-nt5-77-billion-in-may/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-06T06:00:13+08:00",
-      "description": "晶圓代工廠力積電公布最新營收數據，受惠於記憶體與邏輯代工報價調漲效益，5月合併營收達57.7億元，使得營收金額 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
