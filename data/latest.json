@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T22:25:30.796172+08:00",
+  "updated_at": "2026-06-08T03:52:40.068250+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 61996,
-      "change": 1.81
+      "price": 61296,
+      "change": 1.16
     },
     "ETH": {
-      "price": 1628.18,
-      "change": 4.19
+      "price": 1610.98,
+      "change": 3.63
     },
     "SOL": {
-      "price": 64.87,
-      "change": 3.3
+      "price": 63.91,
+      "change": 3.52
     }
   },
   "articles": [
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-08T01:56:22+08:00",
+      "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Michael Saylor revives bitcoin-buy speculation as scrutiny over Strategy grows",
+      "url": "https://www.coindesk.com/business/2026/06/06/michael-saylor-revives-bitcoin-buy-speculation-as-scrutiny-over-strategy-grows",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-08T01:41:57+08:00",
+      "description": "The firm's executive chairman posted a familiar chart with Strategy's previous BTC purchases writing \"a good time to add more dots.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "OpenAI is still working on that ‘super app’",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-08T00:23:22+08:00",
+      "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin near $60,000 today vs February: Institutional sentiment has flipped",
+      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-near-usd60-000-today-vs-february-institutional-mood-is-starkly-different",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-08T00:14:08+08:00",
+      "description": "Bitcoin’s return to $60,000 is drawing heavy ETF outflows, marking a sharp reversal from February when institutional selling eased into the dip.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin's slide has no single cause. AI, tech IPOs, quantum, Strategy sale all play a role, NYDIG says",
+      "url": "https://www.coindesk.com/markets/2026/06/07/bitcoin-s-slide-has-no-single-cause-ai-tech-ipos-quantum-strategy-sale-all-play-a-role-nydig-says",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-08T00:00:00+08:00",
+      "description": "Not one, but several overlapping headwinds are hitting the crypto market at once, weighing on bitcoin's price, the firm's head of research Greg Cipolaro said.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Abra’s Bill Barhydt says Wall Street’s next crypto bet is tokenization",
+      "url": "https://www.coindesk.com/business/2026/06/07/abra-s-bill-barhydt-says-wall-street-s-next-crypto-bet-is-tokenization",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-07T23:00:00+08:00",
+      "description": "As Abra prepares for a Nasdaq debut, CEO Bill Barhydt is betting tokenized yield products and onchain lending will drive the next phase of crypto wealth management.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin risks new 'purge' with bear-market losses still $35B below 2022 total",
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-new-purge-with-bear-market-losses-still-35b-below-2022-total?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-07T22:29:19+08:00",
+      "description": "Bitcoin realized losses remained below the $211 billion tally from 2022, leading to a prediction that the next bear-market bottom was not yet in.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
       "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
@@ -170,58 +261,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-07T10:00:36+08:00",
       "description": "如果你今年投資也搭上這波晶片熱潮，現在或許該停下來問一句：手上的股票，是真材實料，還是隨浪起舞？ 漲勢「不分好 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "一支疫苗打遍所有冠狀病毒不再是夢想？劍橋以 AI 研發廣效疫苗取得初步成效",
-      "url": "https://technews.tw/2026/06/07/world-first-vaccine-designed-by-artificial-intelligence/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-07T09:30:19+08:00",
-      "description": "英國劍橋大學表示，首度使用人工智慧設計疫苗，並完成首期人體實驗，朝可對抗整個冠狀病毒家族的「廣效疫苗」邁出第一 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 伺服器戰局大翻轉！CPU 躍升主角爆缺貨潮，千億美元商機點火",
-      "url": "https://finance.technews.tw/2026/06/07/cpu-powerful-comeback-multi-hundred-billion-dollar-boom-ai-server-landscape-investment-opportunities/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-07T09:00:00+08:00",
-      "description": "台北國際電腦展（Computex）日前開幕，今年熱門的關鍵字明顯轉向 CPU，這些過去被視為配角的基礎設施，在 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「根本性的新威脅」：研究員以開源 AI 模型打造自我進化的網路蠕蟲",
-      "url": "https://infosecu.technews.tw/2026/06/07/u-of-t-researchers-demonstrate-ai-worm-could-target-any-online-device/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-07T08:30:37+08:00",
-      "description": "多倫多大學牽線，與劍橋大學等單位合作的團隊，3 日發表預印本研究，示範如何利用開源大型語言模型，打造自我複製並 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-07T04:32:24+08:00",
-      "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
