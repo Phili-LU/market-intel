@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T13:02:16.900327+08:00",
+  "updated_at": "2026-06-07T17:43:32.519186+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 61861,
-      "change": 3.41
+      "price": 62501,
+      "change": 2.33
     },
     "ETH": {
-      "price": 1596.48,
-      "change": 5.58
+      "price": 1633.85,
+      "change": 3.44
     },
     "SOL": {
-      "price": 64.05,
-      "change": 6.03
+      "price": 65.16,
+      "change": 2.73
     }
   },
   "articles": [
+    {
+      "title": "美政府入股 AI 公司有譜？川普正面回應，本週召開會議討論",
+      "url": "https://technews.tw/2026/06/07/trump-says-his-team-will-look-into-us-taking-stake-in-ai-companies/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T16:19:34+08:00",
+      "description": "美國總統川普（Donald Trump）近日告訴記者，他的團隊正在研究 AI 公司讓美國大眾持有股份的構想，並 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 分析 41 萬則 Reddit 貼文，揭減肥針潛在未知副作用",
+      "url": "https://technews.tw/2026/06/07/ai-uses-reddit-posts-to-spot-potential-weight-loss-drug-side-effects/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T15:00:31+08:00",
+      "description": "美國賓夕法尼亞大學研究人員利用 AI 分析 Reddit 逾 41 萬條貼文，發現 GLP-1 受體促效劑（包 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "台股面臨多重賣壓形成「恐懼的總和」，法人：落底看 4 大指標",
+      "url": "https://finance.technews.tw/2026/06/07/wall-street-ends-sharply-lower/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T15:00:15+08:00",
+      "description": "美股上週五暴跌，與台股連結最深的費城半導體指數重挫 10.26%，引爆 5 日台指期盤後暴跌 3006 點或  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AMD 百億美元布局台灣 AI 生態系，AIC 於 COMPUTEX 展示 Helios 機架平台",
+      "url": "https://technews.tw/2026/06/07/aic-amd-helios-computex-2026/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T14:00:56+08:00",
+      "description": "隨著 AI 基礎設施需求高速成長，AMD 宣布將加碼投資台灣 AI 生態系，總規模上看百億美元，進一步深化與台 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "逾七成房產掌握在 50 歲以上族群，台灣房市悄悄從交易市場走向繼承市場",
+      "url": "https://finance.technews.tw/2026/06/07/taiwan-housing-market-structure-transformation-70-properties-middle-senior-age-elderly-homeowners-surge-1-18m-6-years/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T13:30:11+08:00",
+      "description": "當台灣正式邁入超高齡社會，人口老化不只改變社會，也開始重塑房市結構。根據最新統計，全台逾七成房產已掌握在 50 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "憂 AI 自我提升脫離掌控，Anthropic 呼籲同業一同暫緩開發",
       "url": "https://technews.tw/2026/06/07/anthropic-urges-ai-labs-to-pause-development/",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-07T00:00:23+08:00",
       "description": "NASA 羅曼太空望遠鏡（Nancy Grace Roman Space Telescope）預定把搜尋系外行 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "從吞噬到創造，超大質量黑洞或許也是宇宙規模的行星搖籃",
-      "url": "https://technews.tw/2026/06/07/smbhs-may-be-the-universe-largest-planet-nurseries/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-07T00:00:01+08:00",
-      "description": "超大質量黑洞（Supermassive Black Holes，SMBHs）通常被視為宇宙中最劇烈的能量來源之 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "America’s largest banks are building a new digital currency network to stop a massive deposit drain",
-      "url": "https://www.coindesk.com/business/2026/06/06/america-s-largest-banks-are-building-a-new-digital-currency-network-to-stop-a-massive-deposit-drain",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T23:59:00+08:00",
-      "description": "America’s biggest banks are launching tokenized deposits to compete with stablecoins, opening a new front in the race to become the dominant form of cash on blockchain networks.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "A crypto pioneer who turned a $20 million family stake into a billion-dollar fund doubles down on bitcoin",
-      "url": "https://www.coindesk.com/business/2026/06/06/a-crypto-pioneer-who-turned-a-usd20-million-family-stake-into-a-billion-dollar-fund-doubles-down-on-bitcoin",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T23:00:00+08:00",
-      "description": "Sourcing initial capital from his mother to build a $1 billion crypto empire, DFG CEO James Wo says market metrics do not support Tom Lee’s $250,000 ether prediction.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Satoshi-era bitcoin at center of $285 billion lawsuit moves after 14 years",
-      "url": "https://www.coindesk.com/markets/2026/06/06/satoshi-era-bitcoin-at-center-of-usd285-billion-lawsuit-moves-after-14-years",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T21:30:00+08:00",
-      "description": "The 1LwWt address received a legal notice from Salomon Brothers via Bitcoin's OP_RETURN field in July 2025 demanding the owner prove ownership by November 5, 2025.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "A massive hiring wave reveals trading firms are no longer viewing Polymarket as a niche betting tool",
-      "url": "https://www.coindesk.com/business/2026/06/06/a-massive-hiring-wave-reveals-trading-firms-are-no-longer-viewing-polymarket-as-a-niche-betting-tool",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-06T21:00:00+08:00",
-      "description": "While rising volume on Polymarket and Kalshi is attracting quantitative firms to prediction markets, they aren't focusing on event outcomes; rather, they're exploiting market inefficiencies for profit.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
