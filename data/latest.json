@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T17:43:32.519186+08:00",
+  "updated_at": "2026-06-07T22:25:30.796172+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62501,
-      "change": 2.33
+      "price": 61996,
+      "change": 1.81
     },
     "ETH": {
-      "price": 1633.85,
-      "change": 3.44
+      "price": 1628.18,
+      "change": 4.19
     },
     "SOL": {
-      "price": 65.16,
-      "change": 2.73
+      "price": 64.87,
+      "change": 3.3
     }
   },
   "articles": [
+    {
+      "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
+      "url": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-07T22:00:00+08:00",
+      "description": "From a massive DOGE data breach and the hacking of critical energy and water systems to the hack of an FBI surveillance system, here are the most damaging security incidents and data breaches of 2026.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ethereum Foundation cuts and departures aren't a crisis, Joe Lubin says",
+      "url": "https://www.coindesk.com/tech/2026/06/07/ethereum-foundation-cuts-and-departures-aren-t-a-crisis-joe-lubin-says",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-07T21:00:00+08:00",
+      "description": "The Consensys leader told CoinDesk the Ethereum Foundation's role should be narrower and more focused on stewarding the network's core technology and values.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "從模型到機器人建構 AI 優勢，民主陣營建生態系、拼技術擴散",
+      "url": "https://infosecu.technews.tw/2026/06/07/ai-supply-chain-resilience-dialogue/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-07T20:49:58+08:00",
+      "description": "國家智庫「科技、民主與社會研究中心」（Research Institute for Democracy, So [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "美政府入股 AI 公司有譜？川普正面回應，本週召開會議討論",
       "url": "https://technews.tw/2026/06/07/trump-says-his-team-will-look-into-us-taking-stake-in-ai-companies/",
@@ -183,97 +222,6 @@
       "category": "startup",
       "published_at": "2026-06-07T04:32:24+08:00",
       "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin, ether eye worst weekly rout since FTX collapse as cryptos shed $390 billion",
-      "url": "https://www.coindesk.com/markets/2026/06/06/bitcoin-ether-eye-worst-weekly-rout-since-ftx-collapse-as-cryptos-shed-usd390-billion",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-07T03:58:54+08:00",
-      "description": "A week that began with Strategy's bitcoin sale ended with one of the largest crypto market drawdowns in years.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-07T02:13:36+08:00",
-      "description": "Apple's WWDC nears: Here's what you can look forward to.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-07T01:42:15+08:00",
-      "description": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Meta is paying creators in Stablecoins. Spending them is someone else's problem",
-      "url": "https://www.coindesk.com/opinion/2026/06/06/meta-is-paying-creators-in-stablecoins-spending-them-is-someone-else-s-problem",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-07T00:30:00+08:00",
-      "description": "Meta’s decision to pay creators in USDC validates stablecoins as a mainstream disbursement tool, Joslyn suggests, but it also exposes the industry’s unresolved problem: moving seamlessly from digital dollars to usable local currency.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-07T00:17:21+08:00",
-      "description": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin most oversold since 2020 crash: Can BTC rebound to $70K next?",
-      "url": "https://cointelegraph.com/markets/bitcoin-most-oversold-since-2020-crash-can-btc-rebound-to-70k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-07T00:06:54+08:00",
-      "description": "Bitcoin’s latest oversold RSI mirrors 2020 and February 2026 setups that preceded 50% and 30% rebounds, putting $70K back in focus.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "羅曼太空望遠鏡可能揭示 10 萬個隱藏世界，改變我們對銀河系行星的認知",
-      "url": "https://technews.tw/2026/06/07/nasas-roman-telescope-could-reveal-100000-hidden-worlds/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-07T00:00:23+08:00",
-      "description": "NASA 羅曼太空望遠鏡（Nancy Grace Roman Space Telescope）預定把搜尋系外行 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
