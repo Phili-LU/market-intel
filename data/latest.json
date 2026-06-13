@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T17:41:20.120872+08:00",
+  "updated_at": "2026-06-13T22:34:22.722226+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63767,
-      "change": -0.06
+      "price": 64120,
+      "change": 0.89
     },
     "ETH": {
-      "price": 1673.64,
-      "change": -0.4
+      "price": 1678.95,
+      "change": 0.65
     },
     "SOL": {
-      "price": 67.36,
-      "change": 0.27
+      "price": 68.21,
+      "change": 1.71
     }
   },
   "articles": [
+    {
+      "title": "Perpetual futures could become crypto's next ETF moment",
+      "url": "https://www.coindesk.com/business/2026/06/13/perpetual-futures-could-become-crypto-s-next-etf-moment",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-13T22:00:00+08:00",
+      "description": "John Palmer, head of derivatives at Kraken, said he expects sophisticated traders to lead adoption of newly approved U.S. perpetual futures, with broader institutional participation likely to follow over time.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
+      "url": "https://cointelegraph.com/news/saylor-strategys-bitcoin-sale-defend-digital-credit-products?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-13T21:58:24+08:00",
+      "description": "Strategy's recent Bitcoin sale appeared to clash with Saylor's \"never sell\" mantra, but he says the move reflects how the company's digital credit business works.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Saylor to Musk: Thanks to you, 25% of 'Mag8' firms now hold bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/06/13/saylor-to-musk-thanks-to-you-25-of-mag8-firms-now-hold-bitcoin",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-13T21:05:40+08:00",
+      "description": "\"Thanks to you, 25% of the Mag8 now holds bitcoin on the balance sheet,\" Saylor wrote on X, congratulating Musk on SpaceX's historic IPO debut.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto should adopt the best of centralization, says LMAX CEO",
+      "url": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-13T21:00:00+08:00",
+      "description": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+      "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-13T19:52:41+08:00",
+      "description": "Morpho’s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+      "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-13T19:30:00+08:00",
+      "description": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+      "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-13T19:00:00+08:00",
+      "description": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "馬斯克身價可比七個黃仁勳！SpaceX 世紀掛牌引爆資金大洗牌，恐終結美股七雄霸局",
       "url": "https://finance.technews.tw/2026/06/13/musk-wealth-exceeds-7x-huang-spacex-ipo-triggers-capital-reshuffle-ends-mag7-dominance/",
@@ -60,7 +151,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Anthropic's pre-IPO shares fall as US government shuts down its most powerful AI model",
+      "title": "Anthropic's pre-IPO shares fall as U.S. government shuts down its most powerful AI model",
       "url": "https://www.coindesk.com/markets/2026/06/13/anthropic-s-pre-ipo-shares-fall-as-us-government-shuts-down-its-most-powerful-ai-model",
       "source": "coindesk.com",
       "category": "crypto",
@@ -117,7 +208,7 @@
       "source": "coindesk.com",
       "category": "crypto",
       "published_at": "2026-06-13T13:46:38+08:00",
-      "description": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears and a strong SpaceX debut helped risk assets recover.",
+      "description": "A tiny Strategy sale raised a bigger question about Saylor’s never-sell stance, while easing Iran fears, and a strong SpaceX debut helped risk assets recover.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -183,97 +274,6 @@
       "category": "crypto",
       "published_at": "2026-06-13T11:24:05+08:00",
       "description": "Demand for ETH leverage remains low, but corporate accumulation and stakers’ dedication may prevent an Ether price crash to $1,500. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「替 AI 定價」話語權更重要？Anthropic、OpenAI 衝刺 IPO 的真實目的逐漸揭露",
-      "url": "https://finance.technews.tw/2026/06/13/anthropic-vs-openai-ipo/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-13T11:00:50+08:00",
-      "description": "6 月 1 日 Anthropic 向美國證券交易委員會（SEC）提交 S-1 草案，以「祕密提交」方法啟動  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Anthropic suspends access to Fable 5, Mythos 5, citing US directive",
-      "url": "https://cointelegraph.com/news/anthropic-suspends-access-to-fable-mythos-citing-us-directive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-13T10:37:40+08:00",
-      "description": "Anthropic has abruptly disabled its flagship AI models after a US government directive citing national security concerns.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "洛斯阿拉莫斯國家實驗室推出 PAS 工具，即時揪出視覺語言模型「自說自話」的幻覺輸出",
-      "url": "https://technews.tw/2026/06/13/los-alamos-method-helps-expose-hallucinations-in-vision-language-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-13T10:30:52+08:00",
-      "description": "洛斯阿拉莫斯國家實驗室（Los Alamos National Laboratory）研究團隊近日提出一項名為 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-13T10:26:30+08:00",
-      "description": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Major crypto exchanges cancel SpaceX IPO allocations, promising refunds",
-      "url": "https://cointelegraph.com/news/major-crypto-exchanges-cancel-spacex-ipo-allocations-promising-refunds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-13T10:17:55+08:00",
-      "description": "Elon Musk’s SpaceX completed its landmark IPO on the Nasdaq on Friday, but crypto users seeking tokenized exposure to the IPO were left empty-handed after allocations fell through.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "華爾街對 AI 晶片股的殘酷校準，從博通重摔看市場新考題",
-      "url": "https://finance.technews.tw/2026/06/13/wall-street-harsh-recalibration-ai-chip-stocks-broadcom-plunge-reveals-new-market-challenges/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-13T10:00:01+08:00",
-      "description": "截至 6 月 4 日週四美東時間上午 10 點 15 分，晶片股普遍下跌。罪魁禍首是前一日博通的財報。博通開盤 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SpaceX 上市太狂！馬斯克身價「超越台灣 GDP」，部分員工晉升億萬富翁",
-      "url": "https://technews.tw/2026/06/13/spacex-tesla-as-most-valuable-company-elon-musk/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-13T09:48:46+08:00",
-      "description": "隨著馬斯克旗下 SpaceX 完成規模高達 750 億美元的首次公開募股（IPO），公司週五市值突破 2 兆美 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
