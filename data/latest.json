@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T22:36:48.416966+08:00",
+  "updated_at": "2026-06-15T04:03:30.510274+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64004,
-      "change": -0.24
+      "price": 63807,
+      "change": -0.69
     },
     "ETH": {
-      "price": 1660.94,
-      "change": -1.08
+      "price": 1664.93,
+      "change": -0.71
     },
     "SOL": {
-      "price": 67.39,
-      "change": -1.22
+      "price": 67.56,
+      "change": -0.95
     }
   },
   "articles": [
+    {
+      "title": "Bitcoin could crash to $48,000, if this historical pattern is triggered",
+      "url": "https://www.coindesk.com/markets/2026/06/14/bitcoin-could-crash-to-usd48-000-if-this-historical-pattern-is-triggered",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-15T03:17:30+08:00",
+      "description": "A pattern stretching back to bitcoin's earliest days has held through every market cycle. It has yet to be tested in the current one.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Summer of crypto (regs): State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/06/14/summer-of-crypto-regs-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-15T02:30:00+08:00",
+      "description": "Lawmakers are debating taxes, the CFTC put out a prediction market proposal and court cases are heating up.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-15T00:38:09+08:00",
+      "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: SpaceX rockets past Tesla",
+      "url": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-15T00:05:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Aerodrome is turning liquidity into a prediction market with its biggest upgrade yet",
+      "url": "https://www.coindesk.com/tech/2026/06/12/aerodrome-is-turning-liquidity-into-a-prediction-market-with-its-biggest-upgrade-yet",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-14T23:00:00+08:00",
+      "description": "The concept, called Predictive Allocation, will encourage participants to anticipate where liquidity will be needed next, instead of rewarding them for directing incentives toward pools that have already generated fees.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
       "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
@@ -177,7 +242,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Anthropic 被政府命令九十分鐘內下架最新 AI 模型，背後到底發生什麼事？",
+      "title": "Anthropic 被政府命令 90 分鐘內下架最新 AI 模型，背後到底發生什麼事？",
       "url": "https://technews.tw/2026/06/14/trump-administration-only-gave-anthropic-90-minutes-to-de-deploy-its-new-ai-model/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-14T11:00:04+08:00",
       "description": "今年夏天的首次公開發行（IPO）市場非常熱鬧，SpaceX、Anthropic、OpenAI 依序排隊中，但可 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-14T11:00:00+08:00",
-      "description": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "川普政府全面封殺 Anthropic 頂尖 AI 外國用戶，竟是亞馬遜去告密",
-      "url": "https://infosecu.technews.tw/2026/06/14/amazons-ceo-andy-jassy-was-the-snitch-who-caused-the-ban-on-anthropic/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T10:56:59+08:00",
-      "description": "科技巨頭與白宮的角力再度升級，《華爾街日報》引述知情人士，亞馬遜執行長賈西（Andy Jassy）親自向川普政 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蘋果晶片版 Mac 故障率只有英特爾版一半，散熱佳、低功耗但維修難度仍高",
-      "url": "https://technews.tw/2026/06/14/apple-silicon-cuts-mac-failures-in-half-says-refurb-firm/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T10:30:37+08:00",
-      "description": "英國維修商 Hoxton Macs 數據顯示，搭載 Apple Silicon 的 Mac 硬體穩定性明顯優於 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "別再盲追標普 500，美銀拋 7 大熊市訊號籲「落袋為安」",
-      "url": "https://finance.technews.tw/2026/06/14/bank-of-america-warns-investors-take-profits-7-bear-market-signals-flashing/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T10:00:56+08:00",
-      "description": "美股漲到現在，最危險的地方不是波動大，而是市場看起來一切都還很好。 標普500今年以來已上漲8%，AI、科技股 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "智慧敷料問世：有害細菌孳生才釋放抗生素，加速傷口癒合並降低抗藥性",
-      "url": "https://technews.tw/2026/06/14/scientists-create-intelligent-bandage-that-targets-harmful-bacteria/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T09:30:49+08:00",
-      "description": "美國布朗大學（Brown University）生醫工程師開發出革命性智慧傷口敷料，能在偵測到有害細菌時才釋放 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
