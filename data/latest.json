@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T18:01:19.375429+08:00",
+  "updated_at": "2026-06-14T22:36:48.416966+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64572,
-      "change": 1.34
+      "price": 64004,
+      "change": -0.24
     },
     "ETH": {
-      "price": 1677.35,
-      "change": 0.25
+      "price": 1660.94,
+      "change": -1.08
     },
     "SOL": {
-      "price": 68.41,
-      "change": 1.59
+      "price": 67.39,
+      "change": -1.22
     }
   },
   "articles": [
+    {
+      "title": "SEC's big swing to clear tokenization path isn't likely to get resilience of full rule",
+      "url": "https://www.coindesk.com/news-analysis/2026/06/12/sec-s-big-swing-to-clear-tokenization-path-isn-t-likely-to-get-resilience-of-full-rule",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-14T22:00:00+08:00",
+      "description": "Former SEC lawyers say that using its power to grant tokenization \"innovation\" efforts an exemption from securities law isn't as strong as a full-fledged rule.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
+      "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-14T21:49:48+08:00",
+      "description": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Wall Street and crypto are crashing into each other as tokenized treasury markets hit $14.6 billion",
+      "url": "https://www.coindesk.com/markets/2026/06/11/wall-street-and-crypto-are-crashing-into-each-other-as-tokenized-treasury-markets-hit-usd14-6-billion",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-14T21:00:00+08:00",
+      "description": "Not all crypto exchange executives agree, but the data does not lie: centralized exchange trading volumes dropped more than 11% to $4.61 trillion, their lowest since late 2024.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Humanity Protocol’s $36M hack tied to suspected North Korean hackers: Quantstamp",
+      "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-14T19:07:34+08:00",
+      "description": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-14T18:06:04+08:00",
+      "description": "Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "美國海軍還是要雙發動機，波音繼洛馬之後退出初級教練機標案",
       "url": "https://technews.tw/2026/06/14/beoing-also-announced-to-quit-us-navys-ujts-bid/",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-14T09:30:49+08:00",
       "description": "美國布朗大學（Brown University）生醫工程師開發出革命性智慧傷口敷料，能在偵測到有害細菌時才釋放 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "迎戰超高齡與傳承焦慮，億元戶掀「保單換手潮」鎖住跨代財富",
-      "url": "https://finance.technews.tw/2026/06/14/new-worries-wealthy-ultra-elderly-inheritance-anxiety-intensifies-sparking-insurance-policy-transfer-trend/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T09:00:03+08:00",
-      "description": "全民投資熱潮延燒，但在財富快速累積後，愈來愈多中高資產族群開始重新擁抱保險。壽險正從過去的強迫儲蓄工具，轉型為 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 用電需求推動核電競賽，中國核能擴張逼近美國",
-      "url": "https://technews.tw/2026/06/14/driven-by-ai-demand-china-on-track-to-pass-us-as-top-nuclear-energy-producer/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T08:30:50+08:00",
-      "description": "人工智慧帶動電力需求持續攀升，中國核能擴張速度也迅速逼近美國。Gavekal Technologies 最新報 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-14T08:03:49+08:00",
-      "description": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "不靠折扣靠「策展」！誠品黑膠市集業績狂飆四成，實體零售用沉浸體驗收服消費者",
-      "url": "https://finance.technews.tw/2026/06/14/retail-idea-king-customer-attraction-secrets-vinyl-market-japan-expo-nagasaki-cake-awa-odori/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-14T08:00:16+08:00",
-      "description": "從書店黑膠市集到百貨日本展，台灣零售業者不只靠折扣攬客，而是以獨家首賣、沉浸體驗與創意策展，為消費者製造出門的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-14T04:42:31+08:00",
-      "description": "Once again, AI proves to be an unreliable source of information about AI.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
