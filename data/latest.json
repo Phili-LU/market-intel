@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T17:47:22.597139+08:00",
+  "updated_at": "2026-06-20T22:37:55.886105+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,45 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63616,
-      "change": 2.06
+      "price": 63375,
+      "change": 0.12
     },
     "ETH": {
-      "price": 1727.02,
-      "change": 2.21
+      "price": 1713.72,
+      "change": 0.53
     },
     "SOL": {
-      "price": 71.45,
-      "change": 4.43
+      "price": 70.85,
+      "change": 2.51
     }
   },
   "articles": [
+    {
+      "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
+      "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-20T21:00:00+08:00",
+      "description": "From a bond buyback and dwindling cash reserves to a bitcoin bear market, the sequence of events that turned STRC's par-value challenge into a marketwide debate.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
+      "url": "https://cointelegraph.com/news/pudgy-penguins-expands-retail-footprint-with-target-trading-card-rollout?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-20T19:49:02+08:00",
+      "description": "The NFT-born franchise is bringing its Vibes Series 3 trading cards to Target stores across the US as it expands into physical products and mainstream retail.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "預期第三季財報將優於預期，外資調升美光目標價達 1,300 美元",
       "url": "https://finance.technews.tw/2026/06/20/foreign-investors-raise-microns-target-price-to-1300/",
@@ -234,7 +260,7 @@
       "source": "technews.tw",
       "category": "tw_stocks",
       "published_at": "2026-06-20T09:35:39+08:00",
-      "description": "一週之內，Google 旗下 AI 實驗室接連失去兩位頂尖人才。繼 Gemini 模型共同負責人諾姆·沙澤爾（ [&#8230;]",
+      "description": "一週內 Google 旗下 AI 實驗室接連失去兩位頂尖人才。繼 Gemini 模型共同負責人諾姆·沙澤爾（N [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -248,32 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-20T09:30:39+08:00",
       "description": "亞馬遜（Amazon）前主管、現任 AI 安防新創 Deep Sentinel 執行長 David Selin [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "ASML 強烈駁斥華府指控，堅稱從未向中國交付 EUV",
-      "url": "https://finance.technews.tw/2026/06/20/asml-strongly-refutes-washingtons-accusations/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:30:06+08:00",
-      "description": "全球半導體製造設備大廠艾司摩爾（ASML）近日強烈駁斥了來自美國的指控，否認其先進的晶片製造設備違反國際制裁流 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "讓玻璃變身晶片一部分，康寧攜手台積電、英特爾強攻先進封裝新戰局",
-      "url": "https://technews.tw/2026/06/20/exclusive-look-corning-rd-base-unveiling-ai-glass-revolution/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:00:16+08:00",
-      "description": "過去，玻璃改變了顯示器產業；未來，玻璃即將再次改變半導體產業。美商康寧正結合台灣的研發實力，助攻台積電突破 C [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
