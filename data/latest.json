@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T22:37:55.886105+08:00",
+  "updated_at": "2026-06-21T04:01:44.033986+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63375,
-      "change": 0.12
+      "price": 63865,
+      "change": 1.41
     },
     "ETH": {
-      "price": 1713.72,
-      "change": 0.53
+      "price": 1727.05,
+      "change": 1.5
     },
     "SOL": {
-      "price": 70.85,
-      "change": 2.51
+      "price": 71.75,
+      "change": 4.05
     }
   },
   "articles": [
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-21T03:41:11+08:00",
+      "description": "So ... what's your In the Weights score?",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
+      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T03:09:21+08:00",
+      "description": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-21T00:39:57+08:00",
+      "description": "Jumper isn't the only big name leaving Google DeepMind.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "首次探測宇宙黎明「造星燃料庫」，天文學家在 REBELS-25 發現大量冷氣體",
+      "url": "https://technews.tw/2026/06/21/galaxy-fuel-reservoirs-dawn-universe/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T00:00:37+08:00",
+      "description": "星系是透過將氣體轉化為恆星而逐漸成長，而冷分子氣體就是其中最主要的燃料。 過去天文學家雖然推測，在宇宙黎明時期 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 快速學會宇宙法則，反而看不見新物理現象？",
+      "url": "https://technews.tw/2026/06/21/ai-learned-the-rules-of-the-universe-and-that-became-a-problem/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T00:00:37+08:00",
+      "description": "發表於《宇宙學與天文粒子物理期刊》的最新研究指出，人工智慧有望大幅加速人類尋找宇宙新法則的腳步，但也帶來出乎意 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "冰河時期的「洞獅」，並非現代獅子的祖先",
+      "url": "https://technews.tw/2026/06/21/ice-age-cave-lion-ancestor-modern-lions/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T00:00:34+08:00",
+      "description": "「洞獅」（cave lion）曾是冰河時期最強大的掠食者之一，足跡遍布歐亞大陸與北美。由於牠與現代獅子在外型上 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI is making crypto security cheaper, faster and harder to ignore",
+      "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-20T23:00:00+08:00",
+      "description": "As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Every new iOS 27 feature that’s worth knowing about",
+      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-20T23:00:00+08:00",
+      "description": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
+      "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-20T22:57:41+08:00",
+      "description": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "How STRC lost its par: The timeline behind Strategy's preferred-stock meltdown",
       "url": "https://www.coindesk.com/markets/2026/06/20/how-strc-lost-its-par-the-timeline-behind-strategy-s-preferred-stock-meltdown",
@@ -157,123 +274,6 @@
       "category": "crypto",
       "published_at": "2026-06-20T13:12:43+08:00",
       "description": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "模型已商品化，算力不再是萬靈丹：a16z 前合夥人曝 AI 新創的真正護城河",
-      "url": "https://technews.tw/2026/06/20/enterprises-spend-400-billion-ai-most-rarely-use-former-a16z-partner-highlights-true-pmf-threshold-startups/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T11:00:12+08:00",
-      "description": "Meta、Google、Microsoft、亞馬遜（Amazon），2025 年的 AI 基礎建設資本支出合計 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "放棄數百萬美元股票從輝達出走，這些前員工說：正因股價大漲才更敢離開",
-      "url": "https://technews.tw/2026/06/20/ex-nvidians-who-became-founders-reveal-why-they-ditched-the-golden-handcuffs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T10:30:49+08:00",
-      "description": "輝達（NVIDIA）高薪與持股鎖定效應，反而成為部分前員工創業的跳板。多位離職員工表示，輝達的品牌、文化與財務 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "為什麼 Anthropic 亞洲布局繞過台灣？人口少、重硬輕軟，拆解 AI 巨頭眼中的商業現實",
-      "url": "https://infosecu.technews.tw/2026/06/20/the-business-reality-behind-anthropic-not-opening-a-taiwan-office/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T10:00:56+08:00",
-      "description": "在人工智慧學校舉辦的爐邊對談中，邀請了 Anthropic（Claude 開發商）共同創辦人曼恩（Ben Ma [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "陳立武大讚馬斯克創新思維，合作 Terafab 計畫並回憶蘇姿丰也曾來請益職涯",
-      "url": "https://finance.technews.tw/2026/06/20/intel-ceo-praises-musks-innovative-thinking/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T10:00:22+08:00",
-      "description": "半導體大廠英特爾(Intel)執行長陳立武近期在參與Podcast節目時，分享了與特斯拉(Tesla)執行長馬 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "用福利吸引人才，X 用「零食預算」挖角 Meta 工程師",
-      "url": "https://technews.tw/2026/06/20/attracting-talent-benefits-x-poaches-meta-engineers-snack-budget/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:56:59+08:00",
-      "description": "X 與 Meta 的人才爭奪戰近來從 AI 策略與裁員風波延伸到辦公室點心與福利。Meta 技術長 Andre [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "震撼業界！聯電要重返先進製程，攜手英特爾強攻 3 奈米挑戰台積電",
-      "url": "https://finance.technews.tw/2026/06/20/umc-to-join-forces-with-intel-to-return-to-advanced-manufacturing-processes/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:50:12+08:00",
-      "description": "根據外媒 wccftech 的報導指出，半導體大廠英特爾 （Intel） 已與台灣晶圓代工大廠聯電 （UMC） [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
-      "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T09:41:39+08:00",
-      "description": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 搶人大戰再升溫，諾貝爾獎得主 Jumper 離開 DeepMind 加入 Anthropic",
-      "url": "https://technews.tw/2026/06/20/nobel-laureate-jumper-leaves-google-deepmind-joins-anthropic-intensifying-ai-talent-war/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:35:39+08:00",
-      "description": "一週內 Google 旗下 AI 實驗室接連失去兩位頂尖人才。繼 Gemini 模型共同負責人諾姆·沙澤爾（N [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "跟著貝佐斯每週工作 80 小時，亞馬遜前主管把那段經歷變成創業本錢",
-      "url": "https://technews.tw/2026/06/20/david-selinger-jeff-bezos/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:30:39+08:00",
-      "description": "亞馬遜（Amazon）前主管、現任 AI 安防新創 Deep Sentinel 執行長 David Selin [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
