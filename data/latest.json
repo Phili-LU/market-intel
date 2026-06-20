@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T12:47:23.837045+08:00",
+  "updated_at": "2026-06-20T17:47:22.597139+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63535,
-      "change": 1.56
+      "price": 63616,
+      "change": 2.06
     },
     "ETH": {
-      "price": 1712.95,
-      "change": 1.36
+      "price": 1727.02,
+      "change": 2.21
     },
     "SOL": {
-      "price": 70.79,
-      "change": 3.39
+      "price": 71.45,
+      "change": 4.43
     }
   },
   "articles": [
+    {
+      "title": "預期第三季財報將優於預期，外資調升美光目標價達 1,300 美元",
+      "url": "https://finance.technews.tw/2026/06/20/foreign-investors-raise-microns-target-price-to-1300/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T16:00:48+08:00",
+      "description": "外資 Wedbush 近期發布報告指出記憶體大廠美光科技預計將在即將發布的第三季財報中展現優於預期的保線，原因 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Philippine SEC signals readiness for RWA tokenization",
+      "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-20T15:05:20+08:00",
+      "description": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "北極圈永不沉沒航母？冰島為是否加入歐盟費思量",
+      "url": "https://technews.tw/2026/06/20/iceland-arctic-unsinkable-carrier-eu-membership-pondered/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T15:00:25+08:00",
+      "description": "路透社 16 日報導，冰島財政部長克里斯特森（Dadi Mar Kristofersson）表示，冰島應該加入 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "韓國科技廠積極布局馬斯克供應鏈，市場卻顯現利益未能普及隱憂",
+      "url": "https://finance.technews.tw/2026/06/20/south-korean-tech-companies-are-actively-positioning-themselves-within-musks-supply-chain/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T15:00:19+08:00",
+      "description": "近期，由人工智慧（AI）帶動的半導體「超級週期」為韓國經濟注入強心針。韓國企業不僅在AI晶片領域獲利豐厚，更積 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "油價大跌來了！美伊停火促中油宣布下周汽柴油各調降 1 元及 0.7 元",
+      "url": "https://finance.technews.tw/2026/06/20/the-us-iran-ceasefire-prompted-cpc-corporation-to-announce-price-reductions-of-nt1-for-gasoline-and-nt0-70-for-diesel-next-week/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T14:51:11+08:00",
+      "description": "經濟部宣布，在美伊戰事暫時告一段落的情況下，台灣中油公司20日宣布，自下週一(22日)凌晨零時起至6月28日晚 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Marvell 將台積電 A14 先進製程納入藍圖，持續深化布局資料中心市場",
+      "url": "https://finance.technews.tw/2026/06/20/marvell-incorporates-tsmcs-a14-advanced-process-into-its-roadmap/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T14:00:25+08:00",
+      "description": "根據日經新聞的報導，美國晶片設計大廠 Marvell 正持續深化與台積電（TSMC）的合作關係，押注 AI 數 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "永擎電子於 COMPUTEX 2026 發表搭載 NVIDIA Vera CPU 新世代 AI 基礎架構",
+      "url": "https://technews.tw/2026/06/20/asrock-rack-unveils-ai-server-platform-at-computex-2026/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T14:00:13+08:00",
+      "description": "專注於伺服器研發與創新的永擎電子於 COMPUTEX 2026（南港展覽館二館 R0514 攤位）期間首度展示 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "中國 AI 產值破 1.2 兆人民幣，官媒為何自揭四大硬傷？",
+      "url": "https://technews.tw/2026/06/20/china-ai-industry-1-2-trillion-rmb-state-media-reveals-four-weaknesses/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-20T14:00:10+08:00",
+      "description": "一份關於中國 AI 產業的重量級報告出爐，罕見地由中國最高層級的政策官媒掛名，其中值得細讀的，除了中國 AI  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto kidnappers who robbed a Minnesota family of $8M plead guilty",
+      "url": "https://cointelegraph.com/news/crypto-kidnappers-who-robbed-a-minnesota-family-of-8m-plead-guilty?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-20T13:12:43+08:00",
+      "description": "Two Texas brothers admitted to holding a Minnesota family at gunpoint and forcing the transfer of $8 million in cryptocurrency.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "模型已商品化，算力不再是萬靈丹：a16z 前合夥人曝 AI 新創的真正護城河",
       "url": "https://technews.tw/2026/06/20/enterprises-spend-400-billion-ai-most-rarely-use-former-a16z-partner-highlights-true-pmf-threshold-startups/",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-20T09:00:16+08:00",
       "description": "過去，玻璃改變了顯示器產業；未來，玻璃即將再次改變半導體產業。美商康寧正結合台灣的研發實力，助攻台積電突破 C [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "imec 開啟鐵電記憶體研究，提供新一代 AI 時代解決方案",
-      "url": "https://technews.tw/2026/06/20/imec-initiates-research-on-ferroelectric-memory/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T09:00:11+08:00",
-      "description": "於本周2026年IEEE/JSAP超大規模積體電路（VLSI）技術與電路研討會上，比利時微電子研究中心（ime [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "愛講髒話、習慣插話？心理學研究：這兩種「沒禮貌」可能是聰明的訊號",
-      "url": "https://technews.tw/2026/06/20/2-rude-habits-that-subtly-signal-high-intelligence/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T08:30:15+08:00",
-      "description": "心理學家崔佛斯（Mark Travers）撰寫的心理學評論指出，社會上常被視為粗魯的兩種行為──頻繁使用髒話， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "衛福部清單還沒出，經濟部搶發補助！240 億「國藥國造」遭批路徑不明",
-      "url": "https://technews.tw/2026/06/20/strategic-drug-localization-program/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-20T08:00:19+08:00",
-      "description": "政府推動 50 到 60 項關鍵藥物國產化，啟動 240 億元藥物韌性整備計畫，試圖降低對全球供應鏈依賴。然而 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Go eyes robotaxis and acquisitions after Japan’s biggest IPO of 2026. Here’s why it matters",
-      "url": "https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-20T05:45:00+08:00",
-      "description": "Go&#8217;s IPO — Japan&#8217;s biggest so far this year — has done more than provide a much-needed boost to the country&#8217;s languishing listing season. It has also supplied the taxi-hailing app with the capital required to address an existential issue: Japan&#8217;s shortage of drivers. Go, whic",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
-      "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T05:11:07+08:00",
-      "description": "The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&P 500 closes above or below a target price.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T05:00:00+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "$13B Bitcoin options expiry looms: Will bulls endure more pain in June?",
-      "url": "https://cointelegraph.com/markets/13b-bitcoin-options-expiry-looms-will-bulls-endure-more-pain-in-june?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T04:57:49+08:00",
-      "description": "Bitcoin bears hold the upper hand in the upcoming Bitcoin options expiry, a potentially early warning that more BTC downside could unfold.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
-      "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T04:07:27+08:00",
-      "description": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
-      "url": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T02:30:21+08:00",
-      "description": "The bill did not specifically bar members of the US Congress from using the platforms or making sports bets, but prohibited policy wagers.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
