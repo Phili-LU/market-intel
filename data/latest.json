@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T13:23:20.486662+08:00",
+  "updated_at": "2026-06-21T18:08:22.980390+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64173,
-      "change": 0.81
+      "price": 64176,
+      "change": 0.79
     },
     "ETH": {
-      "price": 1730.24,
-      "change": 0.48
+      "price": 1730.67,
+      "change": 0.26
     },
     "SOL": {
-      "price": 73.07,
-      "change": 1.41
+      "price": 73.87,
+      "change": 3.3
     }
   },
   "articles": [
+    {
+      "title": "改寫紅巨星膨脹假設，新模型：地球最終不會被太陽吞噬",
+      "url": "https://technews.tw/2026/06/21/tidal-dissipation-sun-red-giant-earth-orbit/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T17:50:05+08:00",
+      "description": "50 億年後，地球其實不會被太陽吞噬？一項新研究推翻長期假設，認為地球軌道會因太陽質量流失而外移，逃過被膨脹成 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+      "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T16:54:41+08:00",
+      "description": "A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "肉眼可見的宏觀奇異金屬晶體，展現多粒子量子糾纏效應",
+      "url": "https://technews.tw/2026/06/21/particle-strange-metal-quantum-entanglement/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T16:23:03+08:00",
+      "description": "量子糾纏應該純粹發生於量子系統，但物理學家現在正透過實驗證實高階糾纏現象，從一塊指甲大小的宏觀固態材料發現至少 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ethereum's biggest 'sandwich' bot drained of $7.5 million in ironic exploit",
+      "url": "https://www.coindesk.com/tech/2026/06/21/ethereum-s-biggest-sandwich-bot-drained-of-usd7-5-million-in-ironic-exploit",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T15:12:35+08:00",
+      "description": "Blockaid said an attacker tricked Jaredfromsubway.eth into approving fake trading routes, then used those approvals to drain WETH, USDC and USDT.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "挑戰 Nike 愛迪達！安踏入主 Puma 效應，中資品牌拿下世足 1/3 球衣市場",
+      "url": "https://finance.technews.tw/2026/06/21/challenging-nike-adidas-anta-puma-effect-chinese-brands-capture-1-3-world-cup-jersey-market/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T15:00:38+08:00",
+      "description": "中國資金透過收購跨國品牌正快速擴大在國際足球場上影響力，《日經亞洲》17 日報導，安踏年初收購德國老牌體育用品 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin holds near $64,000 as a renewed Hormuz threat clouds US-Iran ceasefire talks",
+      "url": "https://www.coindesk.com/markets/2026/06/21/bitcoin-holds-near-usd64-000-as-a-renewed-hormuz-threat-clouds-us-iran-ceasefire-talks",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T14:46:28+08:00",
+      "description": "Crypto firmed over the weekend after Friday's sell-off, with bitcoin recovering toward $64,000. Permanent ceasefire talks open in Switzerland, but Iran's order to close the Strait of Hormuz again revives the risk the deal was meant to settle.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "宇宙還在加速膨脹，暗能量「危機」解除",
+      "url": "https://technews.tw/2026/06/21/dark-energy-survives-major-challenge-as-universe-keeps-accelerating/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T14:30:56+08:00",
+      "description": "天文學界持續數月的重大爭議已有定論：宇宙仍在加速膨脹，暗能量依然存在。 2025年底韓國天文學家發表研究，聲稱 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "COMPUTEX 2026：神雲科技引領多元化 AI 解決方案",
+      "url": "https://technews.tw/2026/06/21/mitac-computing-technology-computex-2026/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T14:00:21+08:00",
+      "description": "全球高效能伺服器解決方案領導者神達控股股份有限公司子公司神雲科技（MiTAC Computing Techno [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "台灣成戰略物資中轉站？鎢價一年暴漲 350% ，回收場上演中美競價戰",
+      "url": "https://technews.tw/2026/06/21/china-tungsten-scrap-buying-spree-drives-prices-up-350/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-21T14:00:09+08:00",
+      "description": "美國與中國正在展開「鎢」這種關鍵金屬的資源爭奪戰！隨著烏克蘭戰爭與伊朗戰爭等戰事帶動，需求激增，加上中國收緊鎢 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -34,7 +151,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Bitcoin ETFs shed a record $6.4B in 30 days amid crypto winter chill",
+      "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
       "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
       "source": "cointelegraph.com",
       "category": "crypto",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-21T08:00:35+08:00",
       "description": "一年前一場火燒車意外，讓國內電動巴士一哥，不惜砸 3 千萬元也要加速安全改革。華德動能非但沒掉單，還在去年轉虧 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-21T04:32:29+08:00",
-      "description": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "In the Weights is your new AI-centric vanity search",
-      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-21T03:41:11+08:00",
-      "description": "So ... what's your In the Weights score?",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
-      "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T03:09:21+08:00",
-      "description": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-21T00:39:57+08:00",
-      "description": "Jumper isn't the only big name leaving Google DeepMind.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "首次探測宇宙黎明「造星燃料庫」，天文學家在 REBELS-25 發現大量冷氣體",
-      "url": "https://technews.tw/2026/06/21/galaxy-fuel-reservoirs-dawn-universe/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T00:00:37+08:00",
-      "description": "星系是透過將氣體轉化為恆星而逐漸成長，而冷分子氣體就是其中最主要的燃料。 過去天文學家雖然推測，在宇宙黎明時期 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 快速學會宇宙法則，反而看不見新物理現象？",
-      "url": "https://technews.tw/2026/06/21/ai-learned-the-rules-of-the-universe-and-that-became-a-problem/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T00:00:37+08:00",
-      "description": "發表於《宇宙學與天文粒子物理期刊》的最新研究指出，人工智慧有望大幅加速人類尋找宇宙新法則的腳步，但也帶來出乎意 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "冰河時期的「洞獅」，並非現代獅子的祖先",
-      "url": "https://technews.tw/2026/06/21/ice-age-cave-lion-ancestor-modern-lions/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T00:00:34+08:00",
-      "description": "「洞獅」（cave lion）曾是冰河時期最強大的掠食者之一，足跡遍布歐亞大陸與北美。由於牠與現代獅子在外型上 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI is making crypto security cheaper, faster and harder to ignore",
-      "url": "https://www.coindesk.com/tech/2026/06/20/ai-is-making-crypto-security-cheaper-faster-and-harder-to-ignore",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-06-20T23:00:00+08:00",
-      "description": "As AI-powered security tools become cheaper, faster and more widely available, researchers said they could reshape what the crypto industry considers reasonable due diligence before deploying code, potentially altering expectations for developers and institutions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Every new iOS 27 feature that’s worth knowing about",
-      "url": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-06-20T23:00:00+08:00",
-      "description": "While it's not flashy like Apple’s new Siri AI and Apple Intelligence upgrades, there are still a number of additions to iOS 27 worth looking at.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
