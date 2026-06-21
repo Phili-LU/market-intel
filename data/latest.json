@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T18:08:22.980390+08:00",
+  "updated_at": "2026-06-21T22:38:20.946250+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64176,
-      "change": 0.79
+      "price": 63953,
+      "change": 0.93
     },
     "ETH": {
-      "price": 1730.67,
-      "change": 0.26
+      "price": 1721.58,
+      "change": 0.48
     },
     "SOL": {
-      "price": 73.87,
-      "change": 3.3
+      "price": 73.76,
+      "change": 4.14
     }
   },
   "articles": [
+    {
+      "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T22:21:06+08:00",
+      "description": "Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Dash eyes Philippines as market for crypto payments",
+      "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T20:25:12+08:00",
+      "description": "Dash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-21T18:15:57+08:00",
+      "description": "STRC’s slide below par has emboldened critics, slowed Strategy’s Bitcoin buys and sparked debate over whether Michael Saylor’s BTC flywheel is still fine.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "改寫紅巨星膨脹假設，新模型：地球最終不會被太陽吞噬",
       "url": "https://technews.tw/2026/06/21/tidal-dissipation-sun-red-giant-earth-orbit/",
@@ -235,45 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-21T09:00:34+08:00",
       "description": "愈來愈多的臨床數據顯示，廣泛缺牙可能大幅提升失智風險；而牙齒能夠正常咬合，也是在守護大腦。隨著台灣進入超高齡社 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "太空基礎設施也要能備份，DARPA 公開徵求 27 小時內閃電補軌方案",
-      "url": "https://technews.tw/2026/06/21/darpa-seeks-swappable-satellites-to-help-with-future-star-wars/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T08:30:55+08:00",
-      "description": "美國國防高等研究計畫署（DARPA）12 日公布資訊徵詢，尋求業界與研究單位提案，以研擬太空資產受損後迅速補位 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Notorious ‘sandwich attack’ bot Jaredfromsubway.eth exploited for $7.5M",
-      "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T08:04:47+08:00",
-      "description": "Jaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "火燒車意外加速華德動能安全轉型路，車王電小金雞憑什麼打贏中國車廠奪單？",
-      "url": "https://finance.technews.tw/2026/06/21/racev/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T08:00:35+08:00",
-      "description": "一年前一場火燒車意外，讓國內電動巴士一哥，不惜砸 3 千萬元也要加速安全改革。華德動能非但沒掉單，還在去年轉虧 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
