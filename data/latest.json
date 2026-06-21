@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T22:38:20.946250+08:00",
+  "updated_at": "2026-06-22T04:09:40.068679+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63953,
-      "change": 0.93
+      "price": 64187,
+      "change": 0.45
     },
     "ETH": {
-      "price": 1721.58,
-      "change": 0.48
+      "price": 1732.67,
+      "change": 0.31
     },
     "SOL": {
-      "price": 73.76,
-      "change": 4.14
+      "price": 74.36,
+      "change": 3.48
     }
   },
   "articles": [
     {
-      "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
+      "title": "Are perps swaps? A quick look at that CME suit: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/06/21/are-perps-swaps-a-quick-look-at-that-cme-suit-state-of-crypto",
+      "source": "coindesk.com",
       "category": "crypto",
-      "published_at": "2026-06-21T22:21:06+08:00",
-      "description": "Bitcoin’s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
+      "published_at": "2026-06-22T02:30:00+08:00",
+      "description": "CME Group sued the CFTC on Thursday, alleging that the agency was wrong in how it approved Kalshi's first U.S. perpetual futures product.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Dash eyes Philippines as market for crypto payments",
-      "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T20:25:12+08:00",
-      "description": "Dash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
+      "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets",
+      "url": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-22T00:35:00+08:00",
+      "description": "Many of those videos were reportedly filmed on “near-perfect copies” of the Polymarket website, while featuring trades and winnings that were not real.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,38 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T18:15:57+08:00",
-      "description": "STRC’s slide below par has emboldened critics, slowed Strategy’s Bitcoin buys and sparked debate over whether Michael Saylor’s BTC flywheel is still fine.",
+      "title": "名符其實的「熱」木星，韋伯望遠鏡直擊 HD80606b 被母星「火烤」場面",
+      "url": "https://technews.tw/2026/06/22/nasas-webb-catches-exoplanet-getting-roasted/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-22T00:00:53+08:00",
+      "description": "太陽系外最極端的行星之一現身！科學家用 NASA 詹姆斯·韋伯太空望遠鏡（JWST）深入分析系外行星 HD80 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-21T23:28:17+08:00",
+      "description": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-21T22:40:28+08:00",
+      "description": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -66,19 +92,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-21T17:50:05+08:00",
       "description": "50 億年後，地球其實不會被太陽吞噬？一項新研究推翻長期假設，認為地球軌道會因太陽質量流失而外移，逃過被膨脹成 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
-      "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T16:54:41+08:00",
-      "description": "A Japanese corporate pension fund with about 1,200 participating small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,32 +190,6 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T12:36:29+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin ETFs shed record $6.4B in 30 days amid crypto winter chill",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-shed-a-record-64b-in-30-days-as-bitcoin-shivers?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-21T12:30:00+08:00",
-      "description": "US-listed spot Bitcoin exchange-traded funds saw their biggest 30-day net outflow since launching in 2024, coming as Bitcoin fell 17% over the past month.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
       "title": "記憶體晶片短缺暫時無解，消費性電子產品將替 AI 產業買單",
       "url": "https://technews.tw/2026/06/21/ai-memory-chip/",
       "source": "technews.tw",
@@ -235,45 +222,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-21T10:30:54+08:00",
       "description": "NASA 近日提出的「早期演化探索者」（Early eVolution Explorer，EVE）任務概念，鎖 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "別再用完美綁架自己：符合這五個跡象，表示你比想像更自律",
-      "url": "https://technews.tw/2026/06/21/psychologists-5-signs-you-are-self-disciplined/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T10:00:48+08:00",
-      "description": "提到「自律」，多數人腦中浮現的畫面，大概是每天清晨 5 點起床、進行嚴格飲控、定期向健身房報到的人。 心理學家 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "企業導入 AI 下個難關：「口耳相傳」經驗如何轉成工作流程",
-      "url": "https://technews.tw/2026/06/21/corporate-ai-has-a-human-intelligence-mining-challenge/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T09:30:41+08:00",
-      "description": "企業導入人工智慧的浪潮，真正難題從「買不買得起」轉向「能不能把員工腦中的經驗挖出來」。彭博專欄「AI Toda [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "牙齒正常咬合是守護大腦的關鍵，廣泛缺牙為何會增加失智風險？",
-      "url": "https://technews.tw/2026/06/21/proper-dental-occlusion-is-key-to-protecting-brain-health/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-21T09:00:34+08:00",
-      "description": "愈來愈多的臨床數據顯示，廣泛缺牙可能大幅提升失智風險；而牙齒能夠正常咬合，也是在守護大腦。隨著台灣進入超高齡社 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
