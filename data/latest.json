@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T17:08:59.382456+08:00",
+  "updated_at": "2026-06-27T22:11:40.194559+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 60388,
-      "change": 0.62
+      "price": 60479,
+      "change": 0.89
     },
     "ETH": {
-      "price": 1581.94,
-      "change": 1.46
+      "price": 1588.7,
+      "change": 1.49
     },
     "SOL": {
-      "price": 71.93,
-      "change": 3.15
+      "price": 72.22,
+      "change": 2.47
     }
   },
   "articles": [
+    {
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-27T22:00:00+08:00",
+      "description": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+      "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-27T21:00:00+08:00",
+      "description": "There is no single cause for the crypto market's 50% decline over the past year, the Binance founder told CoinDesk.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Strategy's valuation has fallen below the value of its bitcoin holdings",
+      "url": "https://www.coindesk.com/markets/2026/06/27/strategy-s-valuation-has-fallen-below-the-value-of-its-bitcoin-holdings",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-27T20:08:14+08:00",
+      "description": "For years, investors had valued the firm well above its bitcoin holdings, giving Strategy massive flexibility to raise capital as needed — a situation Michael Saylor and team took full advantage of.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
+      "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-27T20:00:56+08:00",
+      "description": "SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-27T20:00:00+08:00",
+      "description": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-27T19:30:05+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "扛不住記憶體狂漲！蘋果試圖遊說白宮批准向中國軍工黑名單企業採購晶片",
+      "url": "https://technews.tw/2026/06/27/memory-prices-surge/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-06-27T17:18:48+08:00",
+      "description": "蘋果（Apple）6 月 25 日宣布決定提高 MacBook 和 iPad 的售價，此舉導致其市值蒸發 2, [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "黃仁勳預言正加速實現！安永調查 66% 企業押注「代理式 AI」搶進主權雲",
       "url": "https://finance.technews.tw/2026/06/27/reimagine/",
@@ -151,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "M&M’s 巧克力豆改用天然色素，經典藍色、棕色暫時消失",
+      "title": "M&M′s 巧克力豆改用天然色素，經典藍色、棕色暫時消失",
       "url": "https://technews.tw/2026/06/27/mm-chocolate-adopts-natural-colorings/",
       "source": "technews.tw",
       "category": "tw_stocks",
       "published_at": "2026-06-27T14:00:28+08:00",
-      "description": "Mars 旗下經典巧克力豆 M&#38;M’s 將於今年 8 月推出天然色素版本，以甜菜根及薑黃等天然原料取代 [&#8230;]",
+      "description": "Mars 旗下經典巧克力豆 M&#38;M′s 將於今年 8 月推出天然色素版本，以甜菜根及薑黃等天然原料取代 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,103 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-27T13:30:00+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
       "title": "他明明說「我要回家了」，日本高齡失蹤潮背後的失智危機",
       "url": "https://technews.tw/2026/06/27/he-told-his-wife-he-was-coming-home-then-he-disappeared/",
       "source": "technews.tw",
       "category": "tw_stocks",
       "published_at": "2026-06-27T13:00:23+08:00",
       "description": "「我要回家了」，電話那頭的丈夫，語氣平靜一如往常，但數小時後，老伴卻徹底失去他的消息，警方協尋多日後，也一無所 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SpaceX 將納入那斯達克 100 指數！被動資金買盤 7/6 盤後即將湧入",
-      "url": "https://finance.technews.tw/2026/06/27/spacex-nasdaq-100/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-27T11:46:30+08:00",
-      "description": "那斯達克（Nasdaq）今日宣布 SpaceX 將在 7 月 7 日正式納入那斯達克 100（Nasdaq-1 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "遭批「紅杉騙局」，AI 圈募資潛規則外洩：肥了領投創投卻坑了員工？",
-      "url": "https://finance.technews.tw/2026/06/27/sequoia-capital-unspoken-rules-ai-era/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-27T11:00:08+08:00",
-      "description": "2025 年 12 月，紅杉資本（Sequoia Capital）私下以不到 4 億美元的估值入股 AI 新創 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-      "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-06-27T10:47:59+08:00",
-      "description": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum. \n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI 再挖蘋果高層，Vision Pro 硬體主管 Paul Meade 下週離任",
-      "url": "https://technews.tw/2026/06/27/openai-poaches-apple-executive-paul-meade-vision-pro-hardware-head-departs-next-week/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-27T10:39:40+08:00",
-      "description": "彭博報導指出，Apple Vision Products Group 的硬體工程負責人 Paul Meade  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蘋果調價帶動筆電與平板定價，記憶體價格恐難回歸 2025 年前水準",
-      "url": "https://finance.technews.tw/2026/06/27/apple-price-adjustments-drive-laptop-tablet-pricing-memory-prices-unlikely-return-pre-2025-levels/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-27T10:32:23+08:00",
-      "description": "蘋果（Apple）近日調整多款 Mac 與 iPad 售價後，外界對個人電腦與記憶體市場的連鎖效應持續升溫。最 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "鬆綁 AI 監管！美國允許百家受信任企業使用 Anthropic Mythos 5 模型",
-      "url": "https://technews.tw/2026/06/27/claude-mythos-5/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-27T10:24:18+08:00",
-      "description": "美國商務部最新宣布允許 Anthropic 向部分「受信任合作夥伴」開放其強大的 Claude Mythos  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
