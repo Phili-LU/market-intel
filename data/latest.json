@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T17:39:08.133574+08:00",
+  "updated_at": "2026-06-28T22:20:05.444842+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 60267,
-      "change": -0.09
+      "price": 60044,
+      "change": -0.83
     },
     "ETH": {
-      "price": 1579.67,
-      "change": -0.0
+      "price": 1578.31,
+      "change": -0.86
     },
     "SOL": {
-      "price": 71.69,
-      "change": -0.06
+      "price": 71.82,
+      "change": -0.87
     }
   },
   "articles": [
+    {
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-06-28T22:00:00+08:00",
+      "description": "For some people, the ice in a beverage is almost as important as the drink itself. That&#8217;s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro.&#160;This $500 premium smart home gadget is aimed at those who crave what&#8217;s called “the ",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-28T21:04:13+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
+      "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-06-28T21:00:00+08:00",
+      "description": "Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder, said.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
+      "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-06-28T19:51:33+08:00",
+      "description": "Early exchange flow data show no clear signs of a mass migration from Binance ahead of the EU MiCA transition deadline, despite rivals' efforts to attract users.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "新思科技推第一波多物理場融合解決方案，聯發科、輝達等大廠導入",
       "url": "https://technews.tw/2026/06/28/synopsys-multiphysics-analysis/",
@@ -222,58 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-06-28T10:00:07+08:00",
       "description": "全美國最著名且歷史悠久的企業夥伴關係麥當勞與可口可樂，合作滿 70 週年之際，卻面臨前所未有的考驗。消費者口味 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "告別救世主與末日迷思，研究揭 AI 發展真實趨勢：改革比想像溫和",
-      "url": "https://technews.tw/2026/06/28/ai-not-instant-disruption-gradually-reshaping-jobs-startup-ecosystems/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-28T09:30:44+08:00",
-      "description": "人工智慧（AI）的未來，正逐漸走出「人類救世主」或「毀滅性末日威脅」等極端論述，轉向更貼近現實的漸進式發展。  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Anthropic 有望恢復 Fable 5 模型！傳川普政府擬鬆綁限制，最快下週重新開放",
-      "url": "https://technews.tw/2026/06/28/us-anthropic-to-restore-fable-5-model/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-28T09:17:39+08:00",
-      "description": "根據路透社引述 Axios 報導，川普政府正接近批准 Anthropic 恢復 Fable 5 模型的使用權限 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "挾「併購日商、大馬擴廠」雙優勢，界霖聯手歐洲 IDM 大廠強勢卡位 AI 電源供應鏈",
-      "url": "https://finance.technews.tw/2026/06/28/jihlin/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-28T09:00:49+08:00",
-      "description": "功率半導體近來再度成為市場焦點，而支撐這些元件持續往更高功率發展的關鍵零組件，正是功率半導體導線架。《財訊》雙 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 醫生來了？OpenAI 與 Anthropic 狂奔醫療賽道但藏三大隱憂",
-      "url": "https://infosecu.technews.tw/2026/06/28/openai-anthropic-ai-healthcare-advances-internal-tests-need-independent-verification/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-06-28T08:30:13+08:00",
-      "description": "OpenAI 與 Anthropic 正加速將人工智慧推向醫療領域，主打接近甚至部分測試超越人類醫師水準的健康 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
