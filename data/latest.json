@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T17:03:41.887097+08:00",
+  "updated_at": "2026-07-04T22:06:25.477315+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62491,
-      "change": 1.59
+      "price": 62570,
+      "change": 1.04
     },
     "ETH": {
-      "price": 1759.76,
-      "change": 2.47
+      "price": 1765.02,
+      "change": 1.36
     },
     "SOL": {
-      "price": 82.06,
-      "change": 1.51
+      "price": 81.62,
+      "change": 0.34
     }
   },
   "articles": [
+    {
+      "title": "Europe led on crypto regulation. Now implementation must match ambition",
+      "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-04T22:00:00+08:00",
+      "description": "",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
+      "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-04T21:56:27+08:00",
+      "description": "The region's regulators emphasized that a product's actual function as a derivative matters more than its commercial name or labeling when assessing compliance.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
+      "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-04T21:09:16+08:00",
+      "description": "Bitcoin price strength could \"break\" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-04T20:04:07+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
+      "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-04T20:00:00+08:00",
+      "description": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Revolut to delist USDT in August, citing regulatory and risk concerns",
+      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-04T19:25:34+08:00",
+      "description": "Revolut notified some customers it will delist USDT after Aug. 31, with remaining holdings automatically converted into users’ base currency.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "封印兩千年，AI 首次完整解碼 1.5 公尺維蘇威火山碳化古卷",
       "url": "https://technews.tw/2026/07/04/ai-first-complete-digital-unrolling-vesuvius-charred-scrolls/",
@@ -177,19 +255,6 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-04T13:02:44+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
       "title": "US law enforcement group drops opposition to CLARITY Act: Report",
       "url": "https://cointelegraph.com/news/us-law-enforcement-group-drops-opposition-to-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
@@ -209,71 +274,6 @@
       "category": "crypto",
       "published_at": "2026-07-04T11:54:18+08:00",
       "description": "Bitcoin and Ether bounced off multi-year lows as dip buyers finally stepped in, and the spot BTC ETFs saw a $221 million inflow on July 2. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "歐政治人物調查間諜軟體濫用，手機竟遭 Pegasus 入侵",
-      "url": "https://infosecu.technews.tw/2026/07/04/pegasus-eu/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-04T11:00:37+08:00",
-      "description": "資安研究人員證實，一名歐洲政治人物在擔任調查委員會成員、調查惡名昭彰的監控工具 Pegasus 遭濫用情況時， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "財報美化大風吹？比亞迪官方數據遭質疑，隱形負債恐破台幣 1.5 兆元",
-      "url": "https://finance.technews.tw/2026/07/04/byd-hidden-debt-feared-exceed-nt1-5-trillion/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-04T11:00:24+08:00",
-      "description": "中國電動車產業曾被視為席捲全球的成功神話，而比亞迪（BYD）正是這個神話的最高峰；但如今，這個由國家力量與巨額 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "拒絕舊系統！印度大亨砸近 10 億元打造「Neo」，單挑微軟與 Google 辦公霸權",
-      "url": "https://technews.tw/2026/07/04/indian-entrepreneur-neo-30m-challenges-microsoft-google-office-software/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-04T10:30:21+08:00",
-      "description": "印度連續創業家巴文·圖拉基亞（Bhavin Turakhia）以個人資金押注企業人工智慧（AI）市場，宣布投資 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "相機版 AirPods Pro 傳開發暫停",
-      "url": "https://technews.tw/2026/07/04/airpods-pro-camera/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-04T10:01:46+08:00",
-      "description": "蘋果傳聞已久、內建相機的 AirPods Pro，開發進度可能出現變化。據 X 知名爆料帳號「Kosutami [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "單季營收挑戰 500 億美元新高！美光樂觀財測背後，為何要提醒投資人「漲價將放緩」？",
-      "url": "https://finance.technews.tw/2026/07/04/micron-earnings-phenomenal-profit-14x-long-term-deals-ai-memory-scarcity/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-04T10:00:39+08:00",
-      "description": "同一張財報，營收成長 346%、淨利卻成長近 1,400%──美光用一季示範了什麼叫「漲價的威力」。 美光公布 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
