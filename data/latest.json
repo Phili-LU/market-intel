@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T22:14:17.056541+08:00",
+  "updated_at": "2026-07-06T03:48:25.555110+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62683,
-      "change": 0.11
+      "price": 62743,
+      "change": -0.83
     },
     "ETH": {
-      "price": 1766.08,
-      "change": -0.16
+      "price": 1780.21,
+      "change": -0.77
     },
     "SOL": {
-      "price": 81.14,
-      "change": -0.63
+      "price": 80.94,
+      "change": -1.13
     }
   },
   "articles": [
+    {
+      "title": "Clarity and Congress's summer break: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-06T02:30:00+08:00",
+      "description": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-06T01:43:36+08:00",
+      "description": "These may be the last days of Amazon’s Mechanical Turk.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin nears $63.5K into weekly close as trader warns of 'terrible' Monday",
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-635k-into-weekly-close-as-trader-warns-of-terrible-monday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-06T00:06:20+08:00",
+      "description": "Bitcoin reached its highest levels in nearly a fortnight over the weekend, but BTC price action faced an \"absolutely terrible\" Monday track record.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+      "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-05T23:00:00+08:00",
+      "description": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-conflict markets U.S. venues do not list.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "愛普*6月營收月增8.4%",
       "url": "https://finance.technews.tw/2026/07/05/ap-memory-6531-202606-financial-report/",
@@ -222,58 +274,6 @@
       "category": "crypto",
       "published_at": "2026-07-05T14:00:22+08:00",
       "description": "Barstool Sports founder Dave Portnoy said he will hold bitcoin all the way down to zero after buying near $100,000.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "DJI 發表全新雙主鏡頭口袋電影機 Osmo Pocket 4P：靈眸成雙，遠見非凡",
-      "url": "https://ccc.technews.tw/2026/07/05/dji-osmo-pocket-4p-2/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T14:00:12+08:00",
-      "description": "DJI 6 月 29 日正式發表全新雙主鏡頭口袋電影機 Osmo Pocket 4P，它將 DJI 多年沉澱的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "賓州大學最新研究：廢棄 PET 寶特瓶成功轉化為「電池級合成石墨」",
-      "url": "https://technews.tw/2026/07/05/pet-bottles-to-battery-grade-graphite/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T13:30:22+08:00",
-      "description": "全球廢棄塑膠垃圾迎接高價值轉型的新契機！美國賓州州立大學近日發表綠色創新，成功證明日常生活常見的廢棄 PET（ [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-05T11:51:24+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-      "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-05T11:50:36+08:00",
-      "description": "Part of the Ethereum Foundation’s plan to make Ethereum more private and scalable is to introduce a new virtual machine, with leanISA and RISC-V among the top candidates.\n",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
