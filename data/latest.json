@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T17:25:26.215732+08:00",
+  "updated_at": "2026-07-05T22:14:17.056541+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62722,
-      "change": 0.5
+      "price": 62683,
+      "change": 0.11
     },
     "ETH": {
-      "price": 1762.33,
-      "change": 0.25
+      "price": 1766.08,
+      "change": -0.16
     },
     "SOL": {
-      "price": 80.29,
-      "change": -2.1
+      "price": 81.14,
+      "change": -0.63
     }
   },
   "articles": [
+    {
+      "title": "愛普*6月營收月增8.4%",
+      "url": "https://finance.technews.tw/2026/07/05/ap-memory-6531-202606-financial-report/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-05T22:10:03+08:00",
+      "description": "愛普*（6531）公布 6 月合併營收 8.11 億元，較上（5）月成長 8.4%，與去年同期相比為年增 59 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-05T22:00:00+08:00",
+      "description": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public",
+      "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-05T21:33:32+08:00",
+      "description": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-05T21:00:00+08:00",
+      "description": "As yield-bearing stablecoins race toward a $50 billion market capitalization, the industry is optimizing for the wrong metric, argues Artem Tolkachev, chief RWA officer at Falcon Finance.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "url": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-05T21:00:00+08:00",
+      "description": "Some of the many battles with state gaming regulators aren't going well for the industry at the moment, but it isn't without its would-be government protectors.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Almost 90 new unicorns have been minted so far this year — here they are",
+      "url": "https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-05T20:47:39+08:00",
+      "description": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "South Africa proposes crypto tax guidance under existing framework",
+      "url": "https://cointelegraph.com/news/south-africa-proposes-crypto-tax-draft-guidance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-05T19:52:47+08:00",
+      "description": "South Africa’s tax authority proposed draft guidance clarifying how crypto assets are taxed under existing income and capital gains tax rules, seeking public input until Aug. 31.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "當野生動物來敲門：告別傳統防護手段，全球重塑「人獸共存」新防線",
       "url": "https://technews.tw/2026/07/05/globally-redefining-new-defense-line-human-animal-coexistence/",
@@ -183,97 +274,6 @@
       "category": "crypto",
       "published_at": "2026-07-05T11:50:36+08:00",
       "description": "Part of the Ethereum Foundation’s plan to make Ethereum more private and scalable is to introduce a new virtual machine, with leanISA and RISC-V among the top candidates.\n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "先唱衰 CPO 再推 ETF 撈底？分析機構 SemiAnalysis 遭爆「球員兼裁判」",
-      "url": "https://finance.technews.tw/2026/07/05/semianalysis-being-accused-of-false-reports-on-cpo-for-selling-short/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T11:00:18+08:00",
-      "description": "知名半導體研究機構 SemiAnalysis 近期因「精準的時間差」深陷輿論風暴。 該機構在 6 月初發布報告 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "順達6月營收12.68 億元",
-      "url": "https://finance.technews.tw/2026/07/05/dynapack-3211-202606-financial-report/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T11:00:05+08:00",
-      "description": "順達（3211）今（5）日公布 6 月營收，達 12.68 億元，較 5 月成長 9.0%，較去年同期成長 2 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "日本缺工缺出商機：物理 AI 浪潮下，台灣靠感測器整合、代工與融資卡位",
-      "url": "https://technews.tw/2026/07/05/tokyo-infinity-ventures-summit/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T11:00:01+08:00",
-      "description": "日本這兩年相當強調深度科技（Deep Tech）與人工智慧（AI）。人口老化導致勞動力短缺，逼出機器人與自動化 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "地表最強生存者再進化，3D 列印微型潛水裝讓「賽博蟑螂」化身水下搜救部隊",
-      "url": "https://technews.tw/2026/07/05/3d-printed-diving-device-allows-cyber-cockroaches-operate-underwater-3-hours/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T10:30:36+08:00",
-      "description": "新加坡南洋理工大學（NTU）與日本早稻田大學的研究團隊攜手合作，成功為「賽博蟑螂」（cyborg cockro [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "鴻準6月營收月增71.9%",
-      "url": "https://finance.technews.tw/2026/07/05/ftc-2354-202606-financial-report/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T10:10:04+08:00",
-      "description": "鴻準（2354）公布 6 月合併營收 150.55 億元，較上（5）月成長 71.9%，與去年同期相比為年增  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "為何「黑莓機」股價創新高？手機輸家轉戰車載系統，變身實體 AI 新寵",
-      "url": "https://infosecu.technews.tw/2026/07/05/forget-the-cellphones-blackberry-stock-jumps-23-as-an-ai-play/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T10:00:14+08:00",
-      "description": "還記得曾是商務人士和政府官員標配、後來被 iPhone 等智慧手機打敗的「黑莓機」（Blackberry）嗎？ [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "惡鄰居可能真會害你得心臟病，且黑人冠狀動脈鈣化風險比白人更高",
-      "url": "https://technews.tw/2026/07/05/this-surprising-factor-may-predict-heart-disease-decades-before-it-strikes/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-05T09:30:08+08:00",
-      "description": "《Nature Communications》3 月刊登研究指出，成年早期居住環境可能數十年後留下可測量的心血 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
