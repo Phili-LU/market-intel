@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T16:17:45.957693+08:00",
+  "updated_at": "2026-07-11T21:59:28.902983+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64189,
-      "change": -0.07
+      "price": 64201,
+      "change": -0.38
     },
     "ETH": {
-      "price": 1800.23,
-      "change": 0.91
+      "price": 1801.11,
+      "change": -0.1
     },
     "SOL": {
-      "price": 77.98,
-      "change": -1.42
+      "price": 78.14,
+      "change": -1.1
     }
   },
   "articles": [
+    {
+      "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
+      "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T21:30:00+08:00",
+      "description": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
+      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T20:55:18+08:00",
+      "description": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.\n",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
+      "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T20:25:05+08:00",
+      "description": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
+      "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T20:00:00+08:00",
+      "description": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+      "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T19:56:54+08:00",
+      "description": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T19:21:07+08:00",
+      "description": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美國放寬對阿聯 AI 晶片與軍備出口，民主黨痛批新制淪為川普腐敗交易",
+      "url": "https://finance.technews.tw/2026/07/11/the-united-states-has-eased-restrictions-on-exports-of-ai-chips-and-military-equipment-to-the-united-arab-emirates/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-11T18:00:08+08:00",
+      "description": "美國商務部於日前宣布，正式放寬對阿拉伯聯合大公國（UAE）的出口管制，使輝達（Nvidia）AI晶片、軍事設備 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "代工廠晶合集成登陸港交所掛牌，穩居中國第三大晶圓代工廠位階",
+      "url": "https://finance.technews.tw/2026/07/11/nexchip-a-contract-manufacturer-listed-on-the-hong-kong-stock-exchange/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-11T17:15:41+08:00",
+      "description": "7月10日，中國境內的12吋純晶圓代工廠商-晶合集成正式在香港交易所掛牌上市，成功達成A+H兩地上市佈局，也是 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-11T17:14:12+08:00",
+      "description": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "英特爾大秀 EMIB-T 先進封裝技術，挑戰台積電 CoWoS 先進封裝技術",
       "url": "https://finance.technews.tw/2026/07/11/intel-showcases-its-advanced-emib-t-packaging-technology/",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-07-11T11:28:06+08:00",
       "description": "通常筆電都必備一顆笨重又沉重的充電變壓器，不僅攜帶不便，收納也令人頭痛。但科技不斷進步，俗稱「大黑磚」的變壓器 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SK 海力士示警，2027 年將面臨史上最嚴重記憶體供應短缺",
-      "url": "https://finance.technews.tw/2026/07/11/sk-hynix-warns-it-will-face-the-worst-memory-supply-shortage-in-history-in-2027/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T11:00:19+08:00",
-      "description": "韓國記憶體大廠 SK 海力士（SK Hynix）執行長郭魯正（Kwak Noh-jung）近日發出警告，指出全 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「巴菲特指標」飆破 233% 創新高，股神驚呼：從沒看過人們這麼愛賭",
-      "url": "https://finance.technews.tw/2026/07/11/warren-buffett-never-seen-people-love-gambling-so-much/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T10:58:57+08:00",
-      "description": "2026 年以來，S&#38;P 500 指數、那斯達克綜合指數（Nasdaq Composite）與道瓊工業 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-      "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-07-11T10:30:00+08:00",
-      "description": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 浪潮吞噬入門職缺？資深老鳥降級卡位，新鮮人面臨最嚴峻求職戰",
-      "url": "https://technews.tw/2026/07/11/ai-wave-devouring-entry-level-jobs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T10:27:58+08:00",
-      "description": "人工智慧（AI）對白領就業市場的衝擊，正從「抽象的預言」轉變為具體的生存壓力。 眼前的職場巨變並非單純的「技術 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "京元電拍板赴美設廠！最高投資達14億美元以完善當地封裝測試供應鏈",
-      "url": "https://finance.technews.tw/2026/07/11/kyec-has-approved-the-establishment-of-a-factory-in-the-united-states/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T10:15:59+08:00",
-      "description": "半導體測試大廠京元電發布重大訊息宣布，董事會已正式決議通過赴美投資設廠案，預計投資金額上限高達14億美元（約合 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SK hynix 登陸納斯達克發行 ADR，市場看好後續表現首日開盤大漲 14%",
-      "url": "https://finance.technews.tw/2026/07/11/sk-hynix-listed-on-nasdaq-and-issued-adrs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T10:00:25+08:00",
-      "description": "韓國記憶體晶片大廠SK海力士（SK hynix）於本月10日，正式在美國納斯達克（NASDAQ）發行美國存託憑 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "HBM 之父語出驚人：GPU 閒置率高達 90%，輝達要繼續成長都得靠記憶體",
-      "url": "https://finance.technews.tw/2026/07/11/father-of-hbm-makes-shocking-statement-ais-essence-is-memory-gpu-idle-rate-reaches-90/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T09:59:50+08:00",
-      "description": "韓國記憶體晶片巨頭 SK 海力士 10 日將以美國存託憑證（ADR）形式在那斯達克掛牌上市，股票代號 SKHY [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 故人體驗趨近成熟，但受試者擔心仍有依賴上癮風險",
-      "url": "https://technews.tw/2026/07/11/study-finds-humans-will-talk-to-ai-ghosts-of-the-dead-as-reincarnations-and-its-pretty-grim/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-11T09:33:28+08:00",
-      "description": "美國科羅拉多大學波德分校（University of Colorado Boulder）發表首份針對「AI 幽 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "DOJ moves to dismiss charges against alleged $722M BitClub fraudster: Report",
-      "url": "https://cointelegraph.com/news/doj-to-dismiss-charges-against-alleged-722m-bitclub-crypto-fraudster-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-11T09:30:31+08:00",
-      "description": "Matthew Goettsche was set to face trial in October for conspiracy to commit wire fraud and selling unregistered securities.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
