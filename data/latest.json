@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T22:02:26.967722+08:00",
+  "updated_at": "2026-07-13T03:36:39.833633+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63988,
-      "change": -0.34
+      "price": 64130,
+      "change": -0.16
     },
     "ETH": {
-      "price": 1804.92,
-      "change": 0.18
+      "price": 1818.57,
+      "change": -0.07
     },
     "SOL": {
-      "price": 77.12,
-      "change": -1.32
+      "price": 77.46,
+      "change": -0.51
     }
   },
   "articles": [
+    {
+      "title": "Signs of life?: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-13T02:30:00+08:00",
+      "description": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Strategy's Saylor needs clarity in BTC pivot message to convince investors: StanChart",
+      "url": "https://cointelegraph.com/news/strategys-saylor-needs-clarity-in-btc-pivot-message-to-convince-investors-stanchart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-13T02:16:45+08:00",
+      "description": "Standard Chartered sees communication challenges facing the biggest digital asset treasury company as \"muddying the waters\" for Bitcoin in the near term.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: A robotaxi ultimatum",
+      "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-13T00:07:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "NASA 以迄今最細緻半人馬座 A 影像慶祝韋伯望遠鏡四週年，中心黑洞與塵埃結構清晰可見",
+      "url": "https://technews.tw/2026/07/12/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-12T22:38:30+08:00",
+      "description": "美國國家航空暨太空總署（NASA）6 日公布詹姆斯韋伯太空望遠鏡（JWST）的半人馬座 A（Centaurus [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
       "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
@@ -77,8 +129,8 @@
       "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-07-12T17:18:17+08:00",
-      "description": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.",
+      "published_at": "2026-07-12T17:29:00+08:00",
+      "description": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the proof-of-stake networks studied.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,77 +255,25 @@
       "claude_takeaway": "—"
     },
     {
+      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
+      "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-12T12:28:00+08:00",
+      "description": "The ongoing debate over a proposed temporary fork comes despite a broad downturn in Ordinals transaction activity over the last two years.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
       "published_at": "2026-07-12T12:24:58+08:00",
       "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-      "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-12T12:24:36+08:00",
-      "description": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「人們需要相聚的理由」美國女性瘋打麻將，在牌桌上找回「摸得到」的真實互動",
-      "url": "https://technews.tw/2026/07/12/people-need-reasons-to-gather-american-women-mahjong-craze-find-tangible-real-interaction/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-12T12:15:26+08:00",
-      "description": "對許多台灣人來說，幾乎不停歇的「麻將洗牌聲」可能是許多人過年期間的日常，但現在，這股麻將旋風正在席捲西方世界。 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "防範 Facebook 詐騙陷阱，不可不知的四大警訊與帳號自救指南",
-      "url": "https://infosecu.technews.tw/2026/07/12/facebook-account-hacked-expert-guide-4-red-flags-self-rescue/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-12T11:45:35+08:00",
-      "description": "社群媒體普及，無形中也成為駭客大規模布置詐騙陷阱的溫床。 Meta 公布 2026 年第一季財報數據，今年 3 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "氣溶膠加劇熱帶雲層風暴機制，科學家終於找到關鍵「燃料」",
-      "url": "https://technews.tw/2026/07/12/aerosol-supersaturation-cloud/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-12T11:28:03+08:00",
-      "description": "微小氣溶膠顆粒可以改變雲的行為，但科學家始終不確定它們是否會讓熱帶風暴雲變更強，一個關鍵機制稱為「凝結核氣膠對 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "一塊 1,800 元的塑膠磚如何治好你的手機成癮？Brick 用「麻煩」換回專注力",
-      "url": "https://ccc.technews.tw/2026/07/12/how-brick-finally-helped-me-reduce-my-screen-time/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-12T11:03:05+08:00",
-      "description": "這個「螢幕使用時間」可能比睡眠時間還長的年代，綁架你的也許不是串流媒體或社群平台，而是手機便利性。 創立於 2 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
