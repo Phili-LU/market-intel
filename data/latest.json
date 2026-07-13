@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T12:07:21.287517+08:00",
+  "updated_at": "2026-07-13T17:51:31.490867+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62689,
-      "change": -2.27
+      "price": 63045,
+      "change": -1.4
     },
     "ETH": {
-      "price": 1776.24,
-      "change": -1.83
+      "price": 1784.79,
+      "change": -0.94
     },
     "SOL": {
-      "price": 75.76,
-      "change": -1.52
+      "price": 76.6,
+      "change": -0.23
     }
   },
   "articles": [
     {
-      "title": "福斯 Q2 交車遜、中國銷量銳減 36%  醞釀削減產能",
-      "url": "https://finance.technews.tw/2026/07/13/volkswagen-weighs-production-cuts-after-weak-q2-deliveries/",
+      "title": "輝達暫棄台積電 COUPE 方案？傳改採高塔矽光子 NPO 解決方案",
+      "url": "https://technews.tw/2026/07/13/irrational-analysis-see-tsmc-coupe-and-nvidia/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T12:00:28+08:00",
-      "description": "德國汽車巨頭福斯（Volkswagen）第二季交車表現遜色，在中國市場銷量年減幅度逾 36%，並宣布計劃削減產 [&#8230;]",
+      "published_at": "2026-07-13T17:37:51+08:00",
+      "description": "市場消息傳出，輝達（NVIDIA）已決定暫時放棄台積電 COUPE（緊湊型通用光子引擎）解決方案，轉而使用高塔 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "泡沫崩壞後首見  三菱 UFJ 超車豐田 / 鎧俠  首居市值",
-      "url": "https://finance.technews.tw/2026/07/13/mufg-becomes-japan-most-valuable-company/",
+      "title": "光寶加速北美布局，9.19 億美元打造德州製造基地",
+      "url": "https://technews.tw/2026/07/13/liteon-usa-texus-invest/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T11:50:57+08:00",
-      "description": "業績看旺，日本大型銀行三菱 UFJ 金融集團（Mitsubishi UFJ Financial Group，M [&#8230;]",
+      "published_at": "2026-07-13T17:35:36+08:00",
+      "description": "光寶科技今（13）日宣布，美國投資計畫正式落腳德州麥金尼市（McKinney），將設立製造營運基地，總投資約  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "乾杯豪砸 1.7 億插旗西門町！不動產商仲東家揭密北市商圈大洗牌",
-      "url": "https://finance.technews.tw/2026/07/13/real-estate-brokerage/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-13T11:48:59+08:00",
-      "description": "台北商用不動產市場正迎來一波劇烈的版圖大洗牌，從乾杯公告以 1.7 億總租金簽訂西門町 10 年長約開始，東家 [&#8230;]",
+      "title": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
+      "url": "https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-13T17:32:41+08:00",
+      "description": "Structural change can create lasting opportunities, but explosive rallies in semiconductors, metals and bitcoin show how quickly strong narratives can become speculative excess.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "爭議天文學家獲白宮任命，領軍調查不明空中現象",
-      "url": "https://technews.tw/2026/07/13/white-house-taps-the-guy-who-keeps-crying-aliens-to-run-ufo-group/",
+      "title": "中國太陽能整併加速，TCL 中環收購一道新能源",
+      "url": "https://technews.tw/2026/07/13/china-solar-merge-trend/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T11:40:11+08:00",
-      "description": "白宮近日正式啟動一個新的不明空中現象（Unidentified Anomalous Phenomena，UAP [&#8230;]",
+      "published_at": "2026-07-13T17:10:24+08:00",
+      "description": "根據彭博社報導，中國太陽能矽晶圓大廠 TCL 中環宣布完成對太陽能電池及模組廠一道新能源的收購。公司表示，此次 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "惡意程式碼不用藏在程式裡，研究：一張圖片就能讓 AI 助理偷走專案機密",
-      "url": "https://infosecu.technews.tw/2026/07/13/researchers-hid-a-prompt-injection-inside-a-png/",
+      "title": "聯發國際上半年營收 6.11 億創同期高！下半年引進大馬「新峰肉骨茶」首店",
+      "url": "https://finance.technews.tw/2026/07/13/mamak/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T11:30:36+08:00",
-      "description": "研究人員近日示範了一種新型的提示注入（Prompt Injection）攻擊，證明看似無害的 PNG 圖檔，也 [&#8230;]",
+      "published_at": "2026-07-13T17:07:18+08:00",
+      "description": "聯發國際今日公告 6 月營收達 1.1 億元，月增 5.38%，年增 4.80%，創歷史同期新高；累計今年上半 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Circle 取得銀行牌照  穩定幣再迎監管里程碑",
-      "url": "https://finance.technews.tw/2026/07/13/circle-wins-final-occ-approval-to-launch-national-trust-bank/",
+      "title": "三星電子與三星顯示器合作開發玻璃中介層，年底前推原型挑戰台積電先進封裝",
+      "url": "https://finance.technews.tw/2026/07/13/samsung-electronics-and-samsung-display-collaborate-to-develop-glass-interlayer/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T11:20:25+08:00",
-      "description": "穩定幣 USDC 發行商 Circle 取得重大監管進展，獲美國貨幣監理署（OCC）核發全國性信託銀行牌照，象 [&#8230;]",
+      "published_at": "2026-07-13T17:00:29+08:00",
+      "description": "根據韓國媒體THEELEC的報導，為了在先進封裝領域取得領先優勢，三星電子（Samsung Electroni [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "共信上半年營收年增 33% 創高！抗癌專利獲美核准助攻全球布局",
-      "url": "https://finance.technews.tw/2026/07/13/new-chemical-entities/",
+      "title": "漢唐6月營收87.43 億元",
+      "url": "https://finance.technews.tw/2026/07/13/uis-2404-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T11:12:45+08:00",
-      "description": "共信-KY 今日宣布繼歐美市場關鍵專利陸續獲批後，再度成功取得四種抗癌新成分化學結構「苯磺醯胺衍生物」美國發明 [&#8230;]",
+      "published_at": "2026-07-13T17:00:06+08:00",
+      "description": "漢唐（2404）今（13）日公布 6 月營收，達 87.43 億元，較 5 月成長 -5.2%，較去年同期成長 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "預測地震有曙光？AI 成功辨識斷層異常，但「前兆不一致」仍是未解之謎",
-      "url": "https://technews.tw/2026/07/13/ai-detects-hidden-warning-signs-before-major-earthquakes/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-13T11:10:35+08:00",
-      "description": "研究團隊利用非監督式機器學習分析地震目錄中的「地震家族」，發現部分大型地震在主震前，可能會出現隱藏在大量小震中 [&#8230;]",
+      "title": "Japan stablecoin payments advance with Lawson trial, Netstars launch",
+      "url": "https://cointelegraph.com/news/japan-lawson-netstars-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-13T16:58:51+08:00",
+      "description": "Lawson will test yen stablecoin payments in Tokyo as Netstars launches a merchant service supporting USDC, USDT and JPYC.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "達美航空稱旅遊需求強  但航空燃油波動影響獲利",
-      "url": "https://finance.technews.tw/2026/07/13/delta-air-lines-sees-strong-travel-demand-fuel-costs-weigh-on-profit/",
+      "title": "中新創啟用首條 2D 半導體試產線！拚三年內擺脫 EUV、實現 5 奈米等效晶片",
+      "url": "https://technews.tw/2026/07/13/china-yuanjiwei-wanna-build-5-nanometre-equivalent-chips-without-euv/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T11:00:53+08:00",
-      "description": "達美航空（Delta Air Lines）上季財報表現不俗，但燃油價格波動持續影響獲利，全年展望偏保守，財報公 [&#8230;]",
+      "published_at": "2026-07-13T16:56:36+08:00",
+      "description": "中國晶片新創「原集微科技」（Yuanjiwei）宣布啟用全球首條 8 吋二維（2D）半導體中試生產線，這是美國 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "日韓團隊提突破性 AI 記憶體設計，DRAM「側向立起」破解 HBM 散熱與頻寬瓶頸",
-      "url": "https://technews.tw/2026/07/13/researchers-turn-hbm-on-its-side-to-tackle-ai-memorys-heat-wall/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-13T10:50:42+08:00",
-      "description": "韓國與日本研究團隊近日提出兩種全新的記憶體整合構想，試圖在不讓高頻寬記憶體（HBM）堆疊持續升高的情況下，提升 [&#8230;]",
+      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-13T16:55:50+08:00",
+      "description": "Your look at what's coming in the week starting July 13.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "大立光亮燈漲停！四大外資一致喊買，最高目標價直指 6,125 元",
-      "url": "https://technews.tw/2026/07/13/four-major-foreign-brokerages-on-largan-2026-q2/",
+      "title": "葡萄王上半年營收 46.9 億元仍衰退！下半年有馬來西亞、上海與代工動能",
+      "url": "https://finance.technews.tw/2026/07/13/oem-orders/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:48:31+08:00",
-      "description": "大立光上週舉辦第二季法說會，隨著智慧手機產業淡季結束，市場亦看好大立光在 CPO 的新商機，四間外資同時喊買進 [&#8230;]",
+      "published_at": "2026-07-13T16:32:14+08:00",
+      "description": "葡萄王生技今日公布 6 月營收 8.2 億元，月增 4.06%，年減 7.24%，累計前 6 個月營收 46. [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "上太空不夠，科學家打造海底人類棲息地",
-      "url": "https://technews.tw/2026/07/13/underwater-human-habitant/",
+      "title": "台灣大6月營收月增5.4%",
+      "url": "https://finance.technews.tw/2026/07/13/twm-3045-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:47:19+08:00",
-      "description": "懷抱太空夢想的科學家和超級富豪，無論真正的動機是什麼，對外都宣稱地球遲早有一天不適合人住，紛紛積極推動探索其他 [&#8230;]",
+      "published_at": "2026-07-13T16:30:17+08:00",
+      "description": "台灣大（3045）公布 6 月合併營收 173.22 億元，較上（5）月成長 5.4%，與去年同期相比為年增  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Claude Fable 5 模型推廣二度延長，無額外收費多用一週至 7/19",
-      "url": "https://technews.tw/2026/07/13/anthropic-again-extends-access-to-claude-fable-5-on-all-paid-plans-through-july-19/",
+      "title": "中國光學晶片又一突破！新光互連系統助 AI 推論速度增 100 倍、算力僅需 1/9",
+      "url": "https://technews.tw/2026/07/13/china-optical-chip-breakthrough/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:44:52+08:00",
-      "description": "Anthropic 13 日再度宣布，將所有付費訂閱 Claude 的用戶的 Claude Fable 5 模 [&#8230;]",
+      "published_at": "2026-07-13T16:29:25+08:00",
+      "description": "中國北京大學研究團隊開發一套全光學互連系統，透過將標準電子晶片相互連接，使 AI 分散式推論速度提升超過 10 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI、半導體需求旺  機器人廠安川電機訂單衝 15 季高",
-      "url": "https://finance.technews.tw/2026/07/13/yaskawa-electric-orders-surge-to-a-15-quarter-high/",
+      "title": "科嘉-KY6月營收月減17.3%",
+      "url": "https://finance.technews.tw/2026/07/13/ko-ja-5215-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:40:10+08:00",
-      "description": "AI、半導體相關需求旺盛，帶動日本機器人大廠安川電機（Yaskawa Electric）上季訂單額大增，創 1 [&#8230;]",
+      "published_at": "2026-07-13T16:20:10+08:00",
+      "description": "科嘉-KY（5215）公布 6 月合併營收 2.14 億元，較上（5）月成長 -17.3%，與去年同期相比為年 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "比爾蓋茲小女兒新創爆醜聞，AI 購物 App「Phia」遭控暗植 Cookie 竊取行銷分潤",
-      "url": "https://infosecu.technews.tw/2026/07/13/phoebe-gates-ai-shopping-app-phia-reportedly-claimed-unearned-affiliate-sales-through-fake-clicks/",
+      "title": "康控-KY6月營收月減4.3%",
+      "url": "https://finance.technews.tw/2026/07/13/concraft-4943-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:30:35+08:00",
-      "description": "彭博社（Bloomberg）與研究人員指出，由比爾·蓋茲小女兒菲比·阿黛爾·蓋茲（Phoebe Gates，首 [&#8230;]",
+      "published_at": "2026-07-13T16:20:03+08:00",
+      "description": "康控-KY（4943）公布 6 月合併營收 1.90 億元，較上（5）月成長 -4.3%，與去年同期相比為年增 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "搶訂 2029 年 ABF 產能！外資全面調高南電、景碩、臻鼎、欣興目標價",
-      "url": "https://finance.technews.tw/2026/07/13/abf-production-capacity/",
+      "title": "鎖定 AI 資料中心 CW 雷射光源！威世波預計 7/16 重磅登錄興櫃",
+      "url": "https://finance.technews.tw/2026/07/13/cw-laser-chip/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:21:30+08:00",
-      "description": "AI 需求狂潮持續席捲全球，ABF 載板恐成整體 AI 及伺服器產業鏈的最大瓶頸，外資最新報告指出，受惠 AI [&#8230;]",
+      "published_at": "2026-07-13T16:12:07+08:00",
+      "description": "威世波明日將舉辦興櫃前業績發表會，預計 7 月 16 日登錄興櫃，董事長陳曉昇表示，目前將重心放在 2027  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "三星傳正開發 AI 加速器 GAIA  瞄準實體 AI 新商機",
-      "url": "https://technews.tw/2026/07/13/samsung-begins-developing-ai-pc-accelerator/",
+      "title": "漢磊6月營收6.20 億元",
+      "url": "https://finance.technews.tw/2026/07/13/episil-3707-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:20:38+08:00",
-      "description": "三星電子（Samsung Electronics）積極擴大高效能 AI 晶片布局，繼智慧手機處理器（AP）後， [&#8230;]",
+      "published_at": "2026-07-13T16:10:16+08:00",
+      "description": "漢磊（3707）今（13）日公布 6 月營收，達 6.20 億元，較 5 月成長 5.1%，較去年同期成長 2 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達破除 Rubin Ultra  延遲傳聞，單季營收近千億美元大摩仍投資半導體首選",
-      "url": "https://finance.technews.tw/2026/07/13/nvidia-dispels-rumors-of-rubin-ultra-delay/",
+      "title": "嘉晶6月營收月增3.3%",
+      "url": "https://finance.technews.tw/2026/07/13/epi-3016-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:15:22+08:00",
-      "description": "外資大摩（摩根士丹利，Morgan Stanley）發布最新研究報告指出，輝達（NVIDIA）執行長黃仁勳（J [&#8230;]",
+      "published_at": "2026-07-13T16:10:08+08:00",
+      "description": "嘉晶（3016）公布 6 月合併營收 4.48 億元，較上（5）月成長 3.3%，與去年同期相比為年增 41. [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "發布論文前請檢查原始檔，研究指預印本平台 arXiv 淪為敏感資訊外洩溫床",
-      "url": "https://infosecu.technews.tw/2026/07/13/arxiv-submissions-security-crisis-90-files-contain-sensitive-info-passwords-gps-coordinates/",
+      "title": "中華電6月營收月增9.3%",
+      "url": "https://finance.technews.tw/2026/07/13/cht-2412-202606-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:10:29+08:00",
-      "description": "德國亞琛工業大學（RWTH Aachen University）研究團隊近日發表研究指出，學術預印本平台 ar [&#8230;]",
+      "published_at": "2026-07-13T16:10:05+08:00",
+      "description": "中華電（2412）公布 6 月合併營收 213.42 億元，較上（5）月成長 9.3%，與去年同期相比為年增  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "爬別人的資料叫「合理使用」，自家模型被抄卻喊侵權？AI 大廠雙標挨批",
-      "url": "https://technews.tw/2026/07/13/ai-giants-learn-what-everyone-else-on-the-modern-internet-already-knows/",
+      "title": "反制無人機與飛彈飽和攻擊，美軍選擇 nLIGHT 啟動 8.4 億美元聯合雷射武器系統案",
+      "url": "https://technews.tw/2026/07/13/the-pentagon-chose-nlight-defense-to-develop-jlws-project/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-13T10:00:12+08:00",
-      "description": "人工智慧巨頭正面臨一場熟悉的網路反噬。Business Insider 指出，Anthropic、OpenAI [&#8230;]",
+      "published_at": "2026-07-13T16:06:29+08:00",
+      "description": "面對近年區域衝突中，敵軍大量使用低成本無人機與火箭彈進行飽和攻擊，導致美國被迫消耗昂貴防空飛彈的困境，美軍正加 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
