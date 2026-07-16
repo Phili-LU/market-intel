@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-16T11:45:10.492357+08:00",
+  "updated_at": "2026-07-16T16:38:24.040520+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64622,
-      "change": -0.05
+      "price": 64223,
+      "change": -0.65
     },
     "ETH": {
-      "price": 1921.9,
-      "change": 2.66
+      "price": 1893.0,
+      "change": 1.03
     },
     "SOL": {
-      "price": 76.95,
-      "change": -0.82
+      "price": 76.29,
+      "change": -1.4
     }
   },
   "articles": [
     {
-      "title": "估值回歸基本面  SpaceX 掛牌以來首次「破發」",
-      "url": "https://finance.technews.tw/2026/07/16/spacex-valuation-returns-to-fundamentals/",
+      "title": "魏哲家解析 AI 市況，先進製程產能缺口龐大，未來數年迎接極佳營運前景",
+      "url": "https://finance.technews.tw/2026/07/16/tsmc-faces-a-huge-capacity-gap-in-advanced-process-technologies/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T11:40:35+08:00",
-      "description": "太空探索科技公司 SpaceX IPO 蜜月行情告終，股價 15 日盤中首度「破發」，反映市場開始重新檢視公司 [&#8230;]",
+      "published_at": "2026-07-16T16:30:01+08:00",
+      "description": "隨著全球生成式人工智慧（Generative AI）應用呈現爆發性成長，全球晶圓代工龍頭台積電（TSMC）的產 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "2026 蘋果返校優惠開跑",
-      "url": "https://technews.tw/2026/07/16/2026-apple-bts/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-16T11:34:30+08:00",
-      "description": "許多學生族群、家長、教育工作者期待的蘋果返校優惠正式登場，即日起至 8 月 27 日止，符合教育優惠資格的大專 [&#8230;]",
+      "title": "Tether invests $20M into Argentine neobank Ualá",
+      "url": "https://cointelegraph.com/news/tether-invests-20m-argentine-neobank-uala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-16T16:27:31+08:00",
+      "description": "Tether reportedly invested $20 million into Ualá, as part of the Argentine neobank’s $197 million funding round announced earlier in March.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "疑涉串通供貨價格，瀾起、瑞薩與 Rambus 在韓遭搜查",
-      "url": "https://technews.tw/2026/07/16/montage-renesas-and-rambus-raided-in-korea-over-price-fixing-probe/",
+      "title": "輝達攜手富士通與三大機器人巨頭打造「實體 AI」新標準，加速日本製造業轉型",
+      "url": "https://technews.tw/2026/07/16/japans-robotics-leaders-unite-with-nvidia-to-take-on-china/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T11:25:28+08:00",
-      "description": "綜合中媒引述韓媒消息報導，韓國首爾中央地方檢察廳公平交易調查部以涉嫌違反《公平交易法》為由，對中國瀾起科技、日 [&#8230;]",
+      "published_at": "2026-07-16T16:20:53+08:00",
+      "description": "輝達（NVIDIA）執行長黃仁勳訪日，日本製造與自動化產業的合作版圖再度擴大。富士通今日宣布，已與發那科（FA [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "全 AI 打造開創低門檻史詩電影新紀元，〈Odysseus: The Fall〉挑戰諾蘭新片",
-      "url": "https://technews.tw/2026/07/16/ai-odysseus-the-fall-challenges-nolan/",
+      "title": "魏哲家曝先進製程進度！A14 於 2028 年量產，A13 與 A12 接棒 2029 年登場",
+      "url": "https://technews.tw/2026/07/16/tsmc-cc-wei-see-a14-a13-a12/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T11:24:38+08:00",
-      "description": "AI 電影公司 Fountain 0 於 14 日正式宣布，將推出一部長達 135 分鐘的全 AI 生成電影〈 [&#8230;]",
+      "published_at": "2026-07-16T16:17:08+08:00",
+      "description": "台積電今（16 日）舉辦第二季法說會，董事長魏哲家分享近期先進製程進度，A14 預計 2028 年進入量產，A [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "昔 Android 性價比王者 OnePlus 傳撤出歐美市場",
-      "url": "https://technews.tw/2026/07/16/android-oneplus-us-europe/",
+      "title": "放棄火箭燃料，美軍與新創 Auriga Space 合作開發用電磁發射飛彈",
+      "url": "https://technews.tw/2026/07/16/us-army-and-auriga-space-are-developing-electromagnetic-launched-missiles/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T11:18:18+08:00",
-      "description": "曾憑藉高性價比與接近原生 Android 體驗，在全球科技愛好者間累積大批忠實粉絲的一加（OnePlus），如 [&#8230;]",
+      "published_at": "2026-07-16T16:14:00+08:00",
+      "description": "近年來廉價無人機蜂群顛覆了現代戰場，面對造價僅數千美元的自殺式無人機，防守方被迫發射動輒百萬美元的防空飛彈迎擊 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "長鑫存儲上市募資 579 億人民幣！推進下一階段 DRAM 與產能布局",
-      "url": "https://technews.tw/2026/07/16/trendforce-counterpoint-see-cxmt-ipo/",
+      "title": "光聚晶電砸 2.52 億併購造隆、勤曜！大宇資下半年推日系 S 級三款遊戲",
+      "url": "https://finance.technews.tw/2026/07/16/monopoly/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T11:16:16+08:00",
-      "description": "長鑫存儲今（16 日）在上海科創板掛牌上市，募資 579 億人民幣，資金將投入 G5 製程、HBM3 研發及產 [&#8230;]",
+      "published_at": "2026-07-16T16:12:45+08:00",
+      "description": "光聚晶電事業版圖持續擴大，董事長凃俊光今日分享，董事會通過斥資 2.52 億元，預計透過新設子公司收購造隆電氣 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "歐盟推新碳費遇阻，10 國聯手反對",
-      "url": "https://technews.tw/2026/07/16/eu-new-carbon-fee-resistance-10-countries-oppose/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-16T11:15:33+08:00",
-      "description": "歐盟碳市場改革再掀爭議。根據外電報導， 10 個歐盟成員國聯合要求歐盟執委會重新檢討將於 2028 年上路的第 [&#8230;]",
+      "title": "Bitcoin $107K buyers providing ‘early signals’ of 2026 bear-market bottom: Glassnode",
+      "url": "https://cointelegraph.com/markets/bitcoin-107-buyers-providing-early-signals-of-2026-bear-market-bottom-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-16T16:11:25+08:00",
+      "description": "Bitcoin realized losses appeared to be copying a reversal structure that marked previous bear-market bottoms, with $69,000 a new BTC price battleground.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "大太陽也不用出門拜拜，中華電信攜 16 家宮廟推線上普度",
-      "url": "https://technews.tw/2026/07/16/cht-pudu/",
+      "title": "日本信用卡系統異常，超商、手機版 Suica 一度無法刷卡",
+      "url": "https://technews.tw/2026/07/16/japan-credit-card-system-outage/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T11:01:16+08:00",
-      "description": "農曆七月慶贊中元，國內電信龍頭中華電信以數位科技串聯傳統信仰與民眾誠敬心意，今年與桃園威天宮、大甲鎮瀾宮、鹿港 [&#8230;]",
+      "published_at": "2026-07-16T16:10:42+08:00",
+      "description": "今天上午，日本全國便利商店等通路刷卡系統出現異常，部分信用卡一度無法交易。此外，手機版交通 IC 卡服務也出現 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Stripe、Advent 聯手，出價超過 530 億美元收購 PayPal",
-      "url": "https://finance.technews.tw/2026/07/16/stripe-advent-paypal/",
+      "title": "AWS 四項策略助企業客戶，OpenAI、Anthropic 高層來台分享 Agent 應用布局",
+      "url": "https://technews.tw/2026/07/16/aws-summit-taipei-2026/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:51:46+08:00",
-      "description": "Stripe 與私募股權公司 Advent International 聯合提出收購要約，擬以每股 60.50 [&#8230;]",
+      "published_at": "2026-07-16T16:04:33+08:00",
+      "description": "2017 年至今，AWS 攜手合作超過 1,500 家夥伴，並從台灣在職或在學人士培養出 26 萬名雲端專家， [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "玩不起的時代，專家：「休閒娛樂通膨」讓人更不開心",
-      "url": "https://finance.technews.tw/2026/07/16/relax-cost-surge-let-people-unhappier/",
+      "title": "日經亞洲：台灣發展本土生成式 AI，對抗中國內容影響",
+      "url": "https://technews.tw/2026/07/16/taiwan-eyes-local-ai-as-digital-bulwark-against-chinese-influence/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:51:18+08:00",
-      "description": "從房價到上餐廳吃飯，無所不漲，既然出門就花錢，乾脆不出門吧，但現在即使不出門，也躲不過這波通膨海嘯，連在家看電 [&#8230;]",
+      "published_at": "2026-07-16T16:00:41+08:00",
+      "description": "《日經亞洲》（Nikkei Asia）指出，台灣正加速發展本土生成式人工智慧（AI）模型，希望對抗其他 AI  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Codex Micro 鍵盤限量推出，快捷鍵一手掌控 Codex 狀態",
-      "url": "https://ccc.technews.tw/2026/07/16/openai-introduces-the-codex-micro/",
+      "title": "輝達布局日本物理 AI 市場，擴大與 Toyota 合作",
+      "url": "https://technews.tw/2026/07/16/nvidia-expands-partnership-with-toyota-to-advance-physical-ai-across-automotive-robotics-and-cities/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:34:04+08:00",
-      "description": "如預告所透露，OpenAI 攜手鍵盤製造商 Work Louder 正式推出名為「Codex Micro」的限 [&#8230;]",
+      "published_at": "2026-07-16T15:50:04+08:00",
+      "description": "在人工智慧（AI）晶片大廠輝達（NVIDIA）執行長黃仁勳造訪日本期間，輝達今天宣布日本物理 AI 廠商正運用 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AWS 核心高層大換血，19 年資深主管兼執行長顧問 Dave Brown 離職",
-      "url": "https://technews.tw/2026/07/16/aws-ec2-leadership-change-dave-treadwell-replaces-brown/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-16T10:30:35+08:00",
-      "description": "亞馬遜雲端高層發生人事異動，AWS 19 年資深主管 Dave Brown 即將卸任，由同屬 S-team 的 [&#8230;]",
+      "title": "Robinhood Chain memecoin launchpad Vlad.fun halts after ‘internal integrity’ issue",
+      "url": "https://cointelegraph.com/news/robinhood-chain-memecoin-vladfun-halts-integrity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-16T15:43:45+08:00",
+      "description": "Vlad.fun suspended its platform after discovering a “serious internal integrity issue” involving members of its team, without disclosing the nature of the alleged misconduct.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "巴菲特要在 2034 年前捐光財富，蓋茲基金會不再是受贈對象",
-      "url": "https://finance.technews.tw/2026/07/16/buffett-omits-gift-to-bill-gates-foundation-after-microsoft-cofounders-epstein-ties-disclosed/",
+      "title": "黃仁勳憶創業低谷：輝達曾押錯技術，SEGA 看見人才",
+      "url": "https://technews.tw/2026/07/16/jensen-huang-recalls-nvidias-startup-low-point-bet-wrong-technology-sega-recognized-talent/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:20:40+08:00",
-      "description": "美國股神華倫‧巴菲特（Warren Buffett）於 15 日接受 CNBC 訪問時表示，他決定不再將年度慈 [&#8230;]",
+      "published_at": "2026-07-16T15:40:41+08:00",
+      "description": "輝達（NVIDIA）已成為全球 AI 浪潮的領頭羊，但執行長黃仁勳在東京回憶創業往事時坦言，公司也曾因一次錯誤 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "逆風進場，Hyundai 啟用美國電池廠",
-      "url": "https://technews.tw/2026/07/16/hyundai-georgia-battery-plant-open/",
+      "title": "世紀民生雙箭齊發！朝和生醫拚 2027 年掛牌、世恆生技組大健康國家隊",
+      "url": "https://finance.technews.tw/2026/07/16/national-team-for-big-health/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:12:23+08:00",
-      "description": "耗資 50 億美元，現代汽車與 SK On 合作的美國喬治亞州電池廠，近日正式啟用，成為美國電動車市場寒流中， [&#8230;]",
+      "published_at": "2026-07-16T15:32:53+08:00",
+      "description": "世紀民生旗下朝和生醫與世恆生技今日參與 2026 亞洲生技大展，董事長張祐銘表示，目前生技占世紀民生營收比率約 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Google TPU 傳放棄台積電 CoWoS 轉向英特爾 EMIB-T，以分散風險與降低成本",
-      "url": "https://technews.tw/2026/07/16/intels-emib-packaging-gains-traction-as-chip-designers-look-to-skirt-tsmcs-cowos-constraints/",
+      "title": "飛 2,500 公里、歷時 12 小時！烏克蘭無人機創最遠程紀錄，重創西伯利亞煉油廠",
+      "url": "https://technews.tw/2026/07/16/ukraine-conducts-record-drone-strike-of-2500km-after-12-hour-flight/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:10:00+08:00",
-      "description": "外媒與研究機構報告，Google 傳出下代 TPU「Humufish」改採英特爾 EMIB-T 先進封裝，若消 [&#8230;]",
+      "published_at": "2026-07-16T15:30:12+08:00",
+      "description": "烏克蘭無人機近日再度深入俄羅斯腹地，對西伯利亞歐姆斯克（Omsk）的俄羅斯天然氣工業石油公司（Gazprom  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "駭客外流資料揭密，AI 音樂工具 Suno 被指抓取 YouTube Music、Deezer 數十年音樂量訓練模型",
-      "url": "https://technews.tw/2026/07/16/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "title": "華許不認 AI 令物價更頑強：一次性漲價未必是通膨",
+      "url": "https://finance.technews.tw/2026/07/16/kevin-warsh-ai-isnt-making-inflation-more-persistent/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T10:00:34+08:00",
-      "description": "根據 404 Media 取得的遭入侵資料，AI 音樂生成工具 Suno 被指長期從 YouTube Musi [&#8230;]",
+      "published_at": "2026-07-16T15:20:38+08:00",
+      "description": "新任聯準會（Fed）主席華許（Kevin Warsh）前往國會作證時表示，AI 投資熱潮未必會帶來持續性通膨， [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "海昌生技上櫃首日股價勁揚！打進東協高階醫材市場大門",
-      "url": "https://finance.technews.tw/2026/07/16/bio-ink/",
+      "title": "美國第三大進口來源國洗牌！台灣出口大量 AI 晶片、伺服器超車中國",
+      "url": "https://finance.technews.tw/2026/07/16/country-of-origin-of-imports/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T09:58:54+08:00",
-      "description": "海昌生技今日以承銷價 28.47 元正式上櫃掛牌，截至目前為止，盤中最高衝至 32.15 元，漲幅達 12.9 [&#8230;]",
+      "published_at": "2026-07-16T15:06:16+08:00",
+      "description": "根據美國公布的 3 月貿易數據，全球供應鏈版圖正經歷重大的結構性重組，美國最大進口來源國依序為墨西哥、加拿大與 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "巴菲特曝主導投資 Google、最愛蘋果  批股市太投機",
-      "url": "https://finance.technews.tw/2026/07/16/warren-buffett-tells-cnbc-he-initiated-berkshire-hathaways-investment-in-alphabet/",
+      "title": "晶圓代工競爭「沒有捷徑」！魏哲家談三大關鍵：不是去便利店買牛奶那麼簡單",
+      "url": "https://technews.tw/2026/07/16/tsmc-cc-wei-see-intel-and-samsung-foundry/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T09:50:13+08:00",
-      "description": "美國投資大師巴菲特（Warren Buffett）透露，波克夏海瑟威（Berkshire Hathaway）最 [&#8230;]",
+      "published_at": "2026-07-16T15:06:09+08:00",
+      "description": "台積電今（16 日）舉辦第二季法說會，市場相當關注台積電對於競爭對手看法，董事長魏哲家認為，晶圓代工競爭沒有捷 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "川崎重工傳攜手輝達、打造 AI 造船廠  股價逆漲",
-      "url": "https://technews.tw/2026/07/16/nvidia-kawasaki-heavy-to-build-robot-equipped-ai-shipyard-in-japan/",
+      "title": "進度扳回一城，Anduril  YFQ-44A 成功實彈試射 AIM-120",
+      "url": "https://technews.tw/2026/07/16/andurils-yfq-44a-successfully-test-fired-aim-120/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T09:40:16+08:00",
-      "description": "日本川崎重工業（Kawasaki Heavy Industries，KHI）傳出將和輝達（Nvidia）合作， [&#8230;]",
+      "published_at": "2026-07-16T14:49:14+08:00",
+      "description": "美國空軍參謀長威爾斯巴赫上將近日在倫敦舉辦的全球空軍暨太空軍參謀長會議場邊接受媒體訪問時透露，由 Anduri [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "外資看好 AI 電力革命，台達電 Power Rack、SST 雙引擎啟動",
-      "url": "https://finance.technews.tw/2026/07/16/power-rack-sst-ai-infrastucre/",
+      "title": "台積電加碼美國投資 1,000 億美元！估有望再增建四座晶圓廠",
+      "url": "https://technews.tw/2026/07/16/tsmc-2026-q2-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-07-16T09:37:18+08:00",
-      "description": "AI 資料中心持續朝兆瓦（MW）級機櫃發展，歐系券商最新報告指出，隨輝達（NVIDIA）Rubin 平台於第四 [&#8230;]",
+      "published_at": "2026-07-16T14:46:20+08:00",
+      "description": "台積電今（16 日）舉辦第二季法說會，談到近期市場展望，董事長魏哲家表示，觀察到受零組件價格上漲及總體經濟不確 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
