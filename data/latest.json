@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T16:14:43.580357+08:00",
+  "updated_at": "2026-07-18T21:55:09.708469+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63924,
-      "change": 1.75
+      "price": 64006,
+      "change": 1.93
     },
     "ETH": {
-      "price": 1843.16,
-      "change": 0.82
+      "price": 1839.7,
+      "change": 1.31
     },
     "SOL": {
-      "price": 74.84,
-      "change": 0.39
+      "price": 74.65,
+      "change": 1.32
     }
   },
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-18T19:42:51+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kaspersky identifies malware framework targeting crypto investors",
+      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-18T19:40:48+08:00",
+      "description": "Cybersecurity company Kaspersky said a newly identified malware framework is targeting cryptocurrency investors through social engineering tactics and trojanized GitHub apps.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "DeepSeek 時刻重演？中國最新開源模型 Kimi K3，嚇倒美半導體類股",
+      "url": "https://technews.tw/2026/07/18/china-new-ai-model-kimi-k3/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T18:02:02+08:00",
+      "description": "中國新創「月之暗面」（Moonshot AI）於 17 日發布最新人工智慧模型 Kimi K3，僅憑開源工具便 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "French gambling regulator orders ISPs to block Polymarket",
+      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-18T17:58:55+08:00",
+      "description": "France’s gambling authority has ordered the country’s internet service providers to geoblock Polymarket, citing illegal gambling and market manipulation concerns.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "免吃藥開刀！美大學首創「智慧睡眠貼片」，精準延長 REM 睡眠抗憂鬱",
       "url": "https://technews.tw/2026/07/18/neusleep-quick-rem-sleep/",
@@ -222,58 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-07-18T09:00:22+08:00",
       "description": "6 月，台積電揭露正與群創合作開發玻璃核心基板，未來將應用在台積電次世代封裝；消息一出，讓群創這家面板大廠頓時 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "打破 Z 世代與嬰兒潮隔閡，22 歲青年靠「跨世代共居」省錢打工還賺人脈",
-      "url": "https://technews.tw/2026/07/18/san-francisco-intergenerational-co-living/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-18T08:30:54+08:00",
-      "description": "美國舊金山，高昂物價與房租常讓年輕人望之卻步，然而，現年 22 歲、剛畢業並創立私人培訓業務的青年納尼克·塔戈 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "偉詮電靠「護國神山」牽線的併購，Q1 獲利狂飆 475% 通吃 AI 散熱大單",
-      "url": "https://finance.technews.tw/2026/07/18/weltrend-semiconductor-inc/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-18T08:00:31+08:00",
-      "description": "當多數 IC 設計業者仍苦於價格戰，偉詮電靠一場併購翻轉命運。 由「護國神山」牽線，成功切入AI資料中心生態系 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "買得起更要「懂得買」，AI 熱潮催生科技圈新時尚",
-      "url": "https://technews.tw/2026/07/18/ai-boom-tech-trend/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-18T07:30:03+08:00",
-      "description": "人工智慧（AI）熱潮正催生一批新的科技富裕族群，他們的穿著選擇也開始改寫矽谷的時尚語言。過去象徵科技圈的隨性背 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T07:08:00+08:00",
-      "description": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a g",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
