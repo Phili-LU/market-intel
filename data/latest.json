@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T11:39:43.050696+08:00",
+  "updated_at": "2026-07-18T16:14:43.580357+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63900,
-      "change": 0.45
+      "price": 63924,
+      "change": 1.75
     },
     "ETH": {
-      "price": 1841.91,
-      "change": -0.72
+      "price": 1843.16,
+      "change": 0.82
     },
     "SOL": {
-      "price": 75.15,
-      "change": -0.17
+      "price": 74.84,
+      "change": 0.39
     }
   },
   "articles": [
+    {
+      "title": "免吃藥開刀！美大學首創「智慧睡眠貼片」，精準延長 REM 睡眠抗憂鬱",
+      "url": "https://technews.tw/2026/07/18/neusleep-quick-rem-sleep/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T16:00:02+08:00",
+      "description": "美國德州大學奧斯汀分校的研究團隊近期開發出一款名為「NEUSLeeP」的柔性生物電子貼片。這款可輕鬆貼附於皮膚 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "中國稀土禁令發威！氧化釔驚現 150 倍價差，西方半導體與軍工臨斷鏈危機",
+      "url": "https://technews.tw/2026/07/18/china-rare-earth-controls-tighten/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T15:00:47+08:00",
+      "description": "中國政府因不滿日本首相高市早苗先前提出的「台灣有事論」，以及美國祭出的關稅政策，進一步收緊關鍵稀土礦物出口管制 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 光收發模組市場進入高速成長階段，LPO、矽光子技術受關注",
+      "url": "https://technews.tw/2026/07/18/trendforce-counterpoint-research-see-ai-datacenter/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T14:31:13+08:00",
+      "description": "隨著 AI 資料中心持續擴張，傳輸速率 800G 以上、用於 AI 伺服器叢集互聯的光收發模組需求大幅提升。調 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "效率狂飆的副作用，AI 生成程式碼引爆「當責危機」與職場「AI 罰則」",
+      "url": "https://technews.tw/2026/07/18/ai-code-efficiency-side-effects-accountability-crisis/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T14:30:17+08:00",
+      "description": "隨著人工智慧（AI）逐步接管大量程式撰寫工作，企業內部被放大的早已不只是「開發效率」，還有一個更核心、更具挑戰 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "虛擬資產邁入專法時代！XREX 交易所：定期定額用戶有八成配置比特幣",
+      "url": "https://finance.technews.tw/2026/07/18/xrex-80-of-dca-users-allocate-to-bitcoin/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T14:00:10+08:00",
+      "description": "台灣《虛擬資產服務法》於 2026 年 6 月 30 日完成三讀，虛擬資產服務商（Virtual Asset  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "宛如吉卜力精靈走入現實，日本全新「飄浮 AI 伴侶」打造無聲溫柔陪伴",
+      "url": "https://technews.tw/2026/07/18/japan-develops-floating-ai-companion/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T13:00:17+08:00",
+      "description": "日本團隊近期公開受動畫風格啟發的「飄浮式 AI 伴侶機器人」原型，以安靜、柔軟且極具親和力的互動方式，徹底打破 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Neil Rimer thinks the AI money is coming back out",
+      "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-18T12:47:25+08:00",
+      "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "黃仁勳在東京辦「居酒屋峰會」！日 AI 供應鏈高層齊聚，完整名單曝光",
+      "url": "https://technews.tw/2026/07/18/nvidia-ceo-jensen-meet-japan-companies-ceo/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-18T11:56:03+08:00",
+      "description": "輝達（NVIDIA）執行長黃仁勳近期赴日本東京秋葉原參加活動，並與多間日企高層一同飲酒。根據官方分享的照片，這 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "演算法偷走了「共同回憶」！從重溫《六人行》到狂聽老歌，解析分眾時代的懷舊狂熱",
       "url": "https://technews.tw/2026/07/18/the-10-billion-nostalgia-boom-sweeping-the-globe/",
@@ -170,110 +274,6 @@
       "category": "startup",
       "published_at": "2026-07-18T07:08:00+08:00",
       "description": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a g",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "旋轉快到看不見，美國西北大學找到新方法開發「隱形無人機」",
-      "url": "https://technews.tw/2026/07/18/northwestern-university-developed-new-spinning-drones-that-can-be-invisible/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-18T07:00:34+08:00",
-      "description": "科學家為了打造「隱形」無人機，過去嘗試過迷彩塗裝、透明材質或是複雜的光學折射系統，但效果往往相當有限，不過美國 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T06:55:09+08:00",
-      "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T06:12:56+08:00",
-      "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "FTX to distribute $900M to creditors in fifth payment round",
-      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-18T05:40:18+08:00",
-      "description": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T04:19:49+08:00",
-      "description": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI-driven memory crunch jolts India’s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T04:09:27+08:00",
-      "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-18T04:03:32+08:00",
-      "description": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Apple and Google ordered to purge ‘nudify’ apps from App Stores",
-      "url": "https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T03:49:53+08:00",
-      "description": "In letters sent to Apple and Google, San Francisco City Attorney David Chiu said that both companies have long been aware that they are hosting apps in violation of state law.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
