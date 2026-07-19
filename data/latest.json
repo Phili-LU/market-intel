@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T12:01:53.283378+08:00",
+  "updated_at": "2026-07-19T16:40:27.699854+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64653,
-      "change": 1.1
+      "price": 64600,
+      "change": 1.01
     },
     "ETH": {
-      "price": 1865.81,
-      "change": 1.18
+      "price": 1866.92,
+      "change": 1.11
     },
     "SOL": {
-      "price": 75.85,
-      "change": 0.78
+      "price": 76.14,
+      "change": 1.58
     }
   },
   "articles": [
+    {
+      "title": "蘋果 Face ID 發明者轉戰醫療 AI，立志讓大腦健康檢測像驗血簡單",
+      "url": "https://technews.tw/2026/07/19/hemispheric-brain-ai-diagnostics/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T16:00:04+08:00",
+      "description": "由蘋果 Face ID 與 Vision Pro 共同發明人 Gidi Littwin 所共同創辦的腦科學新創 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "股神巴菲特的四大財富分配金律，為何父母都該提早學？",
+      "url": "https://finance.technews.tw/2026/07/19/buffett-on-wealth-distribution/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T15:00:37+08:00",
+      "description": "近日新竹發生一位陽明交大教授因不滿岳家將音樂教室經營權分配給妹婿，認為財產分配不公憤而砍殺對方。其實，股神巴菲 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kimi K3 引熱議，開放權重模型恐推向「AI 共產主義」",
+      "url": "https://technews.tw/2026/07/19/dean-ball-shares-his-thoughts-on-kimi-k3/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T14:59:45+08:00",
+      "description": "月之暗面（Moonshot AI）最新發表的開放權重模型 Kimi K3，這款模型被視為規模龐大的開放 AI  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 省了時間卻失去方向？三大職場研究揭企業導入 AI 盲點",
+      "url": "https://finance.technews.tw/2026/07/19/3-ai-workplace-research-studies-every-leader-should-know-this-week/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T14:30:43+08:00",
+      "description": "人工智慧（AI）正改變工作型態，但成功導入 AI 不只是給員工工具而已。近期三份職場研究指出，企業若缺乏策略與 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "神雲科技重磅登場世界人工智慧大會，全方位基礎架構引領代理式 AI 新紀元",
+      "url": "https://technews.tw/2026/07/19/mitac-computing-technology_waic/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T14:00:24+08:00",
+      "description": "神雲科技股份有限公司（MiTAC Computing Technology Corporation）為全球高效 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T13:37:34+08:00",
+      "description": "The new Zakura client is the first live piece of a plan to take Zcash from roughly one private transaction per second to payment-network scale.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "砸 300 億美元卻換來認知衰退？美國「校園數位化」20 年為何淪為教育災難",
+      "url": "https://ccc.technews.tw/2026/07/19/digital-education-gen-z-cognitive-decline/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T13:00:54+08:00",
+      "description": "美國多年來大力推動校園數位化，試圖將網路與資訊帶進課堂，但這項立意良善的政策，卻可能帶來意想不到的反效果。經過 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Claude 高階訂閱可用 Fable 5 模型，但使用額度大幅縮水",
       "url": "https://technews.tw/2026/07/19/claude-fable-5-will-be-included-in-all-max-and-team-premium-plans/",
@@ -47,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "聯電榮譽副董事長宣明智驚傳意識不清送醫，院方緊急安排手術",
+      "title": "聯電榮譽副董事長宣明智驚傳意識不清送醫，院方緊急安排手術（更新）",
       "url": "https://technews.tw/2026/07/19/hsuan-min-chih-20260719/",
       "source": "technews.tw",
       "category": "tw_stocks",
       "published_at": "2026-07-19T10:39:57+08:00",
-      "description": "74 歲的聯電榮譽副董事長宣明智驚傳意識不清、緊急送醫。 綜合媒體報導，宣明智 19 日上午由於不明原因意識不 [&#8230;]",
+      "description": "74 歲的聯華電子榮譽副董事長宣明智驚傳意識不清、緊急送醫。 綜合媒體報導，宣明智 19 日上午由於不明原因意 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -183,97 +274,6 @@
       "category": "crypto",
       "published_at": "2026-07-19T02:30:00+08:00",
       "description": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "DOG Mode explains Bitcoin's next governance fight",
-      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-07-19T01:00:00+08:00",
-      "description": "Leonidas' DOG Mode client challenges Bitcoin's default relay policies, reopening a philosophical debate over censorship, free markets and who really governs the network.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-      "url": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-19T00:30:00+08:00",
-      "description": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-07-19T00:09:59+08:00",
-      "description": "Washington views Brazil’s promotion of non-dollar payment channels, including Pix and the growth of stablecoins, as a potential threat to dollar-based trade, even as dollar-linked stablecoins account for about 90% of Brazil's crypto transactions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "半人馬座 ω 首見恆星級黑洞，揭開 120 億年星團面紗",
-      "url": "https://technews.tw/2026/07/19/astronomers-finally-discover-stellar-mass-black-hole-in-omega-centauri/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T00:00:56+08:00",
-      "description": "銀河系最大的球狀星團半人馬座 ω（Omega Centauri）數十年來一直讓天文學家感到困惑。理論上，這裡應 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "NASA 釋出私人太空站計畫草案，3,000 項繁雜要求引發業界疑慮",
-      "url": "https://technews.tw/2026/07/19/nasa-draft-private-space-station-plan/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T00:00:09+08:00",
-      "description": "美國太空總署（NASA）近日發布了備受矚目的「徵求建議書（RFP）草案」，為美國企業在近地軌道打造私人太空站制 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Federal employees can download TikTok on their work phones again",
-      "url": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-18T23:54:24+08:00",
-      "description": "The Department of Justice says that federal employees can now download TikTok on their government devices.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here is why a massive $1.6 billion in crypto liquidity is sitting idle and wasting away",
-      "url": "https://www.coindesk.com/web3/2026/07/18/here-is-why-a-massive-usd1-6-billion-in-crypto-liquidity-is-sitting-idle-and-wasting-away",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-07-18T23:50:31+08:00",
-      "description": "About $542 million weekly sat outside active trading ranges, meaning this capital earned zero fees and provided no market depth.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
