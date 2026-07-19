@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T16:40:27.699854+08:00",
+  "updated_at": "2026-07-19T21:58:21.611373+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64600,
-      "change": 1.01
+      "price": 64447,
+      "change": 0.63
     },
     "ETH": {
-      "price": 1866.92,
-      "change": 1.11
+      "price": 1870.9,
+      "change": 1.67
     },
     "SOL": {
-      "price": 76.14,
-      "change": 1.58
+      "price": 76.05,
+      "change": 1.87
     }
   },
   "articles": [
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T21:20:25+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Tether's USDT hits 2-year countdown threatening its position on U.S. crypto platforms",
+      "url": "https://www.coindesk.com/news-analysis/2026/07/17/tether-s-usdt-hits-2-year-countdown-threatening-its-position-on-u-s-crypto-platforms",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T21:00:00+08:00",
+      "description": "The GENIUS Act has hit its first anniversary without U.S. regulators yet meeting deadlines to write regulations, though rules will be in full effect by July 2028.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kraken says simpler options can unlock crypto's next derivatives market",
+      "url": "https://www.coindesk.com/business/2026/07/19/kraken-says-simpler-options-can-unlock-crypto-s-next-derivatives-market",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T21:00:00+08:00",
+      "description": "The Wyoming-based firm launched USD-settled bitcoin and ether options, saying product design, not demand, has held back adoption.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T20:53:12+08:00",
+      "description": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "阿里巴巴開源 T-Head SAIL，挑戰 NVIDIA CUDA 生態系",
+      "url": "https://technews.tw/2026/07/19/t-head-sail-open-sourced/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T18:44:02+08:00",
+      "description": "阿里巴巴集團主導半導體業務的平頭哥（T-Head）半導體宣布，旗下真武 AI 晶片的軟體推疊 T-Head S [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+      "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T18:17:46+08:00",
+      "description": "The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Meta 平台當機，Facebook、Instagram 同步受影響",
+      "url": "https://technews.tw/2026/07/19/facebook-outage-hits-users-worldwide/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-19T18:09:42+08:00",
+      "description": "全球各地使用者在網路上的多方回報，Meta 旗下 Facebook 等平台 19 日下午故障，無論透過 App [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+      "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T18:00:00+08:00",
+      "description": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+      "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-19T17:16:42+08:00",
+      "description": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin’s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "蘋果 Face ID 發明者轉戰醫療 AI，立志讓大腦健康檢測像驗血簡單",
       "url": "https://technews.tw/2026/07/19/hemispheric-brain-ai-diagnostics/",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-07-19T10:30:48+08:00",
       "description": "人工智慧（AI）招聘系統的公平性問題，可能不只演算法本身，連面試介面的「臉」也會深刻影響求職者對結果的感受。  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Z 世代掀「安靜儲蓄」與「大聲預算」風潮，追求財務安全感成主流",
-      "url": "https://finance.technews.tw/2026/07/19/why-gen-z-is-prioritising-stability-over-luxury-in-2026/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T10:00:22+08:00",
-      "description": "最近「2026 年是新的 2016 年」話題，在各大社群平台上爆紅，顯示人們懷念 AI 盛行前生活更簡單的時光 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "專家揭密：語音 AI 成功的關鍵不在「聽懂」，而是「接話節奏」",
-      "url": "https://technews.tw/2026/07/19/voice-ai-challenge/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T09:30:42+08:00",
-      "description": "語音 AI 的核心挑戰，早已超越單純的「聽懂」，而是精準掌握「何時接話」。根據《Forbes》報導指出，許多自 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「科學的終點就是神學」！七宮廟遶境為台積電嘉義封裝廠祈福，信眾也是股東",
-      "url": "https://technews.tw/2026/07/19/tsmc-chiayi/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T09:00:42+08:00",
-      "description": "當全球最先進的 AI 晶片先進封裝廠，遇上台灣最具代表性的民間信仰「遶境」，會擦出什麼火花？ 《財訊》報導，7 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "淋巴癌治療重大突破：CAR-T 細胞療法十年追蹤，證實具長期治癒潛力",
-      "url": "https://technews.tw/2026/07/19/car-t-cell-therapy-10-year-follow-up/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T08:30:09+08:00",
-      "description": "一項長達近十年的追蹤研究為淋巴瘤治療帶來振奮人心的好消息。最新研究顯示，CAR-T 細胞療法能為部分患者帶來罕 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "麥味登靠「兩大祕密武器」改寫連鎖早餐店版圖！奇蹟重返千店規模，穩坐營收龍頭",
-      "url": "https://finance.technews.tw/2026/07/19/my-warm-day/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T08:00:50+08:00",
-      "description": "台灣早餐店版圖正在改變，今年麥味登突破千店，竄升至台灣早餐連鎖品牌店數第二，背後靠的，正是董座卓靖倫（見首圖） [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "曬娃貼文可能成為 AI 犯罪素材，三步驟防範孩子照片遭惡意深偽",
-      "url": "https://infosecu.technews.tw/2026/07/19/parents-warned-not-to-publicly-share-childrens-images-amid-ai-abuse-risks/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-19T07:30:39+08:00",
-      "description": "隨著人工智慧（AI）技術的迅速發展，利用公開照片合成兒童性虐待影像的犯罪威脅正日益加劇。英國國家打擊犯罪局（N [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "France orders country's internet service providers to block Polymarket",
-      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-07-19T05:52:18+08:00",
-      "description": "The regulator cited concerns over addictive mechanics, a lack of self-exclusion tools, and a high volume of French users bypassing previous financial restrictions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-19T02:51:07+08:00",
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Crypto executives say digital native generations may never need a bank account",
-      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-07-19T02:30:00+08:00",
-      "description": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
