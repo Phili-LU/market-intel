@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T16:27:48.636211+08:00",
+  "updated_at": "2026-07-25T22:07:36.962292+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63919,
-      "change": -2.17
+      "price": 64078,
+      "change": 0.15
     },
     "ETH": {
-      "price": 1853.64,
-      "change": -1.82
+      "price": 1864.5,
+      "change": 0.53
     },
     "SOL": {
-      "price": 73.75,
-      "change": -2.71
+      "price": 73.8,
+      "change": -0.31
     }
   },
   "articles": [
+    {
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T21:14:18+08:00",
+      "description": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-25T21:05:00+08:00",
+      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Democratizing weather derivatives through tokenization could be crypto's most important real-world use case",
+      "url": "https://www.coindesk.com/opinion/2026/07/25/democratizing-weather-derivatives-through-tokenization-could-be-crypto-s-most-important-real-world-use-case",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T21:00:00+08:00",
+      "description": "Main Street, which faces the most significant climate-related financial risk, currently lacks an avenue to hedge weather-related risks, argues CoinDesk’s Omkar Godbole.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T20:06:01+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
+      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T19:30:15+08:00",
+      "description": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T18:01:26+08:00",
+      "description": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Robinhood Chain's real-world assets jump fivefold as tokenized stocks start trading in bigger size",
+      "url": "https://www.coindesk.com/business/2026/07/25/robinhood-chain-s-real-world-assets-jump-fivefold-as-tokenized-stocks-start-trading-in-bigger-size",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T18:00:00+08:00",
+      "description": "The chain built to put equities onchain has tripled in size since mid-July, and a dozen tokenized stocks are now each clearing $500,000 a day. Real-world assets are growing fast, though memecoins and stablecoins still dominate the chain.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 的未來，會不會建立在更高的電力成本上？",
+      "url": "https://technews.tw/2026/07/25/ai-future-higher-electricity-costs/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T17:01:31+08:00",
+      "description": "AI 發展正逐漸從模型、晶片與算力，延伸到更基礎的電力議題。隨著愈來愈多科技公司宣布興建 AI 資料中心，外界 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
       "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -170,110 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-07-25T10:21:56+08:00",
       "description": "根據路透社報導，輝達與韓國 SK 集團宣布啟動一項規模超過 5,000 億美元 的 AI 合作計畫，涵蓋下一代 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "《外送專法》掀漲價潮，業界預言將成高階精品市場",
-      "url": "https://finance.technews.tw/2026/07/25/delivery-law-to-raise-per-order-costs-by-30-to-50percent/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-25T10:00:47+08:00",
-      "description": "「以後外送，可能會變成一個『上等人』才消費得起的精品市場！」說這句話的，不是抱怨的消費者，而是一位外送平台的內 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "便祕老藥有新用？英國研究：有望解救憂鬱症腦霧危機",
-      "url": "https://technews.tw/2026/07/25/prucalopride-constipation-drug-depression-cognitive-savior/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-25T09:30:35+08:00",
-      "description": "憂鬱症患者即便情緒好轉，經常仍須面對記憶力衰退、注意力不集中等「腦霧」與認知困難的困擾。近期，由英國伯明罕大學 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Open Weight 成 AI 新戰場！25 家科技企業籲美國政府鬆綁限制",
-      "url": "https://technews.tw/2026/07/25/open-weight-ai-new-battlefield-25-tech-companies-urge-us-government-relax-restrictions/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-25T09:25:51+08:00",
-      "description": "由輝達、微軟、Meta、IBM 等約 25 家科技企業及組織，共同發布《Open Weights and Am [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "不只台積電，這三家台灣公司市值也進入全球 150 大！簡立峰點出毛利拉升、供應鏈擴張關鍵",
-      "url": "https://technews.tw/2026/07/25/lee-feng-chien/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-25T09:00:06+08:00",
-      "description": "談到人工智慧（AI），許多人會聚焦台灣卓越的製造力，但 Google 台灣前董事總經理簡立峰看來，台灣已有部分 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 破解水的百年謎團：為什麼水結冰會膨脹？大阪大學找到觀察水分子的最佳「透視鏡」",
-      "url": "https://technews.tw/2026/07/25/scientists-used-ai-to-crack-one-of-waters-biggest-mysteries/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-25T08:30:44+08:00",
-      "description": "水是地球最常見的物質，卻也是行為最古怪的液體之一。最明顯的例子：幾乎所有液體遇冷都會收縮，水結成冰時體積反而膨 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T08:23:11+08:00",
-      "description": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "逛超市逛出「全球唯一」生技專利，瑞磁獨家技術獲 FDA 認證，長征 18 年首度虧轉盈",
-      "url": "https://finance.technews.tw/2026/07/25/applied-biocodesupermarket-inspired-globally-unique-biotech-patent-exclusive-fda-approval-first-profit-18-year/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-25T08:00:42+08:00",
-      "description": "專攻疾病檢測的瑞磁生技，苦熬 18 年後，終於在今年第 1 季首度獲利。創辦人何重人（首圖左）一路把握寵物檢測 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
-      "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T07:25:47+08:00",
-      "description": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
