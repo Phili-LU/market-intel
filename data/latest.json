@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25T11:45:28.282275+08:00",
+  "updated_at": "2026-07-25T16:27:48.636211+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64027,
-      "change": -2.08
+      "price": 63919,
+      "change": -2.17
     },
     "ETH": {
-      "price": 1857.57,
-      "change": -1.13
+      "price": 1853.64,
+      "change": -1.82
     },
     "SOL": {
-      "price": 74.13,
-      "change": -2.15
+      "price": 73.75,
+      "change": -2.71
     }
   },
   "articles": [
+    {
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-25T15:40:35+08:00",
+      "description": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 與量子運算強強聯手，丹麥團隊精準打造新世代胜肽",
+      "url": "https://technews.tw/2026/07/25/ai-quantum-computing-crafts-next-generation-peptides/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T15:33:47+08:00",
+      "description": "丹麥科技大學（Technical University of Denmark）近期在藥物開發領域取得重要突破， [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美 301 關稅正式生效，台灣稅率保底 10%、五大豁免條件一次看",
+      "url": "https://finance.technews.tw/2026/07/25/us-301-tariffs-effective-taiwan-10-percent-minimum-5-exemption-conditions/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T15:00:47+08:00",
+      "description": "美國貿易代表署（USTR）23 日宣布，將依《1974 年貿易法》（Trade Act of 1974）第 3 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AR 眼鏡不再「擋視線」，跨國團隊全新遮罩技術讓虛擬與現實完美融合",
+      "url": "https://technews.tw/2026/07/25/ar-glasses-no-longer-obstruct-view/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T14:48:08+08:00",
+      "description": "日本與跨國研究團隊近期開發出一種全新的擴增實境（AR）顯示技術，成功解決了智慧眼鏡長期以來的兩難：如何在不犧牲 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AMD Helios 支援 246 kW AI 機櫃，電力架構再升級",
+      "url": "https://technews.tw/2026/07/25/amd-helios-246kw-ai-rack-power-architecture-upgrade/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T14:24:53+08:00",
+      "description": "AI 資料中心功率持續攀升，帶動電力架構朝更高功率密度發展。AMD 與施耐德電機共同發布 Helios AI  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
+      "url": "https://technews.tw/2026/07/25/how-gemini-can-help-manage-your-subscription-finances/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T14:00:32+08:00",
+      "description": "現代人手上訂閱一堆串流平台、AI 工具或雲端空間，很多時候只是為「試用 7 天」或完成單一專案，隨後卻忘記取消 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Synology 推出雲端監控 Surveillance365，滿足更多元的跨產業場域安全需求",
+      "url": "https://infosecu.technews.tw/2026/07/25/synology-surveillance365/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T14:00:11+08:00",
+      "description": "過去十年，企業安防系統的核心邏輯幾乎沒有改變：採購攝影機、架設 NVR 或 NAS、IT 人員維護，每隔幾年再 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "別急著讓孩子贏在起跑點，研究：真正的天才靠多元探索慢慢養成",
+      "url": "https://technews.tw/2026/07/25/the-slow-burn-rule-of-highly-intelligent-people/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T13:00:17+08:00",
+      "description": "一項刊登於《Science》期刊的大型回顧研究，改寫了外界對「天才養成」的想像。研究團隊彙整近 3.5 萬名世 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "新增產能將開出，NAND Flash 市場迎供需考驗",
+      "url": "https://technews.tw/2026/07/25/trendforce-ai-continues-boost-enterprise-ssd-demand-nand-supply-remains-tight-this-year/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-25T11:47:00+08:00",
+      "description": "三星電子與 SK 海力士近期股價回落，市場開始關注 NAND Flash 市場供需是否出現變化。TrendFo [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "孩子不吃青菜怎麼辦？科學提供更有效的方法",
       "url": "https://technews.tw/2026/07/25/how-to-get-kids-eating-vegetables/",
@@ -157,123 +274,6 @@
       "category": "startup",
       "published_at": "2026-07-25T07:25:47+08:00",
       "description": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T06:25:58+08:00",
-      "description": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-      "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T06:10:00+08:00",
-      "description": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "EU authorities include HTX exchange in Russian sanctions",
-      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-25T05:53:05+08:00",
-      "description": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-      "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T05:15:00+08:00",
-      "description": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Strive’s SATA recovers most of June decline, trades within 3% of par",
-      "url": "https://cointelegraph.com/news/strives-sata-recovers-most-of-june-decline-trades-within-3-of-par?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-25T05:02:22+08:00",
-      "description": "Jan3 CEO Samson Mow says the recovery could signal renewed confidence in preferred-share products used by Bitcoin treasury companies.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "House passes bill on lawmakers using insider information for stock trading",
-      "url": "https://cointelegraph.com/news/house-bill-lawmakers-insider-information-stock-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-25T04:05:50+08:00",
-      "description": "According to Senator Elizabeth Warren, the House bill “won’t solve the problem“ of insider trading in Congress as lawmakers will still be allowed to own and sell stocks.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-      "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T03:56:23+08:00",
-      "description": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-25T03:03:45+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-25T02:07:32+08:00",
-      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
