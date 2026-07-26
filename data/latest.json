@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T22:05:48.983521+08:00",
+  "updated_at": "2026-07-27T03:41:28.243207+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,104 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64511,
-      "change": 0.66
+      "price": 64673,
+      "change": 0.51
     },
     "ETH": {
-      "price": 1886.25,
-      "change": 1.15
+      "price": 1913.48,
+      "change": 2.05
     },
     "SOL": {
-      "price": 74.93,
-      "change": 1.54
+      "price": 75.21,
+      "change": 0.92
     }
   },
   "articles": [
     {
-      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn",
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-27T03:40:57+08:00",
+      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "2 weeks left for Clarity: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/07/26/2-weeks-left-for-clarity-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-27T02:30:00+08:00",
+      "description": "The Senate leaves town in two weeks. Here's what needs to happen for Clarity to advance before then.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
+      "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-27T01:45:05+08:00",
+      "description": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-27T00:33:13+08:00",
+      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Russia’s Sberbank to launch crypto trading infrastructure this year",
+      "url": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-27T00:07:11+08:00",
+      "description": "Russia’s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.\n",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-07-27T00:03:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Galaxy",
       "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-07-26T21:04:35+08:00",
-      "description": "Dormant Bitcoin activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
+      "published_at": "2026-07-26T21:06:00+08:00",
+      "description": "Dormant BTC activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,25 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-26T20:04:52+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
       "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
       "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-07-26T18:21:25+08:00",
-      "description": "South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+      "published_at": "2026-07-26T18:23:00+08:00",
+      "description": "KB Kookmin Bank will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -142,7 +207,7 @@
       "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-07-26T15:11:27+08:00",
+      "published_at": "2026-07-26T15:13:00+08:00",
       "description": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
@@ -156,7 +221,7 @@
       "source": "coindesk.com",
       "category": "crypto",
       "published_at": "2026-07-26T14:59:51+08:00",
-      "description": "Users have a month to close trades and six months to withdraw, and the exchange gave no specific reason for closing.",
+      "description": "Users have a month to close trades and six months to withdraw funds, and the exchange gave no specific reason for the closure.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-07-26T13:21:49+08:00",
       "description": "台灣觀光產業迎來數位轉型的關鍵一步，為了精準搶攻日本旅客來台商機，交通部觀光署近日與日本旅遊科技巨頭株式會社ナ [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "跟 AirPods 一樣大的 VPodDuo，10 分鐘精準揪出病毒與癌症",
-      "url": "https://technews.tw/2026/07/26/vpodduo-detects-pathogens-cancer/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T13:00:56+08:00",
-      "description": "美國伊利諾大學厄巴納─香檳分校（University of Illinois Urbana-Champaign [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "一天喝五杯咖啡也無妨？研究揭開咖啡的護肝潛力",
-      "url": "https://technews.tw/2026/07/26/study-uncovers-coffees-liver-protective-potential/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T11:28:16+08:00",
-      "description": "每天早餐來杯咖啡，是許多人開啟一天的重要儀式。咖啡不僅提神，近年陸續發現，還可能與大腦健康有關，也未如過去認知 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "企業 AI 成本救星來了！Anthropic 以 Fable 一半價格推出 Opus 5",
-      "url": "https://technews.tw/2026/07/26/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T11:16:57+08:00",
-      "description": "Anthropic 上週五正式釋出全新 AI 模型 Claude Opus 5，主打以一半的價格，提供接近頂級 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "從被嫌「像糰子」到拿下全球七成市占，鈴茂器工如何稱霸壽司機器人市場？",
-      "url": "https://technews.tw/2026/07/26/suzumo/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T11:00:33+08:00",
-      "description": "日本每十家迴轉壽司店，就有近八家使用同款機器捏壽司，這款機器在日本壽司機器人市占率高達八成，全球市占率也突破七 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "難敵 2 奈米與 DRAM 成本壓力！高通晶片 9 月起全面雙位數調漲",
-      "url": "https://technews.tw/2026/07/26/qualcomm-is-about-to-raise-prices/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T10:16:21+08:00",
-      "description": "高通（Qualcomm）向客戶發布內部信件，預告將自 9 月 1 日起，針對出貨的產品全面調漲價格，預期漲幅將 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
