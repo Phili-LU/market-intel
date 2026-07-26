@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T16:42:36.505669+08:00",
+  "updated_at": "2026-07-26T22:05:48.983521+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64354,
-      "change": 0.67
+      "price": 64511,
+      "change": 0.66
     },
     "ETH": {
-      "price": 1880.3,
-      "change": 1.4
+      "price": 1886.25,
+      "change": 1.15
     },
     "SOL": {
-      "price": 74.84,
-      "change": 1.43
+      "price": 74.93,
+      "change": 1.54
     }
   },
   "articles": [
+    {
+      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn",
+      "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-26T21:04:35+08:00",
+      "description": "Dormant Bitcoin activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "U.S. regulator warns prediction markets against cutting corners in event contracts",
+      "url": "https://www.coindesk.com/policy/2026/07/24/u-s-regulator-warns-prediction-markets-against-cutting-corners-in-event-contracts",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-26T21:00:00+08:00",
+      "description": "The Commodity Futures Trading Commission again issued an advisory that signals firms have been straying into cookie-cutter self-certification.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-26T20:04:52+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
+      "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-07-26T18:21:25+08:00",
+      "description": "South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Europe's high regulatory bar could spark new crypto industry M&A wave",
+      "url": "https://www.coindesk.com/policy/2026/07/26/europe-s-high-regulatory-bar-could-spark-new-crypto-industry-m-and-a-wave",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-07-26T18:00:00+08:00",
+      "description": "As MiCA beds in and the U.K. finalizes its crypto framework, stringent regulation could spur mergers, acquisitions and closer ties with banks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "聯準會「鷹」霾未散欠投資！瑞銀財管 CIO 估黃金將下探 3,850 美元",
+      "url": "https://finance.technews.tw/2026/07/26/lack-of-investment/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-07-26T17:16:26+08:00",
+      "description": "由於美國與伊朗之間的緊張局勢升級，黃金價格近期維持在每盎司 4,100 美元附近盤整，瑞銀財富管理投資總監辦公 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "攜手民間登月球踏火星，NASA 啟動 41 項前瞻太空技術合作案",
       "url": "https://technews.tw/2026/07/26/nasa-41-space-lunar-mars/",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-07-26T10:16:21+08:00",
       "description": "高通（Qualcomm）向客戶發布內部信件，預告將自 9 月 1 日起，針對出貨的產品全面調漲價格，預期漲幅將 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "時速 56 公里就可能失控，雨天駕駛必看的 4 個反直覺物理真相",
-      "url": "https://technews.tw/2026/07/26/lose-control-56kmh-4-counter-intuitive-physics-truths-rainy-day-driving/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T10:00:39+08:00",
-      "description": "梅雨、颱風、午後雷陣雨，台灣駕駛人一年裡有將近三分之一的日子要跟雨天共處。但多數人對「雨中如何不打滑」的認知， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
-      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-07-26T10:00:00+08:00",
-      "description": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches. ",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "韋伯望遠鏡最新觀測，極端熔岩行星巨蟹座 55e 佈滿氫氣與火山雲",
-      "url": "https://technews.tw/2026/07/26/webb-telescope-unveils-lava-planet-55-cancri-e/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T09:30:57+08:00",
-      "description": "NASA 的詹姆斯·韋伯太空望遠鏡（JWST）最新觀測結果，為距離地球約 41 光年的超級地球「巨蟹座 55e [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-07-26T09:30:00+08:00",
-      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "馬斯克「無聊公司」洽談新一輪融資！目標估值預計達 200 億美元",
-      "url": "https://finance.technews.tw/2026/07/26/boring-company/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T09:11:12+08:00",
-      "description": "世界首富馬斯克（Elon Musk）旗下的隧道建設公司「無聊公司（Boring Company）」正計劃進行新 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "4 年營收翻倍破 800 億日圓，解析 3COINS 靠「週週推百款新品」打造的圈粉商模",
-      "url": "https://finance.technews.tw/2026/07/26/3coins-debuts-taiwan-capture-market-share/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-07-26T09:00:19+08:00",
-      "description": "從 300 日圓均一商店起家，3COINS 靠著每週上架上百款新品，以及員工社群行銷，不僅吸引日本人常去嘗鮮， [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
