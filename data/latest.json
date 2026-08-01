@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T16:37:15.050594+08:00",
+  "updated_at": "2026-08-01T22:04:00.254791+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63045,
-      "change": -1.31
+      "price": 63013,
+      "change": -0.23
     },
     "ETH": {
-      "price": 1866.91,
-      "change": -1.22
+      "price": 1868.1,
+      "change": 0.18
     },
     "SOL": {
-      "price": 72.97,
-      "change": -0.9
+      "price": 72.91,
+      "change": -0.36
     }
   },
   "articles": [
+    {
+      "title": "What’s the best handheld mini fan?",
+      "url": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-01T21:36:54+08:00",
+      "description": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
+      "url": "https://www.coindesk.com/tech/2026/07/31/solana-foundation-s-new-ciso-warns-ai-is-making-crypto-scams-more-convincing",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T21:00:00+08:00",
+      "description": "Michael Coates, the foundation’s new CISO, said that AI vulnerabilities and fake identities will drive the next wave of blockchain security concerns.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Everyone has the perps convergence backwards",
+      "url": "https://www.coindesk.com/opinion/2026/08/01/everyone-has-the-perps-convergence-backwards",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T21:00:00+08:00",
+      "description": "Crypto is said to be growing up to look like Wall Street. The evidence in its biggest market points the other way, argues Bitget CEO Gracy Chen.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T18:23:41+08:00",
+      "description": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+      "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T17:23:56+08:00",
+      "description": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
+      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T17:01:08+08:00",
+      "description": "Binance founder Changpeng Zhao says hardware wallets can still have bugs and suggests spreading funds across multiple wallets after the major Coldcard security failure.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "省電又涼爽，專家傳授 8 招少開冷氣的夏日好眠祕訣",
       "url": "https://technews.tw/2026/08/01/8-tips-getting-good-sleep-summer/",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-01T10:12:05+08:00",
       "description": "Lumentum 執行長 Michael Hurlston 在法國巴黎舉行的 RAISE Summit 上表示 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "告別純「墨」製造？緯創直搗德州建廠，林憲銘曝供應鏈大洗牌背後的殘酷現實",
-      "url": "https://finance.technews.tw/2026/08/01/wistron-us-factory/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T10:00:45+08:00",
-      "description": "本週，緯創美國廠風光開幕，董座林憲銘透露建廠祕辛。他說，公司本來押寶墨西哥製造，但去年一連串的地緣政治風波後， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "心理學家揭密，兩種健忘習慣其實是「高效思考」的表現",
-      "url": "https://technews.tw/2026/08/01/forgetfulness-sign-intelligence/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T09:30:51+08:00",
-      "description": "忘記剛認識的人的名字、想不起會議的具體細節，真的代表記憶力變差了嗎？心理學家指出，這些看似「健忘」的現象未必是 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蘋果財測不如預期重挫 7%，市值王寶座讓回輝達",
-      "url": "https://technews.tw/2026/08/01/apple-weak-forecast-stock-weak/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T09:10:04+08:00",
-      "description": "蘋果週五（31 日）股價重挫 7.35%，公司指出，受 AI 驅動的資料中心建設熱潮影響，全球供應鏈持續吃緊， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「買了國巨人生悲劇」惡夢重演？50 萬散戶慘套山頂，苦等陳泰銘四個解答",
-      "url": "https://finance.technews.tw/2026/08/01/yageo-stock-price-halved-500k-shareholders-await-4-answers/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T09:00:16+08:00",
-      "description": "國巨在 7 月 1 日盤中站上 1,220 元歷史新高後，28 日直接打到跌停 563 元；這讓市場近 50  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "尋找外星生命恐反被 AI 誤導，研究揭「自信誤判」恐成 NASA 太空任務隱憂",
-      "url": "https://technews.tw/2026/08/01/alien-life-search-ai-misguidance/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T08:30:02+08:00",
-      "description": "密西根州立大學（MSU）研究團隊近日提出警告，人工智慧（AI）在協助探測外星生命時，可能會出現「自信地判錯」的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "中聯毒油報告揭密：原料降規 10 倍、製程檢驗全失守，30 年老廠如何一步步釀食安風暴？",
-      "url": "https://technews.tw/2026/08/01/chung-lien-tainted-oil-report/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T08:00:35+08:00",
-      "description": "中聯毒油調查結果出爐，直指中聯管理三大缺失，但本刊調查發現，中聯油脂為降低成本改用中國設備，去年 4 月突然將 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
