@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T11:58:12.318062+08:00",
+  "updated_at": "2026-08-01T16:37:15.050594+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62944,
-      "change": -2.21
+      "price": 63045,
+      "change": -1.31
     },
     "ETH": {
-      "price": 1867.49,
-      "change": -2.17
+      "price": 1866.91,
+      "change": -1.22
     },
     "SOL": {
-      "price": 72.93,
-      "change": -1.66
+      "price": 72.97,
+      "change": -0.9
     }
   },
   "articles": [
+    {
+      "title": "省電又涼爽，專家傳授 8 招少開冷氣的夏日好眠祕訣",
+      "url": "https://technews.tw/2026/08/01/8-tips-getting-good-sleep-summer/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-01T15:33:23+08:00",
+      "description": "台灣的夏夜悶熱潮濕，常讓人輾轉難眠，雖然多數人早就習慣整晚狂吹冷氣，但在夏季電費飆漲的情況下，這對荷包實在不友 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "告別搖桿飄移惡夢，Sony 新專利暗示 PS6 控制器將改用磁性搖桿",
+      "url": "https://ccc.technews.tw/2026/08/01/ps6-controller-magnetic-joystick-design/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-01T15:30:08+08:00",
+      "description": "根據近期曝光的一項專利，Sony 似乎正為 PlayStation 6（PS6）的新一代控制器尋求「類比搖桿飄 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin ETFs end July in the green despite late-month selling",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T15:23:07+08:00",
+      "description": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Meta 低調測試 AI 兒童故事 App StoryKit，三步驟客製化專屬繪本與配樂",
+      "url": "https://technews.tw/2026/08/01/meta-ai-childrens-story-app-storykit/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-01T14:30:53+08:00",
+      "description": "Meta 近期在蘋果 App Store 低調上架了一款全新的 iPhone 應用程式「StoryKit: p [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
+      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T14:09:51+08:00",
+      "description": "The xrpld 3.3.0 release is expected next week with five proposed amendments, including two revised features that were previously withdrawn after researchers found bugs that could have allowed unauthorized transactions or fee draining.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "價格狂飆 200%、比稀土更致命，中國如何用「鎢」掐住全球國防命脈",
+      "url": "https://technews.tw/2026/08/01/china-tungsten-global-defense/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-01T14:00:21+08:00",
+      "description": "你可能聽過稀土，或是半導體必備的鎵和鍺，但如果提到「APT」可能大家最先聯想到的，可能還是 2024 年紅遍全 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Wacom Yuify 與 ibisPaint 合作，保護數位藝術創作的著作權",
+      "url": "https://technews.tw/2026/08/01/wacom-yuify-ibispaint-partner-to-protect-digital-copyright/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-01T14:00:09+08:00",
+      "description": "Wacom 宣布，Wacom Yuify（其用於保護和驗證數位藝術作品作者身份的數位服務）將於 2026 年  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
+      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-01T13:55:46+08:00",
+      "description": "Galaxy Research said weak seed generation let an attacker recreate likely private keys offline, sweep more than 1,000 BTC from nearly 1,200 wallets and continue searching without ever accessing the devices.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "自由現金流拉警報！美四大 CSP 累計資本支出超過 1.1 兆美元，AI 豪賭終點在哪？",
       "url": "https://finance.technews.tw/2026/08/01/csp-ai-investments-and-financial-report/",
@@ -170,110 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-01T08:00:35+08:00",
       "description": "中聯毒油調查結果出爐，直指中聯管理三大缺失，但本刊調查發現，中聯油脂為降低成本改用中國設備，去年 4 月突然將 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蘋果 15 年來最重要交棒，特納斯能否找回賈伯斯時期的產品魔力",
-      "url": "https://finance.technews.tw/2026/08/01/apple-ternus-confronts-dual-challenges-innovation-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T07:30:10+08:00",
-      "description": "蘋果即將迎來自 2011 年以來最重要的權力交接。外界正高度關注，這家科技巨頭能否藉此機會找回賈伯斯（Stev [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "實測體驗：DJI Pocket 4P 是全能口袋相機嗎？",
-      "url": "https://ccc.technews.tw/2026/08/01/dji-pocket-4p/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T07:00:52+08:00",
-      "description": "手持口袋攝影機可能是許多人評估是否該入手的產品，畢竟現在智慧型手機相機系統已經相當強大，因此往往都會落入「是否 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "射程破一千公里，日本空自測試空射版 25 式地對艦飛彈",
-      "url": "https://technews.tw/2026/08/01/jasdfs-f2-is-testing-new-air-launche-version-type-25/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-01T07:00:46+08:00",
-      "description": "日本航空自衛隊近期在岐阜基地進行了一次受到國際關注的試飛。 岐阜基地 飛行開発実験団 F-2B 101 F-2 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-01T06:47:26+08:00",
-      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-01T06:00:08+08:00",
-      "description": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-01T06:00:00+08:00",
-      "description": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-01T04:50:58+08:00",
-      "description": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-01T04:10:21+08:00",
-      "description": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
