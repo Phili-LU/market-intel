@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T12:02:14.903800+08:00",
+  "updated_at": "2026-08-02T16:41:42.774653+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63403,
-      "change": 0.73
+      "price": 63215,
+      "change": 0.27
     },
     "ETH": {
-      "price": 1875.8,
-      "change": 0.41
+      "price": 1868.08,
+      "change": 0.1
     },
     "SOL": {
       "price": 73.15,
-      "change": 0.24
+      "change": 0.31
     }
   },
   "articles": [
+    {
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-02T16:04:56+08:00",
+      "description": "Bitcoin users moved 39,600 BTC in small transactions as the Coldcard hack continued, with researchers warning that the attack remained active.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "20 歲輟學生吸金 3,100 萬美元！Omen AI 專攻液冷監控，成 AI 散熱市場新星",
+      "url": "https://technews.tw/2026/08/02/omen-ai-liquid-cooling/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-02T15:30:57+08:00",
+      "description": "AI 晶片發熱量持續飆升，帶動資料中心對散熱技術的需求，也讓專注於冷卻監測的新創 Omen AI 備受資本市場 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "你的夢境並非隨機，心理學家：大腦在睡眠中「改寫現實」",
+      "url": "https://technews.tw/2026/08/02/dreams-brain-rewriting-reality/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-02T15:04:52+08:00",
+      "description": "為什麼有些夢境清晰如電影，有些卻支離破碎？義大利盧卡高等研究學院（IMT School for Advance [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "不再只會說「我懂你」，英國研究：AI 提供具體行動指引安撫效果超越人類",
+      "url": "https://technews.tw/2026/08/02/ai-comfort-better-than-humans/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-02T14:30:28+08:00",
+      "description": "英國一項最新研究指出，人工智慧（AI）聊天機器人在日常情緒支持上，可能比人類更能安撫「憤怒」與「恐懼」情緒。這 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "這麼熱，誰想曬太陽！歐洲掀「Coolcation」避暑潮，極端高溫會重塑觀光版圖嗎？",
+      "url": "https://technews.tw/2026/08/02/will-extreme-heat-reshape-europe-tourism-industry/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-02T14:00:14+08:00",
+      "description": "今年夏天，一個新詞在歐洲旅遊圈迅速竄紅──「避暑度假」（Coolcation），愈來愈多的旅客開始把「避開高溫 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "《財富》公布 2026 年《財富》世界 500 強榜單",
+      "url": "https://finance.technews.tw/2026/08/02/fortune-announces-2026-fortune-global-500-list/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-02T14:00:03+08:00",
+      "description": "《財富》正式發布 2026 年《財富》世界 500 強榜單（2026 Fortune Global 500™） [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美國開發新型「海軍模組化飛彈」取代 SM 系列，還可從潛艦發射",
+      "url": "https://technews.tw/2026/08/02/us-navy-is-developing-new-nmm-to-replace-standard-missile-family/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-02T13:48:33+08:00",
+      "description": "美國海軍近期公布「海軍模組化飛彈」（Naval Modular Missile, NMM）計畫，展現革新艦載防 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "AI 也有政治立場？7 萬次測驗揭露多數 LLM 穩定偏向自由左派",
       "url": "https://technews.tw/2026/08/02/mainstream-ai-models-liberal-left/",
@@ -183,97 +274,6 @@
       "category": "crypto",
       "published_at": "2026-08-02T05:14:39+08:00",
       "description": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-02T04:26:04+08:00",
-      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-02T04:10:54+08:00",
-      "description": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-02T03:45:45+08:00",
-      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Should you still buy your next smartphone — or subscribe to it instead?",
-      "url": "https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-02T02:47:27+08:00",
-      "description": "Apple's new Upgrade program is the latest sign that smartphone ownership is changing.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-02T02:07:17+08:00",
-      "description": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-02T01:07:34+08:00",
-      "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-02T00:51:35+08:00",
-      "description": "Without that QQQ token, QQQB, July volume for tokenized equities would be roughly $2.03 billion, about 30% below June’s total.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
