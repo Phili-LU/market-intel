@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T11:47:25.500387+08:00",
+  "updated_at": "2026-08-06T17:18:56.770601+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64449,
-      "change": 0.56
+      "price": 64723,
+      "change": 0.95
     },
     "ETH": {
-      "price": 1895.75,
-      "change": 1.63
+      "price": 1905.71,
+      "change": 1.85
     },
     "SOL": {
-      "price": 73.4,
-      "change": -0.48
+      "price": 73.54,
+      "change": -0.77
     }
   },
   "articles": [
     {
-      "title": "SpaceX 火箭殘骸撞月球「根本無從閃避」，太空望遠鏡拍到證據",
-      "url": "https://technews.tw/2026/08/06/spacex-rocket-debris-hit-moon-unavoidable-space-telescope-evidence/",
+      "title": "BP 撤出北海敲響警鐘：巨頭出走、綠能卡關，蘇格蘭能源經濟拉警報",
+      "url": "https://technews.tw/2026/08/06/bp-exit-north-sea-scotland-energy-alarm/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:40:48+08:00",
-      "description": "科學家今天表示，一枚體積相當於巴士的太空探索科技公司（SpaceX）火箭殘骸已如預期般撞擊月球，智利一座望遠鏡 [&#8230;]",
+      "published_at": "2026-08-06T17:10:41+08:00",
+      "description": "英國能源巨擘 BP 宣布將出售其具指標性的北海業務，這不僅宣告該公司在當地長達 60 年的開採歷史即將畫下句點 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "多晶矽成美中角力新戰場！川普擬祭至少 15% 關稅",
-      "url": "https://technews.tw/2026/08/06/polysilicon-emerges-new-us-china-battleground-trump-plans-15-percent-tariffs/",
+      "title": "蘋果加速逃離中國，目標兩年內「印度製造」達五成",
+      "url": "https://technews.tw/2026/08/06/apple-india-revenue-10-billion/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:35:01+08:00",
-      "description": "美國總統川普準備對多晶矽及相關產品祭出新一波貿易措施。綜合外電報導，政府擬對進口多晶矽課徵至少 15% 關稅， [&#8230;]",
+      "published_at": "2026-08-06T17:00:44+08:00",
+      "description": "蘋果（Apple）正全面加速將 iPhone 產線向印度轉移。最新發展指出，印度不僅具備生產蘋果所有最新機型的 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美銀每年砸 2.5 億美元幫員工買瘦瘦針，CEO：是值得的健康投資",
-      "url": "https://finance.technews.tw/2026/08/06/bank-of-america-spends-more-than-250-million-on-glp-1s/",
+      "title": "美分析師：記憶體類股長線敘事未變，台灣為關鍵一環",
+      "url": "https://technews.tw/2026/08/06/memory-stocks-long-term-narrative-unchanged-taiwan-key-part/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:30:29+08:00",
-      "description": "美國銀行執行長莫伊尼漢（Brian Moynihan）表示，每年為員工支付 GLP-1 減重藥物費用超過 2. [&#8230;]",
+      "published_at": "2026-08-06T16:50:13+08:00",
+      "description": "「記憶體與儲存技術大會」在矽谷舉行，台廠供應鏈華邦電、旺宏等廠商參展。資深產業分析師克雷默受訪指出，AI不是泡 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "NEO 發表 AI 記憶體新技術，施振榮：帶來半導體新可能",
-      "url": "https://technews.tw/2026/08/06/neo-semiconductor-launches-neo-ai-memory-platform-to-solve-ais-two-biggest-memory-bottlenecks/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-06T11:25:31+08:00",
-      "description": "由矽谷華人許富菖創立的人工智慧（AI）記憶體公司 NEO Semiconductor，今天在全球記憶體與儲存產 [&#8230;]",
+      "title": "Yen stablecoin issuer JPYC’s Series B reaches $38M",
+      "url": "https://cointelegraph.com/news/jpyc-series-b-funding-az-com?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-06T16:44:43+08:00",
+      "description": "JPYC said it plans to use the new capital to expand its financial and Web3 ecosystem and accelerate adoption of its yen-pegged token.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "SpaceX 暴跌、散戶搶進撿便宜  專家解析解禁潮",
-      "url": "https://finance.technews.tw/2026/08/06/spacex-attracts-retail-buyers-after-post-earnings-share-slide/",
+      "title": "台灣團隊首度自主啟航北極，探極端氣候、海洋環流",
+      "url": "https://technews.tw/2026/08/06/taiwan-team-first-independent-arctic-expedition-extreme-climate-ocean-circulation/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:20:42+08:00",
-      "description": "散戶投資人再次展現一貫作風，在 SpaceX 公布上市以來首份財報、股價重挫之際，大舉逢低買進。 Market [&#8230;]",
+      "published_at": "2026-08-06T16:40:28+08:00",
+      "description": "中央大學台灣極地研究中心統籌的跨領域團隊，今年夏天首度自主規劃極地研究船航次，前往北極斯瓦爾巴群島西側海域 1 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Rocket Lab 奪美國太空軍 3.97 億美元合約，打造新世代空中監視衛星",
-      "url": "https://technews.tw/2026/08/06/rocket-lab-397-million-us-space-force/",
+      "title": "宇瞻7月營收月減4.2%",
+      "url": "https://finance.technews.tw/2026/08/06/apacer-8271-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:10:26+08:00",
-      "description": "美國航太企業 Rocket Lab 於 8 月 5 日宣布，已成功獲得美國太空軍（U.S. Space For [&#8230;]",
+      "published_at": "2026-08-06T16:40:06+08:00",
+      "description": "宇瞻（8271）公布 7 月合併營收 27.91 億元，較上（6）月成長 -4.2%，與去年同期相比為年增 1 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美學者：中國恐以火力封鎖迫台屈服，降低國際介入可能",
-      "url": "https://technews.tw/2026/08/06/the-war-china-might-choose/",
+      "title": "榮群7月營收月增52.3%",
+      "url": "https://finance.technews.tw/2026/08/06/opnet-8034-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:10:18+08:00",
-      "description": "美國學者撰文分析，中國恐對台採取「火力封鎖」戰略，發射飛彈打擊並癱瘓台灣港口設施，切斷物資供應迫使台灣投降，同 [&#8230;]",
+      "published_at": "2026-08-06T16:40:04+08:00",
+      "description": "榮群（8034）公布 7 月合併營收 2,280.40 萬元，較上（6）月成長 52.3%，與去年同期相比為年 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Shield AI 攜手中科院成功完成勁蜂三型自主無人機群協同驗證",
-      "url": "https://technews.tw/2026/08/06/shield-ai-in-collaboration-with-the-chinese-academy-of-sciences-successfully-validated-drone-swarm-collaborative-operation/",
+      "title": "統新7月營收月增10.7%",
+      "url": "https://finance.technews.tw/2026/08/06/apogee-6426-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:00:40+08:00",
-      "description": "美國國防科技公司 Shield AI 與國家中山科學研究院共同宣佈，雙方已成功完成一場多機協同自主搜索任務的實 [&#8230;]",
+      "published_at": "2026-08-06T16:40:03+08:00",
+      "description": "統新（6426）公布 7 月合併營收 7,829.30 萬元，較上（6）月成長 10.7%，與去年同期相比為年 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "SpaceX 稱有旅客為了搭到 Starlink 班機寧願買轉機航班",
-      "url": "https://technews.tw/2026/08/06/spacexs-shotwell-travelers-skipping-direct-flights-to-have-starlink/",
+      "title": "台灣學界攜台積電研究部門，以磊晶介面工程突破二維半導體關鍵瓶頸",
+      "url": "https://technews.tw/2026/08/06/2d-semiconductor-epitaxial-interface-engineering-mos2/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T11:00:27+08:00",
-      "description": "SpaceX 最新的財報電話會議，焦點放在 Starlink 商業擴張與航空應用。總裁暨營運長 Gwynne  [&#8230;]",
+      "published_at": "2026-08-06T16:33:52+08:00",
+      "description": "傳統矽半導體技術逐漸逼近物理極限，為解決這問題，全世界科學家都在尋找下一代半導體材料，其中「二維半導體」因薄到 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "迪士尼 TikTok 達協議，允短影音創作者運用角色及場景",
-      "url": "https://technews.tw/2026/08/06/disney-and-tiktok-strike-short-form-video-sharing-deal/",
+      "title": "WeMo 攜手咖波、文博會推限定車款，共享機車打 IP 行銷戰",
+      "url": "https://technews.tw/2026/08/06/wemo-creativexpo/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:55:59+08:00",
-      "description": "迪士尼公司與社群媒體 TikTok 5 日宣布達成協議，將允許 TikTok 創作者在短影音中使用迪士尼電影及 [&#8230;]",
+      "published_at": "2026-08-06T16:31:36+08:00",
+      "description": "共享機車業者 WeMo 宣布響應 2026 台灣文博會，推出結合人氣 IP「貓貓蟲咖波」、創作者品牌與台灣傳統 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "SpaceX 全面擁抱輝達晶片，布局太空 AI 算力",
-      "url": "https://technews.tw/2026/08/06/spacex-embraces-nvidia-chips-space-ai-computing-power/",
+      "title": "低成本 AI 興起，中國大型網路股重獲投資人青睞",
+      "url": "https://technews.tw/2026/08/06/low-cost-ai-rise-china-major-internet-stocks-regain-investor-favor/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:50:44+08:00",
-      "description": "太空探索科技公司（SpaceX）執行長馬斯克在公司史上首次財報電話會議中告訴投資人，未來 SpaceX 將完全 [&#8230;]",
+      "published_at": "2026-08-06T16:30:21+08:00",
+      "description": "有法人表示，由於中國近來在低成本人工智慧（AI）領域取得快速進展，使中國網路龍頭企業在資本市場的吸引力增強。在 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Anthropic 籌組團隊，首度證實開發自研晶片",
-      "url": "https://technews.tw/2026/08/06/anthropic-builds-in-house-team-to-develop-custom-ai-chips/",
+      "title": "台燿7月營收月增20.7%",
+      "url": "https://finance.technews.tw/2026/08/06/tuc-6274-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:49:28+08:00",
-      "description": "Anthropic 證實籌組一支團隊，自行研發 AI 晶片。Anthropic 正面對 Claude 模型需求 [&#8230;]",
+      "published_at": "2026-08-06T16:30:12+08:00",
+      "description": "台燿（6274）公布 7 月合併營收 59.08 億元，較上（6）月成長 20.7%，與去年同期相比為年增 1 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "引領代理型 AI 儲存變革，慧榮科技推出全新 MonTitan SSD 參考設計套件",
-      "url": "https://finance.technews.tw/2026/08/06/silicon-motion-introduces-new-montitan-ssd-reference-design-kit/",
+      "title": "松翰7月營收月減0.0%",
+      "url": "https://finance.technews.tw/2026/08/06/sonix-5471-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:45:08+08:00",
-      "description": "NAND 快閃記憶體控制晶片廠商慧榮科技宣布推出全新 MonTitan SSD 參考設計套件（RDK），並搭載 [&#8230;]",
+      "published_at": "2026-08-06T16:30:10+08:00",
+      "description": "松翰（5471）公布 7 月合併營收 3.16 億元，較上（6）月成長 -0.0%，與去年同期相比為年增 37 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "SpaceX 大買特斯拉 Megapack  Q2 採購 2.95 億美元",
-      "url": "https://technews.tw/2026/08/06/spacex-ramps-up-tesla-megapack-purchases-in-q2-to-power-its-ai-data-centers/",
+      "title": "杰力7月營收1.22 億元",
+      "url": "https://finance.technews.tw/2026/08/06/emc-5299-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:40:53+08:00",
-      "description": "馬斯克旗下太空探索技術公司 SpaceX 於 2026 年第二季大舉採購特斯拉（Tesla）大型儲能系統 Me [&#8230;]",
+      "published_at": "2026-08-06T16:30:07+08:00",
+      "description": "杰力（5299）今（6）日公布 7 月營收，達 1.22 億元，較 6 月成長 -2.7%，較去年同期成長 - [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "迪士尼財報不俗  醞釀推含廣告免費串流搶市",
-      "url": "https://finance.technews.tw/2026/08/06/disney-reports-solid-earnings-plans-ad-supported-free-streaming-service-capture-market-share/",
+      "title": "臻鼎-KY7月營收176.01 億元",
+      "url": "https://finance.technews.tw/2026/08/06/zdt-4958-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:30:23+08:00",
-      "description": "影視娛樂巨頭迪士尼（Walt Disney Company）上季財報受惠於主題樂園、〈玩具總動員 5〉電影的高 [&#8230;]",
+      "published_at": "2026-08-06T16:20:08+08:00",
+      "description": "臻鼎-KY（4958）今（6）日公布 7 月營收，達 176.01 億元，較 6 月成長 3.3%，較去年同期 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "不適用 K 型經濟，調查：各種收入的 Z 世代都在揮霍",
-      "url": "https://finance.technews.tw/2026/08/06/z-generation-spend-on-everything/",
+      "title": "原相7月營收月增8.9%",
+      "url": "https://finance.technews.tw/2026/08/06/pxi-3227-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:26:44+08:00",
-      "description": "萬物皆漲、生活成本節節攀升，近年全球經濟呈現明顯的「K 型分化」，高收入族群持續消費，低收入者則被迫縮減支出。 [&#8230;]",
+      "published_at": "2026-08-06T16:20:07+08:00",
+      "description": "原相（3227）公布 7 月合併營收 8.93 億元，較上（6）月成長 8.9%，與去年同期相比為年增 23. [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "摩根士丹利推演 AI 發展三大情境：不論哪派勝出，「基礎設施與輝達」都是最大贏家",
-      "url": "https://finance.technews.tw/2026/08/06/morgan-stanley-projects-three-ai-development/",
+      "title": "聯詠7月營收月增2.7%",
+      "url": "https://finance.technews.tw/2026/08/06/novatek-3034-202607-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:20:11+08:00",
-      "description": "摩根士丹利（Morgan Stanley）最新研究指出，無論未來的 AI 市場是由封閉模型主導、開放模型崛起， [&#8230;]",
+      "published_at": "2026-08-06T16:20:05+08:00",
+      "description": "聯詠（3034）公布 7 月合併營收 102.96 億元，較上（6）月成長 2.7%，與去年同期相比為年增 2 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "受惠 AI 但財測不驚豔  硬碟大廠威騰盤後重挫 11%",
-      "url": "https://finance.technews.tw/2026/08/06/wd-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results/",
+      "title": "AI 吃電怪獸綠色救星！東元轉供半導體 3 億度綠電進軍電力交易",
+      "url": "https://finance.technews.tw/2026/08/06/cppa-mw/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:10:55+08:00",
-      "description": "美國儲存裝置大廠威騰（Western Digital）最新財測雖略優於華爾街預期，卻未能滿足投資人的高度期待， [&#8230;]",
+      "published_at": "2026-08-06T16:17:21+08:00",
+      "description": "東元今日宣布與半導體廠完成企業購售電契約（CPPA）簽署，為東元切入綠電交易市場的重要里程碑，這項合作案採長期 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "共信-KY 肝癌新藥登權威國際期刊！第三季規劃台日泰美全球三期臨床",
-      "url": "https://finance.technews.tw/2026/08/06/journal-of-hepatocellular-carcinoma/",
+      "title": "少子化問題影響兵源，韓國下訂首筆大規模陸上無人載具採購案",
+      "url": "https://technews.tw/2026/08/06/korea-ordered-first-large-scale-ugv-fleet-for-the-low-birthrate-affect-the-conscription/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:10:16+08:00",
-      "description": "共信醫藥今日宣布人體肝癌新藥 PTS 100，繼今年 6 月完成二期臨床試驗收案後，用於人體肝癌腫瘤治療病例研 [&#8230;]",
+      "published_at": "2026-08-06T16:12:11+08:00",
+      "description": "韓國防衛事業廳於 2026 年 7 月正式選定韓華航太（Hanwha Aerospace）作為該國首款量產型多 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "搶攻 CPO 量產：檢測技術最後關鍵一哩路",
-      "url": "https://technews.tw/2026/08/06/cpo-testing-market-opportunities/",
+      "title": "美資安公司：中國間諜軟體 LightSpy，擴及 13 國使用",
+      "url": "https://infosecu.technews.tw/2026/08/06/a-chinese-spyware-tool-operates-in-13-countries/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-06T10:00:34+08:00",
-      "description": "AI 資料中心叢集規模持續擴大，資料搬運需求隨之大增，傳統銅線互連已達到物理極限。共同封裝光學（Co-Pack [&#8230;]",
+      "published_at": "2026-08-06T16:10:52+08:00",
+      "description": "根據資安公司 Arctic Wolf Networks Inc. 的最新研究報告指出，一款由中國開發的數位間諜 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
