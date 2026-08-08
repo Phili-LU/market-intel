@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T15:26:39.757183+08:00",
+  "updated_at": "2026-08-08T21:24:39.972220+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64960,
-      "change": 0.91
+      "price": 64975,
+      "change": -0.33
     },
     "ETH": {
-      "price": 1914.87,
-      "change": 0.54
+      "price": 1918.18,
+      "change": -0.53
     },
     "SOL": {
-      "price": 74.68,
-      "change": 2.4
+      "price": 75.45,
+      "change": 2.14
     }
   },
   "articles": [
+    {
+      "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+      "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-08T21:00:00+08:00",
+      "description": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "U.S. Senate opens first stage of crypto Clarity Act voting to give bill a chance next month",
+      "url": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-08T17:07:24+08:00",
+      "description": "The majority leader opened the multi-stage process the Senate follows when trying to get a bill over its 60-vote hurdle, so it's still got a shot in September.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "關掉九成門市業績反升 40%，日本連鎖店 GEO 靠老遊戲「新鮮感」收服 Z 世代逆勢成長",
+      "url": "https://ccc.technews.tw/2026/08/08/nostalgia-trendiest-fresh-sensation-gen-z/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-08T16:00:25+08:00",
+      "description": "在實體零售業普遍面臨數位化衝擊的今天，「縮減門市」往往意味著業務收縮或衰退。然而，日本知名連鎖零售巨頭 GEO [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "沒跟著燒錢市值衝上 5 兆美元？蘋果如今恐不得不加入算力競賽",
+      "url": "https://finance.technews.tw/2026/08/08/apple-ai-capex-increase/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-08T15:53:43+08:00",
+      "description": "生成式 AI 掀起全球科技業新一輪投資競賽，微軟、Meta、Alphabet、亞馬遜等科技巨頭近兩年相繼宣布提 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-08T15:46:04+08:00",
+      "description": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "AI 讓 RAM 價格倒退回 2007 年水準，20 年降價趨勢逆轉",
       "url": "https://finance.technews.tw/2026/08/08/ai-ram-hbm/",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-08T10:00:19+08:00",
       "description": "美國與日本罕見聯手進場買進日圓，讓一路重貶的日圓終於止血。然而，干預雖逼退短線投機資金，外資卻評估長期效果有限 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "霸主地位的起點，30 年前 AT&T 如何靠「預設值」助微軟稱霸市場？",
-      "url": "https://technews.tw/2026/08/08/att-internet-explorer-default-advantage-30-years-ago/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-08T09:30:12+08:00",
-      "description": "30 年前，AT&#38;T 在激烈的瀏覽器大戰，為微軟（Microsoft）敞開一扇至關重要的大門。 199 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電、CSP 大舉建廠背後的推手！研華北美接單強勁，無懼零件飆漲樂觀看旺下半年",
-      "url": "https://finance.technews.tw/2026/08/08/advantech/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-08T09:00:00+08:00",
-      "description": "《財訊》報導，AI 投資熱未退，當市場焦點都放在台積電擴產、輝達、Google 等 CSP 大舉投資 AI 資 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "P-1 AI 獲 5,000 萬美元融資，推出代理式 AI 工程師「Archie」化解實體工程人才荒",
-      "url": "https://technews.tw/2026/08/08/could-agentic-ai-bring-american-manufacturing-back/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-08T08:30:27+08:00",
-      "description": "美國航空航太與工業領域正面臨嚴重的工程師短缺問題。P-1 AI 近日宣布完成 5,000 萬美元 A 輪融資的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "佳世達總座親督軍注資擎壤、翔隆，百人無人機小隊強攻美日市場",
-      "url": "https://technews.tw/2026/08/08/qisda-general-manager-personally-oversees-investment-q-land-s-long-100-person-drone-team-aggressively-targeting-us-japan-markets/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-08T08:00:30+08:00",
-      "description": "近年，橫跨多事業群的科技集團佳世達接連投資兩家無人機新創，並由總經理親自督軍。 他們的目標是憑堅強的製造實力與 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "避免二選一僵局，美軍考慮增加低當量核武攻擊選項",
-      "url": "https://technews.tw/2026/08/08/the-pentagon-is-considering-increase-lower-yield-nuclear-options/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-08T07:00:25+08:00",
-      "description": "美國五角大廈近日啟動了針對美國核武戰略與使用指引（Employment Guidance）的最新審查。兩名美軍 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
