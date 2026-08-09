@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:29:16.907214+08:00",
+  "updated_at": "2026-08-09T21:28:40.315075+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64798,
-      "change": -0.25
+      "price": 64996,
+      "change": 0.03
     },
     "ETH": {
-      "price": 1916.4,
-      "change": 0.07
+      "price": 1921.7,
+      "change": 0.19
     },
     "SOL": {
-      "price": 76.34,
-      "change": 2.24
+      "price": 76.64,
+      "change": 1.56
     }
   },
   "articles": [
+    {
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T21:00:00+08:00",
+      "description": "An industry-wide reckoning is weeding out unsustainable startups, leaving behind only the protocols with real cash flow and actual users.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "url": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-09T21:00:00+08:00",
+      "description": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T19:00:53+08:00",
+      "description": "The enforcing fork remains stuck at Bitcoin’s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
+      "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T17:10:39+08:00",
+      "description": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "地球本身可成「巨型暗物質偵測器」，搜尋神秘軸子與暗光子訊號",
+      "url": "https://technews.tw/2026/08/09/dark-photon-matter-axion-earth/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T16:54:38+08:00",
+      "description": "地球本身可能就是一座超輕暗物質探測器。科學家現在找到一種方法，能將地球磁場、大氣層、表面作為探測軸子、暗光子的 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "告別萬噸垃圾山！印尼全面啟動廢棄物改革，60 萬拾荒者生計面臨考驗",
+      "url": "https://technews.tw/2026/08/09/indonesia-waste-reform-600000-scavengers-livelihoods-challenges/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T16:00:03+08:00",
+      "description": "垃圾分類對許多人而言，或許只是日常生活中的一件小事，但對印尼來說，卻是一場牽動垃圾山、數十萬名拾荒者，以及整個 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "雀類鳴唱發聲，竟遵循與人類語言相同的基本結構原則",
+      "url": "https://technews.tw/2026/08/09/birdsong-bengalese-songbird/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T15:41:22+08:00",
+      "description": "孟加拉雀（Bengalese finches）以複雜、後天習得鳴唱技巧聞名，現在科學家發現，孟加拉雀組織鳴唱聲 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "富采 Q2 淨利獲利雙走揚，營收動能強勁回升",
+      "url": "https://finance.technews.tw/2026/08/09/ennostar-q2-financial-statements/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T15:40:41+08:00",
+      "description": "富采控股 7 日公布最新一季財報，展現穩健成長動能， 2026 年第二季合併營業額為新台幣 63.2 億元，較 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "特納斯接棒蘋果 CEO 的第一場大考，9 月秋季發表會傳回歸「真人現場」",
       "url": "https://finance.technews.tw/2026/08/09/apples-september-event-may-be-its-first-live-keynote-in-five-years/",
@@ -170,110 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-09T09:30:46+08:00",
       "description": "日本東北大學的一項最新小鼠研究發現，大腦在「快速動眼睡眠」（REM）期間，雖然血流量增加，且星狀膠質細胞內的丙 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "為何不推熔斷、保留預收款？一文看懂證交所「處置股改制」背後考量",
-      "url": "https://finance.technews.tw/2026/08/09/twse-disposition-stock-reform-considerations/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T09:00:11+08:00",
-      "description": "根據《財訊》雙週刊報導，證交所 3 日公告修正「公布注意暨處置規定」，8 月 10 日起實施，處置期間縮短、撮 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "醫療 AI 評測敲響警鐘，OpenAI、Anthropic 等主流模型皆陷「資訊遺漏」盲點",
-      "url": "https://technews.tw/2026/08/09/medical-ai-hidden-fatal-flaw/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T08:30:28+08:00",
-      "description": "一項名為 NOHARM 的最新獨立醫療 AI 基準研究直指當前主流臨床 AI 工具的共通盲點。這項測試涵蓋了包 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「落後群創」真是最後稻草？彭双浪欽點接班人、友達二把手柯富仁無預警「裸辭」投變數",
-      "url": "https://finance.technews.tw/2026/08/09/auo-president-vs-ceo/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T08:00:28+08:00",
-      "description": "從寄予厚望的接班人，到隔日生效的突兀裸辭，友達營運長柯富仁下台後，這艘面板巨艦究竟會走向何方？ 沉寂多時的面板 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-09T05:24:02+08:00",
-      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
-      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-09T05:17:08+08:00",
-      "description": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
-      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-09T04:06:47+08:00",
-      "description": "The proposal has scant support from bitcoin miners and influential commentators have also voiced their opposition.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-09T03:41:13+08:00",
-      "description": "NextSlide says its team members are now working on ChatGPT.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
-      "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-09T01:48:02+08:00",
-      "description": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
