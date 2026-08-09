@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T10:33:29.212316+08:00",
+  "updated_at": "2026-08-09T15:29:16.907214+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64790,
-      "change": -0.2
+      "price": 64798,
+      "change": -0.25
     },
     "ETH": {
-      "price": 1914.77,
-      "change": 0.09
+      "price": 1916.4,
+      "change": 0.07
     },
     "SOL": {
-      "price": 75.87,
-      "change": 2.64
+      "price": 76.34,
+      "change": 2.24
     }
   },
   "articles": [
+    {
+      "title": "特納斯接棒蘋果 CEO 的第一場大考，9 月秋季發表會傳回歸「真人現場」",
+      "url": "https://finance.technews.tw/2026/08/09/apples-september-event-may-be-its-first-live-keynote-in-five-years/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T15:00:37+08:00",
+      "description": "9 月 1 日，約翰·特納斯（John Ternus） 將正式接任蘋果 CEO。再過一週，他可能就要迎來第一場 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "不再是單一解答，從最新科學研究重新認識 ADHD 的五大面向",
+      "url": "https://technews.tw/2026/08/09/5-new-adhd-concepts-you-need-to-know/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T14:30:00+08:00",
+      "description": "根據最新臨床研究，醫學界正全面重新理解「注意力不足過動症」（ADHD）。它不再僅是被視為單純的「白天注意力渙散 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "迷失在不存在的空間，研究指「後室」現象催生新型態數位暗黑旅遊",
+      "url": "https://technews.tw/2026/08/09/backrooms-digital-dark-tourism/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T14:00:48+08:00",
+      "description": "如果有一個地方不在地圖上，卻吸引數百萬網友爭相「前往」探索，這會是怎樣的世界？這正是近年席捲網路的虛構都市傳說 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T13:46:07+08:00",
+      "description": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "日本新創 Starlight Engine 斥資 8 千億日圓建核融合電廠，力拚能源自主擺脫中東石油依賴",
+      "url": "https://technews.tw/2026/08/09/japanese-nuclear-fusion-startup-starlight-engine/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T13:30:57+08:00",
+      "description": "日本一家專注於核融合技術的新創公司「Starlight Engine」，正計劃將其原型發電廠的投資規模大幅擴張 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T13:08:20+08:00",
+      "description": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "最新建模預測雙硼層可創下新超導紀錄，常壓下超導轉變溫度 68K",
+      "url": "https://technews.tw/2026/08/09/bilayer-borophene-single-element-superconductor/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T12:43:04+08:00",
+      "description": "透過先進電腦模擬，科學家預測雙層硼烯（bilayer borophene） 可在常壓下實現 68 K（約 -2 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "簡報太美反被嫌「AI 味」？三招告別空泛廢話，洗刷職場偷懶標籤",
+      "url": "https://technews.tw/2026/08/09/how-to-make-presentations-less-ai-like/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-09T11:00:14+08:00",
+      "description": "會議上，同事提供一份設計精美的簡報，此時你心裡會有什麼想法？若在 5 年前，你會讚嘆對方簡報功力高超；但現在直 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "BTS、Seventeen 御用大師出手解決舞蹈圈版權痛點，AI 助編舞家打造永續收入",
       "url": "https://technews.tw/2026/08/09/k-pop-choreographer-transitions-to-ai/",
@@ -170,110 +274,6 @@
       "category": "crypto",
       "published_at": "2026-08-09T01:48:02+08:00",
       "description": "Wildberries’ average price for hardware wallets fell 13% to 7,900 rubles, and M.Video broadened its range of products, though neither retailer identified the driving force behind the renewed demand.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-09T01:19:56+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
-      "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-09T00:20:17+08:00",
-      "description": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.\n",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "不是全新星系，「小紅點」真面目是星系中央超大質量黑洞活動的短暫印記",
-      "url": "https://technews.tw/2026/08/09/evolutionary-mystery-cosmic-little-red-dots/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T00:00:21+08:00",
-      "description": "詹姆斯‧韋伯太空望遠鏡於 2022 年發現「小紅點」以來，這些遙遠、緻密且呈現紅色的天體便成為天文學家高度關注 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "運動不只讓心臟更強壯，還會重塑心臟的神經網路",
-      "url": "https://technews.tw/2026/08/09/exercise-does-not-just-strengthen-the-heart/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T00:00:06+08:00",
-      "description": "運動對心血管健康的好處不少，除了能降低血壓、改善血脂，還可讓心臟肌肉變得更有力。然而，心臟要正常運作，靠的不只 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "NASA 攜手跨國團隊升空追擊日全食，揭開太陽日冕與大氣之謎",
-      "url": "https://technews.tw/2026/08/09/nasa-chase-total-solar-eclipse/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T00:00:04+08:00",
-      "description": "2026 年 8 月 12 日，一場備受矚目的日全食即將登場。屆時，月球本影將以高達每小時 5,000 英里的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The Kindle Scribe Colorsoft is a lot of fun, but it’s not a must-have",
-      "url": "https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-09T00:00:00+08:00",
-      "description": "While the device is pretty and lightweight, it’s not something the everyday person needs due to its hefty price tag and size.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
-      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-08T23:25:38+08:00",
-      "description": "The rule applies to transfers above $10,000 and smaller transactions flagged as risky by exchanges.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-08T23:08:06+08:00",
-      "description": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
