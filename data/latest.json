@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T21:28:40.315075+08:00",
+  "updated_at": "2026-08-10T03:09:28.575094+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64996,
-      "change": 0.03
+      "price": 65153,
+      "change": 0.25
     },
     "ETH": {
-      "price": 1921.7,
-      "change": 0.19
+      "price": 1920.56,
+      "change": 0.04
     },
     "SOL": {
-      "price": 76.64,
-      "change": 1.56
+      "price": 77.18,
+      "change": 1.52
     }
   },
   "articles": [
+    {
+      "title": "Is Clarity's delay a blessing in disguise?: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/08/09/is-clarity-s-delay-a-blessing-in-disguise-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-10T02:30:00+08:00",
+      "description": "The crypto industry is angry and disappointed that the Senate is not holding a procedural vote on the Clarity Act this month, but that isn't the worst possible outcome.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
+      "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-10T00:05:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Hyperliquid’s RWA perps boom is eating into the revenue that backs HYPE",
+      "url": "https://www.coindesk.com/business/2026/08/09/hyperliquid-s-rwa-perps-boom-is-eating-into-the-revenue-that-backs-hype",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T23:00:00+08:00",
+      "description": "Revenue has fallen four quarters running while open interest hit a record high. The gap is a fee-sharing program that hands half the platform's volume to outside builders.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-09T22:30:00+08:00",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin investors pour $853 million into spot ETFs. BlackRock’s IBIT claims the bulk",
+      "url": "https://www.coindesk.com/markets/2026/08/09/bitcoin-investors-pour-usd853-million-into-spot-etfs-blackrock-s-ibit-claims-the-bulk",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-09T22:19:35+08:00",
+      "description": "Bitcoin ETFs recorded $853.54 million in net inflows last week, the strongest since mid-April, with BlackRock’s IBIT taking the bulk.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
       "url": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-09T12:43:04+08:00",
       "description": "透過先進電腦模擬，科學家預測雙層硼烯（bilayer borophene） 可在常壓下實現 68 K（約 -2 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "簡報太美反被嫌「AI 味」？三招告別空泛廢話，洗刷職場偷懶標籤",
-      "url": "https://technews.tw/2026/08/09/how-to-make-presentations-less-ai-like/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T11:00:14+08:00",
-      "description": "會議上，同事提供一份設計精美的簡報，此時你心裡會有什麼想法？若在 5 年前，你會讚嘆對方簡報功力高超；但現在直 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "BTS、Seventeen 御用大師出手解決舞蹈圈版權痛點，AI 助編舞家打造永續收入",
-      "url": "https://technews.tw/2026/08/09/k-pop-choreographer-transitions-to-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T10:30:36+08:00",
-      "description": "曾為 BTS、Seventeen 等韓流天團操刀的知名編舞家崔容俊（Youngjun Choi），如今正將目光 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "弘塑7月營收月增25.6%",
-      "url": "https://finance.technews.tw/2026/08/09/gptc-3131-202607-financial-report/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T10:30:03+08:00",
-      "description": "弘塑（3131）公布 7 月合併營收 7.93 億元，較上（6）月成長 25.6%，與去年同期相比為年增 42 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "熱浪竟掀起百億「起司金庫」危機，帕瑪森起司到阿里山茶的共同難題",
-      "url": "https://technews.tw/2026/08/09/extreme-heat-threatens-italys-parmesan-heartland/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T10:00:43+08:00",
-      "description": "今年 6 月，歐洲迎接破紀錄的熱浪，義大利多地氣溫突破 40°C。不只人類受不了，乳牛也熱得吃不下，產奶量最多 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "做夢其實超耗腦力，日本最新研究揭開大腦在「快速動眼期」的能量悖論",
-      "url": "https://technews.tw/2026/08/09/brain-rem-sleep-energy-paradox/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-09T09:30:46+08:00",
-      "description": "日本東北大學的一項最新小鼠研究發現，大腦在「快速動眼睡眠」（REM）期間，雖然血流量增加，且星狀膠質細胞內的丙 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
