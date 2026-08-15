@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T15:04:23.098085+08:00",
+  "updated_at": "2026-08-15T21:04:51.128752+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63058,
-      "change": 0.17
+      "price": 62971,
+      "change": 0.5
     },
     "ETH": {
-      "price": 1880.11,
-      "change": 0.44
+      "price": 1880.82,
+      "change": 0.52
     },
     "SOL": {
-      "price": 75.35,
-      "change": -0.2
+      "price": 75.36,
+      "change": -0.01
     }
   },
   "articles": [
+    {
+      "title": "Clarity survives (barely), Strategy sells and the untold story of Mastercard's $1.8 billion deal: Crypto's week in 5 stories",
+      "url": "https://www.coindesk.com/business/2026/08/15/clarity-survives-barely-strategy-sells-and-the-untold-story-of-mastercard-s-usd1-8-billion-deal-crypto-s-week-in-5-stories",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-15T21:00:00+08:00",
+      "description": "Washington kept crypto’s biggest legislative hope alive, Wall Street pushed deeper into digital assets, and a security scare sent billions of dollars of bitcoin moving between wallets.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Wall Street's private blockchain obsession is a 'race to the bottom,' Ethereum advocate Raman warns",
+      "url": "https://www.coindesk.com/business/2026/08/15/wall-street-s-private-blockchain-obsession-is-a-race-to-the-bottom-ethereum-advocate-raman-warns",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-15T20:00:00+08:00",
+      "description": "Centrally controlled, permission-only networks have a role to play in finance, but need a transparent, open base to reap the benefits blockchain technology offers.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-15T18:44:52+08:00",
+      "description": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Galaxy lowers CLARITY Act odds to 10%",
+      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-15T16:40:59+08:00",
+      "description": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "全球最大電池電動飛機僅花 5 美元完成試飛，預計 2031 年投入商用服務",
+      "url": "https://technews.tw/2026/08/15/the-worlds-largest-battery-powered-electric-aircraft-completed-its-test-flight-for-only-5/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-15T16:00:01+08:00",
+      "description": "瑞典電動飛機新創公司 Heart Aerospace 研發的全球最大電池電動飛機「Heart X1」，已於 2 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "影子 AI 橫掃職場：近半員工私用未核准工具，高階主管更愛「繞道」使用",
+      "url": "https://finance.technews.tw/2026/08/15/half-your-workforce-already-bypassed-your-ai-policy/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-15T15:30:19+08:00",
+      "description": "企業 AI 管理失守的現象快速擴大。最新資料顯示，雖然約九成組織聲稱制定 AI 政策，但仍有七成 IT 主管發 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "台積電、矽品、鴻海等供應鏈加持，輝達宣布 Spectrum-X 以太網路矽光子交換機量產",
       "url": "https://finance.technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-15T09:30:02+08:00",
       "description": "請 AI 為孩子寫一篇會說話的動物床邊故事，主角幾乎不會是「她」。華盛頓大學研究發現，主流大型語言模型生成的動 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "瑞銀指出，兩大因素美光標準型記憶體毛利率將上看 9 成超越 HBM",
-      "url": "https://finance.technews.tw/2026/08/15/microns-standard-memory-gross-margin-is-expected-to-surge-to-90-surpassing-hbm/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-15T09:00:19+08:00",
-      "description": "隨著AI伺服器產能吞噬全球半導體產量，傳統記憶體市場正迎來一波爆發性的利潤增長。 外資瑞銀（UBS）最新研究報 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電疑問「明明能做為何不出貨？」讓林恩平下定決心！大立光 300 天急行軍搶攻 CPO 幕後",
-      "url": "https://finance.technews.tw/2026/08/15/largan-cpo/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-15T09:00:08+08:00",
-      "description": "昔日股王大立光行事向來低調，但近來在市場熱度升高，外界好奇台灣這家光學巨擘面對手機市場成長停滯，董事長林恩平如 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "太陽風暴預測誤差從 5 小時減到 30 分鐘內，NASA PUNCH 任務寫下新紀錄",
-      "url": "https://technews.tw/2026/08/15/nasa-punch-predicts-solar-storm/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-15T08:30:34+08:00",
-      "description": "美國太空總署（NASA）近日在太空天氣預報技術上迎來重大突破。根據初步測試結果，其旗下的 PUNCH 任務已成 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "從白手起家到坐三望二！凱撒衛浴從一體成型面盆到電漿水龍頭，如何築技術高牆",
-      "url": "https://finance.technews.tw/2026/08/15/caesar/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-15T08:00:39+08:00",
-      "description": "放眼台灣百億規模的衛浴市場，凱撒衛浴正處在「坐三望二」的關鍵階段；從亞洲唯一具高溫耐火瓷技術，到全球首創電漿滅 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "開源工具挑戰 AI 溯源，可移除 Anthropic、OpenAI 等模型浮水印",
-      "url": "https://technews.tw/2026/08/15/watermarks-remover/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-15T07:59:09+08:00",
-      "description": "各家 AI 公司越來越積極尋求各種方式，為模型生成內容加上標記。現在，有人開發出一款開源工具，目的是移除生成內 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Trump expected to attend White House meeting with crypto CEOs, sources say",
-      "url": "https://www.coindesk.com/policy/2026/08/14/trump-expected-to-attend-white-house-meeting-with-crypto-ceos-sources-say",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-15T07:41:49+08:00",
-      "description": "Those involved in a meeting of CEOs from the worlds of crypto, prediction markets and AI anticipate President Donald Trump will take part in next week's gathering.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
