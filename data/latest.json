@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T15:06:54.043830+08:00",
+  "updated_at": "2026-08-16T21:06:44.428469+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63004,
-      "change": -0.08
-    },
-    "ETH": {
-      "price": 1878.39,
+      "price": 62968,
       "change": -0.07
     },
+    "ETH": {
+      "price": 1878.21,
+      "change": -0.21
+    },
     "SOL": {
-      "price": 75.31,
-      "change": -0.03
+      "price": 75.2,
+      "change": -0.27
     }
   },
   "articles": [
+    {
+      "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
+      "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-16T21:00:00+08:00",
+      "description": "The bankers want people kept in lower-yield deposits for the good of the financial system as it's existed for generations, and their argument is gaining ground.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
+      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-16T20:48:09+08:00",
+      "description": "DefiLlama’s founder said Apple removed one fake app within days after the company documented it draining funds from a small crypto wallet.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
+      "url": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-16T20:00:00+08:00",
+      "description": "Financial firms are partnering with specialists to build infrastructure, blurring lines between traditional and decentralized finance into a unified sector.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-16T19:12:51+08:00",
+      "description": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "黃金還能追嗎？瑞銀財管 CIO：金價 2027 上半年有望衝過 5,000 美元",
+      "url": "https://finance.technews.tw/2026/08/16/chinese-institutions/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T17:28:54+08:00",
+      "description": "黃金價格自 6 月以來首次突破每盎司 4,300 美元，擺脫此前每盎司 4,000 至 4,100 美元的區間 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "通寶半導體上半年毛利率高達 67%！董事會引私募拚年底送件申請上市",
+      "url": "https://finance.technews.tw/2026/08/16/private-equity-case/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T15:32:42+08:00",
+      "description": "通寶半導體公布今年上半年合併營收達 3.2 億元，年增 92%；稅前淨利達 4,807 萬元，年增 57%，毛 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "310 億隻雞淪為「病原海綿」，牛津大學研究：工業化養殖讓細菌移動幅度暴增百倍",
+      "url": "https://technews.tw/2026/08/16/industrial-chicken-farming-is-supercharging-the-spread-of-a-dangerous-foodborne-bacterium/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T15:30:12+08:00",
+      "description": "英國牛津大學（University of Oxford）團隊的最新分析指出，全球工業化養雞規模的擴張，正在加速 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "又一家 AI 新創完成 900 萬美元募資，Discovered Materials 以 AI 代理開發晶片散熱材料",
       "url": "https://technews.tw/2026/08/16/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
@@ -125,7 +216,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "台灣不到 10 家店，全球卻破兩千間！貢茶踩中外資「甜蜜點」的祕密",
+      "title": "台灣不到十家店，全球卻破兩千間！貢茶踩中外資「甜蜜點」的祕密",
       "url": "https://finance.technews.tw/2026/08/16/gong-cha-private-equity/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-16T08:30:32+08:00",
       "description": "美國阿貢國家實驗室（Argonne National Laboratory）於 6 日表示，暗能量巡天計畫（D [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "社宅包租代管政策遇逆風，從兆基案看資金監管漏洞與「混帳」隱憂",
-      "url": "https://finance.technews.tw/2026/08/16/cc-house-debt-crisis-how-to-close-regulatory-loopholes-in-rental-management/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T08:00:51+08:00",
-      "description": "兆基事件爆發，讓政府視為活化空屋、擴大租屋供給利器的包租代管產業陷入信任危機。從租金、押金管理到業者財務透明度 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-16T05:29:19+08:00",
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
-      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-16T03:27:29+08:00",
-      "description": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-16T02:58:39+08:00",
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Tokenized stock holders more than double as monthly volume surges",
-      "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-16T01:26:43+08:00",
-      "description": "Tokenized equities reached 1.31 million holders over the past month, as monthly transfer volume surged 179% to $23.13 billion and distributed value rose 5.9% to $2.38 billion.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-16T00:30:00+08:00",
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "How to tell if your AI platforms’ accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-16T00:10:00+08:00",
-      "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
