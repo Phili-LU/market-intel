@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T10:02:31.010114+08:00",
+  "updated_at": "2026-08-16T15:06:54.043830+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 63025,
-      "change": 0.06
+      "price": 63004,
+      "change": -0.08
     },
     "ETH": {
-      "price": 1878.55,
-      "change": -0.22
+      "price": 1878.39,
+      "change": -0.07
     },
     "SOL": {
-      "price": 75.36,
-      "change": 0.02
+      "price": 75.31,
+      "change": -0.03
     }
   },
   "articles": [
+    {
+      "title": "又一家 AI 新創完成 900 萬美元募資，Discovered Materials 以 AI 代理開發晶片散熱材料",
+      "url": "https://technews.tw/2026/08/16/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T14:30:32+08:00",
+      "description": "美國半導體材料新創 Discovered Materials 近日完成 900 萬美元種子輪募資，由 Ligh [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "13F 報告出爐！波克夏重押 Al、橋水幾乎清倉美光、軟銀砍 7 成台積電",
+      "url": "https://finance.technews.tw/2026/08/16/13f-reports-are-out/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T14:14:43+08:00",
+      "description": "美國證券交易委員會（SEC）最新一季「13F 持倉報告」出爐，今年第二季華爾街機構投資人對於半導體、AI 基礎 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "神雲科技於 OCP APAC 高峰會展出多元化架構，打造代理型 AI 運作系統",
+      "url": "https://technews.tw/2026/08/16/mitac-computing-technology-ocp-apac-summit-diverse-architectures-agentic-ai-operating-systems/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T14:00:29+08:00",
+      "description": "全球高效能伺服器解決方案領導者神達控股股份有限公司子公司神雲科技（MiTAC Computing Techno [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "減肥藥意外副作用？抑制食慾竟也降低飲酒慾望",
+      "url": "https://technews.tw/2026/08/16/how-weight-loss-medication-is-changing-relationships-with-alcohol/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T13:30:23+08:00",
+      "description": "隨著減重藥物使用人數增加，越來越多服用者發現，這類藥物帶來的改變不只是在體重上，也悄悄影響了他們與酒精的關係。 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "李飛飛警告：AI 最大風險不是作弊，而是奪走學生的主動思考權",
+      "url": "https://technews.tw/2026/08/16/fei-fei-li-says-ai-could-take-away-students-motivation-to-learn/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T11:30:42+08:00",
+      "description": "人工智慧的校園角色，近來再度引發討論。有「AI 教母」之譽的李飛飛於 Podcast 節目「Huberman  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "晟德砸 8.4 億實施第四次庫藏股！決議買回 2 萬張股票轉讓給員工",
+      "url": "https://finance.technews.tw/2026/08/16/treasury/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T11:05:00+08:00",
+      "description": "晟德董事會公告預計買回庫藏股 2 萬張，買回區間價格為 28 至 42 元，若股價低於區間價格下限將繼續買回， [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "估值蒸發近九成！Airtable 降價賣身 Bending Spoons，戳破 SaaS 獨角獸神話",
+      "url": "https://finance.technews.tw/2026/08/16/bending-spoons-acquires-airtable/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T11:00:34+08:00",
+      "description": "義大利 App 收購集團 Bending Spoons 於 8 月 4 日宣布，將以現金收購協作平台新創 Ai [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 能否加冕「世界第八大奇蹟」？各界掀起資格辯論與哲學反思",
+      "url": "https://technews.tw/2026/08/16/crowning-ai-eighth-wonder-world/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T10:30:35+08:00",
+      "description": "人工智慧（AI）是否具備足夠的份量，躋身「世界第八大奇蹟」？一篇評論大膽主張 AI 的深遠影響力已足以與傳統的 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "台灣不到 10 家店，全球卻破兩千間！貢茶踩中外資「甜蜜點」的祕密",
+      "url": "https://finance.technews.tw/2026/08/16/gong-cha-private-equity/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-16T10:00:03+08:00",
+      "description": "近期，美國私募基金貝恩資本（Bain Capital）宣布，收購台灣手搖飲品牌貢茶（Gong cha）。根據《 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "戰場的隱形殺手，美軍撤離傷兵 1/3 帶抗藥性細菌",
       "url": "https://technews.tw/2026/08/16/us-military-warns-drug-resistant-bacteria/",
@@ -157,123 +274,6 @@
       "category": "startup",
       "published_at": "2026-08-16T00:10:00+08:00",
       "description": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "罕見疾病意外揭開抗癌祕密，科學家看見新希望",
-      "url": "https://technews.tw/2026/08/16/how-these-twins-rare-growth-disorder-could-provide-the-key-to-preventing-cancer/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T00:00:51+08:00",
-      "description": "癌症是人類面臨的重大健康威脅之一，但有些罕見疾病患者，似乎天生就較不易罹癌。最近，BBC 報導一對患有萊倫氏症 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "韋伯太空望遠鏡揭密「珠寶箱」星雲，70 顆年輕恆星藏身其中",
-      "url": "https://technews.tw/2026/08/16/jwst_ngc-3372_treasure-chest/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T00:00:29+08:00",
-      "description": "詹姆斯·韋伯太空望遠鏡（James Webb Space Telescope，簡稱 JWST）最新影像揭開船底 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "常見塑膠製品恐傷肝，研究：若搭配高脂高糖飲食，脂肪肝風險更高",
-      "url": "https://technews.tw/2026/08/16/this-widely-used-plastic-could-be-harming-your-liver/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T00:00:18+08:00",
-      "description": "美國德州農工大學獸醫與生物醫學學院研究指出，全球產量最高，用途廣泛的食品包裝、保鮮膜、儲存容器與飲料杯內襯的聚 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-16T00:00:00+08:00",
-      "description": "Hyperliquid traders value Unitree at nearly $38 billion versus $9 billion at its IPO, leaving leveraged bets vulnerable when trading begins, Allium analysts said.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
-      "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-15T23:56:05+08:00",
-      "description": "Direct holdings of IBIT also rose 12% to 407,890 shares, while put option exposure dropped roughly 53% to 143,300 underlying shares during the quarter.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Why the world’s second-largest Bitcoin mining power is shutting down rigs in its capital city",
-      "url": "https://www.coindesk.com/policy/2026/08/15/why-the-world-s-second-largest-bitcoin-mining-power-is-shutting-down-rigs-in-its-capital-city",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-15T23:21:15+08:00",
-      "description": "The Energy Ministry enacted the year-round restriction to mitigate power capacity shortages, as energy-intensive mining facilities continue to strain regional grids.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Paul Tudor Jones’ investment firm increases stake in BlackRock's bitcoin ETF after year of selling",
-      "url": "https://www.coindesk.com/business/2026/08/15/paul-tudor-jones-investment-firm-increases-blackrock-s-bitcoin-etf-stake-after-year-of-selling",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-15T23:12:29+08:00",
-      "description": "Calls fell 85.2% to 148,000 underlying shares, while puts slipped 1.4% to 715,000.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-15T22:40:24+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "The $11.2 billion in 2026 funding that killed crypto’s permissionless era",
-      "url": "https://www.coindesk.com/business/2026/08/15/the-usd11-2-billion-in-2026-funding-that-killed-crypto-s-permissionless-era",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-08-15T22:00:00+08:00",
-      "description": "Dubai-based crypto lawyer Irina Heaver and her team parsed every crypto deal in the first half of 2026. BlackRock, Goldman, and Persian Gulf sovereigns all wrote checks to regulated firms.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
