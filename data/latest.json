@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T21:06:44.428469+08:00",
+  "updated_at": "2026-08-17T02:52:17.185304+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 62968,
-      "change": -0.07
+      "price": 63089,
+      "change": 0.16
     },
     "ETH": {
-      "price": 1878.21,
-      "change": -0.21
+      "price": 1883.94,
+      "change": 0.15
     },
     "SOL": {
-      "price": 75.2,
-      "change": -0.27
+      "price": 75.15,
+      "change": -0.48
     }
   },
   "articles": [
+    {
+      "title": "The SEC meeting that wasn't: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-17T02:30:00+08:00",
+      "description": "There were hopes that regulators could move if the Clarity Act didn't advance, but those, too, may be paused.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-17T00:53:51+08:00",
+      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
+      "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-17T00:04:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
+      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-17T00:00:00+08:00",
+      "description": "Investors are starting to judge crypto tokens on usage, economics and value capture rather than market-cap rank, industry executives said.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
+      "url": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-16T22:02:32+08:00",
+      "description": "While the data breach exposed the personal order details of thousands of customers, all private keys, seed phrases, and crypto assets remain completely safe.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "MiCA's cleanup is creating a new scam wave across the European Union",
+      "url": "https://www.coindesk.com/business/2026/08/14/mica-s-cleanup-is-creating-a-new-scam-wave-across-the-european-union",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-16T22:00:00+08:00",
+      "description": "Fraudsters impersonating regulators and licensed crypto exchanges to steal funds from users forced to migrate their accounts after the EU's MiCA deadline are on the rise.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "The stablecoin yield clash that won't go away has banks, crypto battling over tradition",
       "url": "https://www.coindesk.com/news-analysis/2026/08/14/the-stablecoin-yield-clash-that-won-t-go-away-has-banks-crypto-battling-over-tradition",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-16T11:00:34+08:00",
       "description": "義大利 App 收購集團 Bending Spoons 於 8 月 4 日宣布，將以現金收購協作平台新創 Ai [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 能否加冕「世界第八大奇蹟」？各界掀起資格辯論與哲學反思",
-      "url": "https://technews.tw/2026/08/16/crowning-ai-eighth-wonder-world/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T10:30:35+08:00",
-      "description": "人工智慧（AI）是否具備足夠的份量，躋身「世界第八大奇蹟」？一篇評論大膽主張 AI 的深遠影響力已足以與傳統的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台灣不到十家店，全球卻破兩千間！貢茶踩中外資「甜蜜點」的祕密",
-      "url": "https://finance.technews.tw/2026/08/16/gong-cha-private-equity/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T10:00:03+08:00",
-      "description": "近期，美國私募基金貝恩資本（Bain Capital）宣布，收購台灣手搖飲品牌貢茶（Gong cha）。根據《 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "戰場的隱形殺手，美軍撤離傷兵 1/3 帶抗藥性細菌",
-      "url": "https://technews.tw/2026/08/16/us-military-warns-drug-resistant-bacteria/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T09:30:10+08:00",
-      "description": "美軍高層近日發出警告，抗藥性細菌正成為未來戰場上日益嚴峻的隱形威脅。美軍參謀首長聯席會議首席醫官 Clinto [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "輝達砸 30 億美元投資 SB Energy！助 OpenAI 建置千億美元資料中心",
-      "url": "https://finance.technews.tw/2026/08/16/sb-energy-softbank/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T09:16:19+08:00",
-      "description": "輝達（NVIDIA）目前正與軟銀集團（SoftBank Group）旗下的能源與基礎設施子公司 SB Ener [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "卡位 CPO 新架構前，臻鼎押寶光模組 PCB 拚 2027 年稱王",
-      "url": "https://finance.technews.tw/2026/08/16/zhen-ding-invests-80-billion-in-major-capacity-expansion/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T09:00:26+08:00",
-      "description": "「高階 PCB 唯有糧草先行提前布局，才能在客戶新平台量產時即時遞補產能，我們今天的投入，正是為了解決客戶未來 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "六年觀測 6.69 億星系，暗能量巡天計畫證實：宇宙加速膨脹符合標準模型",
-      "url": "https://technews.tw/2026/08/16/argonne-lab-supercomputing-power-reveals-dark-matter/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-16T08:30:32+08:00",
-      "description": "美國阿貢國家實驗室（Argonne National Laboratory）於 6 日表示，暗能量巡天計畫（D [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
