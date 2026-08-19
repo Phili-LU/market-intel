@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T09:57:43.460948+08:00",
+  "updated_at": "2026-08-19T15:12:50.815243+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 64393,
-      "change": 0.44
+      "price": 64282,
+      "change": 0.02
     },
     "ETH": {
-      "price": 1913.57,
-      "change": 0.78
+      "price": 1914.56,
+      "change": 0.74
     },
     "SOL": {
-      "price": 76.78,
-      "change": 1.62
+      "price": 76.93,
+      "change": 1.18
     }
   },
   "articles": [
     {
-      "title": "小米造車兩年，已經賣出 50 萬輛 SU7",
-      "url": "https://technews.tw/2026/08/19/xiaomi-sold-500000-su7-ev/",
+      "title": "預估 2026 年中國人型機器人市場規模達 150 億人民幣，商業化驗收啟動",
+      "url": "https://technews.tw/2026/08/19/china-humanoid-robot-market-projected-15-billion-rmb-2026-commercialization-acceptance-begins/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:53:43+08:00",
-      "description": "從手機製造商跨界挑戰電動車，小米開賣 SU7 至今僅僅兩年時間，已經達成五十萬輛里程碑，再次創下小米奇蹟。 說 [&#8230;]",
+      "published_at": "2026-08-19T15:10:35+08:00",
+      "description": "根據 TrendForce 最新機器人產業研究，中國人型機器人部署開始進入汽車、3C、航空、物流及能源等多元場 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "SpaceX 火箭撞擊月球，NASA 公布最新坑洞影像",
-      "url": "https://technews.tw/2026/08/19/nasas-lro-images-falcon-9-crater-on-moon/",
+      "title": "DARPA 舉辦小型無人機載重比賽，加拿大廠商以 3.84 倍重量奪冠",
+      "url": "https://technews.tw/2026/08/19/canadian-avidrone-won-darpas-lift-challenge/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:50:50+08:00",
-      "description": "美國國家航空暨太空總署（NASA）今天公布最新影像，呈現本月稍早太空探索科技公司（SpaceX）火箭撞擊月球留 [&#8230;]",
+      "published_at": "2026-08-19T14:44:16+08:00",
+      "description": "美國國防高等研究計劃署（DARPA）近日舉辦的「Lift Challenge」小型無人機重載挑戰賽，這項競賽旨 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "專家：歐洲特務活動「零工經濟」加速發展，挑戰各國有效應對",
-      "url": "https://infosecu.technews.tw/2026/08/19/the-intelligence-operative-gig-economy/",
+      "title": "新漢首創 RoboWIZ 聯軍！創博 AI 控制器占 30%、機器人訂單飆 80%",
+      "url": "https://finance.technews.tw/2026/08/19/robowiz-ai/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:40:28+08:00",
-      "description": "歐洲境內近期有多起縱火、暗殺、監控情蒐等具「特工」性質的活動是由未經專業訓練的人士執行，這些人「打零工」、「接 [&#8230;]",
+      "published_at": "2026-08-19T14:36:17+08:00",
+      "description": "新漢今年參與「2026 台北國際自動化工業大展」，董事長林茂昌表示，首創「RoboWIZ AI 機器人開放平台 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
       "source": "coindesk.com",
       "category": "crypto",
-      "published_at": "2026-08-19T09:35:36+08:00",
-      "description": "Former New York Gov. Andrew Cuomo says the CLARITY Act is key to linking crypto and traditional markets.",
+      "published_at": "2026-08-19T14:36:11+08:00",
+      "description": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達財報前 CDS 利差突破前高、市場憂循環融資",
-      "url": "https://finance.technews.tw/2026/08/19/semiconductor-stocks-face-renewed-selling-pressure-as-credit-stress-returns/",
+      "title": "日本 Socionext 採用英特爾 18A-P 製程、股價重摔",
+      "url": "https://finance.technews.tw/2026/08/19/socionext-broadens-soc-roadmap-with-intel-18a-p-process-technology/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:30:08+08:00",
-      "description": "輝達（Nvidia Corp.）的信用違約交換（CDS）利差持續擴大、已超越 7 月底的前波高，暗示信貸市場變 [&#8230;]",
+      "published_at": "2026-08-19T14:30:46+08:00",
+      "description": "日本晶片設計商 Socionext 採用英特爾（Intel）「18A-P」製程技術，用來研發客製化系統單晶片（ [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美進口車商發起拒絕中國車運動，推動立法永久禁止",
-      "url": "https://technews.tw/2026/08/19/us-import-car-dealers-reject-chinese-vehicles-push-permanent-ban-legislation/",
+      "title": "Amylyx 新藥 avexitide 臨床三期報捷  股價暴漲 63%",
+      "url": "https://finance.technews.tw/2026/08/19/amylyx-pharmaceuticals-announces-positive-topline-results-from-phase-3-lucidity-clinical-trial/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:20:41+08:00",
-      "description": "綜合中港媒體報導，代表美國 9,400 多家進口車經銷商的美國國際汽車經銷商協會將參與推動立法，永久禁止中國汽 [&#8230;]",
+      "published_at": "2026-08-19T14:20:55+08:00",
+      "description": "美國生技公司 Amylyx Pharmaceuticals 18 日公布新藥 avexitide 第三期臨床試 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "蘋果還沒放棄 Vision Pro！神祕裝置代號 N109 曝光",
-      "url": "https://technews.tw/2026/08/19/vision-pro-n109/",
+      "title": "狂挖輝達人才＋借力台積電  晶片新創 Etched 估值飆",
+      "url": "https://technews.tw/2026/08/19/a-21-billion-kids-in-chips-startup-is-scooping-up-nvidia-talent/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:17:14+08:00",
-      "description": "蘋果是否仍持續投入 Vision Pro 後續產品開發，近期再度浮現新線索。據 macOS Tahoe 26. [&#8230;]",
+      "published_at": "2026-08-19T14:10:43+08:00",
+      "description": "AI 晶片新創商 Etched 正加速挑戰輝達（Nvidia Corp.）霸主地位，不僅大舉挖角輝達工程師，更 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "9 月川習會前夕，中國下令政府單位移除微軟特供版 Windows 10",
-      "url": "https://finance.technews.tw/2026/08/19/china-has-ordered-government-agencies-to-remove-microsoft-specific-versions-of-windows-10/",
+      "title": "搶灘矽光子 CPO 商機！上銀產能滿載至明年首季、機器人占比達 12%",
+      "url": "https://finance.technews.tw/2026/08/19/mikrosystem/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:15:09+08:00",
-      "description": "根據彭博社報導指出，中國國家安全部近期已指示部分與國家相關的實體，卸載微軟為中國政府量身打造的 Windows [&#8230;]",
+      "published_at": "2026-08-19T14:08:22+08:00",
+      "description": "上銀今年參與「2026 台北國際自動化工業大展」，董事長卓文恒表示，目前交期已拉長至 6 個月，預計產能滿載至 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "iCloud 當機，照片、尋找、Xcode Cloud 都受影響",
-      "url": "https://technews.tw/2026/08/19/icloud-crash/",
+      "title": "打造台灣數位平台輸出典範，數位產業署率 8 業者赴日搶攻商機",
+      "url": "https://finance.technews.tw/2026/08/19/moda-adi/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:11:09+08:00",
-      "description": "蘋果多項雲端服務於美東時間 8 月 18 日下午發生異常，影響範圍涵蓋一般用戶與開發者。據蘋果系統狀態頁面，尋 [&#8230;]",
+      "published_at": "2026-08-19T14:07:28+08:00",
+      "description": "面對全球 AI 應用快速發展及軟體產業平台化趨勢，數位發展部數位產業署自今年起推動數位平台輸出相關計畫，協助台 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI 時代封裝才是關鍵戰場，ASMPT 用 TCB、Hybrid Bonding、CPO 三線布局強化先進封裝的定位",
-      "url": "https://technews.tw/2026/08/19/asmpt-tcb-hybrid-bonding-cpo-advanced-packaging/",
+      "title": "韓國嚴管槓反 ETF 保證金拉高兩倍  成交量崩 89%",
+      "url": "https://finance.technews.tw/2026/08/19/single-stock-leveraged-etf-trading-plunges-89-percent-after-deposit-hike/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:00:57+08:00",
-      "description": "談到半導體設備領域，ASML 肯定是大家都不陌生的名字，但鮮少人知道，在封裝設備領域已耕耘超過五十年的 ASM [&#8230;]",
+      "published_at": "2026-08-19T14:00:44+08:00",
+      "description": "韓國提高單一股票槓桿 ETF 最低保證金門檻後，交易熱度瞬間降溫近九成。韓國國會立法研究處（National  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美晶片股大跌，國債走低恐長期衝擊經濟",
-      "url": "https://finance.technews.tw/2026/08/19/us-chip-stocks-plunge-treasury-yields-fall-long-term-economic-impact/",
+      "title": "蒙納與 AI 設計平台 Kittl 深化合作，企業品牌字體無縫融入創作工作流程",
+      "url": "https://technews.tw/2026/08/19/monotype-ai-design-platform-kittl-deepen-partnership-seamlessly-integrate-corporate-brand-fonts-creative-workflows/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T09:00:07+08:00",
-      "description": "美股今天面臨國債拋售壓力，3 大指數走低，費半指數大跌。AI 產業資金需求龐大，發債規模擠壓傳統國債市場，企業 [&#8230;]",
+      "published_at": "2026-08-19T14:00:43+08:00",
+      "description": "全球字體與技術領導者蒙納（Monotype Imaging Inc.）與 AI 創意設計平台 Kittl 近日 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "投資市場憂慮氣氛再起，英特爾、AMD 兩大處理器巨擘股價遭空方狙擊",
-      "url": "https://finance.technews.tw/2026/08/19/intel-and-amd-the-two-processor-giants-saw-their-stock-prices-attacked-by-short-sellers/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-19T08:45:38+08:00",
-      "description": "受到市場整體拋售潮波及，兩大處理器巨擘英特爾與 AMD 在週二美國股市中股價重挫。其中，英特爾股價下跌逾 7% [&#8230;]",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-19T13:53:49+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達、OpenAI 聯手 AI 巨型資料中心，電力規模達 10GW",
-      "url": "https://technews.tw/2026/08/19/nvidia-openai-expand-ai-infrastructure-giant-campuses-require-10-gw-power/",
+      "title": "氣候變遷致歐洲海域水溫飆升，嚴重衝擊生態",
+      "url": "https://technews.tw/2026/08/19/climate-change-european-seas-water-temp-soar-severe-ecosystem-impact/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T08:45:04+08:00",
-      "description": "超大型 AI 資料中心計畫再添一樁。OpenAI、SB Energy 與輝達合作，將在美國俄亥俄州 PORTS [&#8230;]",
+      "published_at": "2026-08-19T13:50:27+08:00",
+      "description": "研究指出，氣候變遷是歐洲海域海水溫度上升的主要原因，今年夏季直接使地中海升溫約攝氏 2 度，並對生態系統造成嚴 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "乾瞻科技核心 IP 業務展現成效，上半年營收成長 50.4%",
-      "url": "https://finance.technews.tw/2026/08/19/ganzhan-technologys-core-ip-business-demonstrates-results/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-19T08:30:22+08:00",
-      "description": "神盾集團旗下乾瞻科技於在 2026 年第二季法人說明會公布上半年營運成果，2026年上半年營收為新台幣 2 . [&#8230;]",
+      "title": "Robot maker Unitree’s IPO surges 600%, outpacing crypto traders’ premarket bets",
+      "url": "https://www.coindesk.com/markets/2026/08/19/robot-maker-unitree-s-ipo-surges-600-outpacing-crypto-traders-premarket-bets",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-19T13:45:27+08:00",
+      "description": "A Hyperliquid perp priced Unitree far above its IPO valuation before Shanghai trading began, but the robot maker’s first public trade still opened roughly 75% above crypto traders’ implied price.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "從卡普到馬斯克，AI 九大高層無一獲美國年輕人信任",
-      "url": "https://technews.tw/2026/08/19/young-americans-distrust-ai-giants-alex-karp-faces-81-distrust/",
+      "title": "iPad 版 YouTube 有 Bug，全螢幕退出後留言、影片資訊憑空消失",
+      "url": "https://technews.tw/2026/08/19/ipad-youtube-bug/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T08:20:34+08:00",
-      "description": "CNBC 與 Generation Lab 新調查發現，18 至 34 歲美國年輕人對 AI 戒心加深，不信任 [&#8230;]",
+      "published_at": "2026-08-19T13:44:59+08:00",
+      "description": "YouTube 證實，部分 iPad 用戶近期在使用 YouTube App 時，若進入全螢幕模式後再退出，可 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達建構 AI 產業護城河改變模式，從晶片換成資本",
-      "url": "https://finance.technews.tw/2026/08/19/nvidia-is-building-a-moat-around-its-ai-industry-changing-the-business-model/",
+      "title": "中國機器人龍頭宇樹科技掛牌上市，開盤暴漲 6.3 倍",
+      "url": "https://finance.technews.tw/2026/08/19/china-robotics-leader-unitree-robotics-lists-shares-skyrocket-6-3x-debut/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T08:15:19+08:00",
-      "description": "在生成式人工智慧（AI）熱潮爆發近四年後，晶片龍頭輝達（Nvidia）憑藉早期的巨大領先優勢，一躍成為全球市值 [&#8230;]",
+      "published_at": "2026-08-19T13:40:18+08:00",
+      "description": "中國人型機器人龍頭廠宇樹科技今天正式在科創板掛牌上市，開盤就攻上 1,100 人民幣（約新台幣 5,206 元 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "NASA 聯手四大航太巨頭，2029 年前啟動逾 20 次登月任務",
-      "url": "https://technews.tw/2026/08/19/nasa-moon-base-2029/",
+      "title": "電力散熱一體化，Trane 攜伊頓攻 AI 資料中心",
+      "url": "https://technews.tw/2026/08/19/trane-eaton-partner-integrated-power-cooling-ai-data-centers/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T08:10:12+08:00",
-      "description": "NASA 正全力推進月球基地藍圖，透過一系列商業與機器人探測任務，為未來在月球南極附近建立人類長期據點鋪路。根 [&#8230;]",
+      "published_at": "2026-08-19T13:25:55+08:00",
+      "description": "AI 資料中心功率密度持續攀升，電力與散熱系統也開始從各自獨立設計，走向整合架構。Trane Technolo [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "東京自駕新創 Turing 前進美國，估值目標上看百億美元",
-      "url": "https://technews.tw/2026/08/19/japanese-self-driving-startup-turing-is-planning-a-u-s-office-and-eyeing-a-10b-ipo/",
+      "title": "美債殖利率飆 19 年新高，通膨赤字疑慮解析一次看",
+      "url": "https://finance.technews.tw/2026/08/19/us-bond-yields-soar-19-year-high-analysis-inflation-deficit-concerns/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T08:00:52+08:00",
-      "description": "東京自動駕駛新創公司 Turing 計劃在未來一年內於美國設立辦事處，初期將聚焦於資料蒐集與研發，並將美國視為 [&#8230;]",
+      "published_at": "2026-08-19T13:20:53+08:00",
+      "description": "美國長期公債殖利率今天攀升至 2007 年以來最高水準，凸顯中東戰事造成物價壓力升高，以及外界對美國赤字支出的 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "印度大理石廢料場爆紅成觀光勝地，當局示警污染問題",
-      "url": "https://technews.tw/2026/08/19/kishangarh-goes-viral-authorities-warn-of-pollution-risk/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-19T07:50:47+08:00",
-      "description": "印度西北部一座大理石廢料場因景色神似白雪覆蓋的山谷，近來意外變成遊客的熱門景點，甚至吸引不少網紅和影視製作團隊 [&#8230;]",
+      "title": "MAYAChain halts network after estimated $1.7M exploit",
+      "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-19T13:13:54+08:00",
+      "description": "A preliminary analysis says six chained bugs let a 23-message transaction drain 48.87 million CACAO, sending the token down nearly 89%.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "又一州對 AI 資料中心踩煞車，賓州提高開發門檻",
-      "url": "https://technews.tw/2026/08/19/state-brakes-ai-data-centers-pennsylvania-tightens-development-rules/",
+      "title": "美食品通膨降溫  為何牛肉、咖啡、蔬果逆勢漲？",
+      "url": "https://finance.technews.tw/2026/08/19/grocery-prices-fell-in-july-but-the-cost-of-these-food-staples-is-still-climbing/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-19T07:45:58+08:00",
-      "description": "美國又一州收緊資料中心開發規定。綜合外電報導，賓州州長 Josh Shapiro 最新簽署行政命令，要求 AI [&#8230;]",
+      "published_at": "2026-08-19T13:10:43+08:00",
+      "description": "近期美國食品雜貨價格開始降溫，但不少民生食品卻仍逆勢大漲。美國勞工統計局（BLS）數據顯示，經季節調整後，7  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
