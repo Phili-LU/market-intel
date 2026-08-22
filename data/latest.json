@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:07:02.410239+08:00",
+  "updated_at": "2026-08-22T21:07:03.358136+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77565,
-      "change": 2.48
+      "price": 77220,
+      "change": -0.02
     },
     "ETH": {
-      "price": 2442.81,
-      "change": 2.98
+      "price": 2426.03,
+      "change": 1.56
     },
     "SOL": {
-      "price": 94.85,
-      "change": 4.83
+      "price": 93.62,
+      "change": 3.08
     }
   },
   "articles": [
+    {
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "url": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-22T20:00:00+08:00",
+      "description": "Bitcoin and crypto staged their strongest rally in months as Treasury intervention, regulatory moves and a historic short squeeze collided, while banks and technology companies pushed deeper into stablecoins.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "告別 7 歲法則迷思！科學家全新毛孩年齡公式，1 歲狗已是 31 歲人類成年人",
+      "url": "https://technews.tw/2026/08/22/scientists-new-formula-for-dog-age/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-22T16:10:16+08:00",
+      "description": "許多飼主在幫愛犬慶生時，總習慣將狗的實際年齡 「乘以 7」 來估算相當於人類的幾歲。然而，一項發表於 《細胞系 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "打破運動頻率迷思，研究證實：每週一次 75 分鐘「間歇性快走」也能有效燃脂",
+      "url": "https://technews.tw/2026/08/22/weekly-75-min-burns-fat/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-22T16:00:09+08:00",
+      "description": "現代人生活忙碌，常以「沒時間」為由放棄運動。然而，頂尖學術期刊《Nature Communications》最 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "日月光子公司 ISE Labs 購入加州矽谷建物，為碼美國在地半導體製造布局",
       "url": "https://finance.technews.tw/2026/08/22/ase-technology-holding-co-ltd-ise-labs-acquires-building-in-silicon-valley-california/",
@@ -177,7 +216,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "隨著 Starlink 在軌衛星數量接近 11,000 顆，SpaceX 股價跟著上漲",
+      "title": "Starlink 軌道衛星數量接近 11,000 顆，SpaceX 股價跟著上漲",
       "url": "https://finance.technews.tw/2026/08/22/starlink-has-nearly-11000-satellites-in-orbit-and-spacexs-stock-price-rose-accordingly/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -229,51 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達即將公布最新財報，中國市場動態受市場關注",
+      "title": "輝達即將公布財報，中國市場動態受市場關注",
       "url": "https://finance.technews.tw/2026/08/22/nvidia-is-about-to-release-its-latest-financial-report/",
       "source": "technews.tw",
       "category": "tw_stocks",
       "published_at": "2026-08-22T10:00:30+08:00",
       "description": "輝達（Nvidia）即將於 26 日公布 2027 財年第二季財報，市場對其最新業績報持高度期待。而儘管股價短 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Michael Polansky is training an AI model on skin that’s still alive",
-      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-22T09:31:04+08:00",
-      "description": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about i",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "不用馬達也能飛，EPFL 用聲波打造微型推進系統",
-      "url": "https://technews.tw/2026/08/22/3d-printed-sound-powered-jet-engines-propel-micro-drones/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-22T09:30:55+08:00",
-      "description": "瑞士洛桑聯邦理工學院（EPFL）微型機器人系統實驗室（Microbiorobotic Systems Labo [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-22T09:03:06+08:00",
-      "description": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
