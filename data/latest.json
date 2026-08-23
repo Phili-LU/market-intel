@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T15:08:46.151951+08:00",
+  "updated_at": "2026-08-23T21:08:18.708505+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,45 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76179,
-      "change": -1.79
+      "price": 77205,
+      "change": -0.01
     },
     "ETH": {
-      "price": 2391.52,
-      "change": -2.17
+      "price": 2427.89,
+      "change": 0.1
     },
     "SOL": {
-      "price": 92.41,
-      "change": -2.65
+      "price": 94.67,
+      "change": 1.01
     }
   },
   "articles": [
+    {
+      "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
+      "url": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-23T16:19:53+08:00",
+      "description": "AI 已將韓國的晶片產業，轉變成一個具全球規模的產業。 總體經濟和資本市場分析刊物 The Kobeissi  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "動物園裡的雙向奔赴，科學家發現人類圍觀或許是亞洲小爪水獺最愛的活動",
+      "url": "https://technews.tw/2026/08/23/otters-enjoy-human-visitors/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-23T16:00:02+08:00",
+      "description": "人們造訪動物園時，常擔心熱鬧人潮會對動物造成心理壓力。然而，根據發表於《Journal of Zoologic [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "吃了會看見「小人國」？神祕蘑菇為何會引發集體幻覺，科學家：找不到致幻成分",
       "url": "https://technews.tw/2026/08/23/scientists-identify-mushroom-behind-tiny-people-hallucinations/",
@@ -248,32 +274,6 @@
       "category": "startup",
       "published_at": "2026-08-23T04:24:20+08:00",
       "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-23T03:00:00+08:00",
-      "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-23T00:30:34+08:00",
-      "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
