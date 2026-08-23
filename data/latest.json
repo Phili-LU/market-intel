@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T21:08:18.708505+08:00",
+  "updated_at": "2026-08-24T02:53:40.869584+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77205,
-      "change": -0.01
+      "price": 77287,
+      "change": 0.17
     },
     "ETH": {
-      "price": 2427.89,
-      "change": 0.1
+      "price": 2445.45,
+      "change": 0.9
     },
     "SOL": {
-      "price": 94.67,
-      "change": 1.01
+      "price": 95.15,
+      "change": 1.13
     }
   },
   "articles": [
+    {
+      "title": "Regulation Crypto is here: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/08/23/regulation-crypto-is-here-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-24T02:30:00+08:00",
+      "description": "The SEC published its Reg Crypto proposal last week, giving the public 60 days to comment.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
+      "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-23T23:52:21+08:00",
+      "description": "XRP’s price has surged by 50% this week, the best performance since November 2024. Here's what's driving the rally.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+      "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-23T23:30:53+08:00",
+      "description": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin’s past gains can increase both desired allocations and actual crypto purchases.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-23T23:00:00+08:00",
+      "description": "Tracked card volume more than tripled in a year, with USDC and USDT funding over 70% of spending as users increasingly paid for groceries, rides and subscriptions.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-23T23:00:00+08:00",
+      "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "藍牙耳機連線遭占用，阿里電商平台被抓包用 WebAudio 建數位指紋",
+      "url": "https://infosecu.technews.tw/2026/08/23/aliexpress-reportedly-uses-webaudio-fingerprinting-to-keep-bluetooth-headphones-connected/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-08-23T21:29:32+08:00",
+      "description": "一名使用藍牙耳機的使用者注意到，自己無法透過手機播放音樂，因為藍牙耳機遭占用，播放電腦瀏覽器來自 AliExp [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "url": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-23T21:00:00+08:00",
+      "description": "According to Coinbase’s head of AI product, we’re currently in the “Napster/LimeWire era” of agentic payments.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "韓國晶片貿易順差飆新高，半導體出口受惠 AI 熱潮",
       "url": "https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-23T10:00:14+08:00",
       "description": "一份毛利率創新高的財報，為何卻換來上市以來最慘的單日股價崩跌？ On（昂跑）近日公布2026年第二季財報，毛利 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "長得像海馬卻不是海馬？3D 骨骼掃描與基因定序揭開深海「海木偶」身世",
-      "url": "https://technews.tw/2026/08/23/sea-muppet/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-23T09:30:57+08:00",
-      "description": "澳洲南部深海的一項最新研究，徹底推翻了科學界對幾種奇特小魚長久以來的分類認知。研究團隊透過微型電腦斷層掃描（M [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "群創法說焦點「騰籠換鳥」！未回應台積電 CoPoS 合作問題，TGV 玻璃基板最快 2028 年量產",
-      "url": "https://technews.tw/2026/08/23/innolux-earnings-call-26q2/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-23T09:00:46+08:00",
-      "description": "《財訊》報導，群創 18 日舉行線上法說會，外界關注的焦點包括 FOPLP（扇出型面板級封裝）量產狀況、玻璃基 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "治了癌症卻痛了關節，破解免疫療法副作用謎團：「免疫記憶」竟是發炎加劇元兇",
-      "url": "https://technews.tw/2026/08/23/immune-memory/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-23T08:30:51+08:00",
-      "description": "癌症免疫療法為許多患者帶來抗癌的新曙光，但其伴隨的副作用卻也讓部分患者苦不堪言。美國德州大學安德森癌症中心（M [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "星雲大師、王永慶被收服，40 年老字號鈺通營造靠「極限完工」創 24 年營收新高",
-      "url": "https://finance.technews.tw/2026/08/23/yuh-tong-construction/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-23T08:00:18+08:00",
-      "description": "從廟宇、校園到醫院、無人機廠，鈺通營造什麼案子都敢接。40 年來不挑肥揀瘦，靠的是「別人不想做，我把它做好」的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "學生負責下令，AI 負責讀大學：AI 代理「幫上課」成高等教育危機",
-      "url": "https://technews.tw/2026/08/23/i-found-a-prompt-that-keeps-ai-agents-from-taking-tasks-too-far/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-23T07:00:19+08:00",
-      "description": "AI 代理正將大學線上課程的作弊問題推向新階段。《紐約時報》報導，學生只要下簡單指令，如「登入並完成我的測驗」 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-23T05:46:56+08:00",
-      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-08-23T04:24:20+08:00",
-      "description": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
