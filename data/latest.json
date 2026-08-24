@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T10:04:06.097403+08:00",
+  "updated_at": "2026-08-24T15:34:19.370095+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,26 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76954,
-      "change": -0.28
+      "price": 77511,
+      "change": 1.75
     },
     "ETH": {
-      "price": 2428.49,
-      "change": 0.24
+      "price": 2459.32,
+      "change": 2.83
     },
     "SOL": {
-      "price": 93.9,
-      "change": -2.31
+      "price": 94.27,
+      "change": 1.77
     }
   },
   "articles": [
     {
-      "title": "中國長江存儲啟動科創板上市進程，預計將籌資人民幣 330 億元",
-      "url": "https://finance.technews.tw/2026/08/24/ymtc-initiates-its-listing-process-on-the-science-and-technology-innovation-board/",
+      "title": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
+      "url": "https://technews.tw/2026/08/24/claude-outage-hits-multiple-models-again/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T10:00:59+08:00",
-      "description": "中國快閃記憶體龍頭企業長江存儲已正式啟動於上海證券交易所科創板的上市進程。根據官方最新申報文件，該公司在第一季 [&#8230;]",
+      "published_at": "2026-08-24T15:29:21+08:00",
+      "description": "全球各地使用者在網路上的多方回報，Anthropic 的 Claude 多款模型在台灣時間 24 日下午無法正 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -34,12 +34,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "輝達財報前夕巨頭掀漲價潮，大盤守穩四萬五關卡，三大法人買超挺非電輪動",
-      "url": "https://finance.technews.tw/2026/08/24/nvidia-earnings-report-eve-tech-giants-price-hike-wave-market-holds-45000-institutional-buy-non-electronics-rotation/",
+      "title": "三大利多撐腰  瑞銀喊標普 500 年底上看 8,100 點",
+      "url": "https://finance.technews.tw/2026/08/24/sp-500-seen-reaching-8100-by-year-end/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T10:00:15+08:00",
-      "description": "加權指數前一交易日大漲 0.65% 收在 45,224 點，三大法人聯手買超 333.3 億元，外資集中敲進台 [&#8230;]",
+      "published_at": "2026-08-24T15:20:17+08:00",
+      "description": "受惠財報題材發威，美股多頭行情續航可期，瑞銀全球財富管理（UBS Global Wealth Manageme [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -47,12 +47,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "義大利咖啡機市場龍頭地位告急，力抗中國競爭",
-      "url": "https://technews.tw/2026/08/24/italy-coffee-machine-market-leadership-risk-chinese-competition/",
+      "title": "補德國空缺，印度開始與法國商談加入 FCAS 六代機計畫",
+      "url": "https://technews.tw/2026/08/24/india-in-talks-with-france-for-joining-fcas-program/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T09:50:57+08:00",
-      "description": "義大利有咖啡王國美譽，義大利製造的高級咖啡機向來稱霸全球市場，但相對低價的中國製「全自動咖啡機」近來嚴重衝擊義 [&#8230;]",
+      "published_at": "2026-08-24T15:18:42+08:00",
+      "description": "隨著全球第六代戰機研發競賽全面加溫，印度國防部證實已開始與法國會談，尋求加入「未來空中戰鬥系統」（FCAS）計 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -60,12 +60,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美光示警：AI 記憶體牆危機加劇，HBM 故障佔 Meta Llama 3 訓練中斷近兩成",
-      "url": "https://finance.technews.tw/2026/08/24/the-ai-%e2%80%8b%e2%80%8bmemory-wall-crisis-is-intensifying/",
+      "title": "美政府干預債市、美元貶值交易再起？金價轉強",
+      "url": "https://finance.technews.tw/2026/08/24/dollar-depreciation-trade-could-make-a-comeback/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T09:50:11+08:00",
-      "description": "隨著大型語言模型（LLM）持續演進，AI 系統的算力正以前所未有的速度成長，但記憶體卻已成為限制整體效能的關鍵 [&#8230;]",
+      "published_at": "2026-08-24T15:10:04+08:00",
+      "description": "美國財政部大動作干預債市，引發市場對強勢美元政策是否動搖的質疑，「貶值交易」似有捲土重來趨勢，黃金、比特幣近期 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -73,12 +73,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "TASA 首支自主探空火箭島脈成功發射，完成全程通訊關鍵驗證",
-      "url": "https://technews.tw/2026/08/24/tasa-maraho-launched/",
+      "title": "Anthropic 最強 AI 企業不買單  輝達砸錢拚開放模型",
+      "url": "https://technews.tw/2026/08/24/businesses-begin-moving-away-from-top-tier-ai-services/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T09:40:13+08:00",
-      "description": "國家太空中心（TASA）啟動入軌火箭計畫以來，首支自研探空火箭「島脈 MARAHO」22 日清晨執行首次飛試任 [&#8230;]",
+      "published_at": "2026-08-24T15:00:53+08:00",
+      "description": "AI 產業競爭風向正在轉變。企業客戶開始拒絕為最頂尖 AI 模型支付高昂費用，轉向價格較低、效能已足以應付多數 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -86,12 +86,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "中東戰事推升油價，歐盟六國籲對石油公司徵收暴利稅",
-      "url": "https://finance.technews.tw/2026/08/24/middle-east-conflict-oil-prices-rise-eu-six-urge-windfall-tax-oil-companies/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-24T09:30:10+08:00",
-      "description": "法新社 22 日取得信函顯示，由於中東戰爭導致石油公司獲利暴增，六個歐盟國家加強呼籲全歐盟範圍對石油公司徵收暴 [&#8230;]",
+      "title": "Ether is crushing bitcoin and the 'golden cross' says it may not be done yet",
+      "url": "https://www.coindesk.com/markets/2026/08/24/ether-is-crushing-bitcoin-and-the-golden-cross-says-it-may-not-be-done-yet",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-24T14:50:58+08:00",
+      "description": "The ETH/BTC ratio has recently formed a bullish golden cross, suggesting ether could extend its outperformance against bitcoin.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -99,12 +99,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "專家示警 AI 無人技術軍事化，中國生產力衝擊西方安全",
-      "url": "https://technews.tw/2026/08/24/experts-warn-ai-unmanned-tech-militarization-china-productivity-impacts-western-security/",
+      "title": "日美合作 AI 實力調查，中國 Kimi K3 排名第六",
+      "url": "https://technews.tw/2026/08/24/japan-us-ai-strength-survey-china-kimi-k3-ranks-sixth/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T09:20:40+08:00",
-      "description": "專業橫跨高科技與軍工產業的瑞士國防科技顧問公司 deepi.ai 創辦人鄂班斯基示警，若「機器」作戰在未來戰爭 [&#8230;]",
+      "published_at": "2026-08-24T14:50:36+08:00",
+      "description": "日經中文網報導，由日本經濟新聞旗下媒體 NIKKEI Digital Governance 與美國 Weigh [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,12 +112,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "曾文生：AI 資料中心用電擬採電廠直供，成本市場決定",
-      "url": "https://technews.tw/2026/08/24/tai-power-aidc/",
+      "title": "中國網商阿里巨額集資，市場初步反應負面",
+      "url": "https://finance.technews.tw/2026/08/24/alibaba-massive-fundraising-market-initial-negative-reaction/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T09:10:08+08:00",
-      "description": "近期 AI 資料中心選址引發討論，台電董事長曾文生今天表示，未來會跟外界協商，台電從電廠直接供電給 AI 資料 [&#8230;]",
+      "published_at": "2026-08-24T14:40:22+08:00",
+      "description": "中國網商龍頭阿里巴巴突然配股集資港幣 800 億元（約新台幣 3,200 億元），市場初步反應負面，香港股市今 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -125,12 +125,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "談判破局、美對加拿大加徵 50% 關稅  加揚言報復",
-      "url": "https://finance.technews.tw/2026/08/24/us-canada-tariffs-50-negotiations-collapse-canada-retaliation/",
+      "title": "外媒：量子運算特殊負載曲線對電力公司恐構成考驗",
+      "url": "https://technews.tw/2026/08/24/quantum-computing-poses-challenge-for-power-companies/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T09:00:55+08:00",
-      "description": "美國與加拿大貿易談判破局，美國正式向多項加拿大商品加徵 50% 關稅，加拿大則揚言 9 月 8 日起祭出同等規 [&#8230;]",
+      "published_at": "2026-08-24T14:30:10+08:00",
+      "description": "隨著量子運算時代迅速到來，電力公司正積極規劃應對策略，避免重蹈先前應對 AI 增長需求時手忙腳亂的覆轍。有些專 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -138,12 +138,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI 算力競賽進入下半場 PUE / WUE 指標成 AI 資料中心下一波競爭焦點",
-      "url": "https://technews.tw/2026/08/24/ai-pue-wue-ai-data-centers/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-24T09:00:34+08:00",
-      "description": "「買得到晶片，不代表運轉得了算力。」這句話，正逐漸成為 AI 資料中心時代最真實的寫照。過去，企業建置資料中心 [&#8230;]",
+      "title": "Ethereum lending app Term Finance loses $8.5 million after attacker buys voting power",
+      "url": "https://www.coindesk.com/markets/2026/08/24/ethereum-lending-app-term-finance-loses-usd8-5-million-after-attacker-buys-voting-power",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-24T14:27:33+08:00",
+      "description": "The  exploit shows how lightly held voting tokens can become a means of attack when control of a protocol is cheaper than the assets it governs.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -151,12 +151,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "日政府傳擬對晶圓代工廠 Rapidus 追加出資 1,500 億",
-      "url": "https://finance.technews.tw/2026/08/24/jp-gov-invest-rapidus-more/",
+      "title": "ChatGPT 外掛程式存取 Mac 訊息，專家示警隱私風險高",
+      "url": "https://infosecu.technews.tw/2026/08/24/chatgpt-for-mac-can-search-messages-catch-up-on-conversations-and-send-replies/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T08:50:19+08:00",
-      "description": "日本官民合作設立的晶圓代工廠 Rapidus 目標 2027 年度下半年量產 2 奈米晶片。而傳出日本政府計畫 [&#8230;]",
+      "published_at": "2026-08-24T14:24:28+08:00",
+      "description": "使用者能把自己 Mac 電腦上的「訊息」紀錄交給 ChatGPT，讓它搜尋訊息、查看對話、草擬和發送訊息回覆。 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -164,12 +164,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "訓練快一倍、資料省六成，新型預訓練法 GeoPT 讓 AI 具備「物理直覺」",
-      "url": "https://technews.tw/2026/08/24/mit-tsinghua-geopt/",
+      "title": "DeepSeek 推實驗性視覺理解模型  挑戰 Anthropic 高階模型",
+      "url": "https://technews.tw/2026/08/24/deepseek-v4-flash-vision-exp/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T08:40:49+08:00",
-      "description": "人工智慧（AI）雖已精通文字、影像與 3D 模型生成，但在模擬車輛、機器人於風阻、水流或碰撞等真實環境下的反應 [&#8230;]",
+      "published_at": "2026-08-24T14:20:26+08:00",
+      "description": "綜合港媒報導，中國人工智慧（AI）新創公司 DeepSeek 宣布，推出一款能夠理解視覺提示的實驗性 AI 模 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -177,12 +177,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "日本導入 AI 仍緩慢，保守文化與人才缺口成轉型絆腳石",
-      "url": "https://finance.technews.tw/2026/08/24/why-japanese-firms-are-being-so-slow-to-use-ai/",
+      "title": "金價衝破 4,600 美元！黃金正 2 單月狂飆逾 27% 躍居最強資產",
+      "url": "https://finance.technews.tw/2026/08/24/strongest-assets/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T08:30:28+08:00",
-      "description": "勞動力短缺、人口高齡化與長期生產力低迷壓力下，日本企業原視為最適合加速導入人工智慧的市場之一，但最新觀察顯示， [&#8230;]",
+      "published_at": "2026-08-24T14:19:15+08:00",
+      "description": "隨著市場對美國聯準會後續升息的預期持續降溫，美元走勢疲弱，成功為貴金屬市場點燃反攻引信，近期國際金價展現強勁爆 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -190,12 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "NASA 測試防輻射背心成效顯著，可降低逾半太陽風暴輻射量",
-      "url": "https://technews.tw/2026/08/24/radiation-vest-tested-during-artemis-i-can-cut-astronauts-exposure-in-solar-storms/",
+      "title": "SHEIN 併購服飾零售商 Everlane，面臨美國國安審查",
+      "url": "https://technews.tw/2026/08/24/shein-everlane-acquisition-us-national-security-review/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T08:20:04+08:00",
-      "description": "美國太空總署（NASA）最新研究指出，曾在阿提米絲一號（Artemis I）任務測試的防輻射背心，未來可能成為 [&#8230;]",
+      "published_at": "2026-08-24T14:10:18+08:00",
+      "description": "彭博（Bloomberg）引述消息人士報導，美國當局正審查中國快時尚巨頭希音（SHEIN）收購美國服飾零售商  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -203,12 +203,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "苦熬當醫師不如去台積電？理組生「棄醫從電機」揭露科技業百萬年薪的磁吸效應",
-      "url": "https://technews.tw/2026/08/24/university-stem-major-preferences-5-year-change-ee-hot-cs-cold-tsing-hua-professor-student-trend-concerns/",
+      "title": "輝達傳洽談投資 Perplexity，估值逾 9,583 億元",
+      "url": "https://technews.tw/2026/08/24/nvidia-perplexity-investment-valuation-over-958-3-billion-yuan/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T08:10:04+08:00",
-      "description": "全台掀半導體熱，高中生不只鑽研股市，就連大學理組志願序也迎接五年未見的「大洗牌」，十大熱門科系，七個都是電機系 [&#8230;]",
+      "published_at": "2026-08-24T14:00:52+08:00",
+      "description": "科技媒體 The Information 今天引述消息人士報導，人工智慧（AI）晶片巨人輝達（Nvidia）， [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -216,12 +216,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "新加坡打造「活體神經元」伺服器，活細胞變身 AI 算力破解耗電痛點",
-      "url": "https://technews.tw/2026/08/24/human-brain-cell-chip-low-power-ai/",
+      "title": "寧德時代實現全球唯一 TWh 級電池製造核心經營碳中和",
+      "url": "https://technews.tw/2026/08/24/catl-achieves-2025-core-operation-carbon-neutrality-target-sets-path-to-2035-value-chain-goal/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T08:00:09+08:00",
-      "description": "新加坡國立大學醫學院聯手資料中心營運商 DayOne 及澳洲生物運算公司 Cortical Labs，在楊潞齡 [&#8230;]",
+      "published_at": "2026-08-24T14:00:09+08:00",
+      "description": "寧德時代核心營運碳中和發表會在福建寧德舉行。公司宣佈，2025 年底已實現核心營運碳中和，成為全球唯一 TWh [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -229,12 +229,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Hugging Face 考慮出售，估值逾 130 億美元",
-      "url": "https://finance.technews.tw/2026/08/24/hugging-face-is-exploring-a-sale-that-could-value-it-at-13-billion/",
+      "title": "致敬 iPhone 17 Pro Max？Galaxy S27 Ultra 外觀設計曝光",
+      "url": "https://technews.tw/2026/08/24/galaxy-s27-ultra/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T07:59:57+08:00",
-      "description": "AI 產業的下一件重大收購案，可能是被譽為「AI 界 GitHub」的 Hugging Face。 Huggi [&#8230;]",
+      "published_at": "2026-08-24T13:58:21+08:00",
+      "description": "三星下一代旗艦手機 Galaxy S27 Ultra 雖然距離發表仍有一段時間，但知名爆料者 Universe [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -242,12 +242,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-08-24T07:56:00+08:00",
-      "description": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle. ",
+      "published_at": "2026-08-24T13:55:54+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -255,12 +255,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI 寫給 AI 看、AI 回給 AI 看：溝通外包 AI 使人類陷入「機器人輪迴」",
-      "url": "https://technews.tw/2026/08/24/chatbots-are-pushing-us-toward-a-post-human-internet/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-24T07:50:48+08:00",
-      "description": "人工智慧正從協助人類做事，走向替人類彼此溝通。最新報導，聊天機器人介入越來越多工作、學校與私人互動，甚至出現「 [&#8230;]",
+      "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
+      "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-24T13:51:29+08:00",
+      "description": "Participating banks will test post-quantum wallets and onchain transfers while regulators from Abu Dhabi, Bhutan and Malta initially observe.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -268,12 +268,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "美陸軍砸 5,000 萬美元研發「空氣製水」技術，降低前線補給風險",
-      "url": "https://technews.tw/2026/08/24/us-army-wants-machines-that-pull-drinking-water-from-the-air/",
+      "title": "安世中國本土化戰略轉型，研發已全面恢復運轉",
+      "url": "https://technews.tw/2026/08/24/nexperia-china-rd-operations-fully-resume/",
       "source": "technews.tw",
       "category": "tw_stocks",
-      "published_at": "2026-08-24T07:40:31+08:00",
-      "description": "美國陸軍開始納入「從空氣取水」的未來戰場補給構想。五角大廈網站本月消息，陸軍已將總額最高近 5,000 萬美元 [&#8230;]",
+      "published_at": "2026-08-24T13:50:46+08:00",
+      "description": "綜合中媒報導，安世中國首席執行長張秋明 23 日於「安世中國新品全球發布會」宣布，公司產品研發端已全面恢復運轉 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
