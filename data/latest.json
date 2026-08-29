@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T00:48:43.985025+08:00",
+  "updated_at": "2026-08-30T05:02:03.875090+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78012,
-      "change": 0.09
+      "price": 78125,
+      "change": 0.93
     },
     "ETH": {
-      "price": 2450.04,
-      "change": 0.37
+      "price": 2452.68,
+      "change": 1.02
     },
     "SOL": {
-      "price": 105.0,
-      "change": -0.46
+      "price": 105.27,
+      "change": 1.35
     }
   },
   "articles": [
+    {
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-30T04:28:51+08:00",
+      "description": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-30T03:12:42+08:00",
+      "description": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-30T02:41:59+08:00",
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-30T01:51:10+08:00",
+      "description": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-30T01:36:47+08:00",
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared dat",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
       "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-29T15:36:08+08:00",
       "description": "韓國政府最新宣布計劃讓全體民眾免費使用生成式 AI 服務，目標是在讓更多韓國人連結到本土的 AI 聊天機器人， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "科技巨頭的兩手策略：嚴打「AI 垃圾」，卻加速擁抱生成式未來",
-      "url": "https://technews.tw/2026/08/29/tech-giants-ai-slop/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-29T15:30:19+08:00",
-      "description": "矽谷近來一面加強清理所謂的「AI 垃圾內容」（AI Slop），一面卻沒有放慢擁抱生成式技術的腳步。從音樂、社 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "科學家破解諾羅病毒的 RNA 結構，制定全新疫苗策略",
-      "url": "https://technews.tw/2026/08/29/scientists-unravel-norovirus-rna-structure-new-vaccine-strategies/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-29T15:00:26+08:00",
-      "description": "諾羅病毒（norovirus）是造成急性腸胃炎的重要病毒之一，感染後常出現噁心、嘔吐與腹瀉等症狀，而且傳染力極 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-08-29T14:47:12+08:00",
-      "description": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "為何人類沒毛卻獨留腋毛？演化生物學家揭開兩大隱藏功能",
-      "url": "https://technews.tw/2026/08/29/human-armpit-hair/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-29T14:30:05+08:00",
-      "description": "許多人將腋毛視為青春期後必須定期清理的「麻煩」，但演化生物學家的看法卻恰好相反。他們認為，真正值得深究的並非人 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "不滿遭強扣「中國軍方公司」大帽！中國晶片巨頭長鑫存儲狀告五角大廈",
-      "url": "https://finance.technews.tw/2026/08/29/cxmt/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-29T14:06:49+08:00",
-      "description": "中國頂尖記憶體晶片製造商長鑫存儲（CXMT）今日向美國華盛頓哥倫比亞特區聯邦地方法院提起訴訟，控告美國國防部將 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
