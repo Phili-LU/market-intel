@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T20:03:41.522985+08:00",
+  "updated_at": "2026-08-31T00:51:25.279953+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 78193,
-      "change": 0.78
+      "price": 79200,
+      "change": 1.51
     },
     "ETH": {
-      "price": 2460.42,
-      "change": 1.01
+      "price": 2528.21,
+      "change": 3.1
     },
     "SOL": {
-      "price": 105.13,
-      "change": 1.61
+      "price": 106.77,
+      "change": 1.66
     }
   },
   "articles": [
+    {
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-31T00:03:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Michael Saylor hints at first bitcoin purchase in two months as bitcoin nears $79,000",
+      "url": "https://www.coindesk.com/markets/2026/08/30/bitcoin-nears-usd79-000-as-michael-saylor-hints-at-first-bitcoin-purchase-in-two-months",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-30T23:39:55+08:00",
+      "description": "Bitcoin rebounds from Friday’s low as Strategy’s valuation expands and bitcoin dominance climbs above 60%.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+      "url": "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-08-30T23:00:00+08:00",
+      "description": "Finance has spent centuries decoupling wealth from physical transport, but constantly erasing friction creates vectors for increasingly high-tech exploits.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-30T23:00:00+08:00",
+      "description": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-30T20:49:37+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
       "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-30T13:00:11+08:00",
       "description": "據報特斯拉（Tesla）已停止推出太陽能瓦片屋頂產品「太陽能屋頂」（Solar Roof），今後只會供應傳統太 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "MOSAIC 顯微鏡結合超算與開源軟體，打破生物數據「看得到算不完」瓶頸",
-      "url": "https://technews.tw/2026/08/30/building-the-computational-mind-for-the-swiss-army-knife-of-microscopes/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T11:30:27+08:00",
-      "description": "美國勞倫斯柏克萊國家實驗室（Berkeley Lab）與合作機構於 18 日宣布，已開發出一款名為 MOSAI [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "公開網路數據已耗盡，破產公司「數位遺產」成 AI 訓練資料新戰場",
-      "url": "https://infosecu.technews.tw/2026/08/30/digital-assets-of-bankrupt-companies-become-hot-targets-for-ai-startup/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T11:00:47+08:00",
-      "description": "2026 年 5 月，美國廉航 Spirit Airlines 無預警熄燈，這是過去 25 年來，美國首家完全 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "TechInsights 深度分析麒麟 9030 Pro，設備代差仍難以彌補",
-      "url": "https://technews.tw/2026/08/30/techinsight-analyze-kirin-9030-pro/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T10:57:34+08:00",
-      "description": "知名晶片逆向工程機構 TechInsights 最新釋出華為旗艦處理器「麒麟 9030 Pro」的完整製程分析 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "毛孔大開、毒性升級，極端高溫正讓農藥加速滲入 240 萬美國農工體內",
-      "url": "https://technews.tw/2026/08/30/us-farmworkers-health-dual-threat-heat-pesticides/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T10:30:44+08:00",
-      "description": "研究顯示，隨著全球氣溫持續升高，農藥對美國農業勞工的危害正被進一步放大。對全美約 240 萬名農工而言，熱浪不 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「半導體材料聯盟」盛大成立，徐秀蘭：現在是台灣半導體業拯救「材料侏儒困境」的最好時機",
-      "url": "https://finance.technews.tw/2026/08/30/semi-taiwan-materials-alliance/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T10:00:10+08:00",
-      "description": "SEMICON 半導體展前夕，SEMI 國際半導體產業協會 21 日邀請 34 家國內外業者，舉行「半導體材料 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
