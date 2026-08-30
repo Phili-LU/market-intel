@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T00:51:25.279953+08:00",
+  "updated_at": "2026-08-31T05:17:02.436201+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,45 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79200,
-      "change": 1.51
+      "price": 78487,
+      "change": 0.43
     },
     "ETH": {
-      "price": 2528.21,
-      "change": 3.1
+      "price": 2473.75,
+      "change": 0.89
     },
     "SOL": {
-      "price": 106.77,
-      "change": 1.66
+      "price": 104.05,
+      "change": -1.17
     }
   },
   "articles": [
+    {
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-08-31T02:33:44+08:00",
+      "description": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Saylor signals Strategy is ‘Back’ to Bitcoin buying",
+      "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-08-31T01:59:00+08:00",
+      "description": "Michael Saylor’s “We’re Back” post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
       "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
@@ -248,32 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-08-30T14:00:13+08:00",
       "description": "IBM 日前宣布與 OpenAI 建立策略合作夥伴關係。雙方將透過在企業核心營運及複雜工作流程中大規模應用人工 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "迷你電腦性價比真的高？熱潮後缺點紛紛浮現：升級難、散熱差、維修貴",
-      "url": "https://technews.tw/2026/08/30/what-are-the-downsides-of-a-mini-pc/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T13:30:18+08:00",
-      "description": "迷你電腦近年成為桌機與筆電之外的熱門選項，像 Geekom、Beelink、Minisforum 等中國品牌迅 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "特斯拉停產太陽能屋頂瓦片，成本昂貴簽約後加價曾引起集體訴訟",
-      "url": "https://finance.technews.tw/2026/08/30/tesla-discontinues-solar-roof-tiles/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-08-30T13:00:11+08:00",
-      "description": "據報特斯拉（Tesla）已停止推出太陽能瓦片屋頂產品「太陽能屋頂」（Solar Roof），今後只會供應傳統太 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
