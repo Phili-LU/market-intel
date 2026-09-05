@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T23:22:55.233912+08:00",
+  "updated_at": "2026-09-06T04:31:00.670095+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79723,
-      "change": 0.61
+      "price": 79755,
+      "change": -0.01
     },
     "ETH": {
-      "price": 2457.68,
-      "change": 0.29
+      "price": 2477.22,
+      "change": 0.98
     },
     "SOL": {
-      "price": 102.82,
-      "change": 1.56
+      "price": 103.31,
+      "change": 1.64
     }
   },
   "articles": [
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-06T03:35:24+08:00",
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-06T02:05:27+08:00",
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Why crypto experts say buying and holding bitcoin easily beats trying to time the market",
+      "url": "https://www.coindesk.com/markets/2026/09/05/why-crypto-experts-say-buying-and-holding-bitcoin-easily-beats-trying-to-time-the-market",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-06T02:05:11+08:00",
+      "description": "A historical analysis of bitcoin price performance from 2010 through 2026 demonstrates that the vast majority of the asset's annual returns occur during a tiny fraction of the calendar year.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Dollar-backed stablecoins can push local currencies lower, Bank of Korea study finds",
+      "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-06T00:43:13+08:00",
+      "description": "Buying pressure in Binance-paired currencies correlates with local currency depreciation as market makers balance positions.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "韋伯望遠鏡再立功！宇宙早期捕捉四對「小紅點」，揭遠古黑洞合併前兆",
+      "url": "https://technews.tw/2026/09/06/four-pairs-red-dots/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-06T00:00:50+08:00",
+      "description": "天文學家利用詹姆斯·韋伯太空望遠鏡的高解析度紅外線影像，在宇宙誕生後約 10 億至 13 億年的時期，發現了四 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "NASA 揭露新型「同步雙模核火箭」細節，火星航程減半、解鎖深空探測新局",
+      "url": "https://technews.tw/2026/09/06/nasa-synchronal-bimodal-nuclear-rocket/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-06T00:00:36+08:00",
+      "description": "美國國家航空暨太空總署（NASA）專家近日提出一項突破性的「同步雙模核火箭」（S-BNR）構想，試圖以更簡化的 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Oura is going public, but these smart ring companies are coming for its crown",
       "url": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-05T14:30:26+08:00",
       "description": "最新研究指出，AI 代理在購物情境中的表現遠不如外界預期般穩定，反而時常給出難以預測且前後矛盾的結果。隨著消費 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "每天一杯咖啡能減脂增肌？研究揭開「黑金」背後的荷爾蒙祕密",
-      "url": "https://technews.tw/2026/09/05/coffee-drinkers-lower-body-fat-higher-muscle/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-05T14:00:55+08:00",
-      "description": "每天一杯咖啡不僅能帶來早晨的活力，還可能悄悄改變你的體態與荷爾蒙。過去許多研究已指出，喝咖啡與降低第二型糖尿病 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "均英精密推自動化終測系統 GTK-SPT1，提升記憶體 DRAM 模組測試無人化",
-      "url": "https://technews.tw/2026/09/05/gentk-gtk-spt1/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-05T14:00:42+08:00",
-      "description": "均英精密推出GTK-SPT1自動化終測系統，提升記憶體模組 DDR4、DDR5 量產階段的終測效率。AI 伺服 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "半導體海外建廠缺它不可！余鉦鋒學徒轉型科技老闆，垚鋐全球佈局營收看旺至 2030 年",
-      "url": "https://finance.technews.tw/2026/09/05/yaohongs-global-expansion-projects-strong-revenue-growth-until-2030/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-05T14:00:17+08:00",
-      "description": "在半導體供應鏈全球化與地緣政治波動的浪潮中，垚鋐系統科技憑藉其在氣體與化學品供應系統「二次配」領域的專業技術， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "拓緯參展 SEMICON Taiwan 2026，展示最新 Relay 技術，布局高階 Switching Solution 應用",
-      "url": "https://technews.tw/2026/09/05/toward-inc-semicon-taiwan-2026/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-05T14:00:08+08:00",
-      "description": "SEMICON Taiwan 2026 將於 9 月 2 日至 4 日於台北南港展覽館 1、2 館舉行，拓緯股 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "XRP Ledger has fewer active accounts than last year, but bigger trades and more value",
-      "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-05T13:30:45+08:00",
-      "description": "Daily order-book traders fell about 40% from a year ago while volume rose 79%, as the value held on XRPL climbed above $4 billion.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "3D 列印完美複製和牛油花，大阪大學建全球首座「還原真肉」培養肉產線",
-      "url": "https://technews.tw/2026/09/05/cultured-wagyu-costs-4500yen-per100g/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-05T13:00:37+08:00",
-      "description": "由大阪大學主導的共同事業體「培養肉未來創造聯盟」宣布，將於大阪大學吹田校園設立全球首座可還原真肉形狀的培養肉生 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
