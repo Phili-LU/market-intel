@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T23:35:56.256134+08:00",
+  "updated_at": "2026-09-07T04:34:24.672490+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,71 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79609,
-      "change": -0.13
+      "price": 79938,
+      "change": 0.28
     },
     "ETH": {
-      "price": 2476.82,
-      "change": 0.74
+      "price": 2496.37,
+      "change": 0.84
     },
     "SOL": {
-      "price": 105.62,
-      "change": 2.88
+      "price": 105.75,
+      "change": 2.5
     }
   },
   "articles": [
+    {
+      "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-07T02:30:00+08:00",
+      "description": "New Jersey petitioned for a writ of certiorari in Kalshi's case against it last week, finally throwing the ball to the high court.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-07T00:45:00+08:00",
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-07T00:08:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Ukrainian police took down a crypto scam that stole up to $1 million a month",
+      "url": "https://www.coindesk.com/business/2026/09/06/ukrainian-police-took-down-a-crypto-scam-that-stole-up-to-usd1-million-a-month",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-07T00:00:00+08:00",
+      "description": "Investigators have identified 62 victims and say more than 46 Ukrainians took part in the alleged operation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
       "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
@@ -222,58 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-06T13:00:19+08:00",
       "description": "植物被昆蟲啃食後，會啟動一連串防禦反應，甚至釋放氣味吸引害蟲的天敵。最近，中國浙江大學的科學家發現，這些防禦訊 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Agent 失控闖德國網站，OpenAI 研擬新機制揭露 AI 偏差行為",
-      "url": "https://infosecu.technews.tw/2026/09/06/openai-agents-hijacked-german-website-in-previously-undisclosed-ai-breakout/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T11:44:09+08:00",
-      "description": "《路透社》揭露一群失控的 OpenAI Agent 劫持一個德語網站，將其轉變成供其他 AI Agent 使用 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Lean3 駕艙機車高雄初登場，中南部買氣超車北部跌破團隊眼鏡",
-      "url": "https://technews.tw/2026/09/06/lean3-debuts-kaohsiung-why-pre-order-demand-stronger-central-southern-taiwan/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T11:00:59+08:00",
-      "description": "在高雄登場的 2026 亞灣新創大南方活動現場，「駕艙機車」Lean3 首度以實車現身，不少民眾排隊體驗靜態試 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "保留「雜訊」成破局關鍵，NASA 靠 AI 提前揪出太陽爆發前兆",
-      "url": "https://technews.tw/2026/09/06/ai-early-detection-solar-storms/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T10:30:48+08:00",
-      "description": "美國太空總署（NASA）研究團隊近日發表最新預測技術，透過人工智慧（AI）分析太陽內部的細微訊號，成功在太陽表 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「電話那頭求救的不是你孩子！」AI 深偽詐騙再進化，專家傳授 5 招實用自保術",
-      "url": "https://infosecu.technews.tw/2026/09/06/ai-deepfake-scams-become-a-real-global-threat/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T10:00:35+08:00",
-      "description": "電話那頭傳來熟悉的聲音，說出事了、急需匯款。但那其實不是你的孩子，是 AI 偽造出來的聲音。 OpenAI於8 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
