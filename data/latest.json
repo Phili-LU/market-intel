@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T19:09:08.098475+08:00",
+  "updated_at": "2026-09-06T23:35:56.256134+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79977,
-      "change": 0.39
+      "price": 79609,
+      "change": -0.13
     },
     "ETH": {
-      "price": 2502.8,
-      "change": 1.94
+      "price": 2476.82,
+      "change": 0.74
     },
     "SOL": {
-      "price": 106.6,
-      "change": 3.98
+      "price": 105.62,
+      "change": 2.88
     }
   },
   "articles": [
+    {
+      "title": "Better and Coinbase’s bitcoin-backed mortgages can reuse borrowers’ collateral",
+      "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-06T22:00:00+08:00",
+      "description": "Better Mortgage can reuse the pledged bitcoin, and borrowers cannot recover their crypto until the main conventional mortgage is fully repaid or refinanced.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-06T21:24:43+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-06T21:03:00+08:00",
+      "description": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Anthropic IPO 啟動時程調整，延至 10 月中旬推廣",
       "url": "https://technews.tw/2026/09/06/anthropic-ipo-launch-shifts-toward-mid-october/",
@@ -235,45 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-06T10:00:35+08:00",
       "description": "電話那頭傳來熟悉的聲音，說出事了、急需匯款。但那其實不是你的孩子，是 AI 偽造出來的聲音。 OpenAI於8 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 設計出人工噬菌體，成功狙擊抗藥性大腸桿菌",
-      "url": "https://technews.tw/2026/09/06/scientists-are-using-ai-and-viruses-to-help-defeat-superbugs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T09:30:13+08:00",
-      "description": "研究人員正將人工智慧與噬菌體技術結合，尋找對抗抗藥性細菌的新方法。噬菌體本來就是以細菌為目標的病毒，過去科學家 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "欣興董座簡山傑揭 AI 供應鏈隱憂：載板產能告急，攜客戶十度赴日催料",
-      "url": "https://technews.tw/2026/09/06/unimicron-visits-suppliers-more-than-10-times-to-expand-capacity/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T09:00:38+08:00",
-      "description": "AI 算力需求狂飆，全球半導體供應鏈的瓶頸正從晶圓製造、先進封裝一路往上游蔓延。欣興新任董事長簡山傑上任後首度 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 智慧餵食碗「EverBowl」把關毛孩健康，新創 Hoomanely 靠「吃飯數據」揪出隱藏疾病",
-      "url": "https://technews.tw/2026/09/06/hoomanely-ai-pet-feeder-everbowl/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-06T08:30:05+08:00",
-      "description": "來自美國加州帕羅奧圖（Palo Alto）的新創公司 Hoomanely，近期打造了一套結合智慧餵食裝置與 A [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
