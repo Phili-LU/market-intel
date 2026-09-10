@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T00:33:44.666811+08:00",
+  "updated_at": "2026-09-11T05:01:01.336443+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,26 +7,104 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76933,
-      "change": -2.26
+      "price": 77248,
+      "change": -1.3
     },
     "ETH": {
-      "price": 2438.36,
-      "change": -2.24
+      "price": 2461.36,
+      "change": -0.31
     },
     "SOL": {
-      "price": 99.11,
-      "change": -3.98
+      "price": 100.05,
+      "change": -2.33
     }
   },
   "articles": [
     {
-      "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
-      "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-11T00:31:25+08:00",
-      "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+      "title": "New Clarity Act text tweaks DeFi, credit union provisions, but road ahead for bill remains murky",
+      "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T04:21:57+08:00",
+      "description": "The Clarity Act needs 60 votes when the Senate returns from its recess next week. Republicans circulated a fresh draft on Thursday ahead of the vote.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "ESMA warns growing crypto ties could amplify risks to traditional finance",
+      "url": "https://cointelegraph.com/news/esma-warns-growing-crypto-ties-could-amplify-risks-to-traditional-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T04:10:29+08:00",
+      "description": "The EU securities regulator flagged tokenized equities, DeFi exploits and prediction markets as areas where growing crypto ties could pose risks to the broader financial system.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Why a new SEC plan could ease a legal headache for tokenized securities",
+      "url": "https://www.coindesk.com/business/2026/09/10/why-a-new-sec-plan-could-end-the-legal-headaches-of-holding-tokenized-securities",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T03:01:30+08:00",
+      "description": "The SEC's new proposal to overhaul transfer-agent rules could eliminate duplicate offchain shareholder records, reducing reconciliation costs and legal uncertainty for tokenized securities.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "UK House of Lords backs mandatory digital asset strategy over Labour position",
+      "url": "https://cointelegraph.com/news/uk-house-of-lords-backs-mandatory-digital-asset-strategy-in-194138-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T01:54:12+08:00",
+      "description": "The amendment would require the UK Treasury to develop a strategy covering cryptoassets, stablecoins, tokenized securities and digital financial infrastructure.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "OKX brings OpenAI and Anthropic bets to Europe as pre-IPO trading grows",
+      "url": "https://www.coindesk.com/markets/2026/09/10/okx-brings-openai-and-anthropic-bets-to-europe-as-pre-ipo-trading-grows",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T01:07:59+08:00",
+      "description": "The exchange is offering up to 10x leverage on private-company valuations alongside 100 tokenized stocks and ETFs.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Europe’s top regulator questions Polymarket and Kalshi’s EU access, warns of authorization gaps",
+      "url": "https://www.coindesk.com/business/2026/09/10/europe-s-top-regulator-questions-polymarket-and-kalshi-s-eu-access-warns-of-authorization-gaps",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T01:03:34+08:00",
+      "description": "ESMA said that event contracts may fall under existing EU binary-options bans, crypto-asset frameworks like MiCA or national gambling laws.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Liquid Network resumes block production after $320M exploit",
+      "url": "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-11T00:38:16+08:00",
+      "description": "Liquid restarted block production after deploying emergency software updates, though transactions and peg operations remain suspended as recovery efforts continue.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -40,19 +118,6 @@
       "category": "crypto",
       "published_at": "2026-09-11T00:10:03+08:00",
       "description": "Jenson becomes the prediction market’s first CFO as Polymarket builds its regulated U.S. exchange and global platform.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Google is making it easier to switch between password managers on Android",
-      "url": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-11T00:00:00+08:00",
-      "description": "Google's new feature will transfer your passkeys as well",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -112,19 +177,6 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "The Boring Company raises $3B in round led by UAE",
-      "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-10T23:07:27+08:00",
-      "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
       "title": "Crypto for Advisors: Hyperliquid and the future of finance",
       "url": "https://www.coindesk.com/coindesk-indices/2026/09/10/crypto-for-advisors",
       "source": "coindesk.com",
@@ -138,38 +190,12 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-10T22:53:50+08:00",
-      "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
       "title": "Bitcoin falls on US PPI overshoot as 30-year bond yield hits new 19-year high",
       "url": "https://cointelegraph.com/markets/bitcoin-falls-on-us-ppi-overshoot-as-30-year-bond-yield-hits-new-19-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
       "published_at": "2026-09-10T22:52:15+08:00",
       "description": "Bitcoin fell with US stocks as high inflation and a further surge in oil prices coincided with another multidecade high for US bond yields.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-10T22:34:09+08:00",
-      "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
@@ -222,32 +248,6 @@
       "category": "crypto",
       "published_at": "2026-09-10T21:35:23+08:00",
       "description": "The partnership will provide stablecoin acceptance, settlement and real-time funding capabilities to over 1,000 community banks and credit unions.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-      "url": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-10T21:34:01+08:00",
-      "description": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
-      "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-10T21:21:09+08:00",
-      "description": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
