@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:00:22.078686+08:00",
+  "updated_at": "2026-09-12T23:39:57.389649+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77317,
-      "change": 0.43
+      "price": 77390,
+      "change": -1.7
     },
     "ETH": {
-      "price": 2532.08,
-      "change": 2.84
+      "price": 2536.75,
+      "change": -2.85
     },
     "SOL": {
-      "price": 102.08,
-      "change": 2.91
+      "price": 101.91,
+      "change": -1.48
     }
   },
   "articles": [
+    {
+      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+      "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-12T23:12:40+08:00",
+      "description": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-12T22:40:00+08:00",
+      "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Staked ether should be seen as the benchmark of the decentralized economy",
+      "url": "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-12T22:00:00+08:00",
+      "description": "The yield-generating asset has a special place in the digital asset investor’s portfolio, argues GlobalStake’s Ryan Haczynski.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
       "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
@@ -235,45 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-12T09:30:52+08:00",
       "description": "生成式 AI 正以狂飆之姿席捲音樂圈，從前端的詞曲創作、單曲發行，到後端的真偽辨識，無一不引發激烈論戰。這早已 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "SemiAnalysis 出手收購 Citrini Research，再擴大 AI 研究版圖",
-      "url": "https://finance.technews.tw/2026/09/12/semianalysis-buys-citrini-research/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-12T09:14:54+08:00",
-      "description": "據彭博社報導，獨立投資研究機構 Citrini Research 創辦人 James van Geelen，已 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 雙雄決戰台灣！輝達與 Google 爭搶供應鏈，台廠迎左右逢源新商機",
-      "url": "https://technews.tw/2026/09/12/ai-supply-chain-rivalry-heats-up-taiwan-firms-opportunities/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-12T09:00:14+08:00",
-      "description": "全球科技巨頭的 AI 競賽加劇，從輝達與 Google 最近動作頻頻，足以說明台灣正成為 AI 巨頭爭相卡位的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
-      "url": "https://technews.tw/2026/09/12/ai-has-made-answers-cheap-education-must-make-thinking-valuable-again/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-12T08:30:51+08:00",
-      "description": "生成式 AI 能在數秒內生產摘要、程式與論述，全球教育界也被迫重新界定「學生究竟學會什麼」。 Excelsof [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
