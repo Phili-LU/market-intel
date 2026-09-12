@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T12:47:46.685763+08:00",
+  "updated_at": "2026-09-12T19:00:22.078686+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 77242,
-      "change": 0.21
+      "price": 77317,
+      "change": 0.43
     },
     "ETH": {
-      "price": 2512.9,
-      "change": 2.29
+      "price": 2532.08,
+      "change": 2.84
     },
     "SOL": {
-      "price": 101.72,
-      "change": 2.1
+      "price": 102.08,
+      "change": 2.91
     }
   },
   "articles": [
+    {
+      "title": "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+      "url": "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-12T18:11:01+08:00",
+      "description": "Passports, selfies and home addresses were also handed over after the digital bank treated a fraudulent request as legitimate, but no customer funds were lost.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "電腦到底多久該關機？專家解析「重新啟動」的最佳時機與關鍵好處",
+      "url": "https://ccc.technews.tw/2026/09/12/necessity-regularly-restarting-computer/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T16:30:28+08:00",
+      "description": "許多現代人習慣讓電腦長時間待機或直接進入睡眠模式，久久才關機一次。然而，最新觀點提醒，定期將電腦「重新啟動」依 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "鐵路跨得過國界，預警卻跨不過？一場山洪突顯中尼「一帶一路」的防災困境",
+      "url": "https://technews.tw/2026/09/12/why-china-nepal-climate-data-sharing-is-stalled/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T16:00:52+08:00",
+      "description": "2026 年，一場突如其來的山洪，讓喜馬拉雅山區的災害風險再次浮上檯面。 對尼泊爾而言，這場災難帶來的問題並不 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "從產線到舞台！2026 日月光好聲音各廠區員工同台獻唱",
+      "url": "https://finance.technews.tw/2026/09/12/employees-from-all-factories-of-sunmoonlight-music-group-performed-together-on-stage-in-2026/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T15:00:45+08:00",
+      "description": "日月光文教基金會與日月光集團聯合職工福利委員會共同主辦的「2026 日月光好聲音」於9月11 日在日月光高雄廠 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "小時候多動長大真的比較不累，實驗證實幼年運動習慣決定一生的「耗能」",
+      "url": "https://technews.tw/2026/09/12/childhood-exercise-habits-permanently-alter-body-energy-expenditure/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T14:30:15+08:00",
+      "description": "一項由美國賓州州立大學（Penn State）領導的最新動物實驗發現，發育期的身體活動量，可能會永久改變生物移 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "SEMICON Taiwan：薩克森邦定位為全球半導體產業的歐洲首要樞紐",
+      "url": "https://finance.technews.tw/2026/09/12/semicon-taiwan-saxony-europe-premier-semiconductor-hub/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T14:00:59+08:00",
+      "description": "在 SEMICON Taiwan 展會上，德國薩克森邦展示「Silicon Saxony」這座歐洲規模最大的微 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "國際巨頭夾擊，HTC／宏碁／佐臻以品牌、PC 生態與白牌三路搶進 AI 眼鏡市場",
+      "url": "https://technews.tw/2026/09/12/htc-acer-jorjin-ai-glasses/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T14:00:04+08:00",
+      "description": "Meta、Google 與三星等國際大廠接連發力，智慧眼鏡正掀起全球穿戴市場的新熱潮。面對國際巨頭夾擊，台灣科 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "安永豪擲億元投資「人類大腦」，AI 技能防線成創投新寵",
+      "url": "https://finance.technews.tw/2026/09/12/ey-invests-human-brain-ai-skills/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T13:30:28+08:00",
+      "description": "安永（EY）美國分公司近日宣布，將於本財政年度斥資 1 億美元推出全新的員工獎勵計畫。該計畫旨在表揚於 AI  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "台積電 CoWoS 產能供不應求，聯電、Amkor 等受惠 AI 訂單外溢",
+      "url": "https://technews.tw/2026/09/12/tsmc-cowos-capacity/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-12T13:30:09+08:00",
+      "description": "根據市場消息，台積電可能在 2028 年將 CoWoS 產能提升至 2026 年水準的兩倍，由於產能擴充需要時 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "黃崇仁今辦告別式！總統賴清德親頒褒揚令，產業大老等近千人致哀",
       "url": "https://technews.tw/2026/09/12/psmc-ceo-public-memorial-service/",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-12T08:30:51+08:00",
       "description": "生成式 AI 能在數秒內生產摘要、程式與論述，全球教育界也被迫重新界定「學生究竟學會什麼」。 Excelsof [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電拋 STCO 大計：先進封裝要「一起解題」，不再各自為政",
-      "url": "https://technews.tw/2026/09/12/tsmc-stco-concept-aims-to-integrate-taiwan-semiconductor-supply-chain/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-12T08:00:03+08:00",
-      "description": "國際半導體展期間，台積電拋出「系統技術協同最佳化」（STCO）概念，正面迎擊先進封裝領域面臨的眾多挑戰，也被台 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
-      "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-12T07:47:51+08:00",
-      "description": "In a post on Friday, Vlad Tenev said securities issuers should control shareholder rights, but not separate products that track their publicly traded shares.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-12T06:58:17+08:00",
-      "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Here’s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-09-12T05:30:00+08:00",
-      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "url": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-12T05:19:05+08:00",
-      "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-12T04:59:47+08:00",
-      "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-12T04:57:36+08:00",
-      "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-12T04:30:17+08:00",
-      "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
-      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-09-12T03:46:24+08:00",
-      "description": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.\n",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
