@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T20:09:39.289269+08:00",
+  "updated_at": "2026-09-14T00:31:29.551574+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,84 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 76744,
-      "change": -0.77
+      "price": 77222,
+      "change": -0.18
     },
     "ETH": {
-      "price": 2478.91,
-      "change": -2.2
+      "price": 2502.06,
+      "change": -1.19
     },
     "SOL": {
-      "price": 99.72,
-      "change": -2.41
+      "price": 100.7,
+      "change": -1.3
     }
   },
   "articles": [
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-14T00:30:00+08:00",
+      "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
+      "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-14T00:04:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Fusion power startups find new partners in the defense world",
+      "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-13T21:15:00+08:00",
+      "description": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Fed rate hike is about Wall Street, not inflation, says economist",
+      "url": "https://www.coindesk.com/markets/2026/09/13/fed-rate-hike-is-about-wall-street-not-inflation-says-economist",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-13T21:00:00+08:00",
+      "description": "Goldman Sachs late Friday became the last of the major banks to retract its forecast of no rate hike next week.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Circle's $400M Tazapay deal buys emerging market links that take ‘years to build’",
+      "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-13T21:00:00+08:00",
+      "description": "Stablecoins' “next battleground is in emerging markets,” one expert said, as Circle looks to expand USDC's reach where rival Tether has long been strong.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Crypto's Clarity Act is a Schrödinger's cat in life-death limbo as U.S. Senate returns",
       "url": "https://www.coindesk.com/news-analysis/2026/09/11/crypto-s-clarity-act-is-a-schroedinger-s-cat-in-life-death-limbo-as-u-s-senate-returns",
@@ -209,71 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-13T10:00:45+08:00",
       "description": "8月下旬，Facebook、Instagram母公司 Meta 同意支付高達 180 億美元（約新台幣 5,7 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "研究：冥想正念 AI 只是輔助工具，不能取代人類導師",
-      "url": "https://technews.tw/2026/09/13/is-ai-making-us-smarter-or-teaching-us-not-to-think/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-13T09:30:15+08:00",
-      "description": "美國中佛羅里達大學團隊主導研究，提出 AI 正念與心理健康照護用的管理框架，試圖為 AI 應用劃出明確界線。團 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "駐龍卡位龐巴迪大單逾百項零件，董座曝航太業結構轉變「誰有產能誰就贏！」",
-      "url": "https://technews.tw/2026/09/13/drewloong-benefits-from-aidc-bombardier-orders/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-13T09:00:17+08:00",
-      "description": "漢翔築起本土供應鏈，為台灣爭取到首項民用機前機身組件長單，其中最關鍵的協力廠，正是高雄機製件大廠駐龍精密。駐龍 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 可能在一年內失控，Anthropic 執行長呼籲放慢腳步等待安全技術跟上",
-      "url": "https://infosecu.technews.tw/2026/09/13/dario-amodei-calls-for-slowing-down-the-pace-of-ai-development-for-the-safety-tech-to-align/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-13T08:36:53+08:00",
-      "description": "知名人工智慧新創 Anthropic 執行長阿莫戴（Dario Amodei）近日發出警告，呼籲全球 AI 產 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「不給複製就被換掉！」AI 浪潮洗牌影視產業，真人演員面臨生存危機",
-      "url": "https://technews.tw/2026/09/13/ai-short-dramas-human-performers-survival-crisis/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-13T08:30:05+08:00",
-      "description": "人工智慧（AI）正以前所未有的速度改寫短劇與影視製作模式。從角色生成、場景設計到整部作品的完成，AI 已不再只 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "開出停飛花蓮第一槍，政治老將陳大鈞用「局外人」視角重整華信痛點",
-      "url": "https://finance.technews.tw/2026/09/13/how-chen-ta-chun-is-driving-mandarin-airlines-reform/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-13T08:00:49+08:00",
-      "description": "一年前，具有新潮流背景的陳大鈞，「空降」華航旗下華信董座，被質疑是政治酬庸，上任後，他接連挑戰航空業長年慣例， [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
