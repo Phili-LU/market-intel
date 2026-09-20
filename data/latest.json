@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T19:39:17.704708+08:00",
+  "updated_at": "2026-09-21T00:19:38.897461+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 80371,
-      "change": -1.06
+      "price": 81124,
+      "change": -0.77
     },
     "ETH": {
-      "price": 2574.32,
-      "change": -2.43
+      "price": 2622.0,
+      "change": -0.82
     },
     "SOL": {
-      "price": 108.19,
-      "change": -3.3
+      "price": 108.9,
+      "change": -2.44
     }
   },
   "articles": [
+    {
+      "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+      "url": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-21T00:02:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "A small but growing number of founders are betting on bringing people together offline",
+      "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-20T23:00:00+08:00",
+      "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-fitness company Mirror and sold it to Lululemon fo",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto platform Gemini’s stock is down 80% from its IPO. That’s reviving takeover speculation",
+      "url": "https://www.coindesk.com/business/2026/09/20/gemini-s-stock-is-down-80-from-its-ipo-that-s-reviving-takeover-speculation",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-20T22:54:48+08:00",
+      "description": "The crypto platform’s market value has fallen to about $753 million, putting fresh attention on the licenses, custody infrastructure and customer relationships a buyer could inherit.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "氮含量異常高，天文學家證實星際彗星 3I/ATLAS 來自零下 243 度的恆星邊陲",
+      "url": "https://technews.tw/2026/09/20/3iatlas-may-have-formed-in-the-frigid-outer-regions-of-a-planetary-system/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T21:17:57+08:00",
+      "description": "曾經闖入太陽系的星際彗星 3I/ATLAS，正為天文學家提供一扇窺探其他行星系統形成環境的窗口。最新研究發現， [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Trump says US will form ‘AI Force’ and appoint AI czar: Reports",
+      "url": "https://cointelegraph.com/news/trump-says-us-will-form-ai-force-and-appoint-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-20T20:00:52+08:00",
+      "description": "Trump posted on Truth Social that his new project would manage the fast-growing sector without adding regulations that could slow innovation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
+      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-20T20:00:00+08:00",
+      "description": "Goldman Sachs and Citizens analysts said the agency's move create new opportunities in custody, tokenization infrastructure and stablecoin settlement, while giving brokers room to expand onchain products.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto traders braced for a total wipeout this week but Bitcoin had other plans",
+      "url": "https://www.coindesk.com/markets/2026/09/18/crypto-traders-braced-for-a-total-wipeout-this-week-but-bitcoin-had-other-plans",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-20T20:00:00+08:00",
+      "description": "Market experts view bitcoin’s price stability as evidence of its fundamental independence from Washington, maintaining that global liquidity and adoption cycles remain the primary growth drivers.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "大腦其實是兩個器官？震撼發現：人腦由 2 個獨立神經系統拼裝而成",
       "url": "https://technews.tw/2026/09/20/brain-organ-progenitor-cell-brainstem-otx2-gbx2/",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-20T11:45:22+08:00",
       "description": "地下爆炸會引發當地一連串小地震，這些震動通常在試爆停止後逐漸平息。然而一個令人費解的現象發生了，北韓 2017 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台北「公車王」307 的逆轉術：班次少開、駕駛少跑，營收反而穩坐第一",
-      "url": "https://finance.technews.tw/2026/09/20/taipei-bus-king-800-daily-routes-307-drivers-lower-workload-top-revenue/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T11:00:11+08:00",
-      "description": "你有在台北街頭看過 307 號公車嗎？307 的發車密度名列台北市前茅，甚至高於部分捷運路線，尖峰時段 4～6 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蕨類自製燃料助燃野火，三疊紀末歐洲大火延燒數萬年",
-      "url": "https://technews.tw/2026/09/20/ancient-europe-burned-for-thousands-of-years-as-ferns-fed-the-flames/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T10:30:55+08:00",
-      "description": "約 2 億 100 萬年前，地球歷經三疊紀末大滅絕。學界多將這場危機歸因於盤古大陸（Pangea）裂解引發的大 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "從開天價搶地到全美九州喊卡，AI 資料中心掀起的投資風險與政治警訊",
-      "url": "https://finance.technews.tw/2026/09/20/developers-pay-10-times-market-price-data-centers-land-rush-ai-investment-risk/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T10:00:07+08:00",
-      "description": "今年 7 月，德州農業廳長米勒（Sid Miller）站上一場抗議資料中心的集會，說出許多美國農民的心聲：「開 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "拒當盤子，購買二手電腦零件必看的六大避險心法與驗貨訣竅",
-      "url": "https://ccc.technews.tw/2026/09/20/used-computer-hardware-buying-guide/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T09:30:14+08:00",
-      "description": "雖然在 2026 年，購買二手電腦硬體依然是節省預算的好管道，但潛藏的風險已大幅攀升。隨著硬體價格波動，加上  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "締造 93 倍報酬操盤手清原達郎：別妄想抓準市場高點，當心日股過熱與 AI 基礎設施投資泡沫",
-      "url": "https://finance.technews.tw/2026/09/20/tatsuro-kiyohara/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T09:00:37+08:00",
-      "description": "對台灣投資人來說，清原達郎或許是個陌生的名字，但他在日本創立、操盤 25 年的避險基金「Tower K1」，繳 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "書籍總量激增 19 倍、營收卻只漲 8 倍，AI「書海戰術」發威導致單本收入暴跌",
-      "url": "https://technews.tw/2026/09/20/ai-disrupts-publishing-industry/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T08:30:39+08:00",
-      "description": "AI 生成內容正以前所未有的速度改寫線上圖書市場的生態。最新研究與業界觀察指出，大量疑似由大型語言模型（LLM [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "告別人流迷思，月租 88 萬「店租王」換人當！揭密房東最愛的長租新勢力",
-      "url": "https://finance.technews.tw/2026/09/20/foot-traffic-cash-flow-formula-failing-taipei-rental-king-880k-medical-aesthetics-gyms-landlord-favorites/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-20T08:00:48+08:00",
-      "description": "當服飾、精品不再願意支付天價店租，誰來接手一樓金店面？答案轉向醫美、診所與健身房。 這批新好租客不再仰賴路過人 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
