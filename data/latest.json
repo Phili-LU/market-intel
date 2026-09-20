@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T04:52:00.743876+08:00",
+  "updated_at": "2026-09-20T13:05:35.794577+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,149 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 81199,
-      "change": 0.1
+      "price": 80410,
+      "change": -0.77
     },
     "ETH": {
-      "price": 2636.88,
-      "change": 0.08
+      "price": 2577.96,
+      "change": -1.64
     },
     "SOL": {
-      "price": 111.13,
-      "change": -2.11
+      "price": 108.96,
+      "change": -3.18
     }
   },
   "articles": [
+    {
+      "title": "暴雪總裁親解 BlizzCon 2026 布局，深耕《魔獸世界》、《暗黑破壞神》再育新 IP",
+      "url": "https://technews.tw/2026/09/20/blizzard-has-not-given-up-on-heroes-of-the-storm/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T13:00:57+08:00",
+      "description": "BlizzCon 2026 時，暴雪娛樂（Blizzard）一口氣發表〈暗黑破壞神 V〉、《星海爭霸》開放世界 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "台灣大深化內容布局，攜智寶推〈電鋸甜心 2〉進軍全球遊戲版圖",
+      "url": "https://finance.technews.tw/2026/09/20/taiwan-mobile-nada/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T12:05:22+08:00",
+      "description": "台灣大哥大近年持續擴大遊戲與 ACG 內容布局，從早期遊戲代理、玩家社群經營，一路延伸至策略投資、動畫 IP  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "核試驗結束後地震越來越多，北韓 6 次地下核爆意外打醒一條隱藏斷層",
+      "url": "https://technews.tw/2026/09/20/earthquake-north-korea-nuclear-tests-mount-mantap-fault/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T11:45:22+08:00",
+      "description": "地下爆炸會引發當地一連串小地震，這些震動通常在試爆停止後逐漸平息。然而一個令人費解的現象發生了，北韓 2017 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "台北「公車王」307 的逆轉術：班次少開、駕駛少跑，營收反而穩坐第一",
+      "url": "https://finance.technews.tw/2026/09/20/taipei-bus-king-800-daily-routes-307-drivers-lower-workload-top-revenue/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T11:00:11+08:00",
+      "description": "你有在台北街頭看過 307 號公車嗎？307 的發車密度名列台北市前茅，甚至高於部分捷運路線，尖峰時段 4～6 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "蕨類自製燃料助燃野火，三疊紀末歐洲大火延燒數萬年",
+      "url": "https://technews.tw/2026/09/20/ancient-europe-burned-for-thousands-of-years-as-ferns-fed-the-flames/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T10:30:55+08:00",
+      "description": "約 2 億 100 萬年前，地球歷經三疊紀末大滅絕。學界多將這場危機歸因於盤古大陸（Pangea）裂解引發的大 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "從開天價搶地到全美九州喊卡，AI 資料中心掀起的投資風險與政治警訊",
+      "url": "https://finance.technews.tw/2026/09/20/developers-pay-10-times-market-price-data-centers-land-rush-ai-investment-risk/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T10:00:07+08:00",
+      "description": "今年 7 月，德州農業廳長米勒（Sid Miller）站上一場抗議資料中心的集會，說出許多美國農民的心聲：「開 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "拒當盤子，購買二手電腦零件必看的六大避險心法與驗貨訣竅",
+      "url": "https://ccc.technews.tw/2026/09/20/used-computer-hardware-buying-guide/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T09:30:14+08:00",
+      "description": "雖然在 2026 年，購買二手電腦硬體依然是節省預算的好管道，但潛藏的風險已大幅攀升。隨著硬體價格波動，加上  [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "締造 93 倍報酬操盤手清原達郎：別妄想抓準市場高點，當心日股過熱與 AI 基礎設施投資泡沫",
+      "url": "https://finance.technews.tw/2026/09/20/tatsuro-kiyohara/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T09:00:37+08:00",
+      "description": "對台灣投資人來說，清原達郎或許是個陌生的名字，但他在日本創立、操盤 25 年的避險基金「Tower K1」，繳 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "書籍總量激增 19 倍、營收卻只漲 8 倍，AI「書海戰術」發威導致單本收入暴跌",
+      "url": "https://technews.tw/2026/09/20/ai-disrupts-publishing-industry/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T08:30:39+08:00",
+      "description": "AI 生成內容正以前所未有的速度改寫線上圖書市場的生態。最新研究與業界觀察指出，大量疑似由大型語言模型（LLM [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "告別人流迷思，月租 88 萬「店租王」換人當！揭密房東最愛的長租新勢力",
+      "url": "https://finance.technews.tw/2026/09/20/foot-traffic-cash-flow-formula-failing-taipei-rental-king-880k-medical-aesthetics-gyms-landlord-favorites/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-20T08:00:48+08:00",
+      "description": "當服飾、精品不再願意支付天價店租，誰來接手一樓金店面？答案轉向醫美、診所與健身房。 這批新好租客不再仰賴路過人 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
@@ -34,7 +164,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "source": "techcrunch.com",
       "category": "startup",
@@ -144,136 +274,6 @@
       "category": "startup",
       "published_at": "2026-09-19T23:00:00+08:00",
       "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI safety conversations have gotten unbelievable",
-      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-19T23:00:00+08:00",
-      "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "錢卓望遠鏡發現神祕 X 射線天體，或能解答天體物理學兩大難題",
-      "url": "https://technews.tw/2026/09/19/nasas-chandra-unveils-mysterious-x-ray-objects/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-19T22:04:44+08:00",
-      "description": "利用美國太空總署（NASA）的錢卓 X 射線天文台（Chandra X-ray Observatory），科學 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "'We have lost control': Crypto pioneer warns AI could trigger systemic banking and infrastructure shocks",
-      "url": "https://www.coindesk.com/markets/2026/09/17/we-have-lost-control-crypto-pioneer-warns-ai-could-trigger-systemic-banking-and-infrastructure-shocks",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-19T22:00:00+08:00",
-      "description": "Marc van der Chijs sold much of his bitcoin to invest in AI. Now, growing concerns about the technology accompany a move to put some profits back into crypto.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Ripple says asset managers are preparing for XRP Ledger’s next payments upgrade",
-      "url": "https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-19T21:39:15+08:00",
-      "description": "The upcoming Batch V1.1 can make linked asset and payment transfers succeed together or fail together, and Ripple says commercial projects are already being built around the feature after an extensive security review.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-19T21:00:00+08:00",
-      "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "'The orange tie stays': Michael Saylor responds to venture capitalist's bitcoin obituary",
-      "url": "https://www.coindesk.com/markets/2026/09/19/the-orange-tie-stays-michael-saylor-responds-to-venture-capitalist-s-bitcoin-obituary",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-19T20:13:57+08:00",
-      "description": "\"Bitcoin feels like the CD in the age of Spotify, the DVD in the age of Netflix,\" wrote Jason Calacanis.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Robinhood Chain fees collapse 97% even as transactions stay near record highs",
-      "url": "https://www.coindesk.com/business/2026/09/19/robinhood-chain-fees-collapse-97-even-as-transactions-stay-near-record-highs",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-19T20:00:00+08:00",
-      "description": "Seven-day average fees fell 82% while transaction counts slipped 6%, with about $1.5 billion a day still changing hands.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
-      "url": "https://www.coindesk.com/business/2026/09/15/why-wall-street-giants-build-tokenization-money-for-institutions-not-regular-consumers",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-19T20:00:00+08:00",
-      "description": "JPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bastion wins conditional OCC approval for national trust bank charter",
-      "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-09-19T19:47:29+08:00",
-      "description": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "科研不再只待在實驗室！2026 未來科技館促成 150 場技術「變現」商談",
-      "url": "https://technews.tw/2026/09/19/laboratory/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-19T17:51:56+08:00",
-      "description": "2026 台灣創新技術博覽會未來科技館今日落幕，三天展期共吸引逾 5 萬人次進場，完成 150 場技術洽談及  [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
