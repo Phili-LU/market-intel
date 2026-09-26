@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T19:36:44.053466+08:00",
+  "updated_at": "2026-09-27T00:32:57.209999+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,123 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 84152,
-      "change": -0.9
+      "price": 84100,
+      "change": 0.13
     },
     "ETH": {
-      "price": 2688.38,
-      "change": -1.46
+      "price": 2690.78,
+      "change": -0.1
     },
     "SOL": {
-      "price": 120.75,
-      "change": -0.53
+      "price": 121.55,
+      "change": 0.06
     }
   },
   "articles": [
+    {
+      "title": "從預估兩千年縮短至幾十年，澳洲穀物基因庫大規模實測推翻種子保鮮期",
+      "url": "https://technews.tw/2026/09/27/scientists-identify-the-doomsday-seeds-that-could-last-the-longest/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T00:00:08+08:00",
+      "description": "提及基因保存，或許有人曾聽過位於挪威冷冽地底的「斯瓦爾巴全球種子庫」，但坐落於南半球的「澳洲穀物基因庫」（AG [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
+      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-26T22:00:00+08:00",
+      "description": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-26T22:00:00+08:00",
+      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
+      "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-26T21:21:12+08:00",
+      "description": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-26T21:00:00+08:00",
+      "description": "The five-year deal could strengthen USDC’s reach in emerging markets, though Tether’s liquidity advantage remains hard to dislodge, analysts told CoinDesk.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze",
+      "url": "https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-26T20:56:41+08:00",
+      "description": "Two wallets have been almost emptied and a third is being drained, with about $75 million remaining across the five original holding accounts.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-26T20:17:00+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+      "url": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-26T20:00:00+08:00",
+      "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Google 廣告淪為詐騙新溫床，假「全螢幕警告」偽裝電腦遭勒索攻擊",
       "url": "https://infosecu.technews.tw/2026/09/26/google-ads-deliver-browser-locking-fake-security-scams/",
@@ -170,110 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-26T14:06:21+08:00",
       "description": "荷莫茲海峽最快有望在 7 天內重新開放。根據外電整理，伊朗已透過中間人向美國提出新方案，只要華府接受相關條件， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "餐飲缺工新解方？燒肉品牌彩豚屋雇 AI 當員工",
-      "url": "https://technews.tw/2026/09/26/cai-tun-wu-hires-ai-to-help-make-reservations/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T14:00:40+08:00",
-      "description": "面對餐飲業長期缺工，燒肉品牌彩豚屋替台北林森店請來一位特別的新員工——「AI」。這位 AI 專門負責餐期忙碌、 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "麥肯錫警告：代理式 AI 成本難估算，同任務執行成本可差到 30 倍",
-      "url": "https://finance.technews.tw/2026/09/26/mckinsey-warns-that-ai-may-get-a-lot-more-expensive-for-companies/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T14:00:14+08:00",
-      "description": "麥肯錫（McKinsey）最近提醒企業，AI 不只使效率提升，也讓支出更難預測。代理式 AI 越來越常執行多步 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蘋果 Home 攝影機 AI 功能實測！描述精準度與價格皆落後 Google Ring 與亞馬遜 Nest",
-      "url": "https://technews.tw/2026/09/26/can-apple-homes-ai-camera-features-outsmart-amazons-and-googles/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T13:30:31+08:00",
-      "description": "蘋果（Apple）本月隨 iOS 27 推出 Apple Intelligence for Home，讓支援  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "進化的惡意程式改由 AI 模型投票決策，駭客不必下指令也能竊取資料",
-      "url": "https://infosecu.technews.tw/2026/09/26/how-customizable-ai-models-are-enabling-hackers-to-conduct-cybercrime-sprees/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T13:00:34+08:00",
-      "description": "資安人員發現名為 CLOSEDQUORUM 的 Windows 惡意程式，植入受害電腦後會自行詢問多個 AI  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Solana’s 150-millisecond settlement upgrade reaches second public test network",
-      "url": "https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-26T13:00:00+08:00",
-      "description": "Alpenglow is running on both public test networks, giving application teams a place to check their software before the live blockchain switches.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 需求引爆載板升級潮，台灣市占全球居冠",
-      "url": "https://finance.technews.tw/2026/09/26/ai-demand-substrate-upgrade-taiwan-global-market-share/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T12:30:55+08:00",
-      "description": "AI 浪潮正把載板從「晶片配角」推向高階化競爭核心。台灣電路板協會（TPCA）指出，AI 與高效能運算需求快速 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "XRP Ledger’s Batch upgrade slips to Oct. 9 after validator support resets",
-      "url": "https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-26T12:30:00+08:00",
-      "description": "The feature would let users bundle up to eight transactions, including asset-and-payment transfers, but a brief drop below the network’s 80% support threshold restarted its two-week activation clock.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
-      "url": "https://www.coindesk.com/tech/2026/09/26/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-26T12:02:13+08:00",
-      "description": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
