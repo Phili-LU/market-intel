@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T00:32:57.209999+08:00",
+  "updated_at": "2026-09-27T05:19:47.350966+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 84100,
-      "change": 0.13
+      "price": 84109,
+      "change": 0.55
     },
     "ETH": {
-      "price": 2690.78,
-      "change": -0.1
+      "price": 2680.47,
+      "change": 0.11
     },
     "SOL": {
-      "price": 121.55,
-      "change": 0.06
+      "price": 120.84,
+      "change": -0.17
     }
   },
   "articles": [
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-27T05:02:06+08:00",
+      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-27T01:44:00+08:00",
+      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-27T01:00:00+08:00",
+      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "從預估兩千年縮短至幾十年，澳洲穀物基因庫大規模實測推翻種子保鮮期",
       "url": "https://technews.tw/2026/09/27/scientists-identify-the-doomsday-seeds-that-could-last-the-longest/",
@@ -235,45 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-26T15:00:01+08:00",
       "description": "跑馬拉松跨越撞牆期後，許多跑者會體驗到疲倦與疼痛感消退、取而代之的是平靜與愉悅感的奇妙狀態，這被稱為「跑者嗨」 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "CFTC sues Cash FX, alleges $950M crypto-linked forex scheme",
-      "url": "https://cointelegraph.com/news/cftc-sues-cash-fx-alleges-950m-crypto-linked-forex-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-09-26T14:59:29+08:00",
-      "description": "The CFTC claimed that Cash FX engaged in minimal forex trading and misappropriated most of the participant funds.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "英國陸軍想要更優秀的無人機飛手，祭出「無 GPS 與輔助」最難飛行訓練課程",
-      "url": "https://technews.tw/2026/09/26/the-british-army-wants-better-drone-pilots-so-it-makes-them-learn-the-hardest-way-to-fly/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T14:30:58+08:00",
-      "description": "英國陸軍正以更嚴格的方式培養未來無人機操作員，要求士兵先沒有飛行輔助與 GPS 的情況下手動操控無人機，藉此建 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "傳荷莫茲海峽最快 7 天重開，油價跌逾 2%",
-      "url": "https://technews.tw/2026/09/26/hormuz-strait-reopen-7-days-iran-new-plan-us-oil-prices-drop-2-percent/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-26T14:06:21+08:00",
-      "description": "荷莫茲海峽最快有望在 7 天內重新開放。根據外電整理，伊朗已透過中間人向美國提出新方案，只要華府接受相關條件， [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
