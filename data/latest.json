@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T13:29:23.675195+08:00",
+  "updated_at": "2026-09-27T20:15:17.349498+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,136 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 84379,
-      "change": 0.54
+      "price": 84973,
+      "change": 1.01
     },
     "ETH": {
-      "price": 2696.18,
-      "change": 0.3
+      "price": 2714.48,
+      "change": 0.96
     },
     "SOL": {
-      "price": 120.65,
-      "change": 0.19
+      "price": 124.22,
+      "change": 2.54
     }
   },
   "articles": [
+    {
+      "title": "How months of work on the Clarity Act all fell apart",
+      "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-27T20:00:00+08:00",
+      "description": "Interviews with industry participants and legislative aides paint a picture of a blown bill-writing process, with sources pointing to nearly every facet of the bill's development and the debate around it as contributing factors to this month's failed vote.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Riot Platforms repays $200M credit facility, releases collateral",
+      "url": "https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-27T17:57:19+08:00",
+      "description": "The Bitcoin miner has continued to expand its data-center business as well.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "乳癌治療新方向：運用磁脈衝，重啟抗癌免疫力",
+      "url": "https://technews.tw/2026/09/27/singapore-harnesses-magnetic-pulses-to-reprogramme-immune-cells-to-fight-breast-cancer/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T16:00:00+08:00",
+      "description": "癌症治療除了直接攻擊癌細胞，近年也愈來愈重視重啟人體的抗癌免疫力。最近，新加坡國立大學（National Un [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "才兩年就退燒了？微軟 Surface 正淡化 Copilot Plus PC 標籤",
+      "url": "https://technews.tw/2026/09/27/microsoft-surface-copilot-plus-pc/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T15:47:13+08:00",
+      "description": "微軟在 2024 年推出 Copilot Plus PC，試圖以 NPU 與一系列 AI 功能，替新一代 Wi [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "露營意外揭開 3.9 億年前祕密，業餘天文迷發現魁北克 25 公里巨大隕石坑",
+      "url": "https://technews.tw/2026/09/27/giant-meteorite-crater-quebec/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T15:30:05+08:00",
+      "description": "加拿大魁北克一名業餘天文愛好者在尋找露營地時，意外透過衛星地圖發現一處近乎完美的圓形地貌，進而促成一項重大的地 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Saylor outlines ‘bill of digital rights’ to help build prosperity in future economy",
+      "url": "https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-27T15:18:42+08:00",
+      "description": "Our ambition should be to “enable 10 million new companies to raise capital,” Strategy’s executive chairman Michael Saylor wrote in an essay.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "中國首座「AI 眼科門診」實測，直擊醫療 AI 落地的三大痛點",
+      "url": "https://technews.tw/2026/09/27/china-test-ai-eye-clinic/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T15:00:52+08:00",
+      "description": "當人工智慧走出實驗室的完美環境，直接面對醫院裡真實的病患與病歷，會發生什麼事？近期，中國北京視覺科學與轉化醫學 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "a16z 創辦矽谷 AI 學院：免學費、無考試，以「實作成果」取代成績單",
+      "url": "https://technews.tw/2026/09/27/andreessen-horowitz-academy/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T14:30:03+08:00",
+      "description": "創投公司 Andreessen Horowitz（a16z）9 月 22 日宣布，在舊金山推出 Andrees [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "王儲殿下發表 CEER 旗艦車款，進一步鞏固沙烏地阿拉伯在全球汽車工業的地位",
+      "url": "https://technews.tw/2026/09/27/crown-prince-unveils-ceer-flagship-vehicle-strengthening-saudi-arabia-global-automotive-position/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-27T14:00:49+08:00",
+      "description": "沙烏地阿拉伯王儲、首相兼公共投資基金（PIF）董事會主席 Mohammed bin Salman bin Ab [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "減重藥物司美格魯肽延緩老鼠老化，高齡母鼠壽命延長近百天",
       "url": "https://technews.tw/2026/09/27/ozempics-active-ingredient-shows-surprising-anti-aging-effects/",
@@ -138,7 +255,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "最快 10 月底亮相？傳 iPad mini 8 將換上 A20 Pro、OLED 螢幕",
+      "title": "最快 10 月底亮相？傳 iPad mini 8 將換用 A20 Pro、OLED 螢幕",
       "url": "https://technews.tw/2026/09/27/8-gen-ipad-mini-a20-pro-oled/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -157,123 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-27T09:00:42+08:00",
       "description": "蘋果在本月稍早已開賣了 iPhone 18 Pro、iPhone 18 Pro Max 機款，這次新機除了換上 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 研發生化武器消滅人類？專家：比起末日幻想，現有病原體威脅性更高",
-      "url": "https://technews.tw/2026/09/27/why-ai-isnt-likely-to-wipe-out-humanity-with-bioweapons/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T08:30:01+08:00",
-      "description": "人工智慧持續提升，外界也開始關注 AI 能否協助設計生物武器。但近期研究與專家討論，多數科學家認為，AI 雖然 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "罰單狂開背後的道安困局！近五年全國交通罰鍰收入飆漲 22％，為何事故率仍高於日韓？",
-      "url": "https://technews.tw/2026/09/27/taiwan-traffic/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T08:00:10+08:00",
-      "description": "台灣被外媒批評為行人地獄，政府近年強化執法，但從罰單收來的錢，是否地方政府真的有拿去改善交通安全，外界難以監督 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-27T05:02:06+08:00",
-      "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
-      "url": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-27T01:44:00+08:00",
-      "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
-      "url": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-27T01:00:00+08:00",
-      "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "從預估兩千年縮短至幾十年，澳洲穀物基因庫大規模實測推翻種子保鮮期",
-      "url": "https://technews.tw/2026/09/27/scientists-identify-the-doomsday-seeds-that-could-last-the-longest/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T00:00:08+08:00",
-      "description": "提及基因保存，或許有人曾聽過位於挪威冷冽地底的「斯瓦爾巴全球種子庫」，但坐落於南半球的「澳洲穀物基因庫」（AG [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Kraken’s parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange",
-      "url": "https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-09-26T22:00:00+08:00",
-      "description": "Kraken parent Payward is unifying trading, payments, asset management and institutional services on common rails, co-CEO Arjun Sethi said.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-26T22:00:00+08:00",
-      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Kalshi loses appeal, setting up potential Supreme Court case",
-      "url": "https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-09-26T21:21:12+08:00",
-      "description": "The 6th US Circuit Court of Appeals ruled against prediction market Kalshi, siding with Ohio and Tennessee on regulating sports-event contracts under state laws.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
