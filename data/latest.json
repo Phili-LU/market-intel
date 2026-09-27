@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-28T01:06:14.195576+08:00",
+  "updated_at": "2026-09-28T05:29:17.588168+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,32 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 84444,
-      "change": 0.42
+      "price": 84639,
+      "change": 0.57
     },
     "ETH": {
-      "price": 2688.12,
-      "change": -0.06
+      "price": 2688.66,
+      "change": 0.1
     },
     "SOL": {
-      "price": 121.95,
-      "change": 0.47
+      "price": 122.94,
+      "change": 1.33
     }
   },
   "articles": [
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-28T03:57:30+08:00",
+      "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Anthropic’s Dario Amodei gets the SNL treatment",
       "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
@@ -222,58 +235,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-27T13:00:24+08:00",
       "description": "糖尿病與減重藥物胰妥讚（Ozempic）、週纖達（Wegovy）的主成分司美格魯肽（semaglutide）， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "出口失速、17 萬人集體罷工，解析重創德國經濟兩大支柱的「中國衝擊 2.0」",
-      "url": "https://technews.tw/2026/09/27/china-shock-2-0-germany-export-slowdown-widening-trade-deficit-china-analysis/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T11:00:54+08:00",
-      "description": "德國經濟發展「失速中」，政客們正在瘋狂尋找罪魁禍首，然後把矛頭對準「中國製造」。 歐洲改革中心（CER）一份政 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 越成功硬體越稀缺：晶片、能源成 AI 擴張瓶頸，創投重新看好硬科技",
-      "url": "https://technews.tw/2026/09/27/silicon-valley-sees-hard-tech-revival/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T11:00:33+08:00",
-      "description": "過去幾年，生成式 AI 的投資熱潮席捲全球創投市場。自 ChatGPT 問世後，大量資本湧向 AI 軟體新創， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台積電麥寮外海祕密計畫獨家曝光，全新台灣能源之路隱然成形",
-      "url": "https://technews.tw/2026/09/27/tsmc-ccs/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T11:00:23+08:00",
-      "description": "AI 浪潮引發科技業用電焦慮，國際供應鏈的減碳壓力也同時與日俱增。面對此情勢，台灣「護國神山」台積電低調布局三 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "科技巨頭搶攻 AI 穿戴裝置，偷拍疑慮與雲端資安成最大絆腳石",
-      "url": "https://infosecu.technews.tw/2026/09/27/ai-wearable-devices-privacy-cybersecurity-risks/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T10:30:10+08:00",
-      "description": "科技巨頭正加速研發新一代 AI 穿戴裝置，從智慧眼鏡到各類隨身配件，這些主打「能看、能聽且能即時回饋」的創新設 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
