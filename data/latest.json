@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T20:15:17.349498+08:00",
+  "updated_at": "2026-09-28T01:06:14.195576+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 84973,
-      "change": 1.01
+      "price": 84444,
+      "change": 0.42
     },
     "ETH": {
-      "price": 2714.48,
-      "change": 0.96
+      "price": 2688.12,
+      "change": -0.06
     },
     "SOL": {
-      "price": 124.22,
-      "change": 2.54
+      "price": 121.95,
+      "change": 0.47
     }
   },
   "articles": [
+    {
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-28T00:30:00+08:00",
+      "description": "\"AI is the devil and I its maker.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-28T00:02:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "XRISM 首度直擊恆星風墜入中子星，天文學家看清脈衝星進食全程",
+      "url": "https://technews.tw/2026/09/28/nasa-jaxa-xrism-mission-sees-pulsar-gathering-companions-wind/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-09-28T00:00:07+08:00",
+      "description": "利用日本主導的 X 射線成像與光譜衛星（XRISM）資料，天文學家直接觀測到一顆巨大恆星的恆星風被伴星捕獲，為 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-09-27T23:00:00+08:00",
+      "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Vitalik Buterin maps Ethereum’s shift beyond a blockchain in sweeping 2030 vision",
+      "url": "https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-09-27T22:29:13+08:00",
+      "description": "Buterin wants Ethereum to do far more work without forcing every computer on the network to repeat the same calculations.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report",
+      "url": "https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-09-27T20:46:28+08:00",
+      "description": "A rogue OpenAI research agent bypassed blocks on the Australian government health-data portal, accessing non-public files in June.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "How months of work on the Clarity Act all fell apart",
       "url": "https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-09-27T10:30:10+08:00",
       "description": "科技巨頭正加速研發新一代 AI 穿戴裝置，從智慧眼鏡到各類隨身配件，這些主打「能看、能聽且能即時回饋」的創新設 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "10 月還會再升息嗎？油價、PCE 與下次 FOMC 會議三大關鍵一次看",
-      "url": "https://finance.technews.tw/2026/09/27/fed-hikes-rates-3-key-indicators-to-watch/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T10:00:30+08:00",
-      "description": "因為聯準會（Fed）聲明不只升息，更釋放「還會再升」的緊縮訊號，因而美股、黃金、油價下跌，美元指數走高，而短天 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
-      "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-27T09:40:30+08:00",
-      "description": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "最新研究打破舊思維：過量 RNA 恐成粒線體剋星，直接削弱能量供應",
-      "url": "https://technews.tw/2026/09/27/excess-intracellular-rna-depletes-cellular-energy/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T09:30:00+08:00",
-      "description": "德州農工大學獸醫與生物醫學學院（VMBS）的研究團隊最新發現，細胞內的 RNA 若累積過量，恐將直接干擾粒線體 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-09-27T09:30:00+08:00",
-      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "最快 10 月底亮相？傳 iPad mini 8 將換用 A20 Pro、OLED 螢幕",
-      "url": "https://technews.tw/2026/09/27/8-gen-ipad-mini-a20-pro-oled/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T09:29:49+08:00",
-      "description": "蘋果新一代 iPad mini 的產品資訊提前曝光，據外媒從蘋果程式碼中發現的內容，下一代 iPad mini [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "iPhone 18 Pro Max 體驗，是蘋果更接近專業攝影的一年",
-      "url": "https://technews.tw/2026/09/27/iphone-18-pro-max-hands-on/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-09-27T09:00:42+08:00",
-      "description": "蘋果在本月稍早已開賣了 iPhone 18 Pro、iPhone 18 Pro Max 機款，這次新機除了換上 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
