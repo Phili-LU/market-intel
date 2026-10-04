@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T14:06:00.095280+08:00",
+  "updated_at": "2026-10-04T20:37:18.678917+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 84903,
-      "change": 0.32
+      "price": 85264,
+      "change": 0.48
     },
     "ETH": {
-      "price": 2694.41,
-      "change": 0.64
+      "price": 2701.59,
+      "change": 0.73
     },
     "SOL": {
-      "price": 120.77,
-      "change": 0.99
+      "price": 121.53,
+      "change": 1.84
     }
   },
   "articles": [
+    {
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-10-04T17:39:51+08:00",
+      "description": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "美國 FDA 推動法規轉型，以器官晶片與電腦模型取代動物實驗",
+      "url": "https://technews.tw/2026/10/04/tech-to-replace-animal-testing-is-almost-ready/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-04T16:30:57+08:00",
+      "description": "美國以人類細胞、器官晶片與電腦模型取代動物實驗的趨勢，正從實驗室走向監管制度核心。從哈佛大學魏斯研究所（Wys [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "法軍打造自主 AI 空戰架構，2028 年測試戰機與無人僚機協同飛行",
+      "url": "https://technews.tw/2026/10/04/french-air-force-is-building-its-own-military-ai-systems/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-04T16:22:39+08:00",
+      "description": "隨著各國加速開發無人僚機，法國也開始為新一代空戰模式鋪路，法國空軍與太空軍、軍備總署（DGA）及國防人工智慧機 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 助攻量子設計：德國新創 QC Design 推 Meridian 可壓低邏輯錯誤率逾十倍",
+      "url": "https://technews.tw/2026/10/04/qc-design-reports-10x-logical-error-reduction-with-meridian-ai/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-04T15:30:00+08:00",
+      "description": "德國量子軟體新創 QC Design 於 9 月 24 日發表白皮書，公布專為容錯量子運算架構設計打造的 AI [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-10-04T15:16:53+08:00",
+      "description": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "挑戰 99.5% 成功率，NVIDIA 攜鴻海讓機器人組裝 GB300",
+      "url": "https://finance.technews.tw/2026/10/04/nvidia-foxconn-robot/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-04T14:47:39+08:00",
+      "description": "AI 伺服器需求持續爆發，如何讓產線自動化程度再往前推，也成為供應鏈下一階段競賽焦點。據 NVIDIA 部落格 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI 時代的「禮儀」與邊界：人類監督與透明揭露才是核心",
+      "url": "https://technews.tw/2026/10/04/the-rules-of-ai-etiquette/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-04T14:30:25+08:00",
+      "description": "生成式 AI 持續滲透教育、法律、音訊創作與內容產製等領域，也讓「AI 禮儀」與使用規範成為新的討論焦點。外界 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "THE 世界大學 2027 排名出爐！台灣名次最佳前五大學有一特色",
       "url": "https://technews.tw/2026/10/04/taiwan-2027-the-rankings/",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-10-04T08:00:07+08:00",
       "description": "憑藉近二十年累積的鍛造、沖壓等精密加工技術，時碩工業成功跨足液冷散熱領域。一筆來自古河集團的伺服器散熱系統大單 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-      "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-10-04T03:33:15+08:00",
-      "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-10-04T02:43:57+08:00",
-      "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "source": "techcrunch.com",
-      "category": "startup",
-      "published_at": "2026-10-04T00:30:01+08:00",
-      "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "NASA 宣布最新遠紅外線望遠鏡 PRIMA 計畫，探索星球形成與材料之謎",
-      "url": "https://technews.tw/2026/10/04/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-04T00:00:37+08:00",
-      "description": "恆星如何從厚重的塵埃誕生？行星水又從哪裡來？NASA 宣布新遠紅外線太空望遠鏡 PRIMA（PRobe far [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "本為星際任務設計卻成地球救星，「太空農業」如何破解極端氣候糧食危機？",
-      "url": "https://technews.tw/2026/10/04/space-agriculture-solve-global-food-crisis/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-04T00:00:21+08:00",
-      "description": "原本專為太空任務設計的農業技術，正逐漸轉變為拯救地球農業的關鍵解方。根據相關報導與專家分析，包含「控制環境農業 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-10-04T00:00:00+08:00",
-      "description": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-10-04T00:00:00+08:00",
-      "description": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
