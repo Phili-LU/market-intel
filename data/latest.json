@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T20:46:41.771455+08:00",
+  "updated_at": "2026-10-11T05:53:50.344676+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 82785,
-      "change": -0.32
+      "price": 83012,
+      "change": 0.66
     },
     "ETH": {
-      "price": 2495.83,
-      "change": 0.01
+      "price": 2507.4,
+      "change": 1.02
     },
     "SOL": {
-      "price": 109.72,
-      "change": -0.54
+      "price": 110.26,
+      "change": 1.23
     }
   },
   "articles": [
+    {
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-11T05:47:51+08:00",
+      "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-11T03:50:00+08:00",
+      "description": "Is Apple hoping to get into the AI-generated podcast business?",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-11T01:00:00+08:00",
+      "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "缺料缺礦又搶輸 AI！低軌衛星「巨型星系」大夢受挫，業界預期恐掀淘汰整併潮",
+      "url": "https://technews.tw/2026/10/11/space-ai-resource-competition/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-11T00:00:40+08:00",
+      "description": "亞馬遜（Amazon）計劃在軌道部署超過 5,000 顆衛星，藍源（Blue Origin）也提出 5,400 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "北雙子望遠鏡解析 1181 年超新星殘骸 Pa 30，揭露珍珠串狀氣體團塊",
+      "url": "https://technews.tw/2026/10/11/striking-new-images-of-unique-supernova-remnant-reveal-pearl-like-chains/",
+      "source": "technews.tw",
+      "category": "tw_stocks",
+      "published_at": "2026-10-11T00:00:15+08:00",
+      "description": "天文學家利用位於夏威夷茂納凱亞（Mauna Kea）的雙子座北望遠鏡（Gemini North），取得超新星遺 [&#8230;]",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-10T23:00:00+08:00",
+      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-10T22:00:00+08:00",
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-10-10T14:30:16+08:00",
       "description": "在大型語言模型（LLM）持續擴張應用版圖之際，科技界對「世界模型」（World Models）的關注度正快速升 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "泓格科技亮相計測展 NEXT 2026，展示工業通訊與可靠的 I/O 解決方案",
-      "url": "https://technews.tw/2026/10/10/icp-das_measurement-and-control-show-next-2026/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-10T14:00:24+08:00",
-      "description": "泓格科技（ICP DAS）宣布參加「計測展 NEXT 2026」（Measurement and Contro [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "鑽石跌落神壇！年輕世代不再執著「天然的尚好」，鑽石價值遭遇大挑戰",
-      "url": "https://finance.technews.tw/2026/10/10/diamond-no-longer-untouchble/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-10T14:00:02+08:00",
-      "description": "Threads 網友最近發言，換工作時偶然得知鑽石價格崩盤，連鑲嵌鑽石的戒台都比鑽石值錢。她感歎還好自己囤黃金 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
-      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-10-10T13:43:00+08:00",
-      "description": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "科技巨頭 AI 產品大打「可愛牌」，盲目信任恐引發資安危機",
-      "url": "https://infosecu.technews.tw/2026/10/10/cute-ai-agents/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-10T13:30:56+08:00",
-      "description": "隨著外界對人工智慧（AI）可能引發失業、資安漏洞及社會衝擊的疑慮持續升溫，科技巨頭正在展開一波全新的行銷攻勢： [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "訂單滿手擠爆產線！智崴砸 24 億併 Flyover 通吃沉浸式娛樂產業鏈",
-      "url": "https://finance.technews.tw/2026/10/10/flyover/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-10T13:21:37+08:00",
-      "description": "智崴資訊公告 9 月營收 2.93 億元，月減 16.2%，年增 124.19%，其中本業營收約 1.8 億元 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-10-10T12:44:35+08:00",
-      "description": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
-      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-10-10T12:20:07+08:00",
-      "description": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
