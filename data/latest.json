@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T00:01:00.521549+08:00",
+  "updated_at": "2026-10-19T04:55:33.679970+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,97 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 81080,
-      "change": -0.23
+      "price": 80810,
+      "change": -0.93
     },
     "ETH": {
-      "price": 2377.48,
-      "change": -1.26
+      "price": 2343.83,
+      "change": -3.13
     },
     "SOL": {
-      "price": 102.06,
-      "change": -1.41
+      "price": 100.95,
+      "change": -3.03
     }
   },
   "articles": [
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-19T04:37:40+08:00",
+      "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-19T03:03:38+08:00",
+      "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The White House's crypto chief departs: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/10/18/the-white-house-s-crypto-chief-departs-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-19T02:30:00+08:00",
+      "description": "Patrick Witt announced his departure from the White House last week.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-19T00:33:00+08:00",
+      "description": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-19T00:30:00+08:00",
+      "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-19T00:05:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
       "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
@@ -196,84 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-10-18T15:30:03+08:00",
       "description": "25 歲的西雅圖創業者 Junead Khan 去年離開微軟，放棄年薪超過 20 萬美元的工作，轉而全力投入自 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-      "source": "coindesk.com",
-      "category": "crypto",
-      "published_at": "2026-10-18T15:13:32+08:00",
-      "description": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "思想不再是祕密？AI「讀心術」竟能看見你腦中的畫面",
-      "url": "https://technews.tw/2026/10/18/ai-mind-reading-reconstructs-brain-imagery/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T15:00:40+08:00",
-      "description": "科幻電影中的「讀心術」正逐步化為現實。由以色列魏茨曼科學研究學院（Weizmann Institute of  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "先加熱再增加密度，美 PPPL 提出更省能的核融合點火新路徑",
-      "url": "https://technews.tw/2026/10/18/scientists-may-have-found-a-shortcut-to-fusion-energy/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T14:30:28+08:00",
-      "description": "美國普林斯頓電漿物理實驗室（PPPL）最新研究提出一條可能更有效率的核融合路徑：先把電漿加熱，再提高密度，而不 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "source": "cointelegraph.com",
-      "category": "crypto",
-      "published_at": "2026-10-18T14:29:00+08:00",
-      "description": "The round brings AIsa’s total funding to more than $9 million.",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "要能隨插即用新技術，美軍將開放式架構列為 XM30 裝甲車決選重點",
-      "url": "https://technews.tw/2026/10/18/us-army-said-open-architecture-will-be-key-point-for-xm30-bid/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T14:23:00+08:00",
-      "description": "美國陸軍地面機動組合採購執行官德諾米准將（Troy Denomy）近日表示，陸軍在 XM30 新一代步兵戰鬥車 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "優達科技於 2026 OCP 全球高峰會展示 1.6T AI 網路架構，動態實測液冷平台驗證散熱可行性",
-      "url": "https://technews.tw/2026/10/18/ufispace-s9331-64ho3l/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T14:00:29+08:00",
-      "description": "開放網路解決方案領導廠商優達科技（UfiSpace）宣布，於 2026 年 OCP 全球高峰會（OCP Glo [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
