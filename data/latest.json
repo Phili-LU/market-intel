@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T19:27:44.587093+08:00",
+  "updated_at": "2026-10-19T00:01:00.521549+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,25 +7,116 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 82029,
-      "change": 0.66
+      "price": 81080,
+      "change": -0.23
     },
     "ETH": {
-      "price": 2417.87,
-      "change": -0.61
+      "price": 2377.48,
+      "change": -1.26
     },
     "SOL": {
-      "price": 104.08,
-      "change": -0.48
+      "price": 102.06,
+      "change": -1.41
     }
   },
   "articles": [
+    {
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-19T00:00:00+08:00",
+      "description": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-18T22:00:00+08:00",
+      "description": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-10-18T21:54:00+08:00",
+      "description": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "source": "cointelegraph.com",
+      "category": "crypto",
+      "published_at": "2026-10-18T21:48:00+08:00",
+      "description": "The prediction market industry enables people to bet on US ‌elections and sporting events.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Bitcoin’s $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-18T21:00:00+08:00",
+      "description": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-18T21:00:00+08:00",
+      "description": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-10-18T20:00:00+08:00",
+      "description": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
       "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-10-18T18:43:12+08:00",
+      "published_at": "2026-10-18T18:46:00+08:00",
       "description": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
@@ -155,7 +246,7 @@
       "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "source": "cointelegraph.com",
       "category": "crypto",
-      "published_at": "2026-10-18T14:26:53+08:00",
+      "published_at": "2026-10-18T14:29:00+08:00",
       "description": "The round brings AIsa’s total funding to more than $9 million.",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-10-18T14:00:29+08:00",
       "description": "開放網路解決方案領導廠商優達科技（UfiSpace）宣布，於 2026 年 OCP 全球高峰會（OCP Glo [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "蘋果：iPhone 磁吸配件恐干擾鏡頭，影響對焦與防手震功能",
-      "url": "https://technews.tw/2026/10/18/why-strong-magnets-can-hinder-the-iphones-rear-facing-camera/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T13:30:10+08:00",
-      "description": "蘋果（Apple）近日提醒，部分 iPhone 磁性配件雖然方便，但若磁力太強又靠近後置相機，可能干擾鏡頭運作 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Fed 主席華許：AI 是我一生中影響最深遠經濟變革",
-      "url": "https://technews.tw/2026/10/18/kevin-warsh-calls-ai-the-most-consequential-economic-shift/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T13:00:13+08:00",
-      "description": "美國聯準會主席華許（Kevin Warsh）16日表示，人工智慧（AI）是他所見過對全球經濟「影響最深遠的變革 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "台灣人在柏林做 AI 資料中心想吃的「漢堡肉」，NextGO Epi 押注下代省電材料氧化鎵",
-      "url": "https://technews.tw/2026/10/18/nextgo-epi/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T11:10:31+08:00",
-      "description": "處理客戶委託生產磊晶片，對博士生周大順來說，只是個例行工作，他在實驗室裡照平常的做法把磊晶片做出來、交出去。休 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 普及但付費意願低，a16z 調查：消費者 AI 市場「極度兩極化」",
-      "url": "https://finance.technews.tw/2026/10/18/ai-subscription-models-tested-as-few-consumers-pay/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T10:30:06+08:00",
-      "description": "創投公司 Andreessen Horowitz（a16z）最新消費者 AI 報告指出，美國民眾使用 AI 的 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "猛禽帶隊，F-22 首度在空中指揮 YFQ-44A 無人僚機",
-      "url": "https://technews.tw/2026/10/18/f-22-gave-order-to-yfq-44a-in-air-for-the-first-time/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T10:17:51+08:00",
-      "description": "美國空軍與 Anduril 近日宣布，F-22 戰機飛行員已首度在空中向預量產型 YFQ-44A Fury 協 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "約會一次狠砸 6 千元，五成 Z 世代直呼吃不消：金錢觀契合比浪漫心動更重要",
-      "url": "https://finance.technews.tw/2026/10/18/gen-z-dating-affordating-trend/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T10:00:45+08:00",
-      "description": "生活成本高漲，消費降級從餐桌一路吹進了戀愛市場。BMO 與 Zelle 的調查顯示，美國年輕人不只砍約會預算， [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 時代的知心姐姐，專為年輕女性打造的情感諮詢 App「Hot Girl Hotline」",
-      "url": "https://technews.tw/2026/10/18/ai-emotional-counseling-hot-girl-hotline/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-18T09:30:18+08:00",
-      "description": "紐約新創團隊 Hot Girl Hotline 近日推出一款以人工智慧為核心的情感諮詢服務，專為年輕女性解決約 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
