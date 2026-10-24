@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T00:08:00.456338+08:00",
+  "updated_at": "2026-10-25T05:00:23.063334+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,58 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 79651,
-      "change": -2.41
+      "price": 80472,
+      "change": -1.11
     },
     "ETH": {
-      "price": 2300.9,
-      "change": -4.3
+      "price": 2345.4,
+      "change": -2.29
     },
     "SOL": {
-      "price": 99.58,
-      "change": -4.82
+      "price": 101.51,
+      "change": -2.26
     }
   },
   "articles": [
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-25T04:46:34+08:00",
+      "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-25T04:15:33+08:00",
+      "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-25T03:00:00+08:00",
+      "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "天文學者透過 EAGLE 模擬揭密：銀河系外圍是全宇宙最佳「星際宜居帶」",
       "url": "https://technews.tw/2026/10/25/milky-way-best-cradle-for-life/",
@@ -178,7 +217,7 @@
     },
     {
       "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "url": "https://www.coindesk.com/",
+      "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
       "source": "coindesk.com",
       "category": "crypto",
       "published_at": "2026-10-24T22:00:00+08:00",
@@ -235,45 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-10-24T16:38:24+08:00",
       "description": "美國燃料電池業者 Bloom Energy 第三季營收及獲利雙雙創高，並第三度上調全年財測，但週五（23 日） [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "非科學家團隊靠 Claude 設計抗蠍毒蛋白質，64 小時完成、實驗驗證成功",
-      "url": "https://technews.tw/2026/10/24/ai-does-the-lab-work/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-24T16:00:32+08:00",
-      "description": "一支幾乎沒有科學背景的五人團隊，在 Anthropic 的協助下完成一項引人注目的蛋白質設計實驗：他們讓 AI [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "肌肉內也有脂肪，累積過多可能影響健康",
-      "url": "https://technews.tw/2026/10/24/excess-intramuscular-fat-may-harm-health/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-24T15:30:49+08:00",
-      "description": "肌肉雖然主要由肌肉細胞所組成，但實際上，肌肉組織周圍與肌纖維之間也可能存在脂肪細胞。隨著年齡增長，這些脂肪可能 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AMD 玩家福音！新模組讓 Radeon 也能跑 NVIDIA DLSS，首度解鎖光線重建",
-      "url": "https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-24T15:00:10+08:00",
-      "description": "PC 模組社群再度突破 NVIDIA 專有技術的使用邊界。開發者 danielblnc 近日釋出 DLSS-N [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
