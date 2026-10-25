@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T00:37:57.454455+08:00",
+  "updated_at": "2026-10-26T05:00:43.584101+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,45 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 80521,
-      "change": 1.16
+      "price": 80389,
+      "change": -0.08
     },
     "ETH": {
-      "price": 2342.28,
-      "change": 2.04
+      "price": 2344.38,
+      "change": -0.02
     },
     "SOL": {
-      "price": 101.34,
-      "change": 1.72
+      "price": 101.54,
+      "change": 0.05
     }
   },
   "articles": [
+    {
+      "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+      "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-26T04:20:08+08:00",
+      "description": "\"That's a 12-year-old view of the world.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-10-26T00:57:32+08:00",
+      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
       "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
@@ -248,32 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-10-25T12:36:03+08:00",
       "description": "蘋果首款摺疊手機 iPhone Duo 已正式開賣，隨著首批拆解影片陸續曝光，內部結構與維修難度也成為關注焦點 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "機能風退潮仍創 20 億美元營收，Salomon 靠「運動本業」站穩時尚圈",
-      "url": "https://finance.technews.tw/2026/10/25/salomon-2-billion-revenue-techwear-fade-fashion-sports-core/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-25T11:00:10+08:00",
-      "description": "近年在全球大紅的薩洛蒙（Salomon）2025 年營收首度突破 20 億美元，比前一年多了 35%。今年其母 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "告別看天吃飯、破解植物專屬密碼，AI 與生物科技攜手改寫未來農業",
-      "url": "https://technews.tw/2026/10/25/ai-biotech-unlock-plant-codes-end-weather-farming-reshape-future-agriculture/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-10-25T10:30:38+08:00",
-      "description": "農業科技正迎來一場「溝通革命」。過去農民多仰賴天氣數據或肉眼觀察植物外觀來決定灌溉與施藥時機，但往往發現異常時 [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
