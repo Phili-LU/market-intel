@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T21:42:03.524069+08:00",
+  "updated_at": "2026-11-09T06:18:04.908022+08:00",
   "market_sentiment": {
     "score": 50,
     "label": "中性",
@@ -7,19 +7,110 @@
   },
   "key_prices": {
     "BTC": {
-      "price": 75894,
-      "change": 0.05
+      "price": 74500,
+      "change": -1.57
     },
     "ETH": {
-      "price": 2237.13,
-      "change": -0.19
+      "price": 2129.61,
+      "change": -4.5
     },
     "SOL": {
-      "price": 89.41,
-      "change": -0.58
+      "price": 86.62,
+      "change": -2.87
     }
   },
   "articles": [
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-11-09T05:00:11+08:00",
+      "description": "In a memo to the company, Huang admitted that he had an affair.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+      "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-11-09T04:30:00+08:00",
+      "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-11-09T03:51:30+08:00",
+      "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "What the election results mean for crypto: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-11-09T03:30:00+08:00",
+      "description": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "source": "coindesk.com",
+      "category": "crypto",
+      "published_at": "2026-11-09T03:16:42+08:00",
+      "description": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+      "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-11-09T01:30:00+08:00",
+      "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
+    {
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+      "source": "techcrunch.com",
+      "category": "startup",
+      "published_at": "2026-11-09T01:02:00+08:00",
+      "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "claude_summary": "—",
+      "claude_sentiment": "neutral",
+      "claude_impact": "low",
+      "claude_affected_assets": [],
+      "claude_takeaway": "—"
+    },
     {
       "title": "Here’s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -164,7 +255,7 @@
       "claude_takeaway": "—"
     },
     {
-      "title": "以為是養生？10 年追蹤研究：長輩頻繁午睡失智風險恐激增 48%",
+      "title": "以為是養生？十年追蹤研究：長輩頻繁午睡失智風險恐激增 48%",
       "url": "https://technews.tw/2026/11/08/frequent-napping-elderly-link-dementia/",
       "source": "technews.tw",
       "category": "tw_stocks",
@@ -183,97 +274,6 @@
       "category": "tw_stocks",
       "published_at": "2026-11-08T14:10:03+08:00",
       "description": "奇鋐（3017）公布 10 月合併營收 221.03 億元，較上（9）月成長 5.2%，與去年同期相比為年增  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "揭開「肥胖悖論」新線索：飲食改變腸道細菌，影響癌症免疫治療成效",
-      "url": "https://technews.tw/2026/11/08/some-unhealthy-diets-can-boost-cancer-immunotherapy-in-mice/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T14:00:38+08:00",
-      "description": "加拿大研究團隊最新發現，某些通常被認為會導致體重增加、甚至屬於「不健康」的飲食，在小鼠身上竟能提升癌症免疫治療 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "Hill’s Pet Nutrition《World of the Small Dog》報告揭示小型犬護理的新興科學標準",
-      "url": "https://technews.tw/2026/11/08/hills-unveils-emerging-scientific-standards-for-small-dog-care/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T14:00:15+08:00",
-      "description": "全球科學寵物營養領導品牌 Hill&#8217;s Pet Nutrition 11月5日發布具里程碑意義的《 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "「AI 開發 AI」時代來臨？解密遞迴式自我改進的無限潛力與作弊隱憂",
-      "url": "https://infosecu.technews.tw/2026/11/08/ai-autonomously-creates-next-gen-ai/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T13:00:54+08:00",
-      "description": "人工智慧是否有一天能「自己打造自己」，正成為 AI 圈最受關注的議題之一。根據最新報導，越來越多頂尖 AI 研 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "OpenAI 發表逾 700 篇 AI 數學論文，數學家指有突破性但品質差",
-      "url": "https://technews.tw/2026/11/08/mathematician-criticizes-the-quality-of-700-openai-math-papers/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T12:30:32+08:00",
-      "description": "數學家弗蘭克·卡萊加里（Frank Calegari）在陶哲軒（Terence Tao）的網誌發表客座文章，指 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 時代最好的機會不是追流行，奧特曼喊話年輕人：別做下一個 OpenAI，要做更大的新事業",
-      "url": "https://technews.tw/2026/11/08/openai-ceo-slams-mba-programs-disappointment-students-5-year-old-trends/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T11:00:19+08:00",
-      "description": "史丹佛大學商學研究所（Stanford Graduate School of Business）的「頂峰視野」 [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "AI 理財是神隊友還是陷阱，採納建議前必做的交叉驗證四步驟",
-      "url": "https://finance.technews.tw/2026/11/08/how-to-check-ai-financial-advice-before-you-act-on-it/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T10:30:24+08:00",
-      "description": "隨著越來越多人將 AI 當作理財與投資研究工具，最新內容也同步提醒，這類建議不能直接照單全收。文章指出，AI  [&#8230;]",
-      "claude_summary": "—",
-      "claude_sentiment": "neutral",
-      "claude_impact": "low",
-      "claude_affected_assets": [],
-      "claude_takeaway": "—"
-    },
-    {
-      "title": "維生素 D 該何時吃？研究指隨餐服用比早晚時段更關鍵",
-      "url": "https://technews.tw/2026/11/08/the-best-time-to-take-vitamin-d-for-better-sleep/",
-      "source": "technews.tw",
-      "category": "tw_stocks",
-      "published_at": "2026-11-08T10:00:29+08:00",
-      "description": "現代人睡眠品質不佳，已成為普遍的健康危機。美國健康資訊媒體《Health》刊出一位藥劑師的解析，指出維生素 D [&#8230;]",
       "claude_summary": "—",
       "claude_sentiment": "neutral",
       "claude_impact": "low",
